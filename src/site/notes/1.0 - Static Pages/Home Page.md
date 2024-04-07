@@ -16,4 +16,4 @@ Welcome to my homepage. Here you can find links to all sorts of interesting thin
 
 Hey, have a look at this little birdy.
 
-[[Little Birdy\|Little Birdy]]
+[[2.0 - Blog Posts/Little Birdy\|Little Birdy]]
