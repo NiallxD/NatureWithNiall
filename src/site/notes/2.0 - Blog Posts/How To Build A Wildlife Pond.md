@@ -28,11 +28,11 @@ I got almost everything I needed from Marketplace, including the plants. All I h
 
 Firstly, I would suggest making a plan. I took some photos of the spot I wanted to make my pond and drew over it with the notes app on my phone. I roughly laid out the elements and depths along with position and shape.
 
-![Pasted image 20240406173947.jpg](/img/user/98%20-%20Media/Pasted%20image%2020240406173947.jpg)
+![Pasted image 20240406173947 Medium.jpeg](/img/user/98%20-%20Media/Pasted%20image%2020240406173947%20Medium.jpeg)
 
 Once I was happy with the dimensions and placement, I drafted a more details sketch that gave me something to work from. Here’s my final design:
 
-![Pasted image 20240406174120.jpg](/img/user/98%20-%20Media/Pasted%20image%2020240406174120.jpg)
+![Pasted image 20240406174120 Medium.jpeg](/img/user/98%20-%20Media/Pasted%20image%2020240406174120%20Medium.jpeg)
 
 ## The Dig
 
@@ -54,7 +54,7 @@ Once you have marked out these sections, start digging. This is a tough part but
 
 My design had a staircase like shape where by there was a “ramp” between each depth allowing animals to crawl out if needed. 
 
-![Pasted image 20240406180700.jpg](/img/user/98%20-%20Media/Pasted%20image%2020240406180700.jpg)
+![Pasted image 20240406180700 Medium.jpeg](/img/user/98%20-%20Media/Pasted%20image%2020240406180700%20Medium.jpeg)
 
 The final thing to note is that you should leave an edge around the pond to add rocks and plants, 300 mm should be sufficient; I didn’t leave enough and it caused me trouble!
 
@@ -62,13 +62,13 @@ The final thing to note is that you should leave an edge around the pond to add 
 
 Once the hole is sufficiently dug, you can line the pond. Firstly, cover the whole thing with a layer of fine sand. Make sure there isn’t anything sharp in the sand by lightly tapping it. Make this layer about 20 mm deep if you can! This layer of sand will soften the base for the rubber liner you add which will help prevent holes developing.
 
-![Pasted image 20240406180748.jpg](/img/user/98%20-%20Media/Pasted%20image%2020240406180748.jpg)
+![Pasted image 20240406180748 Medium.jpeg](/img/user/98%20-%20Media/Pasted%20image%2020240406180748%20Medium.jpeg)
 
 Once laid, you can put the liner in. Go for a Butyl liner as it’s will be hard wearing and flexible and won’t degrade as easily as rubber. Lay the liner over the pond and start to mould it to the shape of the pond. The water will do this when you add it but doing so now best you can will prevent the liner being pulled too far in. You need to leave a decent lip around the edge, at least 300 mm. 
 
 Once the liner is sufficiently laid, you can add some feature to the pond base. I used a few broken pots (smoothed sharp edges) and other bits and bobs to create hiding spaces. Your pond will do the hard work on its own once the wildlife moves in.
 
-![Pasted image 20240406180824.jpg](/img/user/98%20-%20Media/Pasted%20image%2020240406180824.jpg)
+![Pasted image 20240406180824 Medium.jpeg](/img/user/98%20-%20Media/Pasted%20image%2020240406180824%20Medium.jpeg)
 
 The final task is to trim the liner. I’d fill the pond with water first before you do this as the water will pull the liner in slightly as it conforms to the shape of your dig. Trim it with a decent lip so you have room to move if needed.
 
@@ -84,16 +84,20 @@ Add compost to the planting pockets and pop your plants in. I’ll not list plan
 
 This is how my pond looked after planting up.
 
-![Pasted image 20240406181700.jpg](/img/user/98%20-%20Media/Pasted%20image%2020240406181700.jpg)
+![Pasted image 20240406181700 Medium.jpeg](/img/user/98%20-%20Media/Pasted%20image%2020240406181700%20Medium.jpeg)
 
 I finished this up by adding more rocks and some large chunks of plumb slate to the edge.
 
 This is what the pond looked like a week or so later when I’d added all the edging and neatened things up.
 
-![Pasted image 20240406184620.jpg](/img/user/98%20-%20Media/Pasted%20image%2020240406184620.jpg)
+![Pasted image 20240406184620 Medium.jpeg](/img/user/98%20-%20Media/Pasted%20image%2020240406184620%20Medium.jpeg)
 
+Building your wildlife pond is all about providing for the wildlife whilst making a pond that you enjoy to work on and be around.
 
+I hope this gave some insight into the how I created my wildlife pond and gave some inspiration on how you could build your own!
+
+Niall
 
 ---
-#
+#BlogPost 
 Date Created: 2024-04-02 22:47
