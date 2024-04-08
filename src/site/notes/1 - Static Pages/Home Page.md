@@ -29,4 +29,4 @@ I created this simple website to share my thoughts about a wide range of topics 
 
 
 ---
-Created by Niall Bell (niallbell.com)<p align="right">Email me: niall@niallbell.com</p>
+Created by Niall Bell (niall@niallbell.com)
