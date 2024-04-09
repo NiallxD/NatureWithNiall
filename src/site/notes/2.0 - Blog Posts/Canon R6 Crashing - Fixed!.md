@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/canon-r6-crashing-fixed/"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/canon-r6-crashing-fixed/","created":"01/03/2024","updated":"2024-04-09T22:26:53.393+01:00"}
 ---
 
 # Canon R6 Crashing - Fixed!
