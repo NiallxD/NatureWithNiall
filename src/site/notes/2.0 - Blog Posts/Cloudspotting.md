@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/cloudspotting/","created":"2024-04-10T00:48:08.000+01:00","updated":"2024-04-10T13:48:52.713+01:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/cloudspotting/","created":"2024-04-10T00:48:08.000+01:00","updated":"2024-04-10T13:56:59.880+01:00"}
 ---
 
 # Cloudspotting☁️
@@ -51,7 +51,7 @@ This is where you'll find each of the 10 clouds types:
 
 ### Air Currents
 
-As the air blows about at different speeds at differs altitudes, the clouds can be disrupted when they form. Kevin-Helmholtz are a great example of this. If you have a cloud forming on a barrier between slow and fast moving air, the tops of the cloud are lapped up which makes them take on a wave appearance.
+As the air blows about at different speeds at differs altitudes, the clouds can be disrupted when they form. Kelvin-Helmholtz are a great example of this. If you have a cloud forming on a barrier between slow and fast moving air, the tops of the cloud are lapped up which makes them take on a wave appearance.
 
 Cumulonimbus form with rapidly rising warm moist air which pulls the cloud to its infamously lofts heights. Similarly, air pressure zones can cause clouds to swirl like those in hurricanes.
 
