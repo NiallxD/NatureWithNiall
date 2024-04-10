@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/cloudspotting/","created":"2024-04-10T00:48:08.000+01:00","updated":"2024-04-10T13:56:59.880+01:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/cloudspotting/","created":"2024-04-10T00:48:08.000+01:00","updated":"2024-04-10T14:22:49.470+01:00"}
 ---
+
+> *“Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.”* - *Rabanindranath Tagore (Stray Birds)*
 
 # Cloudspotting☁️
 
