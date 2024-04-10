@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/cloudspotting/","created":"2024-04-10T00:48:08.000+01:00","updated":"2024-04-10T21:56:45.386+01:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/cloudspotting/","created":"2024-04-10T00:48:08.561+01:00","updated":"2024-04-10T21:56:45.000+01:00"}
 ---
 
 > [!TIP] *Rabanindranath Tagore (Stray Birds)*
