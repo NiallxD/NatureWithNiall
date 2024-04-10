@@ -3,55 +3,63 @@ body {
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
+    //  background-color: white;
+    //  .content {
+    //   font-size: 14px;
+    //  }
+    //  h1 {
+    //   color: black;
+    //  }
+}
 
-    #floating-control {
-      position: fixed;
-      color: var(--link-color);
-      bottom: 1vmax;
-      right: 1vmax;
-      font-size: 24px;
-      z-index: 999999;
-      display: flex;
-      flex-direction: row;
-      justify-content: flex-end;
-      gap: 10px;
-    
-      .svg-icon,
-      i {
-          cursor: pointer;
-          height: 24px;
-          width: auto;
+#floating-control {
+  position: fixed;
+  color: var(--link-color);
+  bottom: 1vmax;
+  right: 1vmax;
+  font-size: 24px;
+  z-index: 999999;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  gap: 10px;
+
+  .svg-icon,
+  i {
+      cursor: pointer;
+      height: 24px;
+      width: auto;
+  }
+
+  #theme-switch {
+      .light {
+          display: none;
       }
-    
-      #theme-switch {
-          .light {
-              display: none;
-          }
-    
-          .dark {
-              display: none;
-          }
-    
-          .auto {
-              display: none;
-          }
+
+      .dark {
+          display: none;
       }
-    
-      #theme-switch.light {
-          .light {
-              display: inline;
-          }
+
+      .auto {
+          display: none;
       }
-    
-      #theme-switch.dark {
-          .dark {
-              display: inline;
-          }
+  }
+
+  #theme-switch.light {
+      .light {
+          display: inline;
       }
-    
-      #theme-switch.auto {
-          .auto {
-              display: inline;
-          }
+  }
+
+  #theme-switch.dark {
+      .dark {
+          display: inline;
       }
-    
+  }
+
+  #theme-switch.auto {
+      .auto {
+          display: inline;
+      }
+  }
+}
