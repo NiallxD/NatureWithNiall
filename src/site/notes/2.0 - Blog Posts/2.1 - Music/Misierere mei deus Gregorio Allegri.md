@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/2-1-music/misierere-mei-deus-gregorio-allegri/","created":"2024-04-10T23:31:47.000+01:00","updated":"2024-04-11T08:40:04.000+01:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/2-1-music/misierere-mei-deus-gregorio-allegri/","created":"2024-04-10T23:31:47.196+01:00","updated":"2024-04-11T12:01:27.000+01:00"}
 ---
 
-I > [!TIP] Recommended Recording 
+> [!TIP] Recommended Recording 
 > The Choir of Kings College (1984) - Sir Stephen Cleobury. Listen on [Apple Music](https://classical.music.apple.com/gb/recording/gregorio-allegri-c1582-pp5-1505331492?l=en-GB)
 
 # Misierere Mei, Deus - Gregorio Allegri
