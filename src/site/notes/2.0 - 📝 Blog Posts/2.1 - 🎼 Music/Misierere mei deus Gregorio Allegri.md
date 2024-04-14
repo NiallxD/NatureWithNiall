@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/2-1-music/misierere-mei-deus-gregorio-allegri/","noteIcon":"","created":"2024-04-10T23:31:47.000+01:00","updated":"2024-04-11T12:01:27.255+01:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/2-1-music/misierere-mei-deus-gregorio-allegri/","noteIcon":"1","created":"2024-04-10T23:31:47.000+01:00","updated":"2024-04-14T22:48:17.979+01:00"}
 ---
 
 > [!TIP] Recommended Recording 
