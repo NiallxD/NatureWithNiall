@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/don-t-be-scared-of-spiders-and-bats/","hide":true,"created":"2024-04-09T23:24:11.991+01:00","updated":"2024-04-10T00:09:40.761+01:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/don-t-be-scared-of-spiders-and-bats/","hide":true,"noteIcon":"","created":"2024-04-09T23:24:11.991+01:00","updated":"2024-04-10T00:09:40.761+01:00"}
 ---
 
 ### Do you feel better now?
