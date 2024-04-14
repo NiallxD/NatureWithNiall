@@ -1,15 +1,8 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+  --note-icon-1: url("98 - media/notebook-pen.svg");
+  --note-icon-2: url(/img/tree-2.svg);
+  --note-icon-3: url(/img/tree-3.svg);
+  --note-icon-fallback: url(/img/default-note-icon.svg);}
 }
 
 #floating-control {
