@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"brief-review-of-the-canon-ef-500mm-f-4-5-l-usm","permalink":"/brief-review-of-the-canon-ef-500mm-f-4-5-l-usm/","title":"Brief Review of The Canon EF 500mm f/4.5 L USM","noteIcon":"1","created":"2024-04-15T22:30:13.519+01:00","updated":"2024-04-15T22:53:18.734+01:00"}
+{"dg-publish":true,"dg-permalink":"\"brief-review-of-the-canon-ef-500mm-f-4-5-l-usm\"","permalink":"/\"brief-review-of-the-canon-ef-500mm-f-4-5-l-usm\"/","title":"Brief Review of The Canon EF 500mm f/4.5 L USM","noteIcon":"1","created":"2024-04-15T22:30:13.519+01:00","updated":"2024-04-15T22:55:29.228+01:00"}
 ---
 
 #tech #cameras #photography 
