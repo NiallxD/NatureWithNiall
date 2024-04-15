@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/2-2-nature/the-little-owl/","noteIcon":"1","created":"2024-04-10T00:48:08.561+01:00","updated":"2024-04-15T08:28:29.350+01:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/2-2-nature/the-little-owl/","noteIcon":"1","created":"2024-04-10T00:48:08.000+01:00","updated":"2024-04-15T08:28:29.000+01:00"}
 ---
 
 #nature #birds #littleowl
