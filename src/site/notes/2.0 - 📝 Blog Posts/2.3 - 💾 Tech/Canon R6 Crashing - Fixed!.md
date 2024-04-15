@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/2-3-tech/canon-r6-crashing-fixed/","noteIcon":"1","created":"2024-04-07T22:26:35.000+01:00","updated":"2024-04-14T23:03:46.000+01:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/2-3-tech/canon-r6-crashing-fixed/","noteIcon":"1","created":"2024-04-07T22:26:35.000+01:00","updated":"2024-04-15T08:37:10.773+01:00"}
 ---
 
+#tech #cameras #photography
 # Canon R6 Crashing - Fixed!
 
 While the Canon R6 is a phenomenal camera, for years, my R6 has been plagued by a repeating crashing issue. After searching online I didn’t find anything which described the crash my camera experienced and nobody seemed to know how to fix it. I thought I was alone with a dodgy R6. Then a friend of mine bought an R6. Unfortunately, her version experienced the same crashing as mine. Thankfully her R6 was brand new so she was able to send it back to Canon to repair. 
