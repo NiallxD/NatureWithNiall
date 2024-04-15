@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/2-2-nature/how-to-build-a-wildlife-pond/","noteIcon":"1","created":"2024-04-07T17:12:39.000+01:00","updated":"2024-04-14T23:04:08.000+01:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/2-2-nature/how-to-build-a-wildlife-pond/","noteIcon":"1","created":"2024-04-07T17:12:39.000+01:00","updated":"2024-04-15T08:35:41.260+01:00"}
 ---
 
+#nature #wildlife #gardening
 # How to Build a Wildlife Pond
---- 
 
 In spring 2022 I finally decided to build a wildlife pond. Two years on I hoped to reflect on the pond I created and that gave me the idea of writing a blog post about how I created my wildlife pond.  
 
