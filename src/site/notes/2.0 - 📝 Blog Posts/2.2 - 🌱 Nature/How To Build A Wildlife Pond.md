@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/2-2-nature/how-to-build-a-wildlife-pond/","noteIcon":"1","created":"2024-04-07T17:12:39.364+01:00","updated":"2024-04-14T23:04:08.072+01:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/2-2-nature/how-to-build-a-wildlife-pond/","noteIcon":"1","created":"2024-04-07T17:12:39.000+01:00","updated":"2024-04-14T23:04:08.000+01:00"}
 ---
 
 # How to Build a Wildlife Pond
