@@ -196,18 +196,6 @@ body {
         }
     }
 
-    .cm-s-obsidian > *[id] {
-        position: relative;
-        cursor: pointer;
-        &:hover {
-            border: 1px dotted;
-            border-color: var(--text-accent);
-            margin-left: -10px;
-            margin-right: -10px;
-            padding: 10px;
-        }
-    }
-
     .referred {
         border: 1px dashed;
         border-color: var(--text-accent);
