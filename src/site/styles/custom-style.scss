@@ -1,14 +1,14 @@
 body.theme-dark {
-    --text-accent: #006f8b;
-    --text-accent-hover: #0084a5;
-    --interactive-accent: #006f8b;
+    --text-accent: #FAFAFA;
+    --text-accent-hover: #FFFFFF;
+    --interactive-accent: #FAFAFA;
     --h1-color: var(--interactive-accent);
 }
 body.theme-light {
-    --text-accent: #004d61;
-    --text-accent-hover: #006f8b;
-    --interactive-accent: #004d61;
-    --h1-color: var(--interactive-accent);
+    --text-accent: #FF8600;
+    --text-accent-hover: #FFA541;
+    --interactive-accent: #FF8600;
+    --h1-color: #FF8600;
 }
 
 body {
