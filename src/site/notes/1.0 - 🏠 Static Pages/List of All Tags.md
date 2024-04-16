@@ -22,6 +22,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #Tech(2)           |
 | #wildlife(2)       |
 | #20th(1)           |
+| #aaa(1)            |
 | #ai(1)             |
 | #AI(1)             |
 | #Atmosphere(1)     |
@@ -35,6 +36,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #environment(1)    |
 | #ethics(1)         |
 | #etymology(1)      |
+| #FFFFFF(1)         |
 | #gardening(1)      |
 | #Gardening(1)      |
 | #littleowl(1)      |
