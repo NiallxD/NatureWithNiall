@@ -8,9 +8,9 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 
 | Tags                  |
 | --------------------- |
-| #photography(26)      |
-| #nature(21)           |
-| #wildlife(18)         |
+| #photography(27)      |
+| #nature(22)           |
+| #wildlife(19)         |
 | #tech(4)              |
 | #photostory(3)        |
 | #BlogPost(2)          |
@@ -55,7 +55,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #righttorepair(1)     |
 | #space(1)             |
 | #street(1)            |
-| #strettphotography(1) |
+| #streetphotography(1) |
 | #tigers(1)            |
 | #waste(1)             |
 | #weather(1)           |
