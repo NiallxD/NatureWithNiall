@@ -8,10 +8,11 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 
 | Tags               |
 | ------------------ |
-| #photography(6)    |
-| #nature(4)         |
+| #photography(9)    |
+| #nature(8)         |
+| #wildlife(7)       |
 | #tech(4)           |
-| #wildlife(3)       |
+| #photostory(3)     |
 | #BlogPost(2)       |
 | #Camera(2)         |
 | #cameras(2)        |
@@ -28,12 +29,14 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #Baroque(1)        |
 | #birds(1)          |
 | #Birds(1)          |
+| #britishbirds(1)   |
 | #cats(1)           |
 | #Centruy(1)        |
 | #classical(1)      |
 | #composers(1)      |
 | #computers(1)      |
 | #conservation(1)   |
+| #deer(1)           |
 | #environment(1)    |
 | #ethics(1)         |
 | #etymology(1)      |
