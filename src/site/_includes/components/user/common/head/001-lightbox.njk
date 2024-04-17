@@ -3,16 +3,16 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
 
 <style>
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            grid-auto-rows: 300px;
+            grid-gap: 10px;
+        }
         .gallery a {
             text-decoration: none; /* Removes underline */
+            overflow: hidden; /* Ensures the entire image is contained within the grid item */
         }
-        /* ... rest of your CSS ... */
-
-        .gallery img {
-            max-width: 300px;
-            height: auto;
-        }
-
         .gallery img {
             width: 100%;
             height: 100%;
