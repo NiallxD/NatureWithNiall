@@ -8,9 +8,9 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 
 | Tags               |
 | ------------------ |
-| #photography(9)    |
-| #nature(8)         |
-| #wildlife(7)       |
+| #photography(12)   |
+| #nature(10)        |
+| #wildlife(9)       |
 | #tech(4)           |
 | #photostory(3)     |
 | #BlogPost(2)       |
