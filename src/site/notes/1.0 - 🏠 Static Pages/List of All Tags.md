@@ -32,6 +32,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #Baroque(1)           |
 | #birds(1)             |
 | #Birds(1)             |
+| #blog(1)              |
 | #britishbirds(1)      |
 | #cats(1)              |
 | #Centruy(1)           |
@@ -48,6 +49,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #fungi(1)             |
 | #gardening(1)         |
 | #Gardening(1)         |
+| #hireme(1)            |
 | #littleowl(1)         |
 | #microscope(1)        |
 | #phones(1)            |
