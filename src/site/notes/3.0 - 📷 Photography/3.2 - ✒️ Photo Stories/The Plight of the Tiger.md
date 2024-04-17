@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"the plight of the tiger","permalink":"/the plight of the tiger/","tags":["nature","wildlife","photography","conservation"],"noteIcon":"1","created":"2024-04-17T09:09:39.034+01:00","updated":"2024-04-17T09:37:54.096+01:00"}
+{"dg-publish":true,"dg-permalink":"the plight of the tiger","permalink":"/the plight of the tiger/","title":"Niall's Cave | The Plight of the Tiger","tags":["nature","wildlife","photography","conservation"],"noteIcon":"1","created":"2024-04-17T09:09:39.034+01:00","updated":"2024-04-17T09:41:29.691+01:00"}
 ---
 
 #nature #wildlife #cats #tigers #conservation
