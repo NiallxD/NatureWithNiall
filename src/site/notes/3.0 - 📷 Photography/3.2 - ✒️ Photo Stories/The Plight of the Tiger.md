@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"the plight of the tiger","permalink":"/the plight of the tiger/","title":"Niall's Cave | The Plight of the Tiger","tags":["nature","wildlife","photography","conservation"],"noteIcon":"1","created":"2024-04-17T09:09:39.034+01:00","updated":"2024-04-17T09:41:29.691+01:00"}
+{"dg-publish":true,"dg-permalink":"the plight of the tiger","permalink":"/the plight of the tiger/","title":"The Plight of the Tiger","tags":["nature","wildlife","photography","conservation"],"noteIcon":"1","created":"2024-04-17T09:09:39.034+01:00","updated":"2024-04-17T10:02:10.655+01:00"}
 ---
 
 #nature #wildlife #cats #tigers #conservation
@@ -27,6 +27,7 @@ There are currently three recognised subspecies of tigers that are classified as
 
 ![](https://i.imgur.com/rtk0zzy.png)
 *Amur tiger running through the water towards a lump of meat thrown in (Captive).*
+
 ## The Plight of the Tiger
 
 So what happened to all these tiger sub-species? Well that’s a complex question to answer but in short, humans got involved. Over the years the tigers enigmatic qualities became its arch enemy. Many cultures chased the mysterious creatures for their supposed healing powers. They slaughtered tigers en-masse to create unproven traditional medicines and treatments. None of which have any scientific backing. Similar to traditional medicine, humans wanted tiger pelts in their homes. They wanted to prove their social status by slaying the king of the jungle and parading its pelt to their friends, families and acquaintances. We also can’t forget that we share this planet with humans that have a desire for blood, they prize the slaughter of these magnificent animals. Theres a prevalent weakness in those who think trophy hunting is acceptable.
@@ -49,6 +50,7 @@ I’ve been a big cat lover for a long time, and when I picked up my first camer
 
 ![400](https://i.imgur.com/EXjdxrk.png)
 *The first animal I photographed back in 2015 (captive).*
+
 ### My Views On Captive Tigers
 
 Captive animals are one of the most controversial topics within wildlife conservation, but I don’t think it needs to be. Before I start I need to clarify that I only speak for ethical, registered and approved zoological organisations and none of my opinions applies to the likes of the [G.W Zoo](https://en.wikipedia.org/wiki/Greater_Wynnewood_Exotic_Animal_Park) as seen on Netflix’s Tiger King: Murder, Mayhem and Madness.
