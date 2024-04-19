@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/2-1-music/symphony-no-2-iv-op36-beethoven/","title":"Symphony No. 2 IV Op 36","tags":["Music","composers","classical"],"noteIcon":"1","created":"2024-04-18T22:53:02.000+01:00","updated":"2024-04-19T09:41:31.739+01:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/2-1-music/symphony-no-2-iv-op36-beethoven/","title":"Symphony No. 2 IV Op 36","tags":["Music","composers","classical"],"noteIcon":"1","created":"2024-04-18T22:53:02.000+01:00","updated":"2024-04-19T14:49:08.629+01:00"}
 ---
 
 #Music #classical 
@@ -10,9 +10,9 @@
 
 Beethoven’s second symphony is a beautiful composition with lots going on. This post specifically looks at the fourth movement.
 
-What’s so interesting about the fourth movmernt? Well, just last week I spent at least three hours waiting patiently, trying to spot a certain bird in a bush. I was not to see this bird as after hours and hours I gave up. The bird in question is the Cetti’s Warbler (pronounced ”Chettys”) which is well known for being a nightmare to try and spot. You hear this bird miles off, it’s got such a powerfully and instantly identifiable song you can’t help but look for it.
+What’s so interesting about the fourth movement? Well, just last week I spent at least three hours waiting patiently, trying to spot a certain bird in a bush. I was not to see this bird as after hours and hours I gave up. The bird in question is the Cetti’s Warbler (pronounced ”Chettys”) which is well known for being a nightmare to try and spot. You hear this bird miles off, it’s got such a powerfully and instantly identifiable song you can’t help but look for it.
 
-The Cetti’s warbler song is characterised by a short motif of about 6 notes projected clearly and powerfully. It’s unmistakable. Now, it might be a coincidence, but Beethoven’s 4th movement of his second symphony starts with an opening motif which sounds suspiciously like the song of the Cettis’s.
+The Cetti’s warbler song is characterised by a short motif of about 6 notes projected clearly and powerfully. It’s unmistakable. Now, it might be a coincidence, but Beethoven’s 4th movement of his second symphony starts with an opening motif which sounds suspiciously like the song of the Cetti’s.
 
 ## Beethoven’s Rambling Walks
 
