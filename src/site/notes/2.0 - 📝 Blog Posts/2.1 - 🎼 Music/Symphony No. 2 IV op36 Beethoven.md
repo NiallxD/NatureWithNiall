@@ -1,9 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/2-1-music/symphony-no-2-iv-op36-beethoven/","title":"Symphony No. 2 IV Op 36","tags":["Music","composers","classical"],"noteIcon":"1","created":"2024-04-18T22:53:02.000+01:00","updated":"2024-04-18T23:06:42.000+01:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/2-1-music/symphony-no-2-iv-op36-beethoven/","title":"Symphony No. 2 IV Op 36","tags":["Music","composers","classical"],"noteIcon":"1","created":"2024-04-18T22:53:02.000+01:00","updated":"2024-04-19T09:41:31.739+01:00"}
 ---
 
 #Music #classical 
 # Beethoven’s Second Symphony
+
+> [!TIP] Recommended Recording 
+> Berliner Philharmonica - Sir Simon Rattle. Listen on [Apple Music Classical](https://classical.music.apple.com/gb/recording/ludwig-van-beethoven-1770-pp24-1458733549?l=en-GB)
 
 Beethoven’s second symphony is a beautiful composition with lots going on. This post specifically looks at the fourth movement.
 
