@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/2-1-music/symphony-no-2-iv-op36-beethoven/","title":"Symphony No. 2 IV Op 36","tags":["Music","composers","classical"],"noteIcon":"1","created":"2024-04-18T22:53:02.000+01:00","updated":"2024-04-19T14:49:08.629+01:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/2-1-music/symphony-no-2-iv-op36-beethoven/","title":"Symphony No. 2 IV Op 36","tags":["Music","composers","classical"],"noteIcon":"1","created":"2024-04-18T22:53:02.000+01:00","updated":"2024-04-19T23:03:19.578+01:00"}
 ---
 
 #Music #classical 
