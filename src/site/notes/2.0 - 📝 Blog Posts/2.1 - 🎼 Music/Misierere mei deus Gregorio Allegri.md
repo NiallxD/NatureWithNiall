@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/2-1-music/misierere-mei-deus-gregorio-allegri/","tags":["Music","Baroque"],"noteIcon":"1","created":"2024-04-10T23:31:47.196+01:00","updated":"2024-04-15T23:41:42.000+01:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/2-1-music/misierere-mei-deus-gregorio-allegri/","tags":["Music","Baroque"],"noteIcon":"1","created":"2024-04-10T23:31:47.000+01:00","updated":"2024-04-19T09:41:46.896+01:00"}
 ---
 
 #music #composers 
 # Misierere Mei, Deus - Gregorio Allegri
 
 > [!TIP] Recommended Recording 
-> The Choir of Kings College (1984) - Sir Stephen Cleobury. Listen on [Apple Music](https://classical.music.apple.com/gb/recording/gregorio-allegri-c1582-pp5-1505331492?l=en-GB)
+> The Choir of Kings College (1984) - Sir Stephen Cleobury. Listen on [Apple Music Classical](https://classical.music.apple.com/gb/recording/gregorio-allegri-c1582-pp5-1505331492?l=en-GB)
 
 Even to those who don’t frequent classical music circles let alone those of sacred choral music from the 1600’s, will have heard this music sung in one way or another. Incredibly, this piece was performed exclusively in the Sistine Chapel for over 100 years! 
 
