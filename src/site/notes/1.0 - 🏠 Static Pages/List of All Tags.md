@@ -8,7 +8,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 
 | Tags                  |
 | --------------------- |
-| #photography(28)      |
+| #photography(29)      |
 | #nature(25)           |
 | #wildlife(22)         |
 | #Birds(4)             |
@@ -16,10 +16,10 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #reading(4)           |
 | #tech(4)              |
 | #bookshelf(3)         |
+| #cameras(3)           |
 | #photostory(3)        |
 | #BlogPost(2)          |
 | #Camera(2)            |
-| #cameras(2)           |
 | #composers(2)         |
 | #Music(2)             |
 | #Nature(2)            |
@@ -36,6 +36,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #birds(1)             |
 | #blog(1)              |
 | #britishbirds(1)      |
+| #cameragear(1)        |
 | #cats(1)              |
 | #classical(1)         |
 | #computers(1)         |
@@ -51,6 +52,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #gardening(1)         |
 | #Gardening(1)         |
 | #hireme(1)            |
+| #lenses(1)            |
 | #littleowl(1)         |
 | #microscope(1)        |
 | #music(1)             |
