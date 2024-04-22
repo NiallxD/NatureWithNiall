@@ -1,5 +1,3 @@
-
-
 body.theme-dark {
     --text-accent: #006f8b;
     --text-accent-hover: #0084a5;
@@ -181,11 +179,10 @@ body {
     header {
         margin-bottom: 1.8em;
     }
-    
+
     .cm-s-obsidian {
         .table-wrapper {
-            over
-            flow-x: scroll;
+            overflow-x: scroll;
         }
 
         picture {
