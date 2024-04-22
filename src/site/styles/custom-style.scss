@@ -181,9 +181,14 @@ body {
     }
 
     .cm-s-obsidian {
-        .table-wrapper {
-            overflow-x: scroll;
-        }
+    width: 90%; /* Adjust this value to your liking */
+    margin: 0 auto; /* This centers the content */
+
+    .table-wrapper {
+        overflow-x: scroll;
+    }
+}
+
 
         picture {
             max-width: 100%;
