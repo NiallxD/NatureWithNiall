@@ -1,3 +1,8 @@
+    .content{
+        width: 90%; /* Adjust this value to your liking */
+        margin: 0 auto; /* This centers the content */
+    }
+
 body.theme-dark {
     --text-accent: #006f8b;
     --text-accent-hover: #0084a5;
@@ -178,11 +183,6 @@ body {
 
     header {
         margin-bottom: 1.8em;
-    }
-
-    .content{
-        width: 90%; /* Adjust this value to your liking */
-        margin: 0 auto; /* This centers the content */
     }
     
     .cm-s-obsidian {
