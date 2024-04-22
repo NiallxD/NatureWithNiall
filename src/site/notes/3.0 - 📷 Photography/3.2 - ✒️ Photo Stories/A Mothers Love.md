@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"a-mothers-love","permalink":"/a-mothers-love/","title":"A Mothers Love","noteIcon":null,"created":"2024-04-17T11:57:02.338+01:00","updated":"2024-04-22T13:10:28.438+01:00"}
+{"dg-publish":true,"dg-permalink":"a-mothers-love","permalink":"/a-mothers-love/","title":"A Mothers Love","noteIcon":null,"created":"2024-04-17T11:57:02.338+01:00","updated":"2024-04-22T20:46:18.040+01:00"}
 ---
 
 #wildlife #nature #photography #photostory 
