@@ -15,6 +15,19 @@ body {
     --graph-main: var(--text-accent-hover);
     --graph-muted: rgba(126, 126, 126, 0.5);
 
+    .content {
+        max-width: 800px;
+        margin: auto;
+        font-size: 18px;
+        line-height: 1.5;
+        margin-top: 90px;
+        position: relative;
+    
+        @media (max-width: 800px) {
+            margin-top: 75px;
+        }
+    }
+    
     .timestamps {
         display: flex;
         flex-direction: row;
