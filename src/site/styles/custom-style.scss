@@ -15,57 +15,18 @@ body.theme-dark {
     --interactive-hover: var(--color-base-10);
     --background-primary: #1e1e1e;
     --background-secondary: #262626;
-
-    nav.filetree-sidebar {
-        top: 85px;
-        left: 20px;
-        position: fixed;
-        height: calc(100% - 160px);
-        display: flex;
-        flex-direction: column;
-        border-radius: 10px;
-        overflow-x: hidden;
-
-        .search-button {
-            margin: 10px;
-            min-width: 160px;
-            margin-bottom: 20px;
-        }
-
-        & > .folder {
-            flex: 1;
-            overflow-y: auto;
-            overflow-x: hidden;
-            margin-right: -10px;
-        }
-        .notelink {
-            border-radius: 10px;
-            padding: 5px 0 5px 8px;
-
-            a::before {
-                margin-right: 2px;
-            }
-        }
-
-        .notelink.active-note {
-            transform: unset;
-        }
-
-        .fa-sticky-note {
-            display: none !important;
-        }
-        h1::before {
-                content: " ";
-                display: block;
-                width: 100%;
-                height: 3em;
-                background-size: contain;
-                background-repeat: no-repeat;
-                background-image: url(/img/Logo-light.svg);
-                background-position: center;
-            }
-        }
     
+    h1::before {
+            content: " ";
+            display: block;
+            width: 100%;
+            height: 3em;
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-image: url(/img/Logo-light.svg);
+            background-position: center;
+        }
+}
 body.theme-light {
     --text-accent: #FE9900;
     --text-accent-hover: #FFAA2A;
@@ -83,46 +44,7 @@ body.theme-light {
     --interactive-hover: var(--color-base-10);
     --background-primary: #ffffff;
     --background-secondary: #fafafa;
-        
-    nav.filetree-sidebar {
-        top: 85px;
-        left: 20px;
-        position: fixed;
-        height: calc(100% - 160px);
-        display: flex;
-        flex-direction: column;
-        border-radius: 10px;
-        overflow-x: hidden;
-
-        .search-button {
-            margin: 10px;
-            min-width: 160px;
-            margin-bottom: 20px;
-        }
-
-        & > .folder {
-            flex: 1;
-            overflow-y: auto;
-            overflow-x: hidden;
-            margin-right: -10px;
-        }
-        .notelink {
-            border-radius: 10px;
-            padding: 5px 0 5px 8px;
-
-            a::before {
-                margin-right: 2px;
-            }
-        }
-
-        .notelink.active-note {
-            transform: unset;
-        }
-
-        .fa-sticky-note {
-            display: none !important;
-        }
-        h1::before {
+    h1::before {
                 content: " ";
                 display: block;
                 width: 100%;
@@ -132,7 +54,8 @@ body.theme-light {
                 background-image: url(/img/Logo-dark.svg);
                 background-position: center;
             }
-        }
+    
+}
 
 body {
     --graph-main: var(--text-accent-hover);
@@ -245,6 +168,46 @@ body {
             flex-wrap: wrap;
             flex-direction: row;
             justify-content: space-between;
+        }
+    }
+
+    nav.filetree-sidebar {
+        top: 85px;
+        left: 20px;
+        position: fixed;
+        height: calc(100% - 160px);
+        display: flex;
+        flex-direction: column;
+        border-radius: 10px;
+        overflow-x: hidden;
+
+        .search-button {
+            margin: 10px;
+            min-width: 160px;
+            margin-bottom: 20px;
+        }
+
+        & > .folder {
+            flex: 1;
+            overflow-y: auto;
+            overflow-x: hidden;
+            margin-right: -10px;
+        }
+        .notelink {
+            border-radius: 10px;
+            padding: 5px 0 5px 8px;
+
+            a::before {
+                margin-right: 2px;
+            }
+        }
+
+        .notelink.active-note {
+            transform: unset;
+        }
+
+        .fa-sticky-note {
+            display: none !important;
         }
     }
 
@@ -373,6 +336,68 @@ body {
 
     .shownote {
         display: block;
+    }
+
+    #forest-graph {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-bottom: 20px;
+        flex-direction: column;
+        .forest-body {
+            display: inline-flex;
+            flex-direction: column;
+            transform: rotate(45deg);
+            margin: 60px;
+            align-items: flex-end;
+
+            @media (max-width: 575.99px) {
+                transform: rotate(45deg) scale(0.9);
+            }
+
+            .forest-row {
+                display: flex;
+                flex-direction: row;
+                align-items: flex-end;
+
+                a {
+                    width: 25px;
+                    height: 25px;
+                    cursor: pointer;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    margin-top: -2px;
+                    margin-left: -2px;
+
+                    img {
+                        transform: rotate(-45deg);
+                    }
+                }
+
+                .plane {
+                    cursor: inherit;
+                }
+            }
+        }
+
+        .forest-legends {
+            margin-top: 10px;
+            display: flex;
+            gap: 10px;
+            width: 100%;
+            justify-content: center;
+            flex-wrap: wrap;
+
+            font-size: 0.8em;
+            color: var(--text-muted);
+
+            img {
+                height: 1.5em;
+                width: auto;
+                margin-right: 5px;
+            }
+        }
     }
 
     .toc-container li::before {
