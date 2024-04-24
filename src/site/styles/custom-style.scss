@@ -15,6 +15,17 @@ body.theme-dark {
     --interactive-hover: var(--color-base-10);
     --background-primary: #1e1e1e;
     --background-secondary: #262626;
+    
+    h1::before {
+            content: " ";
+            display: block;
+            width: 100%;
+            height: 3em;
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-image: url(/img/Logo-light.svg);
+            background-position: center;
+        }
 }
 body.theme-light {
     --text-accent: #FE9900;
@@ -33,6 +44,17 @@ body.theme-light {
     --interactive-hover: var(--color-base-10);
     --background-primary: #ffffff;
     --background-secondary: #fafafa;
+    h1::before {
+                content: " ";
+                display: block;
+                width: 100%;
+                height: 3em;
+                background-size: contain;
+                background-repeat: no-repeat;
+                background-image: url(/img/Logo-dark.svg);
+                background-position: center;
+            }
+    
 }
 
 body {
@@ -186,17 +208,6 @@ body {
 
         .fa-sticky-note {
             display: none !important;
-        }
-
-        h1::before {
-            content: " ";
-            display: block;
-            width: 100%;
-            height: 3em;
-            background-size: contain;
-            background-repeat: no-repeat;
-            background-image: url(/img/Logo-dark.svg);
-            background-position: center;
         }
     }
 
