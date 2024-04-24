@@ -3,12 +3,18 @@ body.theme-dark {
     --text-accent-hover: #0084a5;
     --interactive-accent: #006f8b;
     --h1-color: var(--interactive-accent);
+    --text-normal: #E4080A;
+    --text-muted: var(--color-base-70);
+    --text-faint: var(--color-base-50);
 }
 body.theme-light {
     --text-accent: #004d61;
     --text-accent-hover: #006f8b;
     --interactive-accent: #004d61;
     --h1-color: var(--interactive-accent);
+    --text-normal: #5DE2E7;
+    --text-muted: var(--color-base-70);
+    --text-faint: var(--color-base-50);
 }
 
 body {
