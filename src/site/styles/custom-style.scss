@@ -1,20 +1,38 @@
 body.theme-dark {
-    --text-accent: #006f8b;
+    --text-accent: #FE9900;
     --text-accent-hover: #0084a5;
-    --interactive-accent: #006f8b;
+    --interactive-accent: #0084a5;
     --h1-color: var(--interactive-accent);
-    --text-normal: #E4080A;
+    --h2-color: var(--interactive-accent);
+    --h3-color: var(--interactive-accent);
+    --h4-color: var(--interactive-accent);
+    --h5-color: var(--interactive-accent);
+    --h6-color: var(--interactive-accent);
+    --text-normal: #E4080A; /* The colour of the text in DARK mode*/
     --text-muted: var(--color-base-70);
     --text-faint: var(--color-base-50);
+    --interactive-normal: var(--color-base-00);
+    --interactive-hover: var(--color-base-10);
+    --background-primary: #1e1e1e;
+    --background-secondary: #262626;
 }
 body.theme-light {
-    --text-accent: #004d61;
+    --text-accent: #FE9900;
     --text-accent-hover: #006f8b;
-    --interactive-accent: #004d61;
+    --interactive-accent: #0084a5;
     --h1-color: var(--interactive-accent);
-    --text-normal: #5DE2E7;
+    --h2-color: var(--interactive-accent);
+    --h3-color: var(--interactive-accent);
+    --h4-color: var(--interactive-accent);
+    --h5-color: var(--interactive-accent);
+    --h6-color: var(--interactive-accent);
+    --text-normal: #5DE2E7; /* The colour of the text in LIGHT mode*/
     --text-muted: var(--color-base-70);
     --text-faint: var(--color-base-50);
+    --interactive-normal: var(--color-base-00);
+    --interactive-hover: var(--color-base-10);
+    --background-primary: #ffffff;
+    --background-secondary: #fafafa;
 }
 
 body {
