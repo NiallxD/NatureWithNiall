@@ -8,9 +8,9 @@ body.theme-dark {
     --h4-color: var(--interactive-accent);
     --h5-color: var(--interactive-accent);
     --h6-color: var(--interactive-accent);
-    --text-normal: #2F2F2F; /* The colour of the text in DARK mode*/
-    --text-muted: #2F2F2F;
-    --text-faint: #2F2F2F;
+    --text-normal: #F0F0F0; /* The colour of the text in DARK mode*/
+    --text-muted: #F0F0F0;
+    --text-faint: #F0F0F0;
     --interactive-normal: var(--color-base-00);
     --interactive-hover: var(--color-base-10);
     --background-primary: #1e1e1e;
@@ -26,9 +26,9 @@ body.theme-light {
     --h4-color: var(--interactive-accent);
     --h5-color: var(--interactive-accent);
     --h6-color: var(--interactive-accent);
-    --text-normal: #F0F0F0; /* The colour of the text in LIGHT mode*/
-    --text-muted: #F0F0F0;
-    --text-faint: #F0F0F0;
+    --text-normal: #2F2F2F; /* The colour of the text in LIGHT mode*/
+    --text-muted: #2F2F2F;
+    --text-faint: #2F2F2F;
     --interactive-normal: var(--color-base-00);
     --interactive-hover: var(--color-base-10);
     --background-primary: #ffffff;
