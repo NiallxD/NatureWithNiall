@@ -31,6 +31,29 @@ body.theme-dark {
             min-width: 160px;
             margin-bottom: 20px;
         }
+
+        & > .folder {
+            flex: 1;
+            overflow-y: auto;
+            overflow-x: hidden;
+            margin-right: -10px;
+        }
+        .notelink {
+            border-radius: 10px;
+            padding: 5px 0 5px 8px;
+
+            a::before {
+                margin-right: 2px;
+            }
+        }
+
+        .notelink.active-note {
+            transform: unset;
+        }
+
+        .fa-sticky-note {
+            display: none !important;
+        }
         h1::before {
                 content: " ";
                 display: block;
@@ -41,7 +64,8 @@ body.theme-dark {
                 background-image: url(/img/Logo-light.svg);
                 background-position: center;
             }
-}
+        }
+    
 body.theme-light {
     --text-accent: #FE9900;
     --text-accent-hover: #FFAA2A;
@@ -75,6 +99,29 @@ body.theme-light {
             min-width: 160px;
             margin-bottom: 20px;
         }
+
+        & > .folder {
+            flex: 1;
+            overflow-y: auto;
+            overflow-x: hidden;
+            margin-right: -10px;
+        }
+        .notelink {
+            border-radius: 10px;
+            padding: 5px 0 5px 8px;
+
+            a::before {
+                margin-right: 2px;
+            }
+        }
+
+        .notelink.active-note {
+            transform: unset;
+        }
+
+        .fa-sticky-note {
+            display: none !important;
+        }
         h1::before {
                 content: " ";
                 display: block;
@@ -85,8 +132,7 @@ body.theme-light {
                 background-image: url(/img/Logo-dark.svg);
                 background-position: center;
             }
-    
-}
+        }
 
 body {
     --graph-main: var(--text-accent-hover);
@@ -199,46 +245,6 @@ body {
             flex-wrap: wrap;
             flex-direction: row;
             justify-content: space-between;
-        }
-    }
-
-    nav.filetree-sidebar {
-        top: 85px;
-        left: 20px;
-        position: fixed;
-        height: calc(100% - 160px);
-        display: flex;
-        flex-direction: column;
-        border-radius: 10px;
-        overflow-x: hidden;
-
-        .search-button {
-            margin: 10px;
-            min-width: 160px;
-            margin-bottom: 20px;
-        }
-
-        & > .folder {
-            flex: 1;
-            overflow-y: auto;
-            overflow-x: hidden;
-            margin-right: -10px;
-        }
-        .notelink {
-            border-radius: 10px;
-            padding: 5px 0 5px 8px;
-
-            a::before {
-                margin-right: 2px;
-            }
-        }
-
-        .notelink.active-note {
-            transform: unset;
-        }
-
-        .fa-sticky-note {
-            display: none !important;
         }
     }
 
