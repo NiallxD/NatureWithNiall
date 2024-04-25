@@ -16,7 +16,7 @@ body.theme-dark {
     --background-primary: #1e1e1e;
     --background-secondary: #262626;
     
-    nav.navbar .navbar-inner h1::before {
+    nav.filetree-sidebar h1::before {
         content: " ";
         display: inline-block;
         width: 1em;
