@@ -18,14 +18,14 @@ body.theme-dark {
     
     nav.filetree-sidebar h1::before {
         content: " ";
-        display: inline-block;
-        width: 1em;
+        display: block; /* Change this to block */
+        width: 100%; /* Adjust the width to 100% */
         height: 1.2em;
         background-size: contain;
         background-repeat: no-repeat;
         background-image: url(/img/Logo-light.svg);
-        margin-right: 5px;
-        background-position: bottom;
+        margin-bottom: 5px; /* Change margin-right to margin-bottom */
+        background-position: center; /* Adjust the background-position to center */
     }
 }
 body.theme-light {
@@ -46,18 +46,17 @@ body.theme-light {
     --background-primary: #ffffff;
     --background-secondary: #fafafa;
     
-    nav.navbar .navbar-inner h1::before {
+    nav.filetree-sidebar h1::before {
         content: " ";
-        display: inline-block;
-        width: 1em;
+        display: block; /* Change this to block */
+        width: 100%; /* Adjust the width to 100% */
         height: 1.2em;
         background-size: contain;
         background-repeat: no-repeat;
         background-image: url(/img/Logo-dark.svg);
-        margin-right: 5px;
-        background-position: bottom;
-    }
-    
+        margin-bottom: 5px; /* Change margin-right to margin-bottom */
+        background-position: center; /* Adjust the background-position to center */
+    }  
 }
 
 body {
