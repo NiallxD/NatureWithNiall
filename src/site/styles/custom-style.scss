@@ -1,14 +1,14 @@
 body.theme-dark {
-    --text-accent: #FE9900;
-    --text-accent-hover: #FFAA2A;
-    --interactive-accent: #FE9900;
+    --text-accent: #ffa33e; /* The colour of the headings and linked text in DARK mode*/
+    --text-accent-hover: #ffb666; /* The colour of the headings and linked text in DARK mode on hover*/
+    --interactive-accent: #eb00e6; /* The colour of the main text in DARK mode*/
     --h1-color: var(--interactive-accent);
     --h2-color: var(--interactive-accent);
     --h3-color: var(--interactive-accent);
     --h4-color: var(--interactive-accent);
     --h5-color: var(--interactive-accent);
     --h6-color: var(--interactive-accent);
-    --text-normal: #F0F0F0; /* The colour of the text in DARK mode*/
+    --text-normal: #F0F0F0; /* The colour of the main text in DARK mode*/
     --text-muted: #F0F0F0;
     --text-faint: #F0F0F0;
     --interactive-normal: var(--color-base-00);
@@ -28,16 +28,16 @@ body.theme-dark {
         }
 }
 body.theme-light {
-    --text-accent: #FE9900;
-    --text-accent-hover: #FFAA2A;
-    --interactive-accent: #FE9900;
+    --text-accent: #ffa33e;
+    --text-accent-hover: #ffb666;
+    --interactive-accent: #eb00e6;
     --h1-color: var(--interactive-accent);
     --h2-color: var(--interactive-accent);
     --h3-color: var(--interactive-accent);
     --h4-color: var(--interactive-accent);
     --h5-color: var(--interactive-accent);
     --h6-color: var(--interactive-accent);
-    --text-normal: #2F2F2F; /* The colour of the text in LIGHT mode*/
+    --text-normal: #2F2F2F; /* The colour of the main text in LIGHT mode*/
     --text-muted: #2F2F2F;
     --text-faint: #2F2F2F;
     --interactive-normal: var(--color-base-00);
