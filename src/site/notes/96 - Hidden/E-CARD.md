@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/e-card","permalink":"/e-card/","title":"🎉 E-Card","contentClasses":"","noteIcon":null,"created":"2024-04-22T13:26:09.706+01:00","updated":"2024-04-22T13:35:47.949+01:00"}
+{"dg-publish":true,"dg-permalink":"/e-card","permalink":"/e-card/","title":"🎉 E-Card","hide":true,"noteIcon":null,"created":"2024-04-22T13:26:09.706+01:00","updated":"2024-04-25T12:24:23.095+01:00"}
 ---
 
 # E-Card
