@@ -16,16 +16,17 @@ body.theme-dark {
     --background-primary: #1e1e1e;
     --background-secondary: #262626;
     
-    h1::before {
-            content: " ";
-            display: block;
-            width: 100%;
-            height: 3em;
-            background-size: contain;
-            background-repeat: no-repeat;
-            background-image: url(/img/Logo-light.svg);
-            background-position: center;
-        }
+    nav.navbar .navbar-inner h1::before {
+        content: " ";
+        display: inline-block;
+        width: 1em;
+        height: 1.2em;
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-image: url(/img/Logo-light.svg);
+        margin-right: 5px;
+        background-position: bottom;
+    }
 }
 body.theme-light {
     --text-accent: #ffa33e;
@@ -44,16 +45,18 @@ body.theme-light {
     --interactive-hover: var(--color-base-10);
     --background-primary: #ffffff;
     --background-secondary: #fafafa;
-    h1::before {
-                content: " ";
-                display: block;
-                width: 100%;
-                height: 3em;
-                background-size: contain;
-                background-repeat: no-repeat;
-                background-image: url(/img/Logo-dark.svg);
-                background-position: center;
-            }
+    
+    nav.navbar .navbar-inner h1::before {
+        content: " ";
+        display: inline-block;
+        width: 1em;
+        height: 1.2em;
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-image: url(/img/Logo-dark.svg);
+        margin-right: 5px;
+        background-position: bottom;
+    }
     
 }
 
