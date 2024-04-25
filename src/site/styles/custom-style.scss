@@ -1,7 +1,7 @@
 body.theme-dark {
     --text-accent: #ffa33e; /* The colour of the headings and linked text in DARK mode*/
     --text-accent-hover: #ffb666; /* The colour of the headings and linked text in DARK mode on hover*/
-    --interactive-accent: #eb00e6; /* The colour of the main text in DARK mode*/
+    --interactive-accent: #ffa33e; /* The colour of the main text in DARK mode*/
     --h1-color: var(--interactive-accent);
     --h2-color: var(--interactive-accent);
     --h3-color: var(--interactive-accent);
@@ -31,7 +31,7 @@ body.theme-dark {
 body.theme-light {
     --text-accent: #ffa33e;
     --text-accent-hover: #ffb666;
-    --interactive-accent: #eb00e6;
+    --interactive-accent: #ffa33e;
     --h1-color: var(--interactive-accent);
     --h2-color: var(--interactive-accent);
     --h3-color: var(--interactive-accent);
@@ -341,97 +341,9 @@ body {
         display: block;
     }
 
-    #forest-graph {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        padding-bottom: 20px;
-        flex-direction: column;
-        .forest-body {
-            display: inline-flex;
-            flex-direction: column;
-            transform: rotate(45deg);
-            margin: 60px;
-            align-items: flex-end;
-
-            @media (max-width: 575.99px) {
-                transform: rotate(45deg) scale(0.9);
-            }
-
-            .forest-row {
-                display: flex;
-                flex-direction: row;
-                align-items: flex-end;
-
-                a {
-                    width: 25px;
-                    height: 25px;
-                    cursor: pointer;
-                    display: flex;
-                    justify-content: center;
-                    align-items: center;
-                    margin-top: -2px;
-                    margin-left: -2px;
-
-                    img {
-                        transform: rotate(-45deg);
-                    }
-                }
-
-                .plane {
-                    cursor: inherit;
-                }
-            }
-        }
-
-        .forest-legends {
-            margin-top: 10px;
-            display: flex;
-            gap: 10px;
-            width: 100%;
-            justify-content: center;
-            flex-wrap: wrap;
-
-            font-size: 0.8em;
-            color: var(--text-muted);
-
-            img {
-                height: 1.5em;
-                width: auto;
-                margin-right: 5px;
-            }
-        }
-    }
-
     .toc-container li::before {
         content: "" !important;
     }
-
-    nav.navbar {
-        top: 10px;
-        right: 10px;
-        left: 10px;
-        width: calc(100% - 20px);
-        border-radius: 10px;
-        border: var(--cards-border-width) solid var(--background-modifier-border);
-        z-index: 99999;
-        .navbar-inner {
-            h1::before {
-                content: " ";
-                display: inline-block;
-                width: 1em;
-                height: 1.2em;
-                background-size: contain;
-                background-repeat: no-repeat;
-                background-image: url(/img/Logo-dark.svg);
-                margin-right: 5px;
-                background-position: bottom;
-            }
-
-            span {
-                margin-left: 10px;
-            }
-        }
 
         .search-button {
             border-radius: 10px;
