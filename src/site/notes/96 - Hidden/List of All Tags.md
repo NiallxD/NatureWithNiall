@@ -8,9 +8,9 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 
 | Tags                  |
 | --------------------- |
-| #nature(31)           |
-| #photography(31)      |
-| #wildlife(26)         |
+| #nature(32)           |
+| #photography(32)      |
+| #wildlife(27)         |
 | #books(21)            |
 | #reading(21)          |
 | #bookshelf(20)        |
@@ -56,6 +56,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #hireme(1)            |
 | #india(1)             |
 | #lenses(1)            |
+| #lifelist(1)          |
 | #littleowl(1)         |
 | #microscope(1)        |
 | #music(1)             |
