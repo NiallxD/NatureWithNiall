@@ -11,9 +11,9 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #nature(31)           |
 | #photography(31)      |
 | #wildlife(26)         |
-| #books(20)            |
-| #reading(20)          |
-| #bookshelf(19)        |
+| #books(21)            |
+| #reading(21)          |
+| #bookshelf(20)        |
 | #Birds(7)             |
 | #photostory(5)        |
 | #composers(4)         |
@@ -60,6 +60,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #microscope(1)        |
 | #music(1)             |
 | #phones(1)            |
+| #photofeed(1)         |
 | #photomicrography(1)  |
 | #righttorepair(1)     |
 | #street(1)            |
