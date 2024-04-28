@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","tags":["photography","nature","wildlife","lifelist"],"noteIcon":"1","created":"2024-04-28T14:20:47.563+01:00","updated":"2024-04-28T19:16:17.770+01:00"}
+{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","tags":["photography","nature","wildlife","lifelist"],"noteIcon":"1","created":"2024-04-28T14:20:47.563+01:00","updated":"2024-04-28T23:05:23.584+01:00"}
 ---
 
 #photography #nature #lifelist
@@ -9,7 +9,7 @@ I never used to be bothered about keeping a life list, it seemed a bit pointless
 
 The categories below are not intended to be taxonomic in nature, more rough groupings based on what feels right. The location and date are those of the photo presented and not the first sighting. All animals are wild, nothing captive here apart from the odd escapee which has become established (e.g., parakeets and wood duck in the UK).
 
-This list sits at **163** species so far but is still missing all plant and fungi observations!
+This list sits at **196** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full bird life list can be found here 
 
 ## Mammals
 
@@ -93,6 +93,23 @@ This list sits at **163** species so far but is still missing all plant and fung
 
 ---
 
+### Rabbits and Rodents
+
+### Mountain Hare
+![](https://i.imgur.com/I7TpBys.jpeg)
+*England - 2019*
+
+### European Rabbit
+![](https://i.imgur.com/u8mKuC8.jpeg)
+*England - 2022*
+
+#### Wood Mouse
+![](https://i.imgur.com/fphgqLU.jpeg)
+*England - 2023*
+
+
+---
+
 ### Wet Mammals
 
 #### Otter
@@ -111,7 +128,7 @@ This list sits at **163** species so far but is still missing all plant and fung
 
 ### Squirrels and That
 
-### Red Squirrel
+#### Red Squirrel
 ![](https://i.imgur.com/3Vzkw2D.jpeg)
 *England - 2023*
 
@@ -333,6 +350,10 @@ This list sits at **163** species so far but is still missing all plant and fung
 ![](https://i.imgur.com/aJjAWYB.jpeg)
 *Florida - 2016*
 
+#### Eastern Cattle Egret
+![](https://i.imgur.com/DP86i3m.jpeg)
+*India - 2022*
+
 #### Indian Darter
 ![](https://i.imgur.com/KW962Ls.jpeg)
 *India - 2022*
@@ -506,6 +527,10 @@ This list sits at **163** species so far but is still missing all plant and fung
 ![](https://i.imgur.com/E7CXMdN.jpeg)
 *England - 2018*
 
+#### Oriental Magpie Robin
+![](https://i.imgur.com/J3MpoV8.jpeg)
+*India - 2022*
+
 #### European Blue Tit
 ![](https://i.imgur.com/AlfI0tN.jpeg)
 *England - 2018*
@@ -514,11 +539,19 @@ This list sits at **163** species so far but is still missing all plant and fung
 ![](https://i.imgur.com/Ji9kIVP.jpeg)
 *England - 2019*
 
+#### Coal Tit
+![](https://i.imgur.com/HwQ1Q4V.jpeg)
+*Scotland - 2020*
+
+#### Cinereous Tit
+![](https://i.imgur.com/w8TbZoT.jpeg)
+*India - 2022*
+
 #### Long-tailed Tit
 ![](https://i.imgur.com/qEzRVcq.jpeg)
 *England - 2020*
 
-#### Bearded Tit
+#### Crested Tit
 ![](https://i.imgur.com/H5ha2wN.jpeg)
 *Scotland - 2020*
 
@@ -664,6 +697,10 @@ This list sits at **163** species so far but is still missing all plant and fung
 ![](https://i.imgur.com/v6UILge.jpeg)
 *England - 2023*
 
+#### Eurasian Jay
+![](https://i.imgur.com/AiT0dPM.jpeg)
+*England - 2019*
+
 ---
 
 ### Pigeons and Doves
@@ -699,6 +736,10 @@ This list sits at **163** species so far but is still missing all plant and fung
 #### Red Grouse
 ![](https://i.imgur.com/pFEisnk.jpeg)
 *England - 2024*
+
+#### Junglefowl
+![](https://i.imgur.com/QBbkKkZ.jpeg)
+*India - 2022*
 
 ---
 
@@ -739,6 +780,14 @@ This list sits at **163** species so far but is still missing all plant and fung
 #### Indian Nightjar
 ![](https://i.imgur.com/UR8SwpY.jpeg)
 *India - 2022*
+
+#### Red-vented Bulbul
+![](https://i.imgur.com/AcNAyil.jpeg)
+*India - 2022*
+
+#### Sandhill Crane
+![](https://i.imgur.com/seLrmjN.jpeg)
+*Florida - 2016*
 
 ---
 
