@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/photo-feed","permalink":"/photo-feed/","title":"📷 Photo Feed","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-04-28T14:06:55.638+01:00"}
+{"dg-publish":true,"dg-permalink":"/photo-feed","permalink":"/photo-feed/","title":"📷 Photo Feed","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-04-28T14:13:08.458+01:00"}
 ---
 
 #photography #photofeed
@@ -13,11 +13,11 @@ For more photographs, check out the galleries below. You can also follow me on s
 | Cover                                        | Title                                                                                                           |
 | -------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | <img src='https://i.imgur.com/dJxGbhg.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.4 - 🚀 Other/3.1.4.1 - Photomicrography\|Photomicrography]]   |
-| <img src='https://i.imgur.com/Rn9G10s.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.4 - 🚀 Other/3.1.4.3 - Astrophotography\|Astrophotography]]   |
 | <img src='https://i.imgur.com/F1ef3kt.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.4 - 🚀 Other/3.1.4.6 - Drone Photography\|Drone Photography]] |
 | <img src='https://i.imgur.com/T8Nox8C.png'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.1 - 🦅 Birds/3.1.1.4 - Red Kite\|Red Kite]]                   |
+| <img src='https://i.imgur.com/YD0LSDY.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.1 - 🦅 Birds/3.1.1.2 - Kingfisher\|Kingfisher]]               |
+| <img src='https://i.imgur.com/pQhjAr7.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.2 - 🐯 Mammals/3.1.2.3 - Red Squirrel\|Red Squirrel]]         |
 | <img src='https://i.imgur.com/UudTTEZ.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.2 - 🐯 Mammals/3.1.2.4 - Grey Seal\|Grey Seal]]               |
-| <img src='https://i.imgur.com/j35mshs.png'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.2 - 🐯 Mammals/3.1.2.1 - Bengal Tiger\|Bengal Tiger]]         |
 
 { .block-language-dataview}
 
@@ -38,7 +38,7 @@ This is my weekly roundup of what I've been photographing through the week. I ad
 > 
 > At this time of year, Kingfishers are busy incubating the eggs of their first brood. Every few hours they swap over to allow the other bird to eat. They will do this for a few weeks till the eggs hatch, then it will be full steam ahead feeding all the hungry bills
 > 
-![](https://i.imgur.com/HVaIIhU.jpeg)
+>![](https://i.imgur.com/HVaIIhU.jpeg)
 >
 > #### Eurasian Spoonbill
 > 
@@ -46,7 +46,7 @@ This is my weekly roundup of what I've been photographing through the week. I ad
 >
 >
 >
-![](https://i.imgur.com/VXMwO0i.jpeg)
+>![](https://i.imgur.com/VXMwO0i.jpeg)
 
 > [!tip]- WC 15th April 2024
 > A quieter week indeed but nonetheless excellent. We’re at that point in spring when many of the birds are sitting on eggs so activity levels tend to drop. This week is a dipper bonanza!
