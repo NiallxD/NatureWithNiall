@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","tags":["photography","nature","wildlife","lifelist"],"noteIcon":"1","created":"2024-04-28T14:20:47.563+01:00","updated":"2024-04-28T19:12:02.020+01:00"}
+{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","tags":["photography","nature","wildlife","lifelist"],"noteIcon":"1","created":"2024-04-28T14:20:47.563+01:00","updated":"2024-04-28T19:16:17.770+01:00"}
 ---
 
 #photography #nature #lifelist
@@ -39,6 +39,7 @@ This list sits at **163** species so far but is still missing all plant and fung
 ![](https://i.imgur.com/WX67ZHE.jpeg)
 *India - 2022*
 
+---
 
 ### Cows and Pigs
 
@@ -50,11 +51,15 @@ This list sits at **163** species so far but is still missing all plant and fung
 ![](https://i.imgur.com/Nq3hLNK.jpeg)
 *India - 2022*
 
+---
+
 ### Primates
 
 #### Langur
 ![](https://i.imgur.com/ou4fm1g.jpeg)
 *India - 2022*
+
+---
 
 ### Felines
 
@@ -62,11 +67,15 @@ This list sits at **163** species so far but is still missing all plant and fung
 ![](https://i.imgur.com/7VfFNPl.jpeg)
 *India - 2022*
 
+---
+
 ### Canines
 
 #### Red Fox
 ![](https://i.imgur.com/dtLkpyd.jpeg)
 *England - 2022*
+
+---
 
 ### Musta-likes
 
@@ -82,6 +91,8 @@ This list sits at **163** species so far but is still missing all plant and fung
 ![](https://i.imgur.com/jk3B7C2.jpeg)
 *India - 2022*
 
+---
+
 ### Wet Mammals
 
 #### Otter
@@ -96,6 +107,8 @@ This list sits at **163** species so far but is still missing all plant and fung
 ![](https://i.imgur.com/CfKZXZ3.jpeg)
 *England - 2023*
 
+---
+
 ### Squirrels and That
 
 ### Red Squirrel
@@ -109,6 +122,8 @@ This list sits at **163** species so far but is still missing all plant and fung
 #### Indian Striped Squirrel
 ![](https://i.imgur.com/rmRfPkc.jpeg)
 *India - 2022*
+
+---
 
 ## Birds
 
@@ -198,6 +213,7 @@ This list sits at **163** species so far but is still missing all plant and fung
 ![](https://i.imgur.com/wgzQ8XT.jpeg)
 *India - 2022*
 
+---
 
 ### Wet Birds
 
@@ -446,7 +462,7 @@ This list sits at **163** species so far but is still missing all plant and fung
 ![](https://i.imgur.com/Nj97pHI.jpeg)
 *England - 2024*
 
-
+---
 
 ### Wagtails
 
@@ -458,6 +474,7 @@ This list sits at **163** species so far but is still missing all plant and fung
 ![](https://i.imgur.com/Qean9Kk.jpeg)
 *England - 2023*
 
+---
 
 ### Woodpeckers
 
@@ -473,11 +490,15 @@ This list sits at **163** species so far but is still missing all plant and fung
 ![](https://i.imgur.com/5n0yaHi.jpeg)
 *India - 2022*
 
+---
+
 ### Hoopoes
 
 #### Eurasian Hoopeo
 ![](https://i.imgur.com/FPYQzf2.jpeg)
 *India - 2022*
+
+---
 
 ### Birds that Sing a lot
 
@@ -619,6 +640,7 @@ This list sits at **163** species so far but is still missing all plant and fung
 ![](https://i.imgur.com/ZtFdptM.jpeg)
 *England - 2023*
 
+---
 
 ### Smart Birds
 
@@ -642,6 +664,7 @@ This list sits at **163** species so far but is still missing all plant and fung
 ![](https://i.imgur.com/v6UILge.jpeg)
 *England - 2023*
 
+---
 
 ### Pigeons and Doves
 
@@ -661,6 +684,7 @@ This list sits at **163** species so far but is still missing all plant and fung
 ![](https://i.imgur.com/3a1axn9.jpeg)
 *England - 2024*
 
+---
 
 ### Pheasants and That
 
@@ -676,6 +700,8 @@ This list sits at **163** species so far but is still missing all plant and fung
 ![](https://i.imgur.com/pFEisnk.jpeg)
 *England - 2024*
 
+---
+
 ### Parakeets
 
 #### Plum-headed Parakeet
@@ -686,6 +712,7 @@ This list sits at **163** species so far but is still missing all plant and fung
 ![](https://i.imgur.com/4phqFZd.jpeg)
 *England - 2023*
 
+---
 
 ### Birds that I Can't Categorise
 
@@ -713,6 +740,8 @@ This list sits at **163** species so far but is still missing all plant and fung
 ![](https://i.imgur.com/UR8SwpY.jpeg)
 *India - 2022*
 
+---
+
 ## Plants
 
 #### English Blue Bell
@@ -727,6 +756,7 @@ This list sits at **163** species so far but is still missing all plant and fung
 ![](https://i.imgur.com/aSi24wG.jpeg)
 *England - 2020*
 
+---
 
 ## Fungi
 
@@ -772,6 +802,8 @@ This list sits at **163** species so far but is still missing all plant and fung
 #### Clouded Funnel
 ![](https://i.imgur.com/AHL010r.jpeg)
 *England - 2021*
+
+---
 
 ### Spore Shooters
 
