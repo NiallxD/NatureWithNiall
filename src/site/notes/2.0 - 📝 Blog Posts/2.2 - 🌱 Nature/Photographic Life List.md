@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","tags":["photography","nature","wildlife","lifelist"],"noteIcon":"1","created":"2024-04-28T14:20:47.563+01:00","updated":"2024-04-28T18:23:25.608+01:00"}
+{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","tags":["photography","nature","wildlife","lifelist"],"noteIcon":"1","created":"2024-04-28T14:20:47.563+01:00","updated":"2024-04-28T19:12:02.020+01:00"}
 ---
 
 #photography #nature #lifelist
@@ -715,13 +715,117 @@ This list sits at **163** species so far but is still missing all plant and fung
 
 ## Plants
 
-Work in progress
+#### English Blue Bell
+![](https://i.imgur.com/eh35J0q.jpeg)
+*England - 2022*
+
+#### Corncockle
+![](https://i.imgur.com/xZfOPFn.jpeg)
+*England - 2020*
+
+#### Fox and Cubs
+![](https://i.imgur.com/aSi24wG.jpeg)
+*England - 2020*
+
 
 ## Fungi
 
-Work in progress
+### Gills and Pores
+
+#### Fly Agaric
+![](https://i.imgur.com/b4ArZT8.jpeg)
+*England - 2021*
+
+#### Birch Bolete
+![](https://i.imgur.com/yphQtUQ.jpeg)
+*England - 2021*
+
+#### The Blusher
+![](https://i.imgur.com/xDju4TT.jpeg)
+*England - 2021*
+
+#### Witches Hat
+![](https://i.imgur.com/x009L17.jpeg)
+*England - 2021*
+
+#### Penny Bun (Porchini)
+![](https://i.imgur.com/ejelGup.jpeg)
+*England - 2021*
+
+#### Sulphur Tuft
+![](https://i.imgur.com/SKqm6ML.jpeg)
+*England - 2019*
+
+#### Orange Deceiver
+![](https://i.imgur.com/ug3k1jd.jpeg)
+*England - 2021*
+
+#### Amethyst Deceiver
+![](https://i.imgur.com/AUZ9LMe.jpeg)
+*England - 2021*
 
 
+#### Red Sickener
+![](https://i.imgur.com/yJoSJrE.jpeg)
+*Scotland - 2020*
+
+#### Clouded Funnel
+![](https://i.imgur.com/AHL010r.jpeg)
+*England - 2021*
+
+### Spore Shooters
+
+#### Common Puffball
+![](https://i.imgur.com/g4elkJe.jpeg)
+*England - 2021*
+
+#### Candle Snuff Fungus
+![](https://i.imgur.com/SlVM9Vb.jpeg)
+*England - 2021*
+
+#### Orange Peel Fungus
+![](https://i.imgur.com/qxL5W4S.jpeg)
+*England - 2021*
+
+#### Scarlette Elfcup
+![](https://i.imgur.com/L9DI3J5.jpeg)
+*England - 2020*
+
+#### Slate Grey Saddle
+![](https://i.imgur.com/mL1buDa.jpeg)
+*England - 2021*
+
+
+### Brackets and Similar
+
+#### Chicken of the Woods
+![](https://i.imgur.com/I9MaMCV.jpeg)
+*England - 2020*
+
+#### Dryads Saddle
+![](https://i.imgur.com/mgQqxGR.jpeg)
+*England - 2020*
+
+#### Beefsteak Fungus
+![](https://i.imgur.com/DnHLU4Z.jpeg)
+*England - 2020*
+
+#### Flat Oystering
+![](https://i.imgur.com/LbfvdXU.jpeg)
+*Scotland - 2021*
+
+#### Oyster Mushroom
+![](https://i.imgur.com/b060XZ2.jpeg)
+*England - 2021*
+
+#### Tinder/Hoof Fungus
+![](https://i.imgur.com/tFFc2wi.jpeg)
+*England - 2019*
+
+
+
+
+*Footnote: fungi identification is difficult. These are my best guesses and should **NOT** be used to identify any species of fungus.*
 
 ---
 Created by Niall Bell (niall@niallbell.com)
