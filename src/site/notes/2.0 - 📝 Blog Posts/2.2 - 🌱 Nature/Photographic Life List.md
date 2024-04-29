@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","tags":["photography","nature","wildlife","lifelist"],"noteIcon":"1","created":"2024-04-28T14:20:47.563+01:00","updated":"2024-04-29T11:41:47.773+01:00"}
+{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","tags":["photography","nature","wildlife","lifelist"],"noteIcon":"1","created":"2024-04-28T14:20:47.563+01:00","updated":"2024-04-29T21:26:35.228+01:00"}
 ---
 
 #photography #nature #lifelist
@@ -9,7 +9,7 @@ I never used to be bothered about keeping a life list, it seemed a bit pointless
 
 The categories below are not intended to be taxonomic in nature, more rough groupings based on what feels right. The location and date are those of the photo presented and not the first sighting. All animals are wild, nothing captive here apart from the odd escapee which has become established (e.g., parakeets and wood duck in the UK).
 
-This list sits at **198** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full bird life list can be found here 
+This list sits at **200** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full bird life list can be found here 
 
 ## Jump Links
 
@@ -462,8 +462,7 @@ Use these links to jump to specific sections. For those one desktop use the cont
 *England - 2023*
 
 #### Canda Goose
-![](https://i.imgur.com/0PzAQrr.jpeg)
-*England - 2023*
+![](https://i.imgur.com/0PzAQrr.jpeg)*England - 2023*
 
 #### Egyptian Goose
 ![](https://i.imgur.com/E4m0t1c.jpeg)
@@ -685,6 +684,14 @@ Use these links to jump to specific sections. For those one desktop use the cont
 #### Common Swift
 ![](https://i.imgur.com/ZtFdptM.jpeg)
 *England - 2023*
+
+#### House Martin
+![](https://i.imgur.com/NcZu05A.jpeg)
+*England - 2024*
+
+#### Sand Martin
+![](https://i.imgur.com/yXpDJi7.jpeg)
+*England - 2024*
 
 ---
 
