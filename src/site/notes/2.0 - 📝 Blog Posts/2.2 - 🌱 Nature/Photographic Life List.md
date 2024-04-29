@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","tags":["photography","nature","wildlife","lifelist"],"noteIcon":"1","created":"2024-04-28T14:20:47.563+01:00","updated":"2024-04-28T23:05:23.584+01:00"}
+{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","tags":["photography","nature","wildlife","lifelist"],"noteIcon":"1","created":"2024-04-28T14:20:47.563+01:00","updated":"2024-04-29T11:31:32.037+01:00"}
 ---
 
 #photography #nature #lifelist
@@ -9,7 +9,13 @@ I never used to be bothered about keeping a life list, it seemed a bit pointless
 
 The categories below are not intended to be taxonomic in nature, more rough groupings based on what feels right. The location and date are those of the photo presented and not the first sighting. All animals are wild, nothing captive here apart from the odd escapee which has become established (e.g., parakeets and wood duck in the UK).
 
-This list sits at **196** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full bird life list can be found here 
+This list sits at **198** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full bird life list can be found here 
+
+## Jump Links
+
+Use these links to jump to specific sections:
+
+[Mammals](https://niallbell.com/photographic-life-list/#mammals) | [Birds](https://niallbell.com/photographic-life-list/#Birds) | [Plants](https://niallbell.com/photographic-life-list/#plants) | [Fungi](https://niallbell.com/photographic-life-list/#fungi)
 
 ## Mammals
 
@@ -33,6 +39,10 @@ This list sits at **196** species so far but is still missing the majority of my
 
 #### Sambar Deer
 ![](https://i.imgur.com/ix4Zp2z.jpeg)
+*India - 2022*
+
+#### Nilgai
+![](https://i.imgur.com/6cPGkeQ.jpeg)
 *India - 2022*
 
 #### Chital
@@ -660,6 +670,9 @@ This list sits at **196** species so far but is still missing the majority of my
 ![](https://i.imgur.com/4uDdvAe.jpeg)
 *England - 2023*
 
+#### Red-vented Bulbul
+![](https://i.imgur.com/XwQSqYf.jpeg)
+*India - 2022*
 
 #### Grey Shrike
 ![](https://i.imgur.com/mOOKPSI.jpeg)
