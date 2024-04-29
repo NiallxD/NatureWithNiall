@@ -8,16 +8,16 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 
 | Tags                  |
 | --------------------- |
-| #nature(32)           |
+| #nature(33)           |
 | #photography(32)      |
-| #wildlife(27)         |
+| #wildlife(28)         |
 | #books(21)            |
 | #reading(21)          |
 | #bookshelf(20)        |
-| #Birds(7)             |
+| #Birds(8)             |
+| #Music(5)             |
 | #photostory(5)        |
 | #composers(4)         |
-| #Music(4)             |
 | #tech(4)              |
 | #cameras(3)           |
 | #astrophotography(2)  |
