@@ -10,14 +10,14 @@ Most of the time I'm out taking photographs of anything nature and wildlife. Bel
 ## Curated Galleries
 
 For more photographs, check out the galleries below. You can also follow me on socials here [Facebook](https://www.facebook.com/Naturewithniall/)[Instagram](https://www.instagram.com/naturewithniall/)[Flickr](https://flic.kr/ps/3VVzuv). 
-| Cover                                        | Title                                                                                                             |
-| -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| <img src='https://i.imgur.com/7eKn5qJ.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.4 - 🚀 Other/3.1.4.4 - Street Photography\|Street Photography]] |
-| <img src='https://i.imgur.com/T8Nox8C.png'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.1 - 🦅 Birds/3.1.1.4 - Red Kite\|Red Kite]]                     |
-| <img src='https://i.imgur.com/QVk6n9F.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.1 - 🦅 Birds/3.1.1.6 - Osprey\|Osprey]]                         |
-| <img src='https://i.imgur.com/4Msu0Ig.png'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.4 - 🚀 Other/3.1.4.7 - The Zoo\|The Zoo]]                       |
-| <img src='https://i.imgur.com/9wUq3cS.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.4 - 🚀 Other/3.1.4.2 - Film Photography\|Film Photography]]     |
-| <img src='https://i.imgur.com/UudTTEZ.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.2 - 🐯 Mammals/3.1.2.4 - Grey Seal\|Grey Seal]]                 |
+| Cover                                        | Title                                                                                                         |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| <img src='https://i.imgur.com/YD0LSDY.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.1 - 🦅 Birds/3.1.1.2 - Kingfisher\|Kingfisher]]             |
+| <img src='https://i.imgur.com/dJxGbhg.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.4 - 🚀 Other/3.1.4.1 - Photomicrography\|Photomicrography]] |
+| <img src='https://i.imgur.com/UudTTEZ.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.2 - 🐯 Mammals/3.1.2.4 - Grey Seal\|Grey Seal]]             |
+| <img src='https://i.imgur.com/2MrhVQh.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.3 - 🍄 Fungi & Plants/3.1.3.1 - Fungi\|Fungi]]              |
+| <img src='https://i.imgur.com/pQhjAr7.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.2 - 🐯 Mammals/3.1.2.3 - Red Squirrel\|Red Squirrel]]       |
+| <img src='https://i.imgur.com/T8Nox8C.png'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.1 - 🦅 Birds/3.1.1.4 - Red Kite\|Red Kite]]                 |
 
 { .block-language-dataview}
 
