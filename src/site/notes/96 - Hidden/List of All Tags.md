@@ -19,9 +19,10 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #photostory(5)        |
 | #composers(4)         |
 | #tech(4)              |
+| #BlogPost(3)          |
 | #cameras(3)           |
 | #astrophotography(2)  |
-| #BlogPost(2)          |
+| #blog(2)              |
 | #Camera(2)            |
 | #drone(2)             |
 | #Nature(2)            |
@@ -37,9 +38,9 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #Atmosphere(1)        |
 | #Baroque(1)           |
 | #birds(1)             |
-| #blog(1)              |
 | #britishbirds(1)      |
 | #cameragear(1)        |
+| #canada(1)            |
 | #cats(1)              |
 | #classical(1)         |
 | #computers(1)         |
@@ -66,6 +67,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #righttorepair(1)     |
 | #street(1)            |
 | #streetphotography(1) |
+| #travel(1)            |
 | #waste(1)             |
 | #weather(1)           |
 | #Wildlife(1)          |
