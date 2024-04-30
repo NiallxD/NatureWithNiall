@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"indias-heart-a-tapestry-of-nature-and-tradition","permalink":"/indias-heart-a-tapestry-of-nature-and-tradition/","title":"India's Heart: A Tapestry of Nature and Tradition","tags":["photography","nature","wildlife","india","tigers"],"noteIcon":null,"created":"2024-04-22T20:50:58.954+01:00","updated":"2024-04-22T22:57:17.129+01:00"}
+{"dg-publish":true,"dg-permalink":"indias-heart-a-tapestry-of-nature-and-tradition","permalink":"/indias-heart-a-tapestry-of-nature-and-tradition/","title":"India's Heart: A Tapestry of Nature and Tradition","tags":["photography","nature","wildlife","india","tigers"],"noteIcon":null,"created":"2024-04-22T20:50:58.954+01:00","updated":"2024-04-30T17:53:30.679+01:00"}
 ---
 
 #photostory #photography #india
