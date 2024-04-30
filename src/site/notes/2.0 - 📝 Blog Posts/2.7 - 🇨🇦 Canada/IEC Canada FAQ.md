@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"canada-faq","permalink":"/canada-faq/","title":"Canada Travel FAQ","tags":["BlogPost","blog","travel","canada"],"noteIcon":null,"created":"2024-04-30T08:32:06.000+01:00","updated":"2024-04-30T11:56:19.390+01:00"}
+{"dg-publish":true,"dg-permalink":"canada-faq","permalink":"/canada-faq/","title":"Canada Travel FAQ","tags":["BlogPost","blog","travel","canada"],"noteIcon":null,"created":"2024-04-30T08:32:06.000+01:00","updated":"2024-04-30T14:00:37.000+01:00"}
 ---
 
 #travel #canada
@@ -10,6 +10,9 @@ After a few months in the Alliance Visa WhatsApp group chat, I noticed a lot of 
 So I’ve set up this FAQ where I’ll put all the responses to the questions that keep cropping up along with some info that I have found myself/learned from friends in Canada. I hope it’s useful!
 
 ***Admin and disclaimer stuff at the bottom of the page[^1][^2]***
+
+## Flights
+
 
 ## Insurance
 
