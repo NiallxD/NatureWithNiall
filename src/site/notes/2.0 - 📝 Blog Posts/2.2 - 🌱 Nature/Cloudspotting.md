@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/2-2-nature/cloudspotting/","tags":["Nature","Atmosphere"],"noteIcon":null,"created":"2024-04-10T00:48:08.000+01:00","updated":"2024-04-22T20:43:40.782+01:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/2-2-nature/cloudspotting/","tags":["Nature","Atmosphere"],"noteIcon":null,"created":"2024-04-10T00:48:08.000+01:00","updated":"2024-04-30T11:15:42.000+01:00"}
 ---
 
 #nature #weather
@@ -67,7 +67,7 @@ Clouds form differently in different temperature conditions. A period of warm fo
 
 So, this was a whistle stop note sharing some info about clouds. I hope you were looking for how ACTUAL clouds work, and not how the internet CLOUD works, or else you might have been disappointed.
 
-**I'd just like to point out that I'm position 32 in the WORLD for cloudspotting on the cloudspotting leaderboard. This might not seem impressive but let me tell you right now...it is. I will climb the leaderboard some more but in order to do so I need to visit the Southern Hemisphere, spot a cloud on Antarctica and experience a tornado. I'm working on it.** 
+**I'd just like to point out that I'm position 29 in the WORLD for cloudspotting on the cloudspotting leaderboard. This might not seem impressive but let me tell you right now...it is. I will climb the leaderboard some more but in order to do so I need to visit the Southern Hemisphere, spot a cloud on Antarctica and experience a tornado. I'm working on it.** 
 
 ---
 Created by Niall Bell (niall@niallbell.com)
