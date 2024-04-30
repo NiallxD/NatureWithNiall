@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/2-2-nature/cloudspotting/","tags":["Nature","Atmosphere"],"noteIcon":null,"created":"2024-04-10T00:48:08.000+01:00","updated":"2024-04-30T12:09:05.136+01:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/2-2-nature/cloudspotting/","tags":["Nature","Atmosphere"],"noteIcon":null,"created":"2024-04-10T00:48:08.000+01:00","updated":"2024-04-30T15:53:16.744+01:00"}
 ---
 
 #nature #weather
@@ -10,7 +10,7 @@
 
 I’ll be honest, I’m a CloudSpotter. I’ve been cloudspotting for over 5 years now, and actually come to think of it probably for about 20 years depending on how one defines “to cloudspot”.
 
-Anyway, there’s more to cloudspotting than you think. There are 10 main cloud types that us clotters see frequently. Then there are a further 20 which are usually a bit rarer. THEN, you get hybrids between multiple types of cloud. So in effect there are oodles of clouds to spot. 
+Anyway, there’s more to cloudspotting than you think. There are 10 main cloud types that us spotters see frequently. Then there are a further 20 which are usually a bit rarer. THEN, you get hybrids between multiple types of cloud. So in effect there are oodles of clouds to spot. 
 
 ## Top 10
 
