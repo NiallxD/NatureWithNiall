@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"canada-faq","permalink":"/canada-faq/","title":"Canada Travel FAQ","hide":true,"tags":["BlogPost","blog","travel","canada"],"noteIcon":null,"created":"2024-04-30T08:32:06.000+01:00","updated":"2024-04-30T10:38:29.428+01:00"}
+{"dg-publish":true,"dg-permalink":"canada-faq","permalink":"/canada-faq/","title":"Canada Travel FAQ","hide":true,"tags":["BlogPost","blog","travel","canada"],"noteIcon":null,"created":"2024-04-30T08:32:06.000+01:00","updated":"2024-04-30T10:41:48.577+01:00"}
 ---
 
 #travel #canada
@@ -11,7 +11,7 @@ After a few months in the Alliance Visa group chat, I noticed a lot of questions
 
 ## Insurance
 
->[!FAQ]- What is the cheapest health insurance?
+>[!INFO]- What is the cheapest health insurance?
 >
 >>IEC Visa Requirement
 >The minimum required cover under the International Experience Canada Visa is Medical Care, Hospitalisation, and Repatriation. Your visa will only be granted for the period covered by your insurance!
@@ -29,7 +29,7 @@ After a few months in the Alliance Visa group chat, I noticed a lot of questions
 
 ## Money
 
->[!FAQ]- How much money is a good amount to take?
+>[!INFO]- How much money is a good amount to take?
 >
 >>IEC Visa Requirement
 >>The requirement under the International Experience Canada Visa is CAN$2,500.
@@ -46,7 +46,7 @@ After a few months in the Alliance Visa group chat, I noticed a lot of questions
 >- "Yeah id say £5k ‘minimum"
 >- "As for funds this truly depends on your lifestyle choices, but a generic amount that I think would be sufficient for most is $10,000"
 
->[!FAQ]- Can anyone recommend a good bank?
+>[!INFO]- Can anyone recommend a good bank?
 > 
 >Canadian Banks
 >Many banks in Canada charge for their services as standard. Check all fees before signing up!
@@ -62,7 +62,7 @@ After a few months in the Alliance Visa group chat, I noticed a lot of questions
 > - "CIBC will waive their fees for two years if you are a newcomer."
 > - "TD is a good bank"
 
-> [!FAQ]- What evidence is sufficient to prove I have CAN$2,500?
+> [!INFO]- What evidence is sufficient to prove I have CAN$2,500?
 > 
 >>Official Immigration Canada Statement
 >>The border services officer may also ask for proof of funds.You must present a statement of your bank account issued no more than **1 week before** your departure for Canada. It must clearly show that you have enough money to support yourself for the first 3 months of your stay in Canada (the equivalent of CAN$2,500).
@@ -86,7 +86,7 @@ After a few months in the Alliance Visa group chat, I noticed a lot of questions
 
 ## Getting Around
 
-> [!FAQ]- Do you need a Canadian driving license and how do you get one?
+> [!INFO]- Do you need a Canadian driving license and how do you get one?
 > 
 >>Canadian Driving License
 >>There isn’t such thing as a Canadian driving license. Each province set their own rules about this and therefore it will differ depending on where you intend to drive.
@@ -104,7 +104,7 @@ After a few months in the Alliance Visa group chat, I noticed a lot of questions
 
 ## Arriving In Canada
 
->[!FAQ]- How long does immigration at the airport take?
+>[!INFO]- How long does immigration at the airport take?
 > 
 >Check you have everything you need before you arrive in Canada. Immigration Canada has a handy guide [here](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/prepare-arrival.html).
 > 
