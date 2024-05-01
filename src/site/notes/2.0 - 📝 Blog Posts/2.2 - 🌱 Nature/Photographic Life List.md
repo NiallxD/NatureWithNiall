@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","tags":["photography","nature","wildlife","lifelist"],"noteIcon":null,"created":"2024-04-28T14:20:47.563+01:00","updated":"2024-04-29T21:28:33.467+01:00"}
+{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","tags":["photography","nature","wildlife","lifelist"],"noteIcon":null,"created":"2024-04-28T14:20:47.563+01:00","updated":"2024-05-01T23:49:33.727+01:00"}
 ---
 
 #photography #nature #lifelist
@@ -724,7 +724,6 @@ Use these links to jump to specific sections. For those one desktop use the cont
 ---
 
 ### Pigeons and Doves
-
 #### Spotted Dove
 ![](https://i.imgur.com/7sZs1Al.jpeg)
 *India - 2022*
