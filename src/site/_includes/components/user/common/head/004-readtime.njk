@@ -1,16 +1,19 @@
-<script>	
-	// Assume 'content' is the text content of your blog post
-	var content = "Your blog post content goes here...";
+<script>
+        // Wait for the entire page to load
+        window.onload = function() {
+            // Get the text content of your blog post
+            var content = document.getElementById('post-content').innerText;
 
-	// Calculate the word count
-	var wordCount = content.split(/\s+/).length;
+            // Calculate the word count
+            var wordCount = content.split(/\s+/).length;
 
-	// Average reading speed is around 200-250 words per minute. Let's take 225 as a middle ground
-	var wordsPerMinute = 225;
+            // Average reading speed is around 200-250 words per minute. Let's take 225 as a middle ground
+            var wordsPerMinute = 225;
 
-	// Calculate read time in minutes
-	var readTime = Math.ceil(wordCount / wordsPerMinute);
+            // Calculate read time in minutes
+            var readTime = Math.ceil(wordCount / wordsPerMinute);
 
-	// Display the read time
-	document.getElementById('read-time').innerText = "Estimated read time: " + readTime + " minutes";
-<script/>
+            // Display the read time
+            document.getElementById('read-time').innerText = "Estimated read time: " + readTime + " minutes";
+        }
+    </script>
