@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"the-dragons-breath","permalink":"/the-dragons-breath/","title":"The Dragons Breath","tags":["wildlife","nature","deer","photography","photostory"],"noteIcon":null,"created":"2024-04-17T11:53:47.239+01:00","updated":"2024-04-22T20:46:30.085+01:00"}
+{"dg-publish":true,"dg-permalink":"the-dragons-breath","permalink":"/the-dragons-breath/","title":"The Dragons Breath","tags":["wildlife","nature","deer","photography","photostory"],"noteIcon":null,"created":"2024-04-17T11:53:47.239+01:00","updated":"2024-05-03T13:05:48.708+01:00"}
 ---
 
 #wildlife #nature #deer #photography #photostory
@@ -7,7 +7,7 @@
 
 ![](https://i.imgur.com/8bzvnWQ.png)
 
-The Dragons Breath is an image that I created at Bradgate Park in 2019. I spend many cold, frosty mornings with the deer here and it’s images like this that make the experience magical.
+The Dragons Breath is an image that I created of a [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.2 - 🐯 Mammals/3.1.2.2 - UK Deer\|Red Deer]] at Bradgate Park in 2019. I spend many cold, frosty mornings with the deer here and it’s images like this that make the experience magical.
 
 On a particular frosty November morning, I followed a mature stag around the park for about 30 minutes prior to sunrise. We photographers often visualise the image we want, and then watch nature do the complete opposite. On this occasion, my deer friend got the memo and headed down to the open plain, just beside the path, exactly where I wanted him.
 
