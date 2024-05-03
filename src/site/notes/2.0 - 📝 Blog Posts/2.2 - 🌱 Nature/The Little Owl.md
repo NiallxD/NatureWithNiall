@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/2-2-nature/the-little-owl/","title":"Etymology: The Little Owl","tags":["Nature","Birds"],"noteIcon":null,"created":"2024-04-10T00:48:08.000+01:00","updated":"2024-04-22T20:44:08.191+01:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/2-2-nature/the-little-owl/","title":"Etymology: The Little Owl","tags":["Nature","Birds"],"noteIcon":null,"created":"2024-04-10T00:48:08.000+01:00","updated":"2024-05-03T13:07:00.616+01:00"}
 ---
 
 #nature #birds #littleowl #etymology 
 # The Little Owl
 
-The little owl is a fairly well known bird in Britain, but many don’t realise that this angry, but adorable in equal measure, owl was actually introduced in 1842.
+The little owl is a fairly well known bird in Britain, but many don’t realise that this angry, but adorable in equal measure, owl was actually introduced in 1842. This means that the little owl isn't a native [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.1 - 🦅 Birds/3.1.1.1 - British Birds\|British Bird]], but it is one that we've welcomed and grown to love.
 
 As is customary for British landowners, the little owl’s introduction wasn’t taken well. Gamekeepers shot this bird on sight because it was said to feed exclusively on grouse and pheasant chicks. We now know this is not the case, they prefer insects and worms. The little owl has fitted into the British countryside ever since.
 
