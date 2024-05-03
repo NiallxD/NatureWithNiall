@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/uk-wildlife-nature-photos/tigers/","permalink":"/uk-wildlife-nature-photos/tigers/","title":"The Plight of the Tiger","tags":["nature","wildlife","photography","conservation"],"noteIcon":null,"created":"2024-04-17T09:09:39.034+01:00","updated":"2024-04-22T20:46:49.156+01:00"}
+{"dg-publish":true,"dg-permalink":"/uk-wildlife-nature-photos/tigers/","permalink":"/uk-wildlife-nature-photos/tigers/","title":"The Plight of the Tiger","tags":["nature","wildlife","photography","conservation"],"noteIcon":null,"created":"2024-04-17T09:09:39.034+01:00","updated":"2024-05-03T13:07:55.626+01:00"}
 ---
 
 #nature #wildlife #cats #tigers #conservation
@@ -13,7 +13,7 @@ First things first I want to introduce the tiger. We all know what they look lik
 The name Tiger refers to a number of subspecies within the Panthera tigris group. While the taxonomy of tigers is an incredibly complex and in some circles a contentious topic, the current widely accepted extant subspecies are:
 
 - Amur tiger (Panthera tigris altaica)
-- Bengal tiger (Panthera tigris tigris)
+- [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.2 - 🐯 Mammals/3.1.2.1 - Bengal Tiger\|Bengal tiger]] (Panthera tigris tigris)
 - Indochinese tiger (Panthera tigris corbetti)
 - Malayan tiger (Panthera tigris malayensis)
 - South China tiger (Panthera tigris amoyensis)
@@ -46,7 +46,7 @@ If you’re here you probably care about tigers in some way. Donating a small bi
 
 I’ve been a big cat lover for a long time, and when I picked up my first camera in 2015 it was the first animal I photographed at my local wildlife park (pictured). As you can imagine, photographing tigers in the wild is neither easy nor cheap so I stick to capturing images of them in captivity. For now.
 
-~~**Every image of a tiger on this website is taken in captivity.** One day I hope to change that.~~ See my wild tigers [here](https://niallbell.com/uk-wildlife-nature-photos/tiger/).
+~~**Every image of a tiger on this website is taken in captivity.** One day I hope to change that.~~ See my wild tigers [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.2 - 🐯 Mammals/3.1.2.1 - Bengal Tiger\|here]].
 
 ![400](https://i.imgur.com/EXjdxrk.png)
 *The first animal I photographed back in 2015 (captive).*
