@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/photo-feed","permalink":"/photo-feed/","title":"📷 Photo Feed","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-04-28T14:17:59.095+01:00"}
+{"dg-publish":true,"dg-permalink":"/photo-feed","permalink":"/photo-feed/","title":"📷 Photo Feed","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-05-03T13:04:31.852+01:00"}
 ---
 
 #photography #photofeed
@@ -10,14 +10,14 @@ Most of the time I'm out taking photographs of anything nature and wildlife. Bel
 ## Curated Galleries
 
 For more photographs, check out the galleries below. You can also follow me on socials here [Facebook](https://www.facebook.com/Naturewithniall/)[Instagram](https://www.instagram.com/naturewithniall/)[Flickr](https://flic.kr/ps/3VVzuv). 
-| Cover                                        | Title                                                                                                         |
-| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| <img src='https://i.imgur.com/9wUq3cS.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.4 - 🚀 Other/3.1.4.2 - Film Photography\|Film Photography]] |
-| <img src='https://i.imgur.com/Rn9G10s.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.4 - 🚀 Other/3.1.4.3 - Astrophotography\|Astrophotography]] |
-| <img src='https://i.imgur.com/QVk6n9F.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.1 - 🦅 Birds/3.1.1.6 - Osprey\|Osprey]]                     |
-| <img src='https://i.imgur.com/T8Nox8C.png'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.1 - 🦅 Birds/3.1.1.4 - Red Kite\|Red Kite]]                 |
-| <img src='https://i.imgur.com/2MrhVQh.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.3 - 🍄 Fungi & Plants/3.1.3.1 - Fungi\|Fungi]]              |
-| <img src='https://i.imgur.com/dJxGbhg.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.4 - 🚀 Other/3.1.4.1 - Photomicrography\|Photomicrography]] |
+| Cover                                        | Title                                                                                                             |
+| -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| <img src='https://i.imgur.com/4Msu0Ig.png'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.4 - 🚀 Other/3.1.4.7 - The Zoo\|The Zoo]]                       |
+| <img src='https://i.imgur.com/T8Nox8C.png'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.1 - 🦅 Birds/3.1.1.4 - Red Kite\|Red Kite]]                     |
+| <img src='https://i.imgur.com/1COPsvs.png'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.1 - 🦅 Birds/3.1.1.5 - White Tailed Eagle\|White Tailed Eagle]] |
+| <img src='https://i.imgur.com/7eKn5qJ.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.4 - 🚀 Other/3.1.4.4 - Street Photography\|Street Photography]] |
+| <img src='https://i.imgur.com/F1ef3kt.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.4 - 🚀 Other/3.1.4.6 - Drone Photography\|Drone Photography]]   |
+| <img src='https://i.imgur.com/pQhjAr7.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.2 - 🐯 Mammals/3.1.2.3 - Red Squirrel\|Red Squirrel]]           |
 
 { .block-language-dataview}
 
@@ -36,7 +36,7 @@ This is my weekly roundup of what I've been photographing through the week. It's
 > 
 > #### Shift Change
 > 
-> At this time of year, Kingfishers are busy incubating the eggs of their first brood. Every few hours they swap over to allow the other bird to eat. They will do this for a few weeks till the eggs hatch, then it will be full steam ahead feeding all the hungry bills
+> At this time of year, [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.1 - 🦅 Birds/3.1.1.2 - Kingfisher\|Kingfishers]] are busy incubating the eggs of their first brood. Every few hours they swap over to allow the other bird to eat. They will do this for a few weeks till the eggs hatch, then it will be full steam ahead feeding all the hungry bills
 > 
 >![](https://i.imgur.com/HVaIIhU.jpeg)
 >
