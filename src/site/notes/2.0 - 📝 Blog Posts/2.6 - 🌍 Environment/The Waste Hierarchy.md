@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"the-waste-hierarchy","permalink":"/the-waste-hierarchy/","title":"The Waste Hierarchy","tags":["waste","environment"],"noteIcon":null,"created":"2024-04-15T23:40:04.465+01:00","updated":"2024-04-22T20:46:06.424+01:00"}
+{"dg-publish":true,"dg-permalink":"the-waste-hierarchy","permalink":"/the-waste-hierarchy/","title":"The Waste Hierarchy","tags":["waste","environment"],"noteIcon":null,"created":"2024-04-15T23:40:04.000+01:00","updated":"2024-04-22T20:46:06.000+01:00"}
 ---
 
 #waste #environment #sustainability 
