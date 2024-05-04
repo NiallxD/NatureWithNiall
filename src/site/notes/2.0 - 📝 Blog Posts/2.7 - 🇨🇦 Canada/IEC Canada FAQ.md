@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"canada-faq","permalink":"/canada-faq/","title":"Canada Travel FAQ","tags":["BlogPost","blog","travel","canada"],"noteIcon":null,"created":"2024-04-30T08:32:06.000+01:00","updated":"2024-05-04T12:51:00.000+01:00"}
+{"dg-publish":true,"dg-permalink":"canada-faq","permalink":"/canada-faq/","title":"Canada Travel FAQ","tags":["BlogPost","blog","travel","canada"],"noteIcon":null,"created":"2024-04-30T08:32:06.000+01:00","updated":"2024-05-05T00:36:40.451+01:00"}
 ---
 
 #travel #canada
 # IEC Canada FAQ
+<p id="reading-time" style="font-style: italic;">⏱️ Approx Reading Time:  <span id="inserted-text"></span> mins</p>
 
 After a few months in the Alliance Visa WhatsApp group chat, I noticed a lot of questions cropping up repeatedly. Many people were not getting answers, maybe because people were busy or just bored of repeating the same answers. Meanwhile I have been conducting my own research into what I need to know for my travels to Canada.
 
