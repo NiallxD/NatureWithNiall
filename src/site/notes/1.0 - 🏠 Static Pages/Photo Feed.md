@@ -12,12 +12,12 @@ Most of the time I'm out taking photographs of anything nature and wildlife. Bel
 For more photographs, check out the galleries below. You can also follow me on socials here [Facebook](https://www.facebook.com/Naturewithniall/)[Instagram](https://www.instagram.com/naturewithniall/)[Flickr](https://flic.kr/ps/3VVzuv). 
 | Cover                                        | Title                                                                                                   |
 | -------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| <img src='https://i.imgur.com/UudTTEZ.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.2 - 🐯 Mammals/3.1.2.4 - Grey Seal\|Grey Seal]]       |
-| <img src='https://i.imgur.com/pQhjAr7.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.2 - 🐯 Mammals/3.1.2.3 - Red Squirrel\|Red Squirrel]] |
-| <img src='https://i.imgur.com/T8Nox8C.png'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.1 - 🦅 Birds/3.1.1.4 - Red Kite\|Red Kite]]           |
-| <img src='https://i.imgur.com/eM38vZ0.png'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.2 - 🐯 Mammals/3.1.2.2 - UK Deer\|UK Deer]]           |
+| <img src='https://i.imgur.com/YD0LSDY.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.1 - 🦅 Birds/3.1.1.2 - Kingfisher\|Kingfisher]]       |
 | <img src='https://i.imgur.com/j35mshs.png'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.2 - 🐯 Mammals/3.1.2.1 - Bengal Tiger\|Bengal Tiger]] |
+| <img src='https://i.imgur.com/T8Nox8C.png'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.1 - 🦅 Birds/3.1.1.4 - Red Kite\|Red Kite]]           |
 | <img src='https://i.imgur.com/4Msu0Ig.png'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.4 - 🚀 Other/3.1.4.7 - The Zoo\|The Zoo]]             |
+| <img src='https://i.imgur.com/pQhjAr7.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.2 - 🐯 Mammals/3.1.2.3 - Red Squirrel\|Red Squirrel]] |
+| <img src='https://i.imgur.com/UudTTEZ.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.2 - 🐯 Mammals/3.1.2.4 - Grey Seal\|Grey Seal]]       |
 
 { .block-language-dataview}
 
