@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"are-commercial-photography-hides-acceptable","permalink":"/are-commercial-photography-hides-acceptable/","title":"Are Commercial Photography Hides Acceptable?","tags":["photography"],"noteIcon":null,"created":"2024-04-15T23:32:23.178+01:00","updated":"2024-04-22T20:44:20.282+01:00"}
+{"dg-publish":true,"dg-permalink":"are-commercial-photography-hides-acceptable","permalink":"/are-commercial-photography-hides-acceptable/","title":"Are Commercial Photography Hides Acceptable?","tags":["photography"],"noteIcon":null,"created":"2024-04-15T23:32:23.178+01:00","updated":"2024-05-05T00:36:10.537+01:00"}
 ---
 
 #photography #wildlife #ethics
 # Are Commercial Photography Hides Acceptable?
-
+<p id="reading-time" style="font-style: italic;">⏱️ Approx Reading Time:  <span id="inserted-text"></span> mins</p>
 ## Preface
 
 This is a highly contentious topic within the wildlife photography space, and as such I just wanted to preface this post by saying that these are my opinions and thoughts on this topic based on my open perspective. This means that I’m considering my goals, opinions and personality when addressing this topic. There might not be a right or wrong answer and I’m always willing to learn and adapt, but as of now, this is how I feel. I should also be clear that I’ve been to a photography hide as defined below twice over 5 years ago and been on a boat trip when bait was used (more on that later).
