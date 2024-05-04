@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"the-dragons-breath","permalink":"/the-dragons-breath/","title":"The Dragons Breath","tags":["wildlife","nature","deer","photography","photostory"],"noteIcon":null,"created":"2024-04-17T11:53:47.239+01:00","updated":"2024-05-03T13:18:13.218+01:00"}
+{"dg-publish":true,"dg-permalink":"the-dragons-breath","permalink":"/the-dragons-breath/","title":"The Dragons Breath","tags":["wildlife","nature","deer","photography","photostory"],"noteIcon":null,"created":"2024-04-17T11:53:47.239+01:00","updated":"2024-05-05T00:36:58.771+01:00"}
 ---
 
 #wildlife #nature #deer #photography #photostory
 # The Dragons Breath
+<p id="reading-time" style="font-style: italic;">⏱️ Approx Reading Time:  <span id="inserted-text"></span> mins</p>
 
 ![](https://i.imgur.com/8bzvnWQ.png)
 
