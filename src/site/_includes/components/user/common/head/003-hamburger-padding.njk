@@ -1,0 +1,22 @@
+<head>
+    <style id="custom-style"></style>
+    <script>
+        window.onload = function() {
+            var navbarInnerDiv = document.querySelector('.navbar-inner');
+            var spanElements = navbarInnerDiv.getElementsByTagName('span');
+            for(var i = 0; i < spanElements.length; i++) {
+                if(spanElements[i].style.fontSize === '1.5rem' && spanElements[i].style.marginRight === '10px') {
+                    spanElements[i].style.marginLeft = '20px';
+                }
+            }
+            var styleElement = document.getElementById('custom-style');
+            styleElement.innerHTML = `
+                @media screen and (max-width: 600px) {
+                    .navbar-inner span {
+                        margin-left: 20px !important;
+                    }
+                }
+            `;
+        };
+    </script>
+</head>
