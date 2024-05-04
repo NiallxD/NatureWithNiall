@@ -1,13 +1,6 @@
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
 <script>
-    window.onload = function() {
-    // Find the h1 element
-    const h1 = document.querySelector("h1");
-
-    // Create a new paragraph element
-    const p = document.createElement("p");
-    p.id = "reading-time";
-
-    // Insert the new paragraph after the h1
-    h1.parentNode.insertBefore(p, h1.nextElementSibling);
-    }
+    $(document).ready(function() {
+        $('<p id="reading-time"></p>').insertAfter('h1');
+    });
 </script>
