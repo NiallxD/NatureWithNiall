@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"ecotalk-a-greener-phone-network","permalink":"/ecotalk-a-greener-phone-network/","title":"EcoTalk: A Greener Phone Network","tags":["Tech"],"noteIcon":null,"created":"2024-04-15T23:11:13.210+01:00","updated":"2024-04-29T12:46:09.055+01:00"}
+{"dg-publish":true,"dg-permalink":"ecotalk-a-greener-phone-network","permalink":"/ecotalk-a-greener-phone-network/","title":"EcoTalk: A Greener Phone Network","tags":["Tech"],"noteIcon":null,"created":"2024-04-15T23:11:13.210+01:00","updated":"2024-05-05T00:36:29.166+01:00"}
 ---
 
 #tech #sustainability #phones
 # EcoTalk: A Greener Phone Network
+<p id="reading-time" style="font-style: italic;">⏱️ Approx Reading Time:  <span id="inserted-text"></span> mins</p>
 
 About 6 months ago I set out looking to procure a greener phone network provider. After browsing the web I found a few potentials but in the end I settled on EcoTalk. In this post, I wanted to share some of my thoughts about EcoTalk, as well as share some information about how our phone usage can harm the environment.
 
