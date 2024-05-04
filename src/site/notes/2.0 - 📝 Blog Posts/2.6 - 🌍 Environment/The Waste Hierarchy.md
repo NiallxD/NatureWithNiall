@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"the-waste-hierarchy","permalink":"/the-waste-hierarchy/","title":"The Waste Hierarchy","tags":["waste","environment"],"noteIcon":null,"created":"2024-04-15T23:40:04.465+01:00","updated":"2024-04-22T20:46:06.424+01:00"}
+{"dg-publish":true,"dg-permalink":"the-waste-hierarchy","permalink":"/the-waste-hierarchy/","title":"The Waste Hierarchy","tags":["waste","environment"],"noteIcon":null,"created":"2024-04-15T23:40:04.465+01:00","updated":"2024-05-05T00:36:36.331+01:00"}
 ---
 
 #waste #environment #sustainability 
 # The Waste Hierarchy
+<p id="reading-time" style="font-style: italic;">⏱️ Approx Reading Time:  <span id="inserted-text"></span> mins</p>
 
 The waste hierarchy underpins what most of us know about waste processing, but there is more to it than you might think.
 
