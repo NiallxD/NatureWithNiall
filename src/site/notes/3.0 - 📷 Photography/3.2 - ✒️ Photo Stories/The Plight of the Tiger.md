@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"/uk-wildlife-nature-photos/tigers/","permalink":"/uk-wildlife-nature-photos/tigers/","title":"The Plight of the Tiger","tags":["nature","wildlife","photography","conservation"],"noteIcon":null,"created":"2024-04-17T09:09:39.034+01:00","updated":"2024-05-03T13:18:32.975+01:00"}
+{"dg-publish":true,"dg-permalink":"/uk-wildlife-nature-photos/tigers/","permalink":"/uk-wildlife-nature-photos/tigers/","title":"The Plight of the Tiger","tags":["nature","wildlife","photography","conservation"],"noteIcon":null,"created":"2024-04-17T09:09:39.034+01:00","updated":"2024-05-05T00:37:04.221+01:00"}
 ---
 
 #nature #wildlife #cats #tigers #conservation
 # The Plight of the Tiger
+<p id="reading-time" style="font-style: italic;">⏱️ Approx Reading Time:  <span id="inserted-text"></span> mins</p>
 
 First things first I want to introduce the tiger. We all know what they look like, big rusty orange cats with black stripes and little white ear spots. What many don't realise is that there isn't just the one tiger there are many, and there have been more.
 
