@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"canada-faq","permalink":"/canada-faq/","title":"Canada Travel FAQ","tags":["BlogPost","blog","travel","canada"],"noteIcon":null,"created":"2024-04-30T08:32:06.920+01:00","updated":"2024-05-04T12:51:00.100+01:00"}
+{"dg-publish":true,"dg-permalink":"canada-faq","permalink":"/canada-faq/","title":"Canada Travel FAQ","tags":["BlogPost","blog","travel","canada"],"noteIcon":null,"created":"2024-04-30T08:32:06.000+01:00","updated":"2024-05-04T12:51:00.000+01:00"}
 ---
 
 #travel #canada
