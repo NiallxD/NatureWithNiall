@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"canada-faq","permalink":"/canada-faq/","title":"Canada Travel FAQ","tags":["BlogPost","blog","travel","canada"],"noteIcon":null,"created":"2024-04-30T08:32:06.000+01:00","updated":"2024-04-30T14:00:37.000+01:00"}
+{"dg-publish":true,"dg-permalink":"canada-faq","permalink":"/canada-faq/","title":"Canada Travel FAQ","tags":["BlogPost","blog","travel","canada"],"noteIcon":null,"created":"2024-04-30T08:32:06.920+01:00","updated":"2024-05-04T12:51:00.100+01:00"}
 ---
 
 #travel #canada
@@ -11,7 +11,35 @@ So I’ve set up this FAQ where I’ll put all the responses to the questions th
 
 ***Admin and disclaimer stuff at the bottom of the page[^1][^2]***
 
+## Arriving In Canada
+
+>[!INFO]- How long does immigration at the airport take?
+> 
+>Check you have everything you need before you arrive in Canada. Immigration Canada has a handy guide [here](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/prepare-arrival.html).
+> 
+> ### Summary of comments per airport:
+> 
+> 1. **Toronto:** Hour and half queuing and then 10 mins at the desk.
+> 2. **Calgary:** No mention of major delays, just flew to the airport and activated visa.
+> 3. **Vancouver:**
+> 
+> ### What people said:
+> 
+> - For us the wait in the line at Toronto was an hour and a half. Once we were at the window it was 10 mins and we got our work permits
+> - ...arrived in Canada on Monday, went from London - Calgary - Kamloops. Activated my work visa at Calgary.
+
 ## Flights
+
+>[!INFO]- What’s the best way to get cheap flights?
+> 
+>>There is no easy answer to this one! Flights vary over time, and deals crop up here and there. Also operators resell flights on different platforms at reduced costs. The best thing is to shop around.
+> 
+> ### Considerations to make:
+> 
+> 1. Flying from the UK to Iceland (EasyJet) and then Iceland to Canada (IcelandAir) seems to be a good way to reduce costs. You can even do a few days in Iceland if you like.
+> 2. Flying from the UK to Seattle (several airlines) and then up to Vancouver (usually WestJet) seems to reduce the cost of a one way flight. 
+> 3. Baggage fees can surpass those of a direct flights with a premium airline such as Virgin or BritishAirways.
+> 
 
 
 ## Insurance
@@ -107,22 +135,22 @@ So I’ve set up this FAQ where I’ll put all the responses to the questions th
 > 1. You can use your uk driving license in Alberta as a straight swap for a Canadian license. It takes a week or two to come in the post but it's super simple. I swapped my license in November and bought a car here
 > 2. I’m from Ireland moving to Calgary I don’t know if it would be much different from the UK but from the research I’ve done I need to get an international driving permit in Ireland before I leave and it’s valid for 1 year, so gives me 1 year to get sorted properly over there as far as I know
 
-## Arriving In Canada
+## Phones
 
->[!INFO]- How long does immigration at the airport take?
+> [!INFO]- What are some good phone plans?
 > 
->Check you have everything you need before you arrive in Canada. Immigration Canada has a handy guide [here](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/prepare-arrival.html).
+>>You may wish to consider the coverage, data allowance and whether or not international calls are included.
 > 
-> ### Summary of comments per airport:
+> ### Recommended Plans/Providers:
 > 
-> 1. **Toronto:** Hour and half queuing and then 10 mins at the desk.
-> 2. **Calgary:** No mention of major delays, just flew to the airport and activated visa.
-> 3. **Vancouver:**
+> 1. **Telus:** Unlimited Calls(inc. Intl)/texts, 50gb data ($39/month)
+> 2. **Rogers:** Unlimited Calls/texts, 100gb data ($45/month)
 > 
 > ### What people said:
-> 
-> - For us the wait in the line at Toronto was an hour and a half. Once we were at the window it was 10 mins and we got our work permits
-> - ...arrived in Canada on Monday, went from London - Calgary - Kamloops. Activated my work visa at Calgary.
+>
+> 1. I pay $39 for 50gb data, unlimited calls texts with telus. Oh I get international calls too.
+> 2. I’m with Rogers and pay $45 for 100GB data, unlimited texts and calls within Canada. For calling abroad I just use WhatsApp.
+
 
 
 [^1]: Please note that I’m not an Canadian immigration expert, I’m learning just like you. Check with Alliance or Immigration Canada if you’re unsure of anything. This FAQ is just for tips to get started.
