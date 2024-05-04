@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","tags":["photography","nature","wildlife","lifelist"],"noteIcon":null,"created":"2024-04-28T14:20:47.563+01:00","updated":"2024-05-01T23:49:33.727+01:00"}
+{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","tags":["photography","nature","wildlife","lifelist"],"noteIcon":null,"created":"2024-04-28T14:20:47.563+01:00","updated":"2024-05-05T00:36:03.780+01:00"}
 ---
 
 #photography #nature #lifelist
 # My Photographic Life list
+<p id="reading-time" style="font-style: italic;">⏱️ Approx Reading Time:  <span id="inserted-text"></span> mins</p>
 
 I never used to be bothered about keeping a life list, it seemed a bit pointless to me. But then as I photographed more more species, in more and more locations, I started keeping tally of these animals I was photographing. I had the idea to try and photograph, well, all the animals I've seen. This became a bit of an obsession and now I'm stuck updating this list! How fun!
 
