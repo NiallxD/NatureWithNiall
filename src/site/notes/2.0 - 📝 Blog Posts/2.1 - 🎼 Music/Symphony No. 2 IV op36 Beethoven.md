@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/2-1-music/symphony-no-2-iv-op36-beethoven/","title":"Symphony No. 2 IV Op 36","tags":["Music","composers","classical"],"noteIcon":null,"created":"2024-04-18T22:53:02.000+01:00","updated":"2024-04-22T20:43:20.276+01:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/2-1-music/symphony-no-2-iv-op36-beethoven/","title":"Symphony No. 2 IV Op 36","tags":["Music","composers","classical"],"noteIcon":null,"created":"2024-04-18T22:53:02.000+01:00","updated":"2024-05-05T00:35:49.020+01:00"}
 ---
 
 #Music #classical 
 # Beethoven’s Second Symphony
+<p id="reading-time" style="font-style: italic;">⏱️ Approx Reading Time:  <span id="inserted-text"></span> mins</p>
 
 > [!TIP] Recommended Recording 
 > Berliner Philharmonica - Sir Simon Rattle. Listen on [Apple Music Classical](https://classical.music.apple.com/gb/recording/ludwig-van-beethoven-1770-pp24-1458733549?l=en-GB)
