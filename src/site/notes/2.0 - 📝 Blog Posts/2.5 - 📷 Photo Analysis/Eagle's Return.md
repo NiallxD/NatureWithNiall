@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"michael-collins-eagles-return","permalink":"/michael-collins-eagles-return/","title":"Eagle's Return","tags":["photography","photostory","astrophotography","space"],"noteIcon":null,"created":"2024-04-22T19:31:47.702+01:00","updated":"2024-04-22T22:57:21.124+01:00"}
+{"dg-publish":true,"dg-permalink":"michael-collins-eagles-return","permalink":"/michael-collins-eagles-return/","title":"Eagle's Return","tags":["photography","photostory","astrophotography","space"],"noteIcon":null,"created":"2024-04-22T19:31:47.702+01:00","updated":"2024-05-05T00:36:33.068+01:00"}
 ---
 
 #photography #photostory #astrophotography #space 
 # Eagle's Return
+<p id="reading-time" style="font-style: italic;">⏱️ Approx Reading Time:  <span id="inserted-text"></span> mins</p>
 
 I wanted to share some thoughts on this photograph more than analyse it from a technical perspective. While there was likely some planning and pre-thought, it really is a moment captured in time as opposed to a meticulously planned image (thought it might have been, you get my gist). This is an image that I've thought about a lot since discovering it over five years ago. I never used to study others images, however as I've developed as a photographer I derive great pleasure from looking at others' images, whether it be to extract the story the photographer wanted to tell, or as is the case for this photograph, to discover the hidden meaning behind the photographs we take.
 
