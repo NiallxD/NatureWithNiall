@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"dg-permalink":"birds-are-musicians","permalink":"/birds-are-musicians/","title":"Birds Were the First Musicians","tags":["Birds","Music"],"noteIcon":null,"created":"2024-04-29T12:49:03.131+01:00","updated":"2024-05-04T23:34:02.192+01:00"}
+{"dg-publish":true,"dg-permalink":"birds-are-musicians","permalink":"/birds-are-musicians/","title":"Birds Were the First Musicians","tags":["Birds","Music"],"noteIcon":null,"created":"2024-04-29T12:49:03.131+01:00","updated":"2024-05-04T23:38:42.969+01:00"}
 ---
 
 #wildlife #nature #Birds #Music   
 # Birds Were the First Musicians
 
 <p id="reading-time">test</p>
-<p id="reading-time"></p>
 
 A bold statement I know, but bare with me. I recently read a book called 'Was Beethoven a Bird Watcher?' - to answer your question, I like to think he was, but he didn't need to be. More on this later!
 
