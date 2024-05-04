@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"indias-heart-a-tapestry-of-nature-and-tradition","permalink":"/indias-heart-a-tapestry-of-nature-and-tradition/","title":"India's Heart: A Tapestry of Nature and Tradition","metatags":{"og:title":"{{title}}","og:description":"{{description}}","og:image":"{{header-image}}"},"tags":["photography","nature","wildlife","india","tigers"],"noteIcon":null,"created":"2024-04-22T20:50:58.954+01:00","updated":"2024-05-03T13:18:06.212+01:00"}
+{"dg-publish":true,"dg-permalink":"indias-heart-a-tapestry-of-nature-and-tradition","permalink":"/indias-heart-a-tapestry-of-nature-and-tradition/","title":"India's Heart: A Tapestry of Nature and Tradition","metatags":{"og:title":"{{title}}","og:description":"{{description}}","og:image":"{{header-image}}"},"tags":["photography","nature","wildlife","india","tigers"],"noteIcon":null,"created":"2024-04-22T20:50:58.954+01:00","updated":"2024-05-05T00:36:56.028+01:00"}
 ---
 
 #photostory #photography #india
@@ -7,6 +7,7 @@
 >[!QUOTE] *“The one who plants trees, knowing that he will never sit in their shade, has at least started to understand the meaning of life.” - Rabindranath Tagore*
 >
 # India's Heart: A Tapestry of Nature and Tradition
+<p id="reading-time" style="font-style: italic;">⏱️ Approx Reading Time:  <span id="inserted-text"></span> mins</p>
 
 In November 2022, I packed my bags and headed to India in search of wildlife; Specifically the [[Royal Bengal Tiger\|Royal Bengal Tiger]]. During my two weeks in [[India\|India]], I gained so much more than I had hoped. I met some incredible people, saw some unbelievable sights and was able to photograph some of the planet’s most beautiful wildlife. India reaches far past the expectations you may already hold. In this story, I will share some of these experiences and photographs, both human and wildlife.
 
