@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/2-2-nature/cloudspotting/","tags":["Nature","Atmosphere"],"noteIcon":null,"created":"2024-04-10T00:48:08.000+01:00","updated":"2024-05-05T00:00:05.282+01:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/2-2-nature/cloudspotting/","tags":["Nature","Atmosphere"],"noteIcon":null,"created":"2024-04-10T00:48:08.000+01:00","updated":"2024-05-05T00:33:23.040+01:00"}
 ---
 
 #nature #weather
 # Cloudspotting☁️
-
-<p id="reading-time"></p>
+<p id="reading-time" style="font-weight: bold; font-style: italic;">⏱️:  <span id="inserted-text"></span> mins</p>
 
 > [!TIP] *Rabanindranath Tagore (Stray Birds)*
 > *“Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.”* 
