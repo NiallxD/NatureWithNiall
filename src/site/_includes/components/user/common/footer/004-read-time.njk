@@ -1,15 +1,17 @@
 <script>
-    function wordCount(str) {
-        return str.split(" ").length;
+    window.onload = function() {
+        function wordCount(str) {
+            return str.split(" ").length;
+        }
+    
+        function readingTime(str) {
+            const words = wordCount(str);
+            const time = Math.ceil(words / 200);
+            return time;
+        }
+    
+        const postContent = document.querySelector(".content").textContent;
+        const time = readingTime(postContent);
+        document.getElementById("reading-time").textContent = `Estimated reading time: ${time} minutes`;
     }
-
-    function readingTime(str) {
-        const words = wordCount(str);
-        const time = Math.ceil(words / 200);
-        return time;
-    }
-
-    const postContent = document.getElementById("post-content").textContent;
-    const time = readingTime(postContent);
-    document.getElementById("reading-time").textContent = `Estimated reading time: ${time} minutes`;
 </script>
