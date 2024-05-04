@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/2-1-music/misierere-mei-deus-gregorio-allegri/","title":"Misierere Mei, Deus","tags":["Music","Baroque"],"noteIcon":null,"created":"2024-04-10T23:31:47.000+01:00","updated":"2024-04-22T20:39:10.590+01:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/2-1-music/misierere-mei-deus-gregorio-allegri/","title":"Misierere Mei, Deus","tags":["Music","Baroque"],"noteIcon":null,"created":"2024-04-10T23:31:47.000+01:00","updated":"2024-05-05T00:35:44.360+01:00"}
 ---
 
 #music #composers 
 # Misierere Mei, Deus - Gregorio Allegri
+<p id="reading-time" style="font-style: italic;">⏱️ Approx Reading Time:  <span id="inserted-text"></span> mins</p>
 
 > [!TIP] Recommended Recording 
 > The Choir of Kings College (1984) - Sir Stephen Cleobury. Listen on [Apple Music Classical](https://classical.music.apple.com/gb/recording/gregorio-allegri-c1582-pp5-1505331492?l=en-GB)
