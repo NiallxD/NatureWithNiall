@@ -3,7 +3,11 @@
     // Find the h1 element
     const h1 = document.querySelector("h1");
 
+    // Create a new paragraph element
+    const p = document.createElement("p");
+    p.id = "reading-time";
+
     // Insert the new paragraph after the h1
-    h1.insertAdjacentHTML('afterend', '<p id="reading-time"></p>');
+    h1.parentNode.insertBefore(p, h1.nextElementSibling);
     }
 </script>
