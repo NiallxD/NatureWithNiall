@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tags","permalink":"/tags/","title":"List of All Tags","hide":true,"noteIcon":null,"created":"2024-04-16T00:05:40.000+01:00","updated":"2024-05-05T11:08:34.000+01:00"}
+{"dg-publish":true,"dg-permalink":"tags","permalink":"/tags/","title":"List of All Tags","hide":true,"noteIcon":null,"created":"2024-04-16T00:05:40.920+01:00","updated":"2024-05-05T11:08:34.273+01:00"}
 ---
 
 # List of All Tags
@@ -8,16 +8,16 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 
 | Tags                    |
 | ----------------------- |
-| #nature(33)             |
-| #photography(33)        |
-| #wildlife(28)           |
+| #nature(34)             |
+| #photography(34)        |
+| #wildlife(29)           |
 | #books(21)              |
 | #reading(21)            |
 | #bookshelf(20)          |
 | #Birds(8)               |
 | #Music(5)               |
+| #photostory(5)          |
 | #composers(4)           |
-| #photostory(4)          |
 | #tech(4)                |
 | #blog(3)                |
 | #BlogPost(3)            |
@@ -47,6 +47,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #classical(1)           |
 | #computers(1)           |
 | #conservation(1)        |
+| #deer(1)                |
 | #environment(1)         |
 | #ethics(1)              |
 | #etymology(1)           |
