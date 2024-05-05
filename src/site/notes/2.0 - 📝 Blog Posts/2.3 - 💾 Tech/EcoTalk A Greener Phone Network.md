@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"ecotalk-a-greener-phone-network","permalink":"/ecotalk-a-greener-phone-network/","title":"EcoTalk: A Greener Phone Network","tags":["Tech"],"noteIcon":null,"created":"2024-04-15T23:11:13.210+01:00","updated":"2024-05-05T00:36:29.166+01:00"}
+{"dg-publish":true,"dg-permalink":"ecotalk-a-greener-phone-network","permalink":"/ecotalk-a-greener-phone-network/","title":"EcoTalk: A Greener Phone Network","tags":["Tech"],"noteIcon":null,"created":"2024-04-15T23:11:13.000+01:00","updated":"2024-05-05T00:36:29.000+01:00"}
 ---
 
 #tech #sustainability #phones
