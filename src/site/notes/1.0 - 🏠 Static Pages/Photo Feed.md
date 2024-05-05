@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/photo-feed","permalink":"/photo-feed/","title":"📷 Photo Feed","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-05-05T21:31:55.965+01:00"}
+{"dg-publish":true,"dg-permalink":"/photo-feed","permalink":"/photo-feed/","title":"📷 Photo Feed","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.000+01:00","updated":"2024-05-05T23:08:58.631+01:00"}
 ---
 
 #photography #photofeed
@@ -12,12 +12,12 @@ Most of the time I'm out taking photographs of anything nature and wildlife. Bel
 For more photographs, check out the galleries below. You can also follow me on socials here [Facebook](https://www.facebook.com/Naturewithniall/)[Instagram](https://www.instagram.com/naturewithniall/)[Flickr](https://flic.kr/ps/3VVzuv). 
 | Cover                                        | Title                                                                                                           |
 | -------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| <img src='https://i.imgur.com/dJxGbhg.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.4 - 🚀 Other/3.1.4.1 - Photomicrography\|Photomicrography]]   |
 | <img src='https://i.imgur.com/j35mshs.png'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.2 - 🐯 Mammals/3.1.2.1 - Bengal Tiger\|Bengal Tiger]]         |
-| <img src='https://i.imgur.com/Rn9G10s.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.4 - 🚀 Other/3.1.4.3 - Astrophotography\|Astrophotography]]   |
-| <img src='https://i.imgur.com/UudTTEZ.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.2 - 🐯 Mammals/3.1.2.4 - Grey Seal\|Grey Seal]]               |
-| <img src='https://i.imgur.com/4Msu0Ig.png'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.4 - 🚀 Other/3.1.4.7 - The Zoo\|The Zoo]]                     |
+| <img src='https://i.imgur.com/YD0LSDY.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.1 - 🦅 Birds/3.1.1.2 - Kingfisher\|Kingfisher]]               |
+| <img src='https://i.imgur.com/FzKzxR4.png'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.1 - 🦅 Birds/3.1.1.1 - British Birds\|🦅 British Birds]]      |
+| <img src='https://i.imgur.com/9wUq3cS.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.4 - 🚀 Other/3.1.4.2 - Film Photography\|Film Photography]]   |
 | <img src='https://i.imgur.com/F1ef3kt.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.4 - 🚀 Other/3.1.4.6 - Drone Photography\|Drone Photography]] |
-| <img src='https://i.imgur.com/2MrhVQh.jpg'/> | [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.3 - 🍄 Fungi & Plants/3.1.3.1 - Fungi\|Fungi]]                |
 
 { .block-language-dataview}
 
@@ -46,7 +46,7 @@ This is my weekly roundup of what I've been photographing through the week. It's
 > 
 >This is a first for me! For the first time ever last week, I saw two marsh harriers together. Today (the 5th) I saw two passing food to one another! Actually, it gets even better...I saw three march harriers at the same time. Two adults and one juvenile. I saw the juvenile erupt from the reeds infront of the hide in what could have been it's maiden flight! The juv landed on a raised bank and the adults brought food to it; An incredible sight for sure.
 >
-![](https://i.imgur.com/QFD8aMO.jpeg)
+>![](https://i.imgur.com/QFD8aMO.jpeg)
 
 > [!tip]- WC 22nd April 2024
 > This week was spent obsessively checking in on my local kingfishers, photographing the dipper family I've been following and checking out some local nature reserves. It'll not come as a surprise that this week is then a collection of Kingfisher, Dipper and something super cool from my local nature reserve. 
