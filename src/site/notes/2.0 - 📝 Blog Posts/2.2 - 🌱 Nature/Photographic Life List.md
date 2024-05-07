@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","tags":["photography","nature","wildlife","lifelist"],"noteIcon":null,"created":"2024-04-28T14:20:47.563+01:00","updated":"2024-05-06T23:02:58.225+01:00"}
+{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","tags":["photography","nature","wildlife","lifelist"],"noteIcon":null,"created":"2024-04-28T14:20:47.000+01:00","updated":"2024-05-07T08:39:34.311+01:00"}
 ---
 
 #photography #nature #lifelist
@@ -13,7 +13,7 @@ The categories below are not intended to be taxonomic in nature, more rough grou
 This list sits at **204** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full bird life list can be found here 
 
 >[!NEW] Recent Updates
->I recently added the Common Reed, Cetti's, and Garden Warblers along with the Eurasian Blackcap - 6th May 2024
+>I recently added the Common Reed, Cetti's, and Garden Warblers along with the Eurasian Blackcap. [Jump Link](https://niallbell.com/photographic-life-list/#eurasian-blackcap-female)- 6th May 2024
 
 ## Jump Links
 
