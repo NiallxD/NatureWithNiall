@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"canada-faq","permalink":"/canada-faq/","title":"Canada Travel FAQ","tags":["BlogPost","blog","travel","canada"],"noteIcon":null,"created":"2024-04-30T08:32:06.000+01:00","updated":"2024-05-05T00:36:40.451+01:00"}
+{"dg-publish":true,"dg-permalink":"canada-faq","permalink":"/canada-faq/","title":"Canada Travel FAQ","tags":["BlogPost","blog","travel","canada"],"noteIcon":null,"created":"2024-04-30T08:32:06.000+01:00","updated":"2024-05-09T08:08:32.000+01:00"}
 ---
 
 #travel #canada
@@ -16,18 +16,22 @@ So I’ve set up this FAQ where I’ll put all the responses to the questions th
 
 >[!INFO]- How long does immigration at the airport take?
 > 
->Check you have everything you need before you arrive in Canada. Immigration Canada has a handy guide [here](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/prepare-arrival.html).
+>>Check you have everything you need before you arrive in Canada. Immigration Canada has a handy guide [here](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/prepare-arrival.html).
+>>
+>>**Note:** You must prepay for your health insurance. You will only be granted a visa for the time frame you can prove you have paid for even if your documents show that you are covered for longer.
 > 
 > ### Summary of comments per airport:
 > 
 > 1. **Toronto:** Hour and half queuing and then 10 mins at the desk.
 > 2. **Calgary:** No mention of major delays, just flew to the airport and activated visa.
 > 3. **Vancouver:**
+> 4. **Montréal:** Immigration queues were long. Took about 2 hours to get through and several people missed connecting flights.
 > 
 > ### What people said:
 > 
 > - For us the wait in the line at Toronto was an hour and a half. Once we were at the window it was 10 mins and we got our work permits
 > - ...arrived in Canada on Monday, went from London - Calgary - Kamloops. Activated my work visa at Calgary.
+> - Yeah immigration is a nightmare especially if you fly into Montreal . I was in there for 2 hours waiting and it was pure luck my connecting flight to Toronto was delayed.
 
 ## Flights
 
