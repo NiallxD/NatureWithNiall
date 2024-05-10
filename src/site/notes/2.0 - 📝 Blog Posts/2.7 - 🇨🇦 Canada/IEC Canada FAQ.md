@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"canada-faq","permalink":"/canada-faq/","title":"Canada Travel FAQ","tags":["BlogPost","blog","travel","canada"],"noteIcon":null,"created":"2024-04-30T08:32:06.000+01:00","updated":"2024-05-09T08:08:32.000+01:00"}
+{"dg-publish":true,"dg-permalink":"canada-faq","permalink":"/canada-faq/","title":"Canada Travel FAQ","tags":["BlogPost","blog","travel","canada"],"noteIcon":null,"created":"2024-04-30T08:32:06.920+01:00","updated":"2024-05-09T23:17:34.000+01:00"}
 ---
 
 #travel #canada
@@ -45,7 +45,6 @@ So I’ve set up this FAQ where I’ll put all the responses to the questions th
 > 2. Flying from the UK to Seattle (several airlines) and then up to Vancouver (usually WestJet) seems to reduce the cost of a one way flight. 
 > 3. Baggage fees can surpass those of a direct flights with a premium airline such as Virgin or BritishAirways.
 > 
-
 
 ## Insurance
 
@@ -122,6 +121,25 @@ So I’ve set up this FAQ where I’ll put all the responses to the questions th
 > - securities in bearer form (for example, stocks, bonds, debentures, treasury bills) **or**
 > - bankers’ drafts, cheques, travellers’ cheques or money orders
 
+## Jobs
+
+> [!INFO]- Where to start looking for jobs?
+> 
+>>Your Experience Will Vary
+>>Each person emigrating to Canada is doing so with different skills and ambitions. Alliance do have a careers service that can help.
+> 
+> ### Website to check out:
+> 
+> 1. **Indeed:** Lots of jobs on here but not specifically targeting the immigrant market.
+> 2. **LinkedIn** Typically for skilled workers and not always specific to the immigrant market.
+> 3. **CA Job Bank:** Official Canadian Gov website that shares jobs aimed at immigrants.
+> 
+> ### What people said:
+> 
+> 1. Depending on your skills/area of expertise, LinkedIn has tonnes of jobs. Too early for me to properly look but a few weeks ago there were at least 15 jobs on there that I’d apply for. There is the Canadian job board too hosted by the gov thats worth checking out. Finally, Indeed looked promising too. Im speaking from zero practical experience tho so take this with a handful of salt.
+> 
+> **Note:** Canadian employers tend to favour those who are in the country. This can make applying for jobs before you arrive futile unless done through a specific route or agency. 
+
 ## Getting Around
 
 > [!INFO]- What's the deal with Canadian driving licenses?
@@ -138,7 +156,21 @@ So I’ve set up this FAQ where I’ll put all the responses to the questions th
 > ### What people said:
 > 
 > 1. You can use your uk driving license in Alberta as a straight swap for a Canadian license. It takes a week or two to come in the post but it's super simple. I swapped my license in November and bought a car here
-> 2. I’m from Ireland moving to Calgary I don’t know if it would be much different from the UK but from the research I’ve done I need to get an international driving permit in Ireland before I leave and it’s valid for 1 year, so gives me 1 year to get sorted properly over there as far as I know
+
+> [!INFO]- Has any one bought a car in Canada
+> 
+>>Car Purchase Veries By Province
+>>Different provinces have different rules around cars. Check on the provinces official websites for more info. Note that in Canada you have to pay various taxes on new and 2nd hand purchases. The advertised price of a car likely wont include these taxes that you must pay when you purchase and register the car.
+> 
+> ### Approx Costs:
+> 
+> 1. **Finance:** For a decent spec new car CAN$400/month
+> 2. **Insurance:** Varies a lot per person. Guide price of CAN$200/month
+> 3. **Fuel:** Depending on tank size - CAN$65-80 per tank
+> 
+> ### What people said:
+> 
+> 1. Mostly depends on your budget but I have a new VW Jetta, costs around $400 finance, $193 a month for insurance, costs me $65 - $75 for full tank of fuel (petrol) and I get 650-800km with that, I’ve gone from driving a Range Rover to this and I actually love it and it’s super reliable too
 
 ## Phones
 
