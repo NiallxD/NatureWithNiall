@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"michael-collins-eagles-return","permalink":"/michael-collins-eagles-return/","title":"Eagle's Return","tags":["photography","photostory","astrophotography","space"],"noteIcon":null,"created":"2024-04-22T19:31:47.702+01:00","updated":"2024-05-05T00:36:33.068+01:00"}
+{"dg-publish":true,"dg-permalink":"michael-collins-eagles-return","permalink":"/michael-collins-eagles-return/","title":"Eagle's Return","tags":["photography","photostory","astrophotography","space"],"noteIcon":null,"created":"2024-04-22T19:31:47.000+01:00","updated":"2024-05-05T00:36:33.000+01:00"}
 ---
 
 #photography #photostory #astrophotography #space 
