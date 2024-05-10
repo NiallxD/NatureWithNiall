@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"canada-faq","permalink":"/canada-faq/","title":"Canada Travel FAQ","tags":["BlogPost","blog","travel","canada"],"noteIcon":null,"created":"2024-04-30T08:32:06.920+01:00","updated":"2024-05-09T23:17:34.000+01:00"}
+{"dg-publish":true,"dg-permalink":"canada-faq","permalink":"/canada-faq/","title":"Canada Travel FAQ","tags":["BlogPost","blog","travel","canada"],"noteIcon":null,"created":"2024-04-30T08:32:06.920+01:00","updated":"2024-05-10T19:46:39.039+01:00"}
 ---
 
 #travel #canada
@@ -164,13 +164,13 @@ So I’ve set up this FAQ where I’ll put all the responses to the questions th
 > 
 > ### Approx Costs:
 > 
-> 1. **Finance:** For a decent spec new car CAN$400/month
+> 1. **Finance:**  CAN$ /month
 > 2. **Insurance:** Varies a lot per person. Guide price of CAN$200/month
 > 3. **Fuel:** Depending on tank size - CAN$65-80 per tank
 > 
 > ### What people said:
 > 
-> 1. Mostly depends on your budget but I have a new VW Jetta, costs around $400 finance, $193 a month for insurance, costs me $65 - $75 for full tank of fuel (petrol) and I get 650-800km with that, I’ve gone from driving a Range Rover to this and I actually love it and it’s super reliable too
+> 1. 
 
 ## Phones
 
