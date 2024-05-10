@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/2-2-nature/the-little-owl/","title":"Etymology: The Little Owl","tags":["Nature","Birds"],"noteIcon":null,"created":"2024-04-10T00:48:08.000+01:00","updated":"2024-05-05T00:36:06.479+01:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/2-2-nature/the-little-owl/","title":"Etymology: The Little Owl","tags":["Nature","Birds"],"noteIcon":null,"created":"2024-04-10T00:48:08.561+01:00","updated":"2024-05-10T10:16:23.183+01:00"}
 ---
 
 #nature #birds #littleowl #etymology 
@@ -8,24 +8,26 @@
 
 The little owl is a fairly well known bird in Britain, but many don’t realise that this angry, but adorable in equal measure, owl was actually introduced in 1842. This means that the little owl isn't a native [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.1 - 🦅 Birds/3.1.1.1 - British Birds\|British Bird]], but it is one that we've welcomed and grown to love.
 
-As is customary for British landowners, the little owl’s introduction wasn’t taken well. Gamekeepers shot this bird on sight because it was said to feed exclusively on grouse and pheasant chicks. We now know this is not the case, they prefer insects and worms. The little owl has fitted into the British countryside ever since.
+As is customary for British landowners, the little owls introduction wasn’t taken well. Gamekeepers shot this bird on sight because it was said to feed exclusively on grouse and pheasant chicks. We now know this is not the case, they prefer insects and worms. The little owl has enjoyed peace in the British countryside ever since.
 
-What’s perhaps most fascinating to me is the Latin name given to the little owl, *Athena noctua*. 
+What’s perhaps most fascinating to me is the Latin name given to the little owl, *Athene noctua*. 
 
+![](https://i.imgur.com/GXrCiko.jpeg)
+*Little owl feeding in a wiggly worm.*
 ## Greek Gods
 
 Most will recognise the first part of the little owls Latin name. Athena, in Greek mythology, is the goddess of wisdom and warfare. The second part alludes to the owls nature, of usually being nocturnal. Noctua in Latin literally means “nocturnal”.
 
 > Contrary to its Latin name, the little owl is commonly seen out and about in daylight. 
 
-So why is the little owl associated with a Greek goddess? Well, in Greek mythology, Athena is often accompanied by a little owl. This explains why the owl is also used as the symbol of the city of Athens, because of the cities association with Athena. 
+So why is the little owl associated with a Greek goddess? Well, in Greek mythology, Athena is often depicted being accompanied by a little owl. This explains why the owl is also used as the symbol of the city of Athens, because of the cities association with Athena. Also, as we all know, owls are, perhaps incorrectly, regarded to be wise so it only makes sense that the god of wisdom would have a pet owl.
 
-*I wonder, is this why we use the owl as a symbol of wisdom, or does this association predate Greek mythology?* 
+*In avoidance of unknowingly committing a logical fallacy, this begs the question, does the wise owl predate Greek mythology or do we derive this association from the mythology itself? The answer is out there, I’m sure, although sometimes the mystery is sufficient.* 
 
 I love to learn about the history of how things became to be called what they are. They provide little portals into human history, and one never knows where that portal will take them.
 
 ![](https://i.imgur.com/ZfR4CBC.jpeg)
-
+*A little owl perched in an oak that has succumb to brown rot*
 
 ---
 Created by Niall Bell (niall@niallbell.com)
