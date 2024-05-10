@@ -17,9 +17,9 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #Birds(8)               |
 | #Music(5)               |
 | #photostory(5)          |
+| #blog(4)                |
 | #composers(4)           |
 | #tech(4)                |
-| #blog(3)                |
 | #BlogPost(3)            |
 | #cameras(3)             |
 | #astrophotography(2)    |
