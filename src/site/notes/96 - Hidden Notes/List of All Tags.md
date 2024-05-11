@@ -8,7 +8,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 
 | Tags                    |
 | ----------------------- |
-| #nature(35)             |
+| #nature(36)             |
 | #photography(35)        |
 | #wildlife(30)           |
 | #books(22)              |
@@ -22,22 +22,24 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #tech(4)                |
 | #BlogPost(3)            |
 | #cameras(3)             |
+| #Nature(3)              |
 | #astrophotography(2)    |
+| #Atmosphere(2)          |
 | #Camera(2)              |
 | #drone(2)               |
-| #Nature(2)              |
 | #Photography(2)         |
 | #space(2)               |
 | #sustainability(2)      |
 | #Tech(2)                |
 | #tigers(2)              |
+| #weather(2)             |
 | #ai(1)                  |
 | #AI(1)                  |
 | #analogue(1)            |
 | #analoguephotography(1) |
 | #analouge(1)            |
 | #architecture(1)        |
-| #Atmosphere(1)          |
+| #auroraborealis(1)      |
 | #Baroque(1)             |
 | #birds(1)               |
 | #britishbirds(1)        |
@@ -64,6 +66,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #littleowl(1)           |
 | #microscope(1)          |
 | #music(1)               |
+| #northernlights(1)      |
 | #phones(1)              |
 | #photofeed(1)           |
 | #photomicrography(1)    |
@@ -72,7 +75,6 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #streetphotography(1)   |
 | #travel(1)              |
 | #waste(1)               |
-| #weather(1)             |
 | #Wildlife(1)            |
 
 { .block-language-dataview}
