@@ -1,16 +1,18 @@
 ---
-{"dg-publish":true,"dg-permalink":"Northern-lights","permalink":"/Northern-lights/","title":"Northern Lights in Doncaster!","tags":["Nature","Atmosphere","northernlights","auroraborealis"],"noteIcon":null,"created":"2024-04-10T00:48:08.561+01:00","updated":"2024-05-11T09:22:37.912+01:00"}
+{"dg-publish":true,"dg-permalink":"northern-lights","permalink":"/northern-lights/","title":"Northern Lights in Doncaster!","tags":["Nature","Atmosphere","northernlights","auroraborealis"],"noteIcon":null,"created":"2024-04-10T00:48:08.000+01:00","updated":"2024-05-11T10:10:26.713+01:00"}
 ---
 
 #nature #weather #northernlights #auroraborealis
 # Northern Lights in Doncaster☁️
 <p id="reading-time" style="font-style: italic;">⏱️ Approx Reading Time:  <span id="inserted-text"></span> mins</p>
->[!TIP] Hello!
->You’re probably here because you searched for Northern Lights Doncaster. I’ll update this in the morning but I wanted to share something.
 
-In the early hours, 11th May 2024, the UK was treated to a Northern Lights bonanza! I’ve seen the Northern Lights in Iceland and this nearly beat that! 
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/1Zj3isOlYgY?si=n7Irp6urERQJ-zlb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-What was odd was how the lights seemed to originate from directly above me.
+In the early hours, 11th May 2024, the Northern Hemisphere was treated to a Northern Lights bonanza! I’m fortunate enough to have seen the Northern Lights in Iceland but seeing it on my doorstep was special. This isn’t the first time I’ve seen the Aurora at home, but it’s definitely the most prominent!
+
+What I found particularly odd was the way in which the streaks of light seemed to originate from directly above us. It was incredible to witness!
+
+> Perhaps the most enchanting part of seeing the Aurora is that it’s a visual example of the Earth protecting us from what would otherwise wreak havoc on much of what we take for granted. We should definitely engage in visual action to protect the Earth, no?
 
 ![](https://i.imgur.com/9DONEvA.jpeg)*Northern Lights, aka Aurora Borealis, photographed from a Doncaster garden*
 
@@ -26,22 +28,25 @@ Oxygen molecules emit a green light and with nitrogen emitting a blue/purple glo
 
 ## Summary
 
-So in summary we have these high energy particles blasted towards us from the sun, the Earth does what it can to protect us but ultimately some make it down to the atmosphere where they cause gasses to emit photons that we can see. 
+So in summary we have these high energy particles blasted towards us from the sun, the Earth does what it can to protect us but ultimately some make it down to the atmosphere where they cause gasses to emit photons that we can see. How cool is that?
 
-How cool is that?
+## Final Note
 
-A final note, I think this is a great example of how the Earth is a living and breathing system, working to protect us. And yet we destroy it a little more each day. We have something special to protect so let’s all do our bit!
+I think this is a great example of how the Earth is a living and breathing system, working to protect us. And yet we destroy it a little more each day. We have something special to protect so let’s all do our bit!
 
 ## More Photos
 
 ![](https://i.imgur.com/xYlCX17.jpeg)
-*Aurora Borealis - Doncaster*
+*Aurora Borealis - Doncaster 2024*
 
 ![](https://i.imgur.com/E7Ita1H.jpeg)
-*Aurora Borealis - Doncaster*
+*Aurora Borealis - Doncaster 2024*
 
 ![](https://i.imgur.com/tCR7wyk.jpeg)
-*Aurora Borealis - Doncaster*
+*Aurora Borealis - Doncaster 2024*
+
+![](https://i.imgur.com/ugwhsrG.jpeg)
+*My first experience of the Aurora Borealis - Iceland 2016*
 
 ---
 Created by Niall Bell (niall@niallbell.com)
