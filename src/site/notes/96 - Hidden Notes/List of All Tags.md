@@ -20,11 +20,11 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #blog(4)                |
 | #composers(4)           |
 | #tech(4)                |
-| #BlogPost(3)            |
 | #cameras(3)             |
 | #Nature(3)              |
 | #astrophotography(2)    |
 | #Atmosphere(2)          |
+| #BlogPost(2)            |
 | #Camera(2)              |
 | #conservation(2)        |
 | #drone(2)               |
