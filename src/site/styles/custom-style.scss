@@ -212,12 +212,12 @@ body {
     }
 
     /* Light mode */
-    .wl-header.item3 {
-      border-bottom: 1px solid black);
+    .wl-header {
+      border-bottom: 1px solid black;
     }
     
     /* Dark mode */
-    body.theme-dark .wl-header.item3 {
+    body.theme-dark .wl-header {
       border-bottom: 1px solid white;
     }
 
