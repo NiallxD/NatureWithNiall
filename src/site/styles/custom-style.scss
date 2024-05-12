@@ -275,10 +275,13 @@ body {
           width: 760px;
     }
 
-    .wl-actions .wl-action, .wl-info .wl-btn:first-child, .wl-info .wl-text-number, .wl-meta, .wl-power, .wl-comment-actions, .wl-meta-head {
+    .wl-actions .wl-action, .wl-info .wl-text-number, .wl-meta, .wl-power, .wl-comment-actions, .wl-meta-head {
           display: none;
     }
-
+    
+    button[type="button"].wl-btn {
+    display: none;
+    }
 
     /* Light mode */
     .wl-header {
