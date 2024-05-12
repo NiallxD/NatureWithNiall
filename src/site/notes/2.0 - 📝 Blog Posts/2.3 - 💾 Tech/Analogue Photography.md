@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"analogue-photography","permalink":"/analogue-photography/","title":"Analogue Photography","tags":["blog","photography","analogue","analoguephotography"],"noteIcon":null,"created":"2024-05-02T22:18:40.381+01:00","updated":"2024-05-12T21:57:05.983+01:00"}
+{"dg-publish":true,"dg-permalink":"analogue-photography","permalink":"/analogue-photography/","title":"Analogue Photography","hide":true,"tags":["blog","photography","analogue","analoguephotography"],"noteIcon":null,"created":"2024-05-02T22:18:40.381+01:00","updated":"2024-05-12T22:01:07.497+01:00"}
 ---
 
 #photography #analoguephotography #analogue 
