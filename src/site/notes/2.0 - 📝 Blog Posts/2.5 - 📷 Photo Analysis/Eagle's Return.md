@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"michael-collins-eagles-return","permalink":"/michael-collins-eagles-return/","title":"Eagle's Return","tags":["photography","photostory","astrophotography","space"],"noteIcon":null,"created":"2024-04-22T19:31:47.702+01:00","updated":"2024-05-05T00:36:33.068+01:00"}
+{"dg-publish":true,"dg-permalink":"michael-collins-eagles-return","permalink":"/michael-collins-eagles-return/","title":"Eagle's Return","tags":["photography","photostory","astrophotography","space"],"noteIcon":null,"created":"2024-04-22T19:31:47.702+01:00","updated":"2024-05-12T21:57:26.209+01:00"}
 ---
 
 #photography #photostory #astrophotography #space 
@@ -29,5 +29,20 @@ Collins was often dubbed the loneliest man in the world during and after his tri
 
 [^1]: Photo credit remains that of NASA. Original photograph taken 21 July 1969 and scanned 10 October 2017.
 
+---
+### Comments
+
+If you want to share some comments, please do! You can common anonymously if you like, or you can pop your name in there. Either way, comments here are simple!
+
+
+<div id="waline"></div>
+<script type="module">
+	import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+	init({
+	  el: '#waline',
+	  serverURL: 'https://niallscavecomments.vercel.app/',
+	  lang: 'en',
+	});
+</script>
 ---
 Created by Niall Bell (niall@niallbell.com)
