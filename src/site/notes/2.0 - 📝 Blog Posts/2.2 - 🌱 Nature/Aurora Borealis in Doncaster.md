@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"northern-lights","permalink":"/northern-lights/","title":"Northern Lights in Doncaster!","tags":["Nature","Atmosphere","northernlights","auroraborealis"],"noteIcon":null,"created":"2024-04-10T00:48:08.000+01:00","updated":"2024-05-12T16:50:28.019+01:00"}
+{"dg-publish":true,"dg-permalink":"northern-lights","permalink":"/northern-lights/","title":"Northern Lights in Doncaster!","tags":["Nature","Atmosphere","northernlights","auroraborealis"],"noteIcon":null,"created":"2024-04-10T00:48:08.000+01:00","updated":"2024-05-12T17:02:58.137+01:00"}
 ---
 
 #nature #weather #northernlights #auroraborealis
@@ -49,17 +49,17 @@ I think this is a great example of how the Earth is a living and breathing syste
 *My first experience of the Aurora Borealis - Iceland 2016*
 
 
-<div id="vcomment"></div>
+<div id="comment-section"></div>
 <script>
-	new Valine({
-		el: '#vcomment' ,
-		appId: 'GoMDu0kOau3J3z9oHxLv2f7T-MdYXbMMI',
-		appKey: 'fgD3snItAbb0gAfNj2ju5rbb',
-		lang: 'en',
-		placeholder: 'Please type your comment here!',
-		visitor: true
-	});
+initComments({
+  node: document.getElementById("comment-section"),
+  defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+  serverName: "cactus.chat",
+  siteName: "<niallbell.com>",
+  commentSectionId: "section1"
+})
 </script>
+
 
 ---
 Created by Niall Bell (niall@niallbell.com)
