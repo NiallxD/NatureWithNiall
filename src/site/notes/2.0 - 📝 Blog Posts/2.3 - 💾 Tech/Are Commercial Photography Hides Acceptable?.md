@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"are-commercial-photography-hides-acceptable","permalink":"/are-commercial-photography-hides-acceptable/","title":"Are Commercial Photography Hides Acceptable?","tags":["photography"],"noteIcon":null,"created":"2024-04-15T23:32:23.178+01:00","updated":"2024-05-05T00:36:10.537+01:00"}
+{"dg-publish":true,"dg-permalink":"are-commercial-photography-hides-acceptable","permalink":"/are-commercial-photography-hides-acceptable/","title":"Are Commercial Photography Hides Acceptable?","tags":["photography"],"noteIcon":null,"created":"2024-04-15T23:32:23.178+01:00","updated":"2024-05-12T21:57:09.398+01:00"}
 ---
 
 #photography #wildlife #ethics
@@ -148,5 +148,20 @@ If you made it this far, well done. This was a bit of a rant, a bit of self expl
 
 Niall,
 
+---
+### Comments
+
+If you want to share some comments, please do! You can common anonymously if you like, or you can pop your name in there. Either way, comments here are simple!
+
+
+<div id="waline"></div>
+<script type="module">
+	import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+	init({
+	  el: '#waline',
+	  serverURL: 'https://niallscavecomments.vercel.app/',
+	  lang: 'en',
+	});
+</script>
 ---
 Created by Niall Bell (niall@niallbell.com)
