@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"ecotalk-a-greener-phone-network","permalink":"/ecotalk-a-greener-phone-network/","title":"EcoTalk: A Greener Phone Network","tags":["Tech"],"noteIcon":null,"created":"2024-04-15T23:11:13.210+01:00","updated":"2024-05-05T00:36:29.166+01:00"}
+{"dg-publish":true,"dg-permalink":"ecotalk-a-greener-phone-network","permalink":"/ecotalk-a-greener-phone-network/","title":"EcoTalk: A Greener Phone Network","tags":["Tech"],"noteIcon":null,"created":"2024-04-15T23:11:13.210+01:00","updated":"2024-05-12T21:57:23.558+01:00"}
 ---
 
 #tech #sustainability #phones
@@ -50,5 +50,20 @@ And with that, I’ll wrap it up. I wanted to share a bit about my experience wi
 
 Niall
 
+---
+### Comments
+
+If you want to share some comments, please do! You can common anonymously if you like, or you can pop your name in there. Either way, comments here are simple!
+
+
+<div id="waline"></div>
+<script type="module">
+	import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+	init({
+	  el: '#waline',
+	  serverURL: 'https://niallscavecomments.vercel.app/',
+	  lang: 'en',
+	});
+</script>
 ---
 Created by Niall Bell (niall@niallbell.com)
