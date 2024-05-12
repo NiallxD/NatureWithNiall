@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"northern-lights","permalink":"/northern-lights/","title":"Northern Lights in Doncaster!","tags":["Nature","Atmosphere","northernlights","auroraborealis"],"noteIcon":null,"created":"2024-04-10T00:48:08.000+01:00","updated":"2024-05-12T19:16:36.247+01:00"}
+{"dg-publish":true,"dg-permalink":"northern-lights","permalink":"/northern-lights/","title":"Northern Lights in Doncaster!","tags":["Nature","Atmosphere","northernlights","auroraborealis"],"noteIcon":null,"created":"2024-04-10T00:48:08.000+01:00","updated":"2024-05-12T20:20:44.100+01:00"}
 ---
 
 #nature #weather #northernlights #auroraborealis
@@ -58,7 +58,6 @@ I think this is a great example of how the Earth is a living and breathing syste
 	  el: '#waline',
 	  serverURL: 'https://niallscavecomments.vercel.app/',
 	  lang: 'en',
-	  dark: 'auto'
 	});
 </script>
 
