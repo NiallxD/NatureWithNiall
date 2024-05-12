@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-05-12T12:15:42.766+01:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-05-12T21:56:34.869+01:00"}
 ---
 
 #photography #photofeed
@@ -189,6 +189,21 @@ It's important to note that these aren't portfolio images but instead are photos
 > 
 
 
+---
+### Comments
+
+If you want to share some comments, please do! You can common anonymously if you like, or you can pop your name in there. Either way, comments here are simple!
+
+
+<div id="waline"></div>
+<script type="module">
+	import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+	init({
+	  el: '#waline',
+	  serverURL: 'https://niallscavecomments.vercel.app/',
+	  lang: 'en',
+	});
+</script>
 ---
 📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]].
 Created by Niall Bell (niall@niallbell.com)
