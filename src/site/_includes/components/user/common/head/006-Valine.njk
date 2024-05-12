@@ -1,1 +1,0 @@
-<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
