@@ -283,16 +283,6 @@ body {
     display: none;
     }
 
-    /* Light mode */
-    .wl-header {
-      border-bottom: 1px solid black;
-    }
-    
-    /* Dark mode */
-    body.theme-dark .wl-header {
-      border-bottom: 1px solid white;
-    }
-
     
     .timestamps {
         display: flex;
