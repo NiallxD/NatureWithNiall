@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"an-open-letter-to-ywp","permalink":"/an-open-letter-to-ywp/","title":"An Open Letter to YWP","tags":["conservation","nature","wildlife","photography"],"noteIcon":"1","created":"2024-05-12T11:37:46.477+01:00","updated":"2024-05-12T12:00:08.946+01:00"}
+{"dg-publish":true,"dg-permalink":"an-open-letter-to-ywp","permalink":"/an-open-letter-to-ywp/","title":"An Open Letter to YWP","tags":["conservation","nature","wildlife","photography"],"noteIcon":"1","created":"2024-05-12T11:37:46.477+01:00","updated":"2024-05-12T21:56:43.823+01:00"}
 ---
 
 #conservation #nature #wildlife #photography 
@@ -120,5 +120,20 @@ Here are the issues for which I've been advocating for change. Some are bespoke 
 [^14]: When justifying the importance of the Big Wheel, YWP stated it is crucial to the parks success.  This is contained in planning documents on the Doncaster Council Planning Portal.
 
 
+---
+### Comments
+
+If you want to share some comments, please do! You can common anonymously if you like, or you can pop your name in there. Either way, comments here are simple!
+
+
+<div id="waline"></div>
+<script type="module">
+	import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+	init({
+	  el: '#waline',
+	  serverURL: 'https://niallscavecomments.vercel.app/',
+	  lang: 'en',
+	});
+</script>
 ---
 Created by Niall Bell (niall@niallbell.com)
