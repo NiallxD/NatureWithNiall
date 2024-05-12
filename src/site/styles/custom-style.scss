@@ -203,20 +203,22 @@ body {
           display: none;
     }
 
-    #wl-edit, #wl-btn, #wl-actions, #wl-browser, #wl-os, #wl-power {
+    #wl-edit {
           width: 760px;
+    }
+
+    #wl-btn, #wl-actions, #wl-browser, #wl-os, #wl-power {
+        display: none;
     }
 
     /* Light mode */
     .wl-header.item3 {
-          border-bottom: 1px solid black;
+      border-bottom: 1px solid black);
     }
     
     /* Dark mode */
-    @media (prefers-color-scheme: dark) {
-            .wl-header.item3 {
-             border-bottom: 1px solid white;
-      }
+    body.theme-dark .wl-header.item3 {
+      border-bottom: 1px solid white;
     }
 
     
