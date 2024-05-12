@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"analogue-photography","permalink":"/analogue-photography/","title":"Analogue Photography","tags":["blog","photography","analogue","analoguephotography"],"noteIcon":null,"created":"2024-05-02T22:18:40.381+01:00","updated":"2024-05-09T13:50:41.217+01:00"}
+{"dg-publish":true,"dg-permalink":"analogue-photography","permalink":"/analogue-photography/","title":"Analogue Photography","tags":["blog","photography","analogue","analoguephotography"],"noteIcon":null,"created":"2024-05-02T22:18:40.381+01:00","updated":"2024-05-12T21:57:05.983+01:00"}
 ---
 
 #photography #analoguephotography #analogue 
@@ -120,5 +120,20 @@ To end with a quote, because we all love a quote but also I think this is quite 
 >[!QUOTE] Susan Sontag - On Photography:
 >*"All photographs are memento mori. To take a photograph is to participate in another person’s (or thing’s) mortality, vulnerability, mutability. Precisely by slicing out this moment and freezing it, all photographs testify to time’s relentless melt."*
 
+---
+### Comments
+
+If you want to share some comments, please do! You can common anonymously if you like, or you can pop your name in there. Either way, comments here are simple!
+
+
+<div id="waline"></div>
+<script type="module">
+	import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+	init({
+	  el: '#waline',
+	  serverURL: 'https://niallscavecomments.vercel.app/',
+	  lang: 'en',
+	});
+</script>
 ---
 Created by Niall Bell (niall@niallbell.com)
