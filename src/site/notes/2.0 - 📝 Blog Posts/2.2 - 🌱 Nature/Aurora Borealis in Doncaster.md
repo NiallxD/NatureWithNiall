@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"northern-lights","permalink":"/northern-lights/","title":"Northern Lights in Doncaster!","tags":["Nature","Atmosphere","northernlights","auroraborealis"],"noteIcon":null,"created":"2024-04-10T00:48:08.000+01:00","updated":"2024-05-12T17:54:08.480+01:00"}
+{"dg-publish":true,"dg-permalink":"northern-lights","permalink":"/northern-lights/","title":"Northern Lights in Doncaster!","tags":["Nature","Atmosphere","northernlights","auroraborealis"],"noteIcon":null,"created":"2024-04-10T00:48:08.000+01:00","updated":"2024-05-12T18:06:08.562+01:00"}
 ---
 
 #nature #weather #northernlights #auroraborealis
@@ -48,6 +48,7 @@ I think this is a great example of how the Earth is a living and breathing syste
 ![](https://i.imgur.com/ugwhsrG.jpeg)
 *My first experience of the Aurora Borealis - Iceland 2016*
 
+---
 
 <div id="waline"></div>
 <script type="module">
@@ -56,9 +57,9 @@ I think this is a great example of how the Earth is a living and breathing syste
 	  el: '#waline',
 	  serverURL: 'https://niallscavecomments.vercel.app/',
 	  lang: 'en',
+	  dark: 'auto'
 	});
 </script>
-
 
 ---
 Created by Niall Bell (niall@niallbell.com)
