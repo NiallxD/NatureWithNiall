@@ -192,14 +192,20 @@ body {
         @media (max-width: 800px) {
             margin-top: 75px;
         }
+        
+    /* CSS for the comments section */
+    
     }
-
     .wl-header-item label[for="wl-mail"],
     .wl-header-item .wl-mail,
     .wl-header-item label[for="wl-link"],
     .wl-header-item .wl-link {
           display: none;
     }
+
+    #wl-edit {
+          width: 760px;
+}
 
 
     
