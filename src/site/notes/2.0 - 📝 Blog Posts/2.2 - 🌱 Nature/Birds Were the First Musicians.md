@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"birds-are-musicians","permalink":"/birds-are-musicians/","title":"Birds Were the First Musicians","tags":["Birds","Music"],"noteIcon":null,"created":"2024-04-29T12:49:03.131+01:00","updated":"2024-05-05T00:39:53.161+01:00"}
+{"dg-publish":true,"dg-permalink":"birds-are-musicians","permalink":"/birds-are-musicians/","title":"Birds Were the First Musicians","tags":["Birds","Music"],"noteIcon":null,"created":"2024-04-29T12:49:03.131+01:00","updated":"2024-05-12T19:17:05.564+01:00"}
 ---
 
 #wildlife #nature #Birds #Music   
@@ -97,5 +97,20 @@ So there you have it, birds invented music and Beethoven probably plagiarised th
 
 [^1]: Was Beethoven a Bird Watcher? David Turner. Kindle Edition.
 [^2]: Beethoven (p. 335). Elliott & Thompson. Kindle Edition.
+
+---
+### Comments
+
+<div id="waline"></div>
+<script type="module">
+	import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+	init({
+	  el: '#waline',
+	  serverURL: 'https://niallscavecomments.vercel.app/',
+	  lang: 'en',
+	  dark: 'auto'
+	});
+</script>
+
 ---
 Created by Niall Bell (niall@niallbell.com)
