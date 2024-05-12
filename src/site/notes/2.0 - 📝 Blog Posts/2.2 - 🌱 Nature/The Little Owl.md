@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"The-little-owl","permalink":"/The-little-owl/","title":"Etymology: The Little Owl","tags":["Nature","Birds"],"noteIcon":null,"created":"2024-04-10T00:48:08.000+01:00","updated":"2024-05-12T21:57:01.644+01:00"}
+{"dg-publish":true,"dg-permalink":"The-little-owl","permalink":"/The-little-owl/","title":"Etymology: The Little Owl","hide":true,"tags":["Nature","Birds"],"noteIcon":null,"created":"2024-04-10T00:48:08.000+01:00","updated":"2024-05-12T22:01:05.661+01:00"}
 ---
 
 #nature #birds #littleowl #etymology 
