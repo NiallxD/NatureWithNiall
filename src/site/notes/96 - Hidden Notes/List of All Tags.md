@@ -8,9 +8,9 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 
 | Tags                    |
 | ----------------------- |
-| #nature(36)             |
-| #photography(35)        |
-| #wildlife(30)           |
+| #nature(37)             |
+| #photography(36)        |
+| #wildlife(31)           |
 | #books(22)              |
 | #reading(22)            |
 | #bookshelf(21)          |
@@ -26,6 +26,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #astrophotography(2)    |
 | #Atmosphere(2)          |
 | #Camera(2)              |
+| #conservation(2)        |
 | #drone(2)               |
 | #Photography(2)         |
 | #space(2)               |
@@ -48,7 +49,6 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #cats(1)                |
 | #classical(1)           |
 | #computers(1)           |
-| #conservation(1)        |
 | #deer(1)                |
 | #dipper(1)              |
 | #environment(1)         |
