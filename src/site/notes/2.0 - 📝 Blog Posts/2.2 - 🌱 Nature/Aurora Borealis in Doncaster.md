@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"northern-lights","permalink":"/northern-lights/","title":"Northern Lights in Doncaster!","tags":["Nature","Atmosphere","northernlights","auroraborealis"],"noteIcon":null,"created":"2024-04-10T00:48:08.000+01:00","updated":"2024-05-12T16:20:18.982+01:00"}
+{"dg-publish":true,"dg-permalink":"northern-lights","permalink":"/northern-lights/","title":"Northern Lights in Doncaster!","tags":["Nature","Atmosphere","northernlights","auroraborealis"],"noteIcon":null,"created":"2024-04-10T00:48:08.000+01:00","updated":"2024-05-12T16:31:42.978+01:00"}
 ---
 
 #nature #weather #northernlights #auroraborealis
@@ -48,22 +48,16 @@ I think this is a great example of how the Earth is a living and breathing syste
 ![](https://i.imgur.com/ugwhsrG.jpeg)
 *My first experience of the Aurora Borealis - Iceland 2016*
 
-<script src="https://giscus.app/client.js"
-        data-repo="NiallxD/NatureWithNiall"
-        data-repo-id="R_kgDOLrJVAA"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOLrJVAM4CfTp0"
-        data-mapping="url"
-        data-strict="1"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
+
+<script>
+    var valine = new Valine();
+    valine.init({
+        el:'#vcomment',
+        appId:'GoMDu0kOau3J3z9oHxLv2f7T-MdYXbMMI',
+        appKey:'fgD3snItAbb0gAfNj2ju5rbb'
+    })
 </script>
+
 
 ---
 Created by Niall Bell (niall@niallbell.com)
