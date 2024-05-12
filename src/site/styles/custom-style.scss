@@ -193,6 +193,15 @@ body {
             margin-top: 75px;
         }
     }
+
+    .wl-header-item label[for="wl-mail"],
+    .wl-header-item .wl-mail,
+    .wl-header-item label[for="wl-link"],
+    .wl-header-item .wl-link {
+          display: none;
+    }
+
+
     
     .timestamps {
         display: flex;
