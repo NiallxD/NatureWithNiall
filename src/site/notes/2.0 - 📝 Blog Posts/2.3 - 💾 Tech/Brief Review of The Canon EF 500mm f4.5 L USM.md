@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"brief-review-of-the-canon-ef-500mm-f-4-5-l-usm","permalink":"/brief-review-of-the-canon-ef-500mm-f-4-5-l-usm/","title":"Brief Review of The Canon EF 500mm f/4.5 L USM","tags":["Camera","Photography"],"noteIcon":null,"created":"2024-04-15T22:30:13.519+01:00","updated":"2024-05-05T00:36:14.793+01:00"}
+{"dg-publish":true,"dg-permalink":"brief-review-of-the-canon-ef-500mm-f-4-5-l-usm","permalink":"/brief-review-of-the-canon-ef-500mm-f-4-5-l-usm/","title":"Brief Review of The Canon EF 500mm f/4.5 L USM","tags":["Camera","Photography"],"noteIcon":null,"created":"2024-04-15T22:30:13.519+01:00","updated":"2024-05-12T21:57:12.450+01:00"}
 ---
 
 #tech #cameras #photography 
@@ -88,5 +88,20 @@ If your looking for a fast canon prime but don’t want to shell out nearly £2k
 - The lens is a bit front heavy but in practice, it makes no odds
 - Overall image quality is what you’d expect from a Canon L lens
 
+---
+### Comments
+
+If you want to share some comments, please do! You can common anonymously if you like, or you can pop your name in there. Either way, comments here are simple!
+
+
+<div id="waline"></div>
+<script type="module">
+	import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+	init({
+	  el: '#waline',
+	  serverURL: 'https://niallscavecomments.vercel.app/',
+	  lang: 'en',
+	});
+</script>
 ---
 Created by Niall Bell (niall@niallbell.com)
