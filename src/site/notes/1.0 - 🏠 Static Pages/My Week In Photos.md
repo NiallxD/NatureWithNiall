@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-05-10T21:54:46.355+01:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-05-12T12:15:42.766+01:00"}
 ---
 
 #photography #photofeed
@@ -11,7 +11,30 @@ It's important to note that these aren't portfolio images but instead are photos
 
 📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]] to get a email when I share new updates!
 
-> [!tip]+ WC 29th April 2024
+> [!tip]+ WC 6th May 2024
+> This week started off pretty normal but turned quite extraordinary at the weekend!
+> 
+> There is some really special images here this week so I hope you enjoy!
+> 
+> #### Dipper Chicks!
+> 
+> I've been following a family of dippers for about 5 weeks now, and on Friday I headed over to see how they were doing. Much to my amazement I was able to photograph one of the dipper chicks perched at the entrance to the nest hole! How amazing to be able to see this!
+>
+>![](https://i.imgur.com/28al9Ob.jpeg)
+> 
+> #### Hungry Garden Warbler
+> 
+> If you have ever tried to spot one of the many warblers that grace our bushes, reeds and tree this time of year, you'll know how difficult they can be to photograph. I was walking home one evening when I heard the delightful song of a garden warbler. I was then lucky enough to photograph it with a small red damselfly in its bill. This was also a lifer for me ([check out my photographic life list here](https://niallbell.com/photographic-life-list/).
+>
+>![](https://i.imgur.com/06HrpqL.jpeg)
+>
+> #### Aurora Borealise
+> 
+>I wasn't alone with this one. Thousands of people across the UK were able to witness the incredible Northern Lights in the early hours of Saturday morning. It was an incredible show and I'm so glad that so many people were able to observe such an incredible natural phenomenon. Check out my blog posts for more photos - [[2.0 - 📝 Blog Posts/2.2 - 🌱 Nature/Aurora Borealis in Doncaster\|Aurora Borealis in Doncaster]].
+>
+>![](https://i.imgur.com/DJutCGg.jpeg)
+
+> [!tip]- WC 29th April 2024
 > Ok, so two weeks ago, my local zoo effectively banned me from visiting by revoking my annual pass membership and offering me a partial refund; I'm yet to get the refund. Anyway, this has meant that I've been exploring other local spots more, it's been a pleasure for sure! This week has been predominantly Potteric Carr, which is less than a mile from my house.
 > 
 > Although the dippers don't feature in this weeks feed, I have been photographing them and they are busier than ever feeding their chicks! You can now hear the chicks calling for feed when an adult pops into the nest hole. I love it!
