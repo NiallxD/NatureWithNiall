@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/2-2-nature/cloudspotting/","tags":["Nature","Atmosphere"],"noteIcon":null,"created":"2024-04-10T00:48:08.000+01:00","updated":"2024-05-05T00:34:53.949+01:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/2-2-nature/cloudspotting/","tags":["Nature","Atmosphere"],"noteIcon":null,"created":"2024-04-10T00:48:08.000+01:00","updated":"2024-05-12T21:56:53.065+01:00"}
 ---
 
 #nature #weather
@@ -70,5 +70,20 @@ So, this was a whistle stop note sharing some info about clouds. I hope you were
 
 **I'd just like to point out that I'm position 29 in the WORLD for cloudspotting on the cloudspotting leaderboard. This might not seem impressive but let me tell you right now...it is. I will climb the leaderboard some more but in order to do so I need to visit the Southern Hemisphere, spot a cloud on Antarctica and experience a tornado. I'm working on it.** 
 
+---
+### Comments
+
+If you want to share some comments, please do! You can common anonymously if you like, or you can pop your name in there. Either way, comments here are simple!
+
+
+<div id="waline"></div>
+<script type="module">
+	import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+	init({
+	  el: '#waline',
+	  serverURL: 'https://niallscavecomments.vercel.app/',
+	  lang: 'en',
+	});
+</script>
 ---
 Created by Niall Bell (niall@niallbell.com)
