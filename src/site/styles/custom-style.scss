@@ -203,10 +203,21 @@ body {
           display: none;
     }
 
-    #wl-edit {
+    #wl-edit, #wl-btn, #wl-actions, #wl-browser, #wl-os, #wl-power {
           width: 760px;
-}
+    }
 
+    /* Light mode */
+    .wl-header.item3 {
+          border-bottom: 1px solid black;
+    }
+    
+    /* Dark mode */
+    @media (prefers-color-scheme: dark) {
+            .wl-header.item3 {
+             border-bottom: 1px solid white;
+      }
+    }
 
     
     .timestamps {
