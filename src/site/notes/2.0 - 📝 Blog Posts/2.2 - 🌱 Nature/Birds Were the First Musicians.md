@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"birds-are-musicians","permalink":"/birds-are-musicians/","title":"Birds Were the First Musicians","tags":["Birds","Music"],"noteIcon":null,"created":"2024-04-29T12:49:03.131+01:00","updated":"2024-05-12T20:20:38.069+01:00"}
+{"dg-publish":true,"dg-permalink":"birds-are-musicians","permalink":"/birds-are-musicians/","title":"Birds Were the First Musicians","tags":["Birds","Music"],"noteIcon":null,"created":"2024-04-29T12:49:03.131+01:00","updated":"2024-05-12T21:56:50.365+01:00"}
 ---
 
 #wildlife #nature #Birds #Music   
@@ -100,6 +100,9 @@ So there you have it, birds invented music and Beethoven probably plagiarised th
 
 ---
 ### Comments
+
+If you want to share some comments, please do! You can common anonymously if you like, or you can pop your name in there. Either way, comments here are simple!
+
 
 <div id="waline"></div>
 <script type="module">
