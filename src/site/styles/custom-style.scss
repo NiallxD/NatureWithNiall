@@ -174,7 +174,7 @@ body.theme-light {
   --waline-dark-grey: #666;
 
   /* Theme Color */
-  --waline-theme-color: #27ae60;
+  --waline-theme-color: #EE7D38;
   --waline-active-color: #2ecc71;
 
   /* Layout Color */
@@ -281,6 +281,27 @@ body {
     
     button[type="button"].wl-btn {
     display: none;
+    }
+
+    .wl-header {
+    display: flex;
+    overflow: hidden;
+    padding: 10px;
+    border-bottom: 1px solid var(--waline-border-color);
+    border-top-left-radius: .75em;
+    border-top-right-radius: .75em;
+    }
+
+    .wl-header label {
+    min-width: 40px;
+    padding: .75em .5em;
+    color: var(--waline-color);
+    font-size: .75em;
+    text-align: center;
+    }
+
+    [data-waline] input {
+    line-height: 0; /* Adjust this value as needed */
     }
 
     
