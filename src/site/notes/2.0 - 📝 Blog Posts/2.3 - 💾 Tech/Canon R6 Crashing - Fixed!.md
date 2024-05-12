@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/2-3-tech/canon-r6-crashing-fixed/","tags":["Camera","Photography"],"noteIcon":null,"created":"2024-04-07T22:26:35.031+01:00","updated":"2024-05-05T00:36:26.598+01:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/2-3-tech/canon-r6-crashing-fixed/","tags":["Camera","Photography"],"noteIcon":null,"created":"2024-04-07T22:26:35.031+01:00","updated":"2024-05-12T21:57:19.845+01:00"}
 ---
 
 #tech #cameras #photography
@@ -51,6 +51,21 @@ That’s all folks!
 Niall
 
 
+---
+### Comments
+
+If you want to share some comments, please do! You can common anonymously if you like, or you can pop your name in there. Either way, comments here are simple!
+
+
+<div id="waline"></div>
+<script type="module">
+	import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+	init({
+	  el: '#waline',
+	  serverURL: 'https://niallscavecomments.vercel.app/',
+	  lang: 'en',
+	});
+</script>
 ---
 #BlogPost 
 Date Created: 07/04/2024
