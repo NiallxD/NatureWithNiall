@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"northern-lights","permalink":"/northern-lights/","title":"Northern Lights in Doncaster!","tags":["Nature","Atmosphere","northernlights","auroraborealis"],"noteIcon":null,"created":"2024-04-10T00:48:08.000+01:00","updated":"2024-05-12T17:19:45.213+01:00"}
+{"dg-publish":true,"dg-permalink":"northern-lights","permalink":"/northern-lights/","title":"Northern Lights in Doncaster!","tags":["Nature","Atmosphere","northernlights","auroraborealis"],"noteIcon":null,"created":"2024-04-10T00:48:08.000+01:00","updated":"2024-05-12T17:47:15.621+01:00"}
 ---
 
 #nature #weather #northernlights #auroraborealis
@@ -49,17 +49,16 @@ I think this is a great example of how the Earth is a living and breathing syste
 *My first experience of the Aurora Borealis - Iceland 2016*
 
 
-<div id="comment-section"></div>
-<script>
-initComments({
-  node: document.getElementById("comment-section"),
-  defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
-  serverName: "cactus.chat",
-  siteName: "niallbell.com",
-  loginEnabled: false,
-  commentSectionId: "section1"
-})
-</script>
+<div id="waline"></div>
+  <script type="module">
+    import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+
+    init({
+      el: '#waline',
+      serverURL: 'https://niallscavecomments.vercel.app/',
+      lang: 'en',
+    });
+  </script>
 
 
 ---
