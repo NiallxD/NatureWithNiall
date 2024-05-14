@@ -8,9 +8,9 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 
 | Tags                    |
 | ----------------------- |
-| #nature(37)             |
-| #photography(36)        |
-| #wildlife(31)           |
+| #nature(38)             |
+| #photography(37)        |
+| #wildlife(32)           |
 | #books(22)              |
 | #reading(22)            |
 | #bookshelf(21)          |
@@ -21,13 +21,13 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #composers(4)           |
 | #tech(4)                |
 | #cameras(3)             |
+| #drone(3)               |
 | #Nature(3)              |
 | #astrophotography(2)    |
 | #Atmosphere(2)          |
 | #BlogPost(2)            |
 | #Camera(2)              |
 | #conservation(2)        |
-| #drone(2)               |
 | #Photography(2)         |
 | #space(2)               |
 | #sustainability(2)      |
@@ -54,6 +54,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #environment(1)         |
 | #ethics(1)              |
 | #etymology(1)           |
+| #facebook(1)            |
 | #film(1)                |
 | #fungi(1)               |
 | #galleries(1)           |
@@ -61,6 +62,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #Gardening(1)           |
 | #hireme(1)              |
 | #india(1)               |
+| #instagram(1)           |
 | #lenses(1)              |
 | #lifelist(1)            |
 | #littleowl(1)           |
@@ -71,9 +73,12 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #photofeed(1)           |
 | #photomicrography(1)    |
 | #righttorepair(1)       |
+| #Socialmedia(1)         |
+| #socials(1)             |
 | #street(1)              |
 | #streetphotography(1)   |
 | #travel(1)              |
+| #twitterx(1)            |
 | #waste(1)               |
 | #Wildlife(1)            |
 
