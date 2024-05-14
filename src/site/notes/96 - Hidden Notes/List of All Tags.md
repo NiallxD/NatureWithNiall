@@ -8,9 +8,9 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 
 | Tags                    |
 | ----------------------- |
-| #nature(38)             |
-| #photography(37)        |
-| #wildlife(32)           |
+| #nature(39)             |
+| #photography(38)        |
+| #wildlife(33)           |
 | #books(22)              |
 | #reading(22)            |
 | #bookshelf(21)          |
@@ -66,6 +66,8 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #lenses(1)              |
 | #lifelist(1)            |
 | #littleowl(1)           |
+| #macro(1)               |
+| #macrophotography(1)    |
 | #microscope(1)          |
 | #music(1)               |
 | #northernlights(1)      |
