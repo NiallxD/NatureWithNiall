@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"canada-faq","permalink":"/canada-faq/","title":"Canada Travel FAQ","hide":true,"tags":["BlogPost","blog","travel","canada"],"noteIcon":null,"created":"2024-04-30T08:32:06.000+01:00","updated":"2024-05-12T22:00:35.418+01:00"}
+{"dg-publish":true,"dg-permalink":"canada-faq","permalink":"/canada-faq/","title":"Canada Travel FAQ","hide":true,"tags":["BlogPost","blog","travel","canada"],"noteIcon":null,"created":"2024-04-30T08:32:06.000+01:00","updated":"2024-05-15T23:42:46.289+01:00"}
 ---
 
 #travel #canada
@@ -121,6 +121,25 @@ So I’ve set up this FAQ where I’ll put all the responses to the questions th
 > - securities in bearer form (for example, stocks, bonds, debentures, treasury bills) **or**
 > - bankers’ drafts, cheques, travellers’ cheques or money orders
 
+> [!INFO]- What happens to your student finance?
+> 
+>>Important!
+>>If you are repaying student loads you must contact the agency (SFE for those in England). The thresholds are the same in Canada as they are in England so unless you land a great job, you don't need to worry. But if you don't inform them, they could start charging you a base rate!
+> 
+> ### Contact your student loan company:
+> 
+> 1. For students in England, this is Student Finance England. You can tell them you're travelling and they will ask you to submit proof of salary when you start work. If it's below the threshold, you're good. If it's over the thresholds for your plan, they will arrange a payment plan, usually direct debit.
+>
+> ### What people said:
+>
+>Nobody has brought this up. This was from my own research.
+> 
+> These are the thresholds for each Plan:
+> 
+> 1. Plan 1: [Overseas earnings thresholds for Plan 1 student loans - GOV.UK (www.gov.uk)](https://www.gov.uk/government/publications/overseas-earnings-thresholds-for-plan-1-student-loans)
+> 2. Plan 2: [Overseas earnings thresholds for Plan 2 student loans - GOV.UK (www.gov.uk)](https://www.gov.uk/government/publications/overseas-earnings-thresholds-for-plan-2-student-loans)
+> 3. Post Grad: [Overseas earnings thresholds for postgraduate student loans - GOV.UK (www.gov.uk)](https://www.gov.uk/government/publications/overseas-earnings-thresholds-for-postgraduate-student-loans)
+
 ## Jobs
 
 > [!INFO]- Where to start looking for jobs?
@@ -139,6 +158,21 @@ So I’ve set up this FAQ where I’ll put all the responses to the questions th
 > 1. Depending on your skills/area of expertise, LinkedIn has tonnes of jobs. Too early for me to properly look but a few weeks ago there were at least 15 jobs on there that I’d apply for. There is the Canadian job board too hosted by the gov thats worth checking out. Finally, Indeed looked promising too. Im speaking from zero practical experience tho so take this with a handful of salt.
 > 
 > **Note:** Canadian employers tend to favour those who are in the country. This can make applying for jobs before you arrive futile unless done through a specific route or agency. 
+
+> [!INFO]- How do you go about sorting SIN/PPS numbers?
+> 
+>>Provinces Vary
+>>As is a theme with these things, provinces vary slightly but the overall process is the same.
+> 
+> ### Visit a Government Office:
+> 
+> 1. To obtain your SIN, attend a government office with your passport and work permit and they will register you and provide you with an SIN. 
+> 
+> ### What people said:
+> 
+> 1. Just go into the government office it's very straight forward just give them your visa and passport and they might ask you 1 or 2 questions
+> 
+> **Note:** There are rules for holders of TRPs (temporary resident permits) to keep their SIN up to date so look into what this might entail and if it applies to you.
 
 ## Getting Around
 
@@ -208,5 +242,6 @@ If you want to share some comments, please do! You can common anonymously if you
 	  lang: 'en',
 	});
 </script>
+
 ---
 Created by Niall Bell (niall@niallbell.com)
