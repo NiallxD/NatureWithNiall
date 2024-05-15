@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"ecotalk-a-greener-phone-network","permalink":"/ecotalk-a-greener-phone-network/","title":"EcoTalk: A Greener Phone Network","hide":true,"tags":["Tech"],"noteIcon":null,"created":"2024-04-15T23:11:13.210+01:00","updated":"2024-05-12T22:01:23.836+01:00"}
+{"dg-publish":true,"dg-permalink":"ecotalk-a-greener-phone-network","permalink":"/ecotalk-a-greener-phone-network/","title":"EcoTalk: A Greener Phone Network","hide":true,"tags":["Tech"],"noteIcon":null,"created":"2024-04-15T23:11:13.210+01:00","updated":"2024-05-15T23:30:39.721+01:00"}
 ---
 
 #tech #sustainability #phones
@@ -65,5 +65,6 @@ If you want to share some comments, please do! You can common anonymously if you
 	  lang: 'en',
 	});
 </script>
+
 ---
 Created by Niall Bell (niall@niallbell.com)
