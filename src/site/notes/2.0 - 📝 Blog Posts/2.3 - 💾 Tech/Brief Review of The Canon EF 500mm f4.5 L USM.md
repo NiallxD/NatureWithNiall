@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"brief-review-of-the-canon-ef-500mm-f-4-5-l-usm","permalink":"/brief-review-of-the-canon-ef-500mm-f-4-5-l-usm/","title":"Brief Review of The Canon EF 500mm f/4.5 L USM","hide":true,"tags":["Camera","Photography"],"noteIcon":null,"created":"2024-04-15T22:30:13.519+01:00","updated":"2024-05-12T22:01:11.244+01:00"}
+{"dg-publish":true,"dg-permalink":"brief-review-of-the-canon-ef-500mm-f-4-5-l-usm","permalink":"/brief-review-of-the-canon-ef-500mm-f-4-5-l-usm/","title":"Brief Review of The Canon EF 500mm f/4.5 L USM","hide":true,"tags":["Camera","Photography"],"noteIcon":null,"created":"2024-04-15T22:30:13.519+01:00","updated":"2024-05-15T23:30:32.665+01:00"}
 ---
 
 #tech #cameras #photography 
@@ -103,5 +103,6 @@ If you want to share some comments, please do! You can common anonymously if you
 	  lang: 'en',
 	});
 </script>
+
 ---
 Created by Niall Bell (niall@niallbell.com)
