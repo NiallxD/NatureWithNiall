@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-05-15T23:29:48.478+01:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.000+01:00","updated":"2024-05-19T13:12:05.457+01:00"}
 ---
 
 #photography #photofeed
@@ -11,7 +11,36 @@ It's important to note that these aren't portfolio images but instead are photos
 
 📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]] to get a email when I share new updates!
 
-> [!tip]+ WC 6th May 2024
+> [!tip]+ WC 13th May 2024
+> I didn't manage to get out too much this week due to cracking on with my Uni work and some other commitments, but I did still manage to get 2.5 lifers before Sunday! I'm going to break convention and share four images this week, because I can't not share them!
+> 
+> #### Great White Egret
+> 
+> While not technically the first great white egret I've seen, it was the first I've seen in England. I saw one in Florida in 2016 and while that was my first sighting, it wasn't the best. On 17th, I woke up at 5:30am to ride to a local nature reserve. In the distance I saw what I thought was a swan. On closer inspection I noticed it was standing too tall, this was when I realised it was a great white egret!
+>
+>![](https://i.imgur.com/aTpv0iI.jpeg)
+> 
+> #### Grasshopper Warbler
+> 
+> This one is a lifer for me. I've heard of grasshopper warblers, but I didn't know what they looked or sounded like. I should have known what they looked like...most warblers look identical! On the same morning as the egret, I heard a bird song like nothing else...I had to use Merlin Sound ID to finally figure out what it was, even if in hind-sight it was obvious!
+> 
+![](https://i.imgur.com/u2QqCZH.jpeg)
+> 
+> #### Common Greenshank
+> 
+> The greenshank is one of those birds I ought to have seen before, but haven't. I'm only 35% birder (65% photographer) so there are plenty of birds like this which have escaped my gaze. Regardless, this was a great sighting at Potteric Carr. The heat haze was really bad so the photographs were no good, but I still thought it was worth sharing!
+> 
+> ![](https://i.imgur.com/Zs3jiCx.jpeg)
+>
+> #### Osprey Returns
+> 
+> Here is the bonus image! This time of year, the UK is marked by a whole range of bird migration. One of which is the osprey returning from the south, Africa. I heard reports from the fantastic, and dedicated, birders of Doncaster that an osprey had been spotted at a local spot, I had to go and see it! I hope to get back and see this bird a few more times, but if the chance doesn't arise, I'm still happy with these shots.
+> 
+>![](https://i.imgur.com/3ToR2fb.jpeg)
+>
+
+
+> [!tip]- WC 6th May 2024
 > This week started off pretty normal but turned quite extraordinary at the weekend!
 > 
 > There is some really special images here this week so I hope you enjoy!
