@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"brief-review-of-the-canon-ef-500mm-f-4-5-l-usm","permalink":"/brief-review-of-the-canon-ef-500mm-f-4-5-l-usm/","title":"Brief Review of The Canon EF 500mm f/4.5 L USM","hide":true,"tags":["Camera","Photography"],"noteIcon":null,"created":"2024-04-15T22:30:13.000+01:00","updated":"2024-05-15T23:30:32.000+01:00"}
+{"dg-publish":true,"dg-permalink":"brief-review-of-the-canon-ef-500mm-f-4-5-l-usm","permalink":"/brief-review-of-the-canon-ef-500mm-f-4-5-l-usm/","title":"Brief Review of The Canon EF 500mm f/4.5 L USM","hide":true,"tags":["Camera","Photography"],"noteIcon":null,"created":"2024-04-15T22:30:13.519+01:00","updated":"2024-05-21T10:28:14.937+01:00"}
 ---
 
 #tech #cameras #photography 
@@ -8,6 +8,9 @@
 ## March 2024 Update
 
 Since publishing this post over 12 months ago, I’ve used this lens a lot more so I wanted to add to my original thoughts. If you can’t be bothered to read on – the lens is just as fantastic as it always has been.
+
+>[!TIP] MPB
+>If you're interested in purchasing a 500 f4.5 for yourself, please do checkout what MPB has to offer. I buy most of my gear from MPB and I'm always pleased with the service. This link will take you to their 500 f4.5 page and if you choose to checkout I'll get a small kickback: [MPB - 500 f/4.5 USM L](https://prf.hn/l/BJlLVP3)
 
 ## Canon’s Little Known Prime
 
@@ -60,7 +63,7 @@ Canon EF 400 f/2.8 vs EF 500mm f/4.5 vs my cat Toby.
 
 **Note:** This 500 has a unique manual focus setup that I’ve not seen before. There is a three-point switch on the lens that lets you choose how fast you can manually focus. On the fastest setting, a slight turn of the ring moves the focus a lot, on the slowest, there is much less focus movement for the same amount of turn. This is possible because of the focus-by-wire setup in this lens. For the same reason, if AF dies, you cannot manually focus.
 
-**Update Note:** I’ve since shot a lot of birds in flight with this lens, and it is now my go to lens for birding. The AF is excellent, even when trying to lock on to diving kingfishers. See updated photos below.
+**Update Note:** I’ve since shot a lot of birds in flight with this lens, and it is now my go to lens for birding. The AF is excellent, even when trying to lock on to diving kingfishers. See updated photos below or my [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.1 - 🦅 Birds/3.1.1.2 - Kingfisher\|kingfisher gallery]].
 
 ## Image Quality
 
