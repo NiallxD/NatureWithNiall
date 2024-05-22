@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist"],"noteIcon":null,"created":"2024-04-28T14:20:47.563+01:00","updated":"2024-05-22T23:17:53.089+01:00"}
+{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist"],"noteIcon":null,"created":"2024-04-28T14:20:47.563+01:00","updated":"2024-05-22T23:20:45.943+01:00"}
 ---
 
 #photography #nature #lifelist
@@ -19,7 +19,7 @@ This list sits at **259** species so far but is still missing the majority of my
 
 Use these links to jump to specific sections. For those one desktop use the contents list on the right of the page.
 
-[Mammals](https://niallbell.com/photographic-life-list/#mammals) | [Birds](https://niallbell.com/photographic-life-list/#birds) | [Plants](https://niallbell.com/photographic-life-list/#plants) | [Fungi](https://niallbell.com/photographic-life-list/#fungi) | [Amphibians](https://niallbell.com/photographic-life-list/#Amphibians) | [Bugs](https://niallbell.com/photographic-life-list/#bugs-et-al)
+[Mammals](https://niallbell.com/photographic-life-list/#mammals) | [Birds](https://niallbell.com/photographic-life-list/#birds) | [Plants](https://niallbell.com/photographic-life-list/#plants) | [Fungi](https://niallbell.com/photographic-life-list/#fungi) | [Amphibians](https://niallbell.com/photographic-life-list/#amphibians) | [Bugs](https://niallbell.com/photographic-life-list/#bugs-et-al)
 
 ## Mammals
 
