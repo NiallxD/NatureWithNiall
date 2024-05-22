@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist"],"noteIcon":null,"created":"2024-04-28T14:20:47.000+01:00","updated":"2024-05-12T22:01:03.000+01:00"}
+{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist"],"noteIcon":null,"created":"2024-04-28T14:20:47.563+01:00","updated":"2024-05-22T23:17:53.089+01:00"}
 ---
 
 #photography #nature #lifelist
@@ -10,16 +10,16 @@ I never used to be bothered about keeping a life list, it seemed a bit pointless
 
 The categories below are not intended to be taxonomic in nature, more rough groupings based on what feels right. The location and date are those of the photo presented and not the first sighting. All animals are wild, nothing captive here apart from the odd escapee which has become established (e.g., parakeets and wood duck in the UK).
 
-This list sits at **204** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full bird life list can be found here 
+This list sits at **259** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full bird life list can be found here 
 
 >[!NEW] Recent Updates
->I recently added the Common Reed, Cetti's, and Garden Warblers along with the Eurasian Blackcap. [Jump Link](https://niallbell.com/photographic-life-list/#eurasian-blackcap-female)- 6th May 2024
+>I recently added the Double-crested Cormorant which I photographed in Florida in 2016 and a Lesser Black-backed Gull most recently photographed May 2024. I've also added sections for Amphibians (3 entries) and Bugs (50 entries). - 22 May 2024
 
 ## Jump Links
 
 Use these links to jump to specific sections. For those one desktop use the contents list on the right of the page.
 
-[Mammals](https://niallbell.com/photographic-life-list/#mammals) | [Birds](https://niallbell.com/photographic-life-list/#birds) | [Plants](https://niallbell.com/photographic-life-list/#plants) | [Fungi](https://niallbell.com/photographic-life-list/#fungi)
+[Mammals](https://niallbell.com/photographic-life-list/#mammals) | [Birds](https://niallbell.com/photographic-life-list/#birds) | [Plants](https://niallbell.com/photographic-life-list/#plants) | [Fungi](https://niallbell.com/photographic-life-list/#fungi) | [Amphibians](https://niallbell.com/photographic-life-list/#Amphibians) | [Bugs](https://niallbell.com/photographic-life-list/#bugs-et-al)
 
 ## Mammals
 
@@ -266,43 +266,51 @@ Use these links to jump to specific sections. For those one desktop use the cont
 
 #### Northern Gannet
 ![](https://i.imgur.com/KDQaaoa.jpeg)
-*England - 2023*
+*England (Bempton Cliffs) - 2023*
 
 #### Herring Gull
 ![](https://i.imgur.com/cGJx6Vo.jpeg)
 *England - 2022*
 
+#### Lesser Black-back Gull
+![](https://i.imgur.com/jqt3oAQ.jpeg)
+*England (iPort Lakes) - 2022*
+
 #### Black-headed Gull
 ![](https://i.imgur.com/x06Aa04.jpeg)
-*England - 2023*
+*England (Porter Valley) - 2023*
 
 #### Black-legged Kittiwake
 ![](https://i.imgur.com/Nnsh3ds.jpeg)
-*England - 2023*
+*England (Bempton Cliffs) - 2023*
 
 #### Fulmar
 ![](https://i.imgur.com/upU92az.jpeg)
-*England - 2023*
+*England (Bempton Cliffs) - 2023*
 
 #### Common Tern
 ![](https://i.imgur.com/ecihT5z.jpeg)
-*England - 2023*
+*England (Attenborough Nature Reserve) - 2023*
 
 #### European Shag
 ![](https://i.imgur.com/0QBTWIQ.jpeg)
-*Scotland - 2023*
+*Scotland (Isle of Lunga)- 2023*
 
 #### Great Cormorant
 ![](https://i.imgur.com/N0JpNrR.jpeg)
-*England - 2023*
+*England (Yorkshire Wildlife Park) - 2023*
+
+#### Double-crested Cormorant
+![](https://i.imgur.com/FRbxvEu.jpeg)
+*Florida - 2016*
 
 #### White-breasted Kingfisher
 ![](https://i.imgur.com/WKRafdb.jpeg)
-*India - 2022*
+*India (Tadoba) - 2022*
 
 #### Common Kingfisher
 ![](https://i.imgur.com/aD3WSZo.jpeg)
-*England - 2024*
+*England (Porter Valley) - 2024*
 
 #### Brown Pelican
 ![](https://i.imgur.com/xlZLOX6.jpeg)
@@ -310,15 +318,15 @@ Use these links to jump to specific sections. For those one desktop use the cont
 
 #### Open-billed Stork
 ![](https://i.imgur.com/XPwpcLI.jpeg)
-*India - 2022*
+*India (Tadoba Andhari Tiger Reserve) - 2022*
 
 #### Lesser Adjutant Stork
 ![](https://i.imgur.com/tKnJucb.jpeg)
-*India - 2022*
+*India (Tadoba Andhari Tiger Reserve) - 2022*
 
 #### European Spoonbill
 ![](https://i.imgur.com/KmafTyO.jpeg)
-*England - 2024*
+*England (Potteric Carr Nature Reserve) - 2024*
 
 #### American White Ibis
 ![](https://i.imgur.com/xCnbdzy.jpeg)
@@ -326,11 +334,11 @@ Use these links to jump to specific sections. For those one desktop use the cont
 
 #### Purple Heron
 ![](https://i.imgur.com/5fqIVlg.jpeg)
-*India - 2022*
+*India (Tadoba Andhari Tiger Reserve) - 2022*
 
 #### Indian Pond Heron
 ![](https://i.imgur.com/2ziE4bf.jpeg)
-*India - 2022*
+*India (Tadoba Andhari Tiger Reserve) - 2022*
 
 #### Green Heron
 ![](https://i.imgur.com/R9PNoIA.jpeg)
@@ -338,19 +346,19 @@ Use these links to jump to specific sections. For those one desktop use the cont
 
 #### Black-crowned Night Heron
 ![](https://i.imgur.com/QYTnEgZ.jpeg)
-*England - 2023*
+*England (RSPB Adwick Washlands) - 2023*
 
 #### Grey Heron
 ![](https://i.imgur.com/yDn9AmY.jpeg)
-*England - 2024*
+*England (Porter Valley) - 2024*
 
 #### Little Bittern
 ![](https://i.imgur.com/xUND9ja.jpeg)
-*England - 2016*
+*England (RSPB Old Moor) - 2016*
 
 #### Great Bittern
 ![](https://i.imgur.com/OC44NKA.jpeg)
-*England - 2024*
+*England (RSPB St Aidans) - 2024*
 
 #### Snowy Egret
 ![](https://i.imgur.com/lGGgPZX.jpeg)
@@ -358,7 +366,7 @@ Use these links to jump to specific sections. For those one desktop use the cont
 
 #### Little Egret
 ![](https://i.imgur.com/0LbOuOg.jpeg)
-*India - 2022*
+*India (Tadoba Andhari Tiger Reserve) - 2022*
 
 #### Great White Egret
 ![](https://i.imgur.com/aJjAWYB.jpeg)
@@ -366,15 +374,15 @@ Use these links to jump to specific sections. For those one desktop use the cont
 
 #### Eastern Cattle Egret
 ![](https://i.imgur.com/DP86i3m.jpeg)
-*India - 2022*
+*India (Tadoba Andhari Tiger Reserve) - 2022*
 
 #### Indian Darter
 ![](https://i.imgur.com/KW962Ls.jpeg)
-*India - 2022*
+*India (Tadoba Andhari Tiger Reserve) - 2022*
 
 #### Pied Avocet
 ![](https://i.imgur.com/oT9WMem.jpeg)
-*England - 2020*
+*England (Potteric Carr Nature Reserve) - 2020*
 
 #### Bar-tailed Godwit
 ![](https://i.imgur.com/L9xVghP.jpeg)
@@ -382,27 +390,27 @@ Use these links to jump to specific sections. For those one desktop use the cont
 
 #### Eurasian Curlew
 ![](https://i.imgur.com/bqE6caH.jpeg)
-*Scotland - 2023*
+*Scotland (Isle of Mull) - 2023*
 
 #### Common Sandpiper
 ![](https://i.imgur.com/zeMwOfG.jpeg)
-*Scotland - 2023*
+*Scotland (Isle of Mull) - 2023*
 
 #### Common Ringed Plover
 ![](https://i.imgur.com/xhdSaFK.jpeg)
-*Scotland - 2023*
+*Scotland (Isle of Mull) - 2023*
 
 #### Little Ringed Plover
 ![](https://i.imgur.com/lr8hGsd.jpeg)
-*England - 2023*
+*England (Yorkshire Wildlife Park) - 2023*
 
 #### Sanderline
 ![](https://i.imgur.com/zaSgKRO.jpeg)
-*Ireland - 2023*
+*Ireland (Dolly Mount Strand) - 2023*
 
 #### Eurasian Oystercatcher
 ![](https://i.imgur.com/i0LKo0d.jpeg)
-*Scotland - 2023*
+*Scotland (Isle of Mull) - 2023*
 
 #### Common Snipe
 ![](https://i.imgur.com/Lbu5VSK.jpeg)
@@ -830,6 +838,242 @@ Use these links to jump to specific sections. For those one desktop use the cont
 #### Sandhill Crane
 ![](https://i.imgur.com/seLrmjN.jpeg)
 *Florida - 2016*
+
+---
+
+## Amphibians
+
+#### Common Frog
+![](https://i.imgur.com/YkJu7zY.jpeg)
+*England (My Garden) - 2022*
+
+
+#### Indian Bullfrog
+![](https://i.imgur.com/7kLUiu0.jpeg)
+*India - 2022*
+
+#### Common Toad
+![](https://i.imgur.com/anERBNO.jpeg)
+*England (My Garden) - 2022*
+
+
+---
+
+## Bugs et al.
+
+#### Zebra Spider
+![](https://i.imgur.com/1qfygyI.jpeg)
+*England (Yorkshire Wildlife Park) - 2020*
+
+#### Wolf Spider
+![](https://i.imgur.com/m7AhKZX.jpeg)
+*England (My Garden) - 2021*
+
+#### Swamp Crab Spider
+![](https://i.imgur.com/Q96SAJT.jpeg)
+*England (Potteric Carr) - 2024*
+
+#### Fork-palped Harvestman
+![](https://i.imgur.com/jUGi0nq.jpeg)
+*England (Walkers Garden Centre) - 2021*
+
+#### Opilio canestrinii (Harvestman)
+![](https://i.imgur.com/um8t8vR.jpeg)
+*England (Walkers Garden Centre) - 2021*
+
+#### Common Harvestman
+![](https://i.imgur.com/MuEXz4O.jpeg)
+*England (Walkers Garden Centre) - 2021*
+
+#### Scarlet Lily Beetle
+![](https://i.imgur.com/5re0wtX.jpeg)
+*England (My Garden) - 2020*
+
+#### Green Shield Bug
+![](https://i.imgur.com/HA7SWVE.jpeg)
+*England (My Garden) - 2021*
+
+
+#### Dock Bug
+![](https://i.imgur.com/eMc2gAT.jpeg)
+*England (Potteric Carr Nature Reserve) - 2024*
+
+#### Harlequin Lady Beetle (Red with black spots)
+![](https://i.imgur.com/eHzWXKV.jpeg)
+*England (Potteric Carr Nature Reserve) - 2024*
+
+#### Harlequin Lady Beetle (Black with red spots)
+![](https://i.imgur.com/sIrpcwD.jpeg)
+*England (Potteric Carr Nature Reserve) - 2024*
+
+#### Harlequin Lady Beetle (Yellow with black spots)
+![](https://i.imgur.com/VHRDDL6.jpeg)
+*England (Potteric Carr Nature Reserve) - 2024*
+
+#### Cercopis vulnerata (Sp. Foghopper)
+![](https://i.imgur.com/nVs8PWU.jpeg)
+*England (Potteric Carr Nature Reserve) - 2024*
+
+#### Rhododendron Leafhopper
+![](https://i.imgur.com/3lpymc8.jpeg)
+*England (Walkers Garden Centre) - 2021*
+
+#### Meadow Grasshopper
+![](https://i.imgur.com/hI0Qo8B.jpeg)
+*England (Walkers Garden Centre) - 2021*
+
+#### Alder Leaf Beetle
+![](https://i.imgur.com/rIyGPnr.jpeg)
+*England (My Garden) - 2024*
+
+#### Rosemary Beetle
+![](https://i.imgur.com/xN1j1X2.jpeg)
+*England (My Garden) - 2023*
+
+#### Hawthorn Leaf Beetle
+![](https://i.imgur.com/tnKIpR5.jpeg)
+*England (My Garden) - 2021*
+
+#### Athous haemorrhoidalis (sp. Click Beetle)
+![](https://i.imgur.com/3gN4ufS.jpeg)
+*England (Potteric Carr Nature Reserve) - 2024*
+
+#### Donacia clavipes (sp. Leaf Beetle)
+![](https://i.imgur.com/mYXB2cS.jpeg)
+*England (Potteric Carr Nature Reserve) - 2024*
+
+#### Cantharis nigricans (Sp. Soldier Beetle)
+![](https://i.imgur.com/etgkRpW.jpeg)
+*England (Potteric Carr Nature Reserve) - 2024*
+
+#### Green Tiger Beetle
+![](https://i.imgur.com/3HAItqH.jpeg)
+*England (Hatfield Moors Nature Reserve) - 2024*
+
+#### Common Tiger Fly
+![](https://i.imgur.com/AU4ETJM.jpeg)
+*England (My Garden) - 2021*
+
+#### Blow Fly
+![](https://i.imgur.com/KoashMr.jpeg)
+*England - 2021*
+
+#### House Fly
+![](https://i.imgur.com/ex7CsE3.jpeg)
+*England - 2021*
+
+#### Yellow Dung Fly
+![](https://i.imgur.com/ObxsjPD.jpeg)
+*England (My Garden) - 2021*
+
+#### Buff-tailed Bumble Bee
+![](https://i.imgur.com/yeDpNB1.jpeg)
+*England - 2020*
+
+#### Common Wasp
+![](https://i.imgur.com/4EjJC4Y.jpeg)
+*England (My Garden) - 2021*
+
+#### Marmalade Hover Fly
+![](https://i.imgur.com/W5I1cQZ.jpeg)
+*England (My Garden) - 2021*
+
+#### Eristalis pertinax (Sp. Hover Fly)
+![](https://i.imgur.com/Lr4KtGp.jpeg)
+*England - 2018*
+
+#### Helophilus pendulus (Sp. Hover Fly)
+![](https://i.imgur.com/Y1ii8QA.jpeg)
+*England - 2024*
+
+#### Common Drone Fly
+![](https://i.imgur.com/8hrwkKg.jpeg)
+*England (My Garden) - 2021*
+
+#### Common Darter
+![](https://i.imgur.com/abm4z7r.jpeg)
+*England (Potteric Carr Nature Reserve) - 2023*
+
+#### Vagrant Darter
+![](https://i.imgur.com/gsrvHRg.jpeg)
+*England (Potteric Carr Nature Reserve) - 2023*
+
+#### Four-spotted Chaser
+![](https://i.imgur.com/vCh3gni.jpeg)
+*England (Hatfield Moors Nature Reserve) - 2024*
+
+#### Southern Hawker
+![](https://i.imgur.com/V3oK9PK.jpeg)
+*England (Hatfield Moors Nature Reserve) - 2024*
+
+#### Ground Skimmer
+![](https://i.imgur.com/QtEXK3a.jpeg)
+*India (Tadoba) - 2022*
+
+#### Crimson Marsh Glider
+![](https://i.imgur.com/nKzzjZd.jpeg)
+*India (Tadoba) - 2022*
+
+#### Emerald Damselfly
+![](https://i.imgur.com/QYOmoR4.jpeg)
+*England (Potteric Carr Nature Reserve) - 2023*
+
+#### Large Red Damselfly
+![](https://i.imgur.com/y2rNBPh.jpeg)
+*England (Hatfield Moors Nature Reserve) - 2024*
+
+#### Azure Damselfly
+![](https://i.imgur.com/6tr5klo.jpeg)
+*England (Potteric Carr Nature Reserve) - 2024*
+
+#### Azure Damselfly (Male: right | Female: left)
+![](https://i.imgur.com/yNFaijc.jpeg)
+*England (Hatfield Moors Nature Reserve) - 2024*
+
+#### Orange Tip
+![](https://i.imgur.com/aIX92u1.jpeg)
+*England (Idle Valley Nature Reserve) - 2024*
+
+#### Large Skipper
+![](https://i.imgur.com/BNDMkls.jpeg)
+*England - 2023*
+
+#### Firery Skipper
+![](https://i.imgur.com/CMxmTsI.jpeg)
+*India (Tadoba) - 2022*
+
+#### Blue Tiger
+![](https://i.imgur.com/vshNAhL.jpeg)
+*India (Tadoba) - 2022*
+
+#### Plain Tiger (*theres no such thing as a plain tiger...*)
+![](https://i.imgur.com/SaTHS9u.jpeg)
+*India (Tadoba) - 2022*
+
+#### The Baronet
+![](https://i.imgur.com/iHYHPdu.jpeg)
+*India (Tadoba) - 2022*
+
+#### Green-veined White
+![](https://i.imgur.com/yAXpjLh.jpeg)
+*England - 2022*
+
+#### Painted Lady
+![](https://i.imgur.com/2iICn7r.jpeg)
+*England (Idle Valley Nature Reserve) - 2019*
+
+#### Red Admiral
+![](https://i.imgur.com/I8N0gpk.jpeg)
+*England - 2022*
+
+#### The Commander
+![](https://i.imgur.com/3Zz97V2.jpeg)
+*India (Tadoba) - 2022*
+
+#### Dingy Footman
+![](https://i.imgur.com/i6Pdn32.jpeg)
+*England - 2020*
+
 
 ---
 
