@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-05-19T13:12:05.000+01:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-05-27T09:40:23.359+01:00"}
 ---
 
 #photography #photofeed
@@ -11,7 +11,30 @@ It's important to note that these aren't portfolio images but instead are photos
 
 📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]] to get a email when I share new updates!
 
-> [!tip]+ WC 13th May 2024
+> [!tip]+ WC 20th May 2024
+> This week was one of those busy weeks again where I didn't get much change to get out before/after work. We also had some wet weather which is rarely conducive to excellent nature experiences! That said, I still managed to pull off some rather special photographs!
+> 
+> #### Hungry Stoat
+> 
+> Nature is cruel, we usually learn this from a young age but you're still never prepared. As I walked down a path with Claudia, she spotted something running towards us (I was distracted by a reed warbler!). We soon realised what it was and I managed to fire off a few shots. Stoat are well known for taking down prey larger than themselves, and this coot chick was no match to the fatal accuracy of a stoat bite.
+>
+>![](https://i.imgur.com/CGrs48d.jpeg)
+> 
+> #### Meadow Pipit
+> 
+> A bird which has somehow escaped my observation. I have seen a few before, there were loads on Mull, but I've not added any to a list or photographed them. That technically makes this a lifer. I have in the past probably confused these with skylarks as they possess a similar aesthetic, although on reflection they are unique when you train your eye.
+> 
+>![](https://i.imgur.com/0UIS7oL.jpeg)
+>
+> #### Common Cuckoo
+> 
+> I've been trying to photograph the common cuckoo for far too long. Admittedly, I've probably not put in enough effort in the past, however this year I was determined to do so. As I plan to travel to Canada early next year, I'm on a mission to photograph species that I won't see there. So the Common Cuckoo was on the list. After a dreadful storm, the skies cleared and I decided to give a local spot where I'd heard a cuckoo calling recently. To my amazement, upon turning a corner, there was a cuckoo, perched on a tree...It's moments like this which make all the effort worth it.
+> 
+>![](https://i.imgur.com/rsqraJi.jpeg)
+>*I should note that I had cloned out an annoying twig in this photo.*
+
+
+> [!tip]- WC 13th May 2024
 > I didn't manage to get out too much this week due to cracking on with my Uni work and some other commitments, but I did still manage to get 2.5 lifers before Sunday! I'm going to break convention and share four images this week, because I can't not share them!
 > 
 > #### Great White Egret
@@ -38,7 +61,6 @@ It's important to note that these aren't portfolio images but instead are photos
 > 
 >![](https://i.imgur.com/3ToR2fb.jpeg)
 >
-
 
 > [!tip]- WC 6th May 2024
 > This week started off pretty normal but turned quite extraordinary at the weekend!
