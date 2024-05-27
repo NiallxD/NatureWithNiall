@@ -53,6 +53,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #commonbluedamselfly(1) |
 | #computers(1)           |
 | #cootchick(1)           |
+| #cuckoo(1)              |
 | #damselfly(1)           |
 | #deer(1)                |
 | #dipper(1)              |
@@ -74,6 +75,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #instagram(1)           |
 | #lenses(1)              |
 | #lifelist(1)            |
+| #lifer(1)               |
 | #littleegret(1)         |
 | #littleowl(1)           |
 | #macro(1)               |
