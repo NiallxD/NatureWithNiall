@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-05-27T09:40:23.359+01:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-05-27T10:01:07.522+01:00"}
 ---
 
 #photography #photofeed
@@ -33,7 +33,6 @@ It's important to note that these aren't portfolio images but instead are photos
 >![](https://i.imgur.com/rsqraJi.jpeg)
 >*I should note that I had cloned out an annoying twig in this photo.*
 
-
 > [!tip]- WC 13th May 2024
 > I didn't manage to get out too much this week due to cracking on with my Uni work and some other commitments, but I did still manage to get 2.5 lifers before Sunday! I'm going to break convention and share four images this week, because I can't not share them!
 > 
@@ -47,7 +46,7 @@ It's important to note that these aren't portfolio images but instead are photos
 > 
 > This one is a lifer for me. I've heard of grasshopper warblers, but I didn't know what they looked or sounded like. I should have known what they looked like...most warblers look identical! On the same morning as the egret, I heard a bird song like nothing else...I had to use Merlin Sound ID to finally figure out what it was, even if in hind-sight it was obvious!
 > 
-![](https://i.imgur.com/u2QqCZH.jpeg)
+>![](https://i.imgur.com/u2QqCZH.jpeg)
 > 
 > #### Common Greenshank
 > 
