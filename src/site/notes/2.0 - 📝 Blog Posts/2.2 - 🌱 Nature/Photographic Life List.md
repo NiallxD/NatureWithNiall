@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist"],"noteIcon":null,"created":"2024-04-28T14:20:47.563+01:00","updated":"2024-05-22T23:20:45.943+01:00"}
+{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist"],"noteIcon":null,"created":"2024-04-28T14:20:47.563+01:00","updated":"2024-05-27T09:58:38.227+01:00"}
 ---
 
 #photography #nature #lifelist
@@ -10,10 +10,10 @@ I never used to be bothered about keeping a life list, it seemed a bit pointless
 
 The categories below are not intended to be taxonomic in nature, more rough groupings based on what feels right. The location and date are those of the photo presented and not the first sighting. All animals are wild, nothing captive here apart from the odd escapee which has become established (e.g., parakeets and wood duck in the UK).
 
-This list sits at **259** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full bird life list can be found here 
+This list sits at **261** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full bird life list can be found here 
 
 >[!NEW] Recent Updates
->I recently added the Double-crested Cormorant which I photographed in Florida in 2016 and a Lesser Black-backed Gull most recently photographed May 2024. I've also added sections for Amphibians (3 entries) and Bugs (50 entries). - 22 May 2024
+>I recently added the Double-crested Cormorant which I photographed in Florida in 2016 and a Lesser Black-backed Gull most recently photographed May 2024 along with Cuckoo and Willow Warbler. I've also added sections for Amphibians (3 entries) and Bugs (50 entries). - 22 May 2024
 
 ## Jump Links
 
@@ -533,6 +533,13 @@ Use these links to jump to specific sections. For those one desktop use the cont
 *India - 2022*
 
 ---
+### Cuckoos
+
+#### Common Cuckoo
+![](https://i.imgur.com/rsqraJi.jpeg)
+*England (Hatfield Moors) - 2024*
+
+---
 
 ### Hoopoes
 
@@ -658,7 +665,9 @@ Use these links to jump to specific sections. For those one desktop use the cont
 ![](https://i.imgur.com/0Y21212.jpeg)
 *England - 2024*
 
-
+#### Willow Warbler
+![](https://i.imgur.com/yAbGQss.jpeg)
+*England (Hatfield Moors) - 2024*
 
 #### Skylark
 ![](https://i.imgur.com/pJEigMg.jpeg)
