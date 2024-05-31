@@ -180,6 +180,18 @@ body {
     --blockquote-font-style: normal;
     --blockquote-color: inherit;
     --blockquote-background-color: transparent;
+
+    .slider {
+        position: relative;
+        overflow: hidden;
+    }
+    
+    .slider img {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+
     
     .content {
         max-width: 800px;
