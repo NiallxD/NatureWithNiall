@@ -1,0 +1,10 @@
+<script>
+    $(document).ready(function() {
+        $(".slider").mousemove(function(e) {
+            const width = $(this).width();
+            const offsetX = e.pageX - $(this).offset().left;
+            const percentage = (offsetX / width) * 100;
+            $(".slider img:last-child").css("width", percentage + "%");
+        });
+    });
+</script>
