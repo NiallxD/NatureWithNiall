@@ -1,11 +1,1 @@
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script>
-    $(document).ready(function() {
-        $(".slider").mousemove(function(e) {
-            const width = $(this).width();
-            const offsetX = e.pageX - $(this).offset().left;
-            const percentage = (offsetX / width) * 100;
-            $(".slider img:last-child").css("width", percentage + "%");
-        });
-    });
-</script>
+<script src="https://cdn.jsdelivr.net/npm/before-after-slider@1.0.0/dist/before-after-slider.min.js"></script>
