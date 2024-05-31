@@ -181,17 +181,21 @@ body {
     --blockquote-color: inherit;
     --blockquote-background-color: transparent;
 
-    .slider {
+    /* Basic styling for the container */
+    .before-after-container {
         position: relative;
-        overflow: hidden;
+        width: 100%;
+        max-width: 600px; /* Adjust as needed */
+        margin: 0 auto;
     }
-    
-    .slider img {
+
+    /* Style the images */
+    .before-image,
+    .after-image {
         width: 100%;
         height: auto;
         display: block;
     }
-
     
     .content {
         max-width: 800px;
