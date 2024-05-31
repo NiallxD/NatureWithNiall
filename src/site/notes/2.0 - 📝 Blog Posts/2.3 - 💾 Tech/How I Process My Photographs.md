@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"how-i-process-my-photographs","permalink":"/how-i-process-my-photographs/","title":"How I Process My Photographs","tags":["photo","photography","postprocessing"],"noteIcon":"1","created":"2024-05-31T14:05:41.093+01:00","updated":"2024-05-31T14:49:50.119+01:00"}
+{"dg-publish":true,"dg-permalink":"how-i-process-my-photographs","permalink":"/how-i-process-my-photographs/","title":"How I Process My Photographs","tags":["photo","photography","postprocessing"],"noteIcon":"1","created":"2024-05-31T14:05:41.093+01:00","updated":"2024-05-31T14:55:59.804+01:00"}
 ---
 
 #photography #photo #postprocessing
@@ -56,10 +56,11 @@ I should elaborate a bit on point 5. I tend to sharpen images only when they rea
 
 So to conclude I wanted to show some images that I have processed to give you an idea of the kind of changes I make. I take pride in attempting to get the best images I can in camera, leaving just some final tweaks to make after the fact.
 
-<div class="slider">
-    <img src="https://i.imgur.com/8byknl1.jpeg" alt="Before">
-    <img src="https://i.imgur.com/Hw3xR20.jpeg" alt="After">
-</div>
+
+<div class="before-after-container">
+        <img src="https://i.imgur.com/8byknl1.jpeg" alt="Before" class="before-image">
+        <img src="https://i.imgur.com/Hw3xR20.jpeg" alt="After" class="after-image">
+    </div>
 
 
 ---
