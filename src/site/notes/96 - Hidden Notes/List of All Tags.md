@@ -53,6 +53,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #commonbluedamselfly(1) |
 | #computers(1)           |
 | #cootchick(1)           |
+| #crossbill(1)           |
 | #cuckoo(1)              |
 | #damselfly(1)           |
 | #deer(1)                |
@@ -63,6 +64,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #etymology(1)           |
 | #facebook(1)            |
 | #film(1)                |
+| #finch(1)               |
 | #fungi(1)               |
 | #galleries(1)           |
 | #gardening(1)           |
