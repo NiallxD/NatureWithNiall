@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-05-27T10:01:07.522+01:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-06-02T22:46:21.946+01:00"}
 ---
 
 #photography #photofeed
@@ -11,7 +11,29 @@ It's important to note that these aren't portfolio images but instead are photos
 
 📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]] to get a email when I share new updates!
 
-> [!tip]+ WC 20th May 2024
+> [!tip]+ WC 27th May 2024
+> I’m writing this weeks’ update from a very wet campsite on the north-eastern edge of the Isle of Skye. Here’s to hoping it brightens up for the rest of the trip! Despite the poor weather, we have had some nice opportunities to photograph the Scottish landscape. 
+> 
+> #### Ben Nevis Range
+> 
+> The drive from Doncaster to Skye is about 9 hours so we decided to stop off for the night at Fort William. I’ve driven through many times, but never have I been able to enjoy the scenery. Thankfully, the weather was amazing and from our campsite I was able to create this amazing panorama of the Nevis Mountain Range.
+>
+>![](https://i.imgur.com/zJx7DAw.jpeg)
+> 
+> #### Red-legged Partridge
+> 
+> Earlier in the week, on my morning bike ride, I spotted a brightly coloured bird sitting on a rock beside the path. I quickly pulled my camera from my bag and snapped a few pics. I’ve never got this close to a red-legged partridge so the encounter was welcomed!
+> 
+>![](https://i.imgur.com/2RMkhX0.jpeg)
+>
+> #### Lifer! Common Crossbill
+> 
+> The common crossbill is a bird I've sought for a while, albeit with low effort. I remember at least a few occasions looking for this bird but have not been successful until a chance encounter today when exploring the pine forests on Skye. Once you see them they become very distinguishable with their orange plumage and chunky head!
+> 
+>![](https://i.imgur.com/LVrmxLh.jpeg)
+>
+
+> [!tip]- WC 20th May 2024
 > This week was one of those busy weeks again where I didn't get much change to get out before/after work. We also had some wet weather which is rarely conducive to excellent nature experiences! That said, I still managed to pull off some rather special photographs!
 > 
 > #### Hungry Stoat
