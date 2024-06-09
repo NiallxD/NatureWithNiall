@@ -8,8 +8,8 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 
 | Tags                    |
 | ----------------------- |
+| #photography(40)        |
 | #nature(39)             |
-| #photography(39)        |
 | #wildlife(33)           |
 | #books(23)              |
 | #reading(23)            |
@@ -19,10 +19,10 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #photostory(5)          |
 | #blog(4)                |
 | #composers(4)           |
+| #drone(4)               |
 | #tech(4)                |
 | #BlogPost(3)            |
 | #cameras(3)             |
-| #drone(3)               |
 | #Nature(3)              |
 | #astrophotography(2)    |
 | #Atmosphere(2)          |
@@ -36,6 +36,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #Tech(2)                |
 | #tigers(2)              |
 | #weather(2)             |
+| #360panorama(1)         |
 | #ai(1)                  |
 | #AI(1)                  |
 | #analogue(1)            |
