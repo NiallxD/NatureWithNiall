@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-06-02T22:46:21.946+01:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-06-10T23:13:28.209+01:00"}
 ---
 
 #photography #photofeed
@@ -11,7 +11,42 @@ It's important to note that these aren't portfolio images but instead are photos
 
 📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]] to get a email when I share new updates!
 
-> [!tip]+ WC 27th May 2024
+> [!tip]+ WC 3rd June 2024
+> Damn, I'm a day late on this one! In my defence I was travelling a lot on Sunday so I didn't really get chance to draft up this week. So here it is, on a Monday!
+> 
+> I spent the week exploring the Isle of Skye with Claudia so I've got plenty to share. I'll go with 5 photos this week as there was so much to see and share! I will be drafting up a blog post with more photos from this trip so check it out here! <- I've not published it yet!
+> 
+> #### Lifer! Manx Shearwater
+> 
+> This is one of those birds that I just never knew existed until recent years. When I was on Mull last year, I really hoped to see one, however I was unsuccessful. Manx Shearwater are rarely seen from land so you need to jump on a boat to get close to them. I was lucky here, one our return leg from Loch Coruisk, Claudia spotted a bird and snapped some shots. I later identified it as a Manx shearwater!
+>
+>![](https://i.imgur.com/vidEVH9.jpeg)
+> 
+> #### Neist Point
+> 
+> Neist Point is familiar to most people when they see it. Of course it is it...it's iconic! Neist Point is the most westerly point one can drive in the UK without getting a boat. It is actually more west than Dublin and Belfast! Westerly facts aside, this spot is stunning. The cliffs are alive with seabirds and the grasses teeming with Wheatear and a special little bird, the Twite! I've shared a 360 Panorama of this location which you can view [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.5 - 🌍 360 Panorama/3.1.5.1 - 360 Panorama\|here]].
+> 
+>![](https://i.imgur.com/b82Oi9c.jpeg)
+>
+> #### Lifer! Twite
+> 
+> Perhaps about as unassuming as one can get when it comes to birds. The Twite is a small finch closely related to the Linnet. The bird is brown with a streaky pattern. The only way I knew for sure this was a Twite and not a Linnet was because of the pink rump I spotted as it flew off. Twite are becoming more and more rare in England so it's really important we manage habitats to best ensure they can survive. If not it will join the long list of extinct species hardly anyone knew about.
+> 
+>![](https://i.imgur.com/5PHTchB.jpeg)
+>
+> #### The Old Man of Storr
+> 
+> Skye's most popular attraction. The Old Man of Storr is a pinnacle that sits below the highest peak of the Trotternish Ridge called The Storr. In front of the old man there is another pinnacle called The Cathedral, named such because of the holes in the rock which look like windows of a ruined cathedral. We hiked up to the Photographers Knoll, a viewpoint, to take in the sights and snap some photos. Thankfully we got up there before the crowds as this spot started getting busy as we made our way down. Superb, if not very bleak and desolate, views across the Trotternish Ridge which runs the full length of the northern most peninsula.
+> 
+>![](https://i.imgur.com/itcbAD7.jpeg)
+>
+> #### Otter!
+> 
+> It wouldn't be a true trip to Scotland without sighting an otter and Claudia came through with this one again! She spotted the otter on Mull last year and did the same again here. We were walking to a coffee trailer when she called out that something was in the water, I put my bins on it and knew instantly it was an otter! We made a beeline for the van to get our cameras and was able to fire off some shots as it moved across the bank of Loch Slapin.
+> 
+>![](https://i.imgur.com/Z0b7Zhc.jpeg)
+
+> [!tip]- WC 27th May 2024
 > I’m writing this weeks’ update from a very wet campsite on the north-eastern edge of the Isle of Skye. Here’s to hoping it brightens up for the rest of the trip! Despite the poor weather, we have had some nice opportunities to photograph the Scottish landscape. 
 > 
 > #### Ben Nevis Range
