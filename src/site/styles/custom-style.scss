@@ -202,8 +202,8 @@ body {
     --tag-decoration-hover: none;
     --tag-background: hsla(var(--interactive-accent-hsl), 0.1);
     --tag-background-hover: hsla(var(--interactive-accent-hsl), 0.2);
-    --tag-border-color: #F2A748, 0.15);
-    --tag-border-color-hover: #F4B76A, 0.15);
+    --tag-border-color: #F2A748 0.15;
+    --tag-border-color-hover: #F4B76A 0.15;
     --tag-border-width: 0px;
     --tag-padding-x: 0.65em;
     --tag-padding-y: 0.25em;
