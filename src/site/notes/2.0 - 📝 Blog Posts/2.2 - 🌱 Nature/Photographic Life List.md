@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist"],"noteIcon":null,"created":"2024-04-28T14:20:47.563+01:00","updated":"2024-06-02T22:54:49.606+01:00"}
+{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist"],"noteIcon":null,"created":"2024-04-28T14:20:47.563+01:00","updated":"2024-06-11T16:54:26.847+01:00"}
 ---
 
 #photography #nature #lifelist
@@ -10,10 +10,10 @@ I never used to be bothered about keeping a life list, it seemed a bit pointless
 
 The categories below are not intended to be taxonomic in nature, more rough groupings based on what feels right. The location and date are those of the photo presented and not the first sighting. All animals are wild, nothing captive here apart from the odd escapee which has become established (e.g., parakeets and wood duck in the UK).
 
-This list sits at **263** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full bird life list can be found here 
+This list sits at **270** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full bird life list can be found here 
 
 >[!NEW] Recent Updates
->I recently added the Common Crossbill (June 2024) and Red-legged Partridge (May 2024) - 02 June 2024
+>I recently added the Common Seal, Manx Shearwater, Twite, Ruddy Turnstone, Dunlin, Common Gull, and Northern Wheatear - 11 June 2024
 
 ## Jump Links
 
@@ -133,6 +133,10 @@ Use these links to jump to specific sections. For those one desktop use the cont
 #### Grey Seal
 ![](https://i.imgur.com/3Vjlcls.jpeg)
 *England - 2022*
+
+#### Common Seal
+![](https://i.imgur.com/VZUQpXl.jpeg)
+*Scotland (Isle of Skye) - 2024*
 
 #### Bottlenose Dolphin
 ![](https://i.imgur.com/CfKZXZ3.jpeg)
@@ -264,9 +268,17 @@ Use these links to jump to specific sections. For those one desktop use the cont
 ![](https://i.imgur.com/feyCjEK.jpeg)
 *Scotland - 2023*
 
+### Manx Shearwater
+![](https://i.imgur.com/AqYhgW1.jpeg)
+*Scotland (Isle of Skye) - 2024*
+
 #### Northern Gannet
 ![](https://i.imgur.com/KDQaaoa.jpeg)
 *England (Bempton Cliffs) - 2023*
+
+#### Common Gull
+![](https://i.imgur.com/nI4bz1X.jpeg)
+*Scotland (Isle of Skye) - 2024*
 
 #### Herring Gull
 ![](https://i.imgur.com/cGJx6Vo.jpeg)
@@ -396,6 +408,10 @@ Use these links to jump to specific sections. For those one desktop use the cont
 ![](https://i.imgur.com/zeMwOfG.jpeg)
 *Scotland (Isle of Mull) - 2023*
 
+#### Dunlin
+![](https://i.imgur.com/LZOG7WI.jpeg)
+*Scotland (Isle of Skye) - 2024*
+
 #### Common Ringed Plover
 ![](https://i.imgur.com/xhdSaFK.jpeg)
 *Scotland (Isle of Mull) - 2023*
@@ -403,6 +419,10 @@ Use these links to jump to specific sections. For those one desktop use the cont
 #### Little Ringed Plover
 ![](https://i.imgur.com/lr8hGsd.jpeg)
 *England (Yorkshire Wildlife Park) - 2023*
+
+#### Ruddy Turnstone
+![](https://i.imgur.com/Ll0qUfR.jpeg)
+*Scotland (Isle of Skye) - 2024*
 
 #### Sanderline
 ![](https://i.imgur.com/zaSgKRO.jpeg)
@@ -608,6 +628,14 @@ Use these links to jump to specific sections. For those one desktop use the cont
 ![](https://i.imgur.com/bBO7VTU.jpeg)
 *England - 2019*
 
+#### Twite
+![](https://i.imgur.com/xFWyaAy.jpeg)
+*Scotland (Isle of skye) - 2024*
+
+#### Common Linnet
+![](https://i.imgur.com/4qWzeYo.jpeg)
+*England - 2023*
+
 #### Common Crossbill
 ![](https://i.imgur.com/LVrmxLh.jpeg)
 *Scotland (Skye) - 2024*
@@ -623,10 +651,6 @@ Use these links to jump to specific sections. For those one desktop use the cont
 #### Stonechat
 ![](https://i.imgur.com/gExPAW2.jpeg)
 *England - 2024*
-
-#### Common Linnet
-![](https://i.imgur.com/4qWzeYo.jpeg)
-*England - 2023*
 
 #### Common Redpoll
 ![](https://i.imgur.com/S4v5UxL.jpeg)
@@ -680,6 +704,10 @@ Use these links to jump to specific sections. For those one desktop use the cont
 #### Meadow Pipit
 ![](https://i.imgur.com/ZA7Fkkz.jpeg)
 *Scotland - 2023*
+
+#### Northern Wheatear
+![](https://i.imgur.com/ocvgh8H.jpeg)
+*Scotland (Isle of Skye) - 2024*
 
 #### European Wren
 ![](https://i.imgur.com/Jx1OBGR.jpeg)
