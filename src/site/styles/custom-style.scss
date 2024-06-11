@@ -200,7 +200,7 @@ body {
         background-color: var(--tag-background);
         border: #F2A748;
         border-radius: var(--tag-radius);
-        color: #F2A748;
+        color: 1px solid #F2A748;
         font-size: var(--tag-size);
         text-decoration: var(--tag-decoration);
         padding: var(--tag-padding-y) var(--tag-padding-x);
@@ -210,7 +210,7 @@ body {
     a.tag:hover,
         .editor .cl-hashtag:hover {
           background-color: var(--tag-background-hover);
-          border: #F4B76A;
+          border: 1px solid #F4B76A;
           color: #F4B76A;
           text-decoration: var(--tag-decoration-hover);
         }
