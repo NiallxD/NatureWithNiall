@@ -16,21 +16,14 @@ body.theme-dark {
     --background-primary: #1e1e1e;
     --background-secondary: #262626;
 
-    /* Set the colour of the text in the nav to white when in DARK mode*/
+    /* Set the colour of the text to white when in LIGHT mode*/
     .filename,
-    .toc,
+    .toc-container a,
     .footer-wrapper,
     .lucide-mail-plus,
-    .backlink {
-        color: #F0F0F0 !important;
-    }
-    
-    .toc-container a {
-        color: #F0F0F0 !important;
-    }
-    
+    .backlink,
     #theme-switch {
-        color: #F0F0F0 !important;
+        color: #2F2F2F !important;
     }
     
     nav.filetree-sidebar h1::before {
@@ -116,19 +109,12 @@ body.theme-light {
     --background-primary: #ffffff;
     --background-secondary: #fafafa;
 
-    /* Set the colour of the text in the nav to white when in LIGHT mode*/
+    /* Set the colour of the text to grey when in LIGHT mode*/
     .filename,
-    .toc,
+    .toc-container a,
     .footer-wrapper,
     .lucide-mail-plus,
-    .backlink {
-        color: #2F2F2F !important;
-    }
-
-    .toc-container a {
-        color: #2F2F2F !important;
-    }
-    
+    .backlink,
     #theme-switch {
         color: #2F2F2F !important;
     }
