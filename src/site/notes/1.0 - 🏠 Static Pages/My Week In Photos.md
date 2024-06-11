@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-06-10T23:13:28.209+01:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-06-11T16:39:07.110+01:00"}
 ---
 
 #photography #photofeed
@@ -293,7 +293,30 @@ It's important to note that these aren't portfolio images but instead are photos
 >It's that time of year when birds of all shapes and sizes begin building their nests ahead of breeding season. Here the adorable little wren collects an old withered leaf to line it's nest. 
 > 
 >![](https://i.imgur.com/POuAXem.jpeg)
+
+> [!tip]- WC 11th March 2024
+> **Backdated Post**
+>This week was a week of birds! At the time I was spending a lot of time in Sheffield photographing the kingfishers there. Along the way I usually pick up a range of photos including photos of species most don't bother to photograph.
 > 
+> #### Skylark
+> 
+> I remember heading to the local spot where I find short-eared owls. Up on the hill there are many skylarks building nests in the long grass. I was able to capture this beautiful photograph of a skylark perched on a grassy tuft.
+> 
+> ![](https://i.imgur.com/cwr932Z.jpeg)
+> 
+> #### Battle of the Coots
+> 
+> Like most bird species, coots can get very aggressive around mating season. Here I think several birds are either fighting for a mate, or disputing over territory. Either way, it's great to see them battle it out on the water!
+> 
+>![](https://i.imgur.com/7RynhxB.jpeg)
+> 
+> #### Kingfisher Pair
+> 
+>It's great watching kingfishers as they pair up for the season. The male will bring fish to the female to demonstrate his ability to their chicks when they hatch. This is a relentless time for the males as they are essentially feeding two adult birds at the same time but is good prep for when the chicks come along.
+> 
+>![](https://i.imgur.com/hR3aA9x.jpeg)
+> 
+
 
 
 ---
