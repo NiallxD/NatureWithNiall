@@ -15,6 +15,17 @@ body.theme-dark {
     --interactive-hover: #ffbc71;
     --background-primary: #1e1e1e;
     --background-secondary: #262626;
+    --waline-color: #F0F0F0;
+    --waline-info-color: #F0F0F0;
+    --waline-dark-grey: #F0F0F0;
+
+    /*set comments border*/
+    .wl-card {
+        flex: 1;
+        width: 0;
+        padding-bottom: .5em;
+        border-bottom: 1px solid #F0F0F0;
+    }
 
     /* Set the colour of the text to white when in LIGHT mode*/
     .filename,
@@ -117,6 +128,17 @@ body.theme-light {
     --interactive-hover: #ffbc71;
     --background-primary: #ffffff;
     --background-secondary: #fafafa;
+    --waline-color: #2F2F2F;
+    --waline-info-color: #2F2F2F;
+    --waline-dark-grey: #2F2F2F;
+
+    /*set comments border*/
+    .wl-card {
+        flex: 1;
+        width: 0;
+        padding-bottom: .5em;
+        border-bottom: 1px solid #2F2F2F;
+    }
 
     /* Set the colour of the text to grey when in LIGHT mode*/
     .filename,
