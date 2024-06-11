@@ -20,10 +20,15 @@ body.theme-dark {
     .filename,
     .toc,
     .footer-wrapper,
-    .lucide-mail-plus {
+    .lucide-mail-plus,
+    .backlink {
         color: #F0F0F0 !important;
     }
-
+    
+    .toc-container a {
+        color: #F0F0F0 !important;
+    }
+    
     #theme-switch {
         color: #F0F0F0 !important;
     }
@@ -115,10 +120,15 @@ body.theme-light {
     .filename,
     .toc,
     .footer-wrapper,
-    .lucide-mail-plus {
+    .lucide-mail-plus,
+    .backlink {
         color: #2F2F2F !important;
     }
 
+    .toc-container a {
+        color: #2F2F2F !important;
+    }
+    
     #theme-switch {
         color: #2F2F2F !important;
     }
