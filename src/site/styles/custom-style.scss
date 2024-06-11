@@ -26,11 +26,11 @@ body.theme-dark {
         flex: 1;
         width: 0;
         padding-bottom: .5em;
-        border-bottom: 1px solid #F0F0F0;
+        border-bottom: 0px solid #F0F0F0;
     }
     
     .wl-card .wl-quote {
-        border-inline-start: 1px solid #F0F0F0;
+        border-inline-start: 0px solid #F0F0F0;
     }
 
     /* Set the colour of the text to white when in LIGHT mode*/
@@ -145,11 +145,11 @@ body.theme-light {
         flex: 1;
         width: 0;
         padding-bottom: .5em;
-        border-bottom: 1px solid #ddd;
+        border-bottom: 0px solid #ddd;
     }
 
     .wl-card .wl-quote {
-        border-inline-start: 1px solid #ddd;
+        border-inline-start: 0px solid #ddd;
     }
 
     /* Set the colour of the text to grey when in LIGHT mode*/
