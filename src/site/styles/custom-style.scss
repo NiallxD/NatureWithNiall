@@ -174,7 +174,8 @@ body {
     --graph-main: var(--text-accent-hover);
     --graph-muted: rgba(126, 126, 126, 0.5);
 
-    .folder {
+    /* Set the colour of the text in the nav to white*/
+    .filename {
         color: white !important;
     }
     
