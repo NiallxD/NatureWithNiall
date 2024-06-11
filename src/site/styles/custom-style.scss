@@ -15,6 +15,12 @@ body.theme-dark {
     --interactive-hover: #ffbc71;
     --background-primary: #1e1e1e;
     --background-secondary: #262626;
+
+    /* Set the colour of the text in the nav to white when in DARK mode*/
+    .filename,
+    .toc {
+        color: #F0F0F0 !important;
+    }
     
     nav.filetree-sidebar h1::before {
         content: " ";
@@ -98,6 +104,12 @@ body.theme-light {
     --interactive-hover: #ffbc71;
     --background-primary: #ffffff;
     --background-secondary: #fafafa;
+
+    /* Set the colour of the text in the nav to white when in LIGHT mode*/
+    .filename,
+    .toc {
+        color: #2F2F2F !important;
+    }
     
     nav.filetree-sidebar h1::before {
         content: " ";
@@ -173,11 +185,6 @@ body {
     --h6-size: 1.12em;
     --graph-main: var(--text-accent-hover);
     --graph-muted: rgba(126, 126, 126, 0.5);
-
-    /* Set the colour of the text in the nav to white*/
-    .filename {
-        color: white !important;
-    }
     
     /* Blockquotes */
     --blockquote-border-thickness: 3px;
