@@ -18,7 +18,7 @@ body.theme-dark {
 
     /* Set the colour of the text in the nav to white when in DARK mode*/
     .filename,
-    .toc {
+    .toc-container {
         color: #F0F0F0 !important;
     }
     
@@ -107,7 +107,7 @@ body.theme-light {
 
     /* Set the colour of the text in the nav to white when in LIGHT mode*/
     .filename,
-    .toc {
+    .toc-container {
         color: #2F2F2F !important;
     }
     
