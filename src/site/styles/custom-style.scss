@@ -193,6 +193,21 @@ body {
     --h6-size: 1.12em;
     --graph-main: var(--text-accent-hover);
     --graph-muted: rgba(126, 126, 126, 0.5);
+
+    /* Tags */
+    --tag-size: var(--font-smaller);
+    --tag-color: #F2A748;
+    --tag-color-hover: #F4B76A;
+    --tag-decoration: none;
+    --tag-decoration-hover: none;
+    --tag-background: hsla(var(--interactive-accent-hsl), 0.1);
+    --tag-background-hover: hsla(var(--interactive-accent-hsl), 0.2);
+    --tag-border-color: #F2A748, 0.15);
+    --tag-border-color-hover: #F4B76A, 0.15);
+    --tag-border-width: 0px;
+    --tag-padding-x: 0.65em;
+    --tag-padding-y: 0.25em;
+    --tag-radius: 2em;
     
     /* Blockquotes */
     --blockquote-border-thickness: 3px;
