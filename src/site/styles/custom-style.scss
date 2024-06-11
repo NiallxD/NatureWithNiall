@@ -18,7 +18,12 @@ body.theme-dark {
 
     /* Set the colour of the text in the nav to white when in DARK mode*/
     .filename,
-    .toc-container {
+    .toc-container,
+    .footer-wrapper {
+        color: #F0F0F0 !important;
+    }
+
+    #theme-switch {
         color: #F0F0F0 !important;
     }
     
@@ -88,9 +93,9 @@ body.theme-dark {
 }
 
 body.theme-light {
-    --text-accent: #424242;
-    --text-accent-hover: #4d4d4d;
-    --interactive-accent: #424242;
+    --text-accent: #F2A748;
+    --text-accent-hover: #F4B76A;
+    --interactive-accent: #F2A748;
     --h1-color: #F2A748;
     --h2-color: #F2A748;
     --h3-color: #F2A748;
@@ -107,7 +112,12 @@ body.theme-light {
 
     /* Set the colour of the text in the nav to white when in LIGHT mode*/
     .filename,
-    .toc-container {
+    .toc-container,
+    .footer-wrapper {
+        color: #2F2F2F !important;
+    }
+
+    #theme-switch {
         color: #2F2F2F !important;
     }
     
