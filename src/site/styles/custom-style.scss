@@ -22,9 +22,14 @@ body.theme-dark {
     .footer-wrapper,
     .lucide-mail-plus,
     .backlink,
-    .wl-nick,
+    .wl-panel,
     #theme-switch {
         color: #F0F0F0 !important;
+        background-color: #2F2F2F;
+    }
+    
+    .wl-panel {
+        background-color: #2F2F2F;
     }
     
     nav.filetree-sidebar h1::before {
@@ -116,9 +121,13 @@ body.theme-light {
     .footer-wrapper,
     .lucide-mail-plus,
     .backlink,
-    .wl-nick,
+    .wl-panel,
     #theme-switch {
         color: #2F2F2F !important;
+    }
+
+    .wl-panel {
+        background-color: #F0F0F0;
     }
     
     nav.filetree-sidebar h1::before {
