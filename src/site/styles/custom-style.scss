@@ -18,8 +18,9 @@ body.theme-dark {
 
     /* Set the colour of the text in the nav to white when in DARK mode*/
     .filename,
-    .toc-container,
-    .footer-wrapper {
+    .toc,
+    .footer-wrapper,
+    .lucide-mail-plus {
         color: #F0F0F0 !important;
     }
 
@@ -112,8 +113,9 @@ body.theme-light {
 
     /* Set the colour of the text in the nav to white when in LIGHT mode*/
     .filename,
-    .toc-container,
-    .footer-wrapper {
+    .toc,
+    .footer-wrapper,
+    .lucide-mail-plus {
         color: #2F2F2F !important;
     }
 
