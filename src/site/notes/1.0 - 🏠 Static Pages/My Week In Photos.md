@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-06-11T16:39:07.110+01:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-06-17T21:48:19.698+01:00"}
 ---
 
 #photography #photofeed
@@ -11,7 +11,36 @@ It's important to note that these aren't portfolio images but instead are photos
 
 📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]] to get a email when I share new updates!
 
-> [!tip]+ WC 3rd June 2024
+> [!tip]+ WC 10th June 2024
+> Unfortunately this week is not a 'my week in photos' because unusually I didn't take any! Actually, that's a lie, I took some of my cat looking cute and I did photograph a cuckoo but didn't end up processing the images.
+> 
+> The first week back from travels is tough! I had lots of work to catch up on and had uni work looming. So, this week I'll be sharing some more photos from my trip to the Isle of Skye!
+> 
+> #### Common Seal
+> 
+> I've photographed grey seals extensively over the years but never have I been able to do the common seal justice. During our ride out to Loch Coruisk, we happened upon a colony of common seal. The vantage point from the boat combined with the still water made for some stunning photos!
+> 
+> ![](https://i.imgur.com/COZKurb.jpeg)
+> 
+> #### Loch Coruisk
+> 
+> This is a freshwater loch contained within the centre of the Black Cuillins, a mountain range in the southern parts of the Isle of Skye. The loch is fed by streams from the mountains and flows out into the sea, as seen in the bottom left. This was a unreal experience.
+> 
+> ![](https://i.imgur.com/t3pESMu.jpeg)
+> 
+> #### Lealt Falls
+> 
+> This photograph is of the lower falls, which when combined with the upper falls, covers a drop of 90 metres. We hiked down the cliffside to get to the bottom falls which was totally worth it. The viewing platform of the upper falls was just as epic but not conducive to photographs.
+> 
+> ![](https://i.imgur.com/moNZkz6.jpeg)
+> 
+> #### Toby
+> 
+> In order to ensure I am meeting the purpose of this blog, here is a photo I took this week. This is the cat of my life, Toby, enjoying the sunshine.
+> 
+> ![](https://i.imgur.com/YCd9cV4.jpeg)
+
+> [!tip]- WC 3rd June 2024
 > Damn, I'm a day late on this one! In my defence I was travelling a lot on Sunday so I didn't really get chance to draft up this week. So here it is, on a Monday!
 > 
 > I spent the week exploring the Isle of Skye with Claudia so I've got plenty to share. I'll go with 5 photos this week as there was so much to see and share! I will be drafting up a blog post with more photos from this trip so check it out here! <- I've not published it yet!
