@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-06-17T21:48:19.698+01:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-06-24T13:30:20.768+01:00"}
 ---
 
 #photography #photofeed
@@ -11,7 +11,32 @@ It's important to note that these aren't portfolio images but instead are photos
 
 📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]] to get a email when I share new updates!
 
-> [!tip]+ WC 10th June 2024
+> [!tip]+ WC 17th June 2024
+> Another busy week, but I did still manage to get out to some local spots to see what was about. This includes checking up on the kingfisher families in Sheffield.
+> 
+> 
+> #### Heron Perched
+> 
+> It always surprises me when I see a heron perched out of the water. Their long spindly legs clasping onto the branches. I think this heron is a juvenile bird as it's still not get full heron colouration. 
+> 
+> ![](https://i.imgur.com/BO8XYpP.jpeg)
+> 
+> 
+> #### Adult Kingfisher
+> 
+> After what will have been weeks of heavy fishing, this adult male appears to be taking a break and catching some fish for himself. A juvenile was spotted nearby but was not getting given fish which makes me think this adult will have been feeding several hungry bills for a week. It much be hard work!
+> 
+> ![](https://i.imgur.com/766GdFw.jpeg)
+> 
+> 
+> #### Juvenile Kingfisher
+> 
+> Juvenile Kingfishers are identified by their shorter bill, grey feet and dust looking plumage. This adorable little bird was sat begging for fish from a nearby adult. Eventually this bird did dive into the water but didn't manage to catch a fish. These few days after the parents stop feeding are crucial for a young kingfisher. If they don't get the hang of fishing, they may well die.
+> 
+> ![](https://i.imgur.com/IvYzDs1.jpeg)
+> 
+
+> [!tip]- WC 10th June 2024
 > Unfortunately this week is not a 'my week in photos' because unusually I didn't take any! Actually, that's a lie, I took some of my cat looking cute and I did photograph a cuckoo but didn't end up processing the images.
 > 
 > The first week back from travels is tough! I had lots of work to catch up on and had uni work looming. So, this week I'll be sharing some more photos from my trip to the Isle of Skye!
