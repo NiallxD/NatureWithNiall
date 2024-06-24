@@ -8,9 +8,9 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 
 | Tags                    |
 | ----------------------- |
-| #photography(40)        |
-| #nature(39)             |
-| #wildlife(33)           |
+| #photography(41)        |
+| #nature(40)             |
+| #wildlife(34)           |
 | #books(23)              |
 | #reading(23)            |
 | #bookshelf(22)          |
@@ -29,7 +29,9 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #auroraborealis(2)      |
 | #Camera(2)              |
 | #conservation(2)        |
+| #deer(2)                |
 | #northernlights(2)      |
+| #photo(2)               |
 | #Photography(2)         |
 | #space(2)               |
 | #sustainability(2)      |
@@ -57,7 +59,6 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #crossbill(1)           |
 | #cuckoo(1)              |
 | #damselfly(1)           |
-| #deer(1)                |
 | #dipper(1)              |
 | #earth(1)               |
 | #environment(1)         |
@@ -86,7 +87,6 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #microscope(1)          |
 | #music(1)               |
 | #phones(1)              |
-| #photo(1)               |
 | #photofeed(1)           |
 | #photomicrography(1)    |
 | #photowall(1)           |
