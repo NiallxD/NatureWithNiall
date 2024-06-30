@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-06-24T13:30:20.768+01:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-06-30T18:51:07.087+01:00"}
 ---
 
 #photography #photofeed
@@ -11,7 +11,33 @@ It's important to note that these aren't portfolio images but instead are photos
 
 📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]] to get a email when I share new updates!
 
-> [!tip]+ WC 17th June 2024
+> [!tip]+ WC 24th June 2024
+> This week has been an exciting one for sure! It started off as standard, and I even managed a half day at Potteric Carr. But Saturday evening turned very special after I decided to 'twitch' a bird that was literally 10 mins from where I live.
+> 
+> 
+> #### Coot Attack
+> 
+> Coot are spotted pretty much everywhere you find water. They are a fairly dull bird, with a blackish plumage and white bill/forehead. Where the lack in looks, they make up for in attitude. Its common to see coot bee-lining for a nearby intruder in a water skipping fashion. 
+> 
+> ![](https://i.imgur.com/fFerA9f.jpeg)
+> 
+> 
+> #### Common Tern
+> 
+> Tern may by lumped in with seagulls by those who are uninitiated, but to me there are super special. Not only are they a fishing bird (I like birds that have a taste for fish) but it's an elegant one at that. They fly with a bouncy enthusiasm and are so aerobatic that they wouldn't look out of place in Top Gun.
+> 
+> ![](https://i.imgur.com/5JAjYXi.jpeg)
+> 
+> 
+> #### Lifer! Caspian Tern
+> 
+> Ok, this is a special one. The photograph is poor even by some of the worst standards, but it was taken at nearly 10:30 pm in the dark! Caspian tern are a widespread and are seen in the UK each summer, but are scarce. I was actually out looking for a rather rare bird to the UK, a black-winged Pratincole. I managed to glimpse of this bird in the grass before getting a great sighting of it in flight. Shortly before leaving, a fellow birder spotted the Caspian tern which just doubled up on the productivity of this local jaunt!
+> 
+> 
+![](https://i.imgur.com/d29UdW1.jpeg)
+> 
+
+> [!tip]- WC 17th June 2024
 > Another busy week, but I did still manage to get out to some local spots to see what was about. This includes checking up on the kingfisher families in Sheffield.
 > 
 > 
