@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-06-30T18:51:07.087+01:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-07-05T16:13:33.006+01:00"}
 ---
 
 #photography #photofeed
@@ -34,7 +34,7 @@ It's important to note that these aren't portfolio images but instead are photos
 > Ok, this is a special one. The photograph is poor even by some of the worst standards, but it was taken at nearly 10:30 pm in the dark! Caspian tern are a widespread and are seen in the UK each summer, but are scarce. I was actually out looking for a rather rare bird to the UK, a black-winged Pratincole. I managed to glimpse of this bird in the grass before getting a great sighting of it in flight. Shortly before leaving, a fellow birder spotted the Caspian tern which just doubled up on the productivity of this local jaunt!
 > 
 > 
-![](https://i.imgur.com/d29UdW1.jpeg)
+>![](https://i.imgur.com/d29UdW1.jpeg)
 > 
 
 > [!tip]- WC 17th June 2024
