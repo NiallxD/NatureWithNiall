@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"DPOTY24","permalink":"/DPOTY24/","title":"Highly Commended - Deer Photographer of the Year","hide":true,"tags":["photo","photography","nature","wildlife","deer"],"noteIcon":"1","created":"2024-06-24T21:33:33.384+01:00","updated":"2024-06-24T21:47:50.315+01:00"}
+{"dg-publish":true,"dg-permalink":"DPOTY24","permalink":"/DPOTY24/","title":"Highly Commended - Deer Photographer of the Year","hide":true,"tags":["photo","photography","nature","wildlife","deer"],"noteIcon":"1","created":"2024-06-24T21:33:33.384+01:00","updated":"2024-07-05T16:22:43.161+01:00"}
 ---
 
 #photo #photography #nature #wildlife #deer 
@@ -26,6 +26,12 @@ I knew this image was something special the second I had created it. The way eve
 So there you have it, an old image that I was super proud of has been recognised for its merit and I couldn't be more pleased!
 
 You can check out the award on the DPOTY website [here](https://www.dpoty.com/winners2024?pgid=lx37azfo-4646bc90-1578-48c3-a3ed-9c27f0c98966) and I encourage you to have a look at the others there too!
+
+#### Update
+
+I've now had a certificate through for this image and wanted to add to this post.
+
+![](https://i.imgur.com/tZSbhke.jpeg)
 
 Cheers!
 
