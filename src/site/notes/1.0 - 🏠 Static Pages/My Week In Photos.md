@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-07-05T16:13:33.006+01:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-07-07T23:09:43.332+01:00"}
 ---
 
 #photography #photofeed
@@ -11,7 +11,58 @@ It's important to note that these aren't portfolio images but instead are photos
 
 📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]] to get a email when I share new updates!
 
-> [!tip]+ WC 24th June 2024
+> [!tip]+ WC 1st July 2024
+> Last week I alluded to the bird that I 'twitched' not far from where I live. Unfortunately I wasn't able to take any photos because it was too dark; However, this week I managed to get back and I was lucky enough to photograph the Black Winged Pratincole! This is such a special bird it will take up the whole of this week in photos!
+> 
+> 
+> #### Non-descript Field
+> 
+> This flooded field is fairly remote and only accessible by walking down an over-grown lane. The grass field has flooed at one end, creating a flash perfect for birds! The main resident are lapwing with a few avocet and black-headed gulls knocking about. Of course, the Caspian Tern was here last week too which was amazing! The whispy cirrus and fibratus clouds were great to see too!
+> 
+> ![](https://i.imgur.com/25Zqna9.jpeg)
+> 
+> 
+> #### Black Winged Pratincole
+> 
+> Pratincole is a latin portmantau *pratincola* derived from the words _prātum_ (meadow) and _incola_ (resident). The bird is known for spending its time among the grasses beside the water before hawking for insects like a swallow.
+> 
+> ![](https://i.imgur.com/1JhvsEZ.jpeg)
+> 
+> 
+> #### Yorkshire Rarity
+> 
+> This pond straddles the Nottinghamshire and South Yorkshire border meaning depending on where the bird flies, it could be in either county. Notts' had a pratincole a few years ago in a different area, but according to records, the last on spotted in Yorkshire was 1909! That makes this a rather special bird in it's current location!
+> 
+> 
+>![](https://i.imgur.com/29y6xnU.jpeg)
+> 
+
+> [!tip]- WC 17th June 2024
+> Another busy week, but I did still manage to get out to some local spots to see what was about. This includes checking up on the kingfisher families in Sheffield.
+> 
+> 
+> #### Heron Perched
+> 
+> It always surprises me when I see a heron perched out of the water. Their long spindly legs clasping onto the branches. I think this heron is a juvenile bird as it's still not get full heron colouration. 
+> 
+> ![](https://i.imgur.com/BO8XYpP.jpeg)
+> 
+> 
+> #### Adult Kingfisher
+> 
+> After what will have been weeks of heavy fishing, this adult male appears to be taking a break and catching some fish for himself. A juvenile was spotted nearby but was not getting given fish which makes me think this adult will have been feeding several hungry bills for a week. It much be hard work!
+> 
+> ![](https://i.imgur.com/766GdFw.jpeg)
+> 
+> 
+> #### Juvenile Kingfisher
+> 
+> Juvenile Kingfishers are identified by their shorter bill, grey feet and dust looking plumage. This adorable little bird was sat begging for fish from a nearby adult. Eventually this bird did dive into the water but didn't manage to catch a fish. These few days after the parents stop feeding are crucial for a young kingfisher. If they don't get the hang of fishing, they may well die.
+> 
+> ![](https://i.imgur.com/IvYzDs1.jpeg)
+> 
+
+> [!tip]- WC 24th June 2024
 > This week has been an exciting one for sure! It started off as standard, and I even managed a half day at Potteric Carr. But Saturday evening turned very special after I decided to 'twitch' a bird that was literally 10 mins from where I live.
 > 
 > 
