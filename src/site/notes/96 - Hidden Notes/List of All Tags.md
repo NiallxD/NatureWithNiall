@@ -8,13 +8,13 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 
 | Tags                    |
 | ----------------------- |
-| #photography(41)        |
-| #nature(40)             |
-| #wildlife(34)           |
+| #photography(42)        |
+| #nature(41)             |
+| #wildlife(35)           |
 | #books(23)              |
 | #reading(23)            |
 | #bookshelf(22)          |
-| #Birds(8)               |
+| #Birds(9)               |
 | #Music(5)               |
 | #photostory(5)          |
 | #blog(4)                |
@@ -27,6 +27,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #astrophotography(2)    |
 | #Atmosphere(2)          |
 | #auroraborealis(2)      |
+| #birds(2)               |
 | #Camera(2)              |
 | #conservation(2)        |
 | #deer(2)                |
@@ -46,7 +47,6 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #analouge(1)            |
 | #architecture(1)        |
 | #Baroque(1)             |
-| #birds(1)               |
 | #britishbirds(1)        |
 | #cameragear(1)          |
 | #canada(1)              |
@@ -91,6 +91,8 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #photomicrography(1)    |
 | #photowall(1)           |
 | #postprocessing(1)      |
+| #pratincole(1)          |
+| #rarebird(1)            |
 | #righttorepair(1)       |
 | #Socialmedia(1)         |
 | #socials(1)             |
