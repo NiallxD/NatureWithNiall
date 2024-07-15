@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/2-1-music/misierere-mei-deus-gregorio-allegri/","title":"Misierere Mei, Deus","hide":true,"tags":["Music","Baroque"],"noteIcon":null,"created":"2024-04-10T23:31:47.000+01:00","updated":"2024-05-12T22:00:40.115+01:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/2-1-music/misierere-mei-deus-gregorio-allegri/","title":"Misierere Mei, Deus","hide":true,"tags":["Music","Baroque"],"noteIcon":null,"created":"2024-04-11T01:31:47.000+03:00","updated":"2024-05-13T00:00:40.115+03:00"}
 ---
 
 #music #composers 
