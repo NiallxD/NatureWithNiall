@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T20:48:02.767+03:00","updated":"2024-07-08T01:09:43.332+03:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T20:48:02.767+03:00","updated":"2024-07-16T17:47:27.633+03:00"}
 ---
 
 #photography #photofeed
@@ -11,7 +11,35 @@ It's important to note that these aren't portfolio images but instead are photos
 
 📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]] to get a email when I share new updates!
 
-> [!tip]+ WC 1st July 2024
+> [!tip]+ WC 8th July 2024
+> Two days late as I've been in the Finnish wilderness and WiFi has been very hit and miss. So this weeks update is coming from a very sunny Finnair flight from Helsinki to Manchester. 
+> 
+> This week will be covering just one species iconic in Finland, Ursus Arctos, commonly known as the Brown Bear!
+> 
+> 
+> #### Cotton Grass
+> 
+> During the summer, cotton grass covers Finland's swamps, this coincides with some of the best bear habitat which makes for some beautiful compositions.
+> 
+> ![](https://i.imgur.com/Tip0k1n.jpg)
+> 
+> 
+> #### Pine Forest
+> 
+> About 70% of Finland is forested with much of that dominated by Pine forest. These trees tower above the wildlife below creating a beautiful backdrop when watching these amazing beasts go about their business.
+> 
+> ![](https://i.imgur.com/6RuMr1y.jpeg)
+> 
+> 
+> #### Omnivores
+> 
+> Like most bears, brown bears are omnivorous so they enjoy feasting on a range of food sources. This area of Finland has large numbers of wild berries, including cloudberry, which the bears seem to love!
+> 
+> 
+>![](https://i.imgur.com/gUrmfKl.jpeg)
+> 
+
+> [!tip]- WC 1st July 2024
 > Last week I alluded to the bird that I 'twitched' not far from where I live. Unfortunately I wasn't able to take any photos because it was too dark; However, this week I managed to get back and I was lucky enough to photograph the Black Winged Pratincole! This is such a special bird it will take up the whole of this week in photos!
 > 
 > 
