@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T20:48:02.767+03:00","updated":"2024-07-16T17:47:27.633+03:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-07-23T17:27:34.557+01:00"}
 ---
 
 #photography #photofeed
@@ -11,7 +11,35 @@ It's important to note that these aren't portfolio images but instead are photos
 
 📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]] to get a email when I share new updates!
 
-> [!tip]+ WC 8th July 2024
+> [!tip]+ WC 15th July 2024
+> Following on from my trip to Finland. My last two days were not marked by bear sightings, but instead another special mammal...wolverine!
+> 
+> This week I'll share a selection of images of the wolverine I photographed in Finland.
+> 
+> 
+> #### On The Rock
+> 
+> One of the hides we were in sat opposite a large rocky outcrop. I willed for a wolverine and a bear to walk over the rock and incredibly, one did!
+> 
+> ![](https://i.imgur.com/JszduCa.jpeg)
+> 
+> 
+> #### Waters Edge
+> 
+> The ponds in Finland are beautiful. They sit so still and barely move its amazing! This photo was taken during the light hours as the wolverine surveyed the area for bears.
+> 
+> ![](https://i.imgur.com/HQqsiFZ.jpeg)
+> 
+> 
+> #### Reflection
+> 
+> Following on from the above, the reflection of the ponds made for amazing photos. Wolverine are not quite tall enough to get clear reflections, however this individual did manage to get close enough to the water to create a reflection. There is a subtle mist on the water too hence the blue hue!
+> 
+> 
+>![](https://i.imgur.com/jnPtOyX.jpeg)
+> 
+
+> [!tip]- WC 8th July 2024
 > Two days late as I've been in the Finnish wilderness and WiFi has been very hit and miss. So this weeks update is coming from a very sunny Finnair flight from Helsinki to Manchester. 
 > 
 > This week will be covering just one species iconic in Finland, Ursus Arctos, commonly known as the Brown Bear!

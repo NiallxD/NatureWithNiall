@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist"],"noteIcon":null,"created":"2024-04-28T16:20:47.563+03:00","updated":"2024-07-05T18:16:27.780+03:00"}
+{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist"],"noteIcon":null,"created":"2024-04-28T14:20:47.563+01:00","updated":"2024-07-23T17:36:44.518+01:00"}
 ---
 
 #photography #nature #lifelist
@@ -10,10 +10,10 @@ I never used to be bothered about keeping a life list, it seemed a bit pointless
 
 The categories below are not intended to be taxonomic in nature, more rough groupings based on what feels right. The location and date are those of the photo presented and not the first sighting. All animals are wild, nothing captive here apart from the odd escapee which has become established (e.g., parakeets and wood duck in the UK).
 
-This list sits at **273** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full bird life list can be found here 
+This list sits at **279** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full bird life list can be found here 
 
 >[!NEW] Recent Updates
->Finally landed some photographs of the Black-winged Pratincole that has been floating around between the Notts/South Yorkshire border! Added to the list! - 5 July 2024.
+>I've recently returned from a trip to Finland where I bagged photographs of Brown Bear, Wolverine, Green and Wood Sandpiper, Greenshank, and Hooded Crow - July 2024
 
 ## Jump Links
 
@@ -90,7 +90,13 @@ Use these links to jump to specific sections. For those one desktop use the cont
 *England - 2022*
 
 ---
+### Bears
 
+#### Brown Bear
+![](https://i.imgur.com/Tip0k1n.jpg)
+*Finland - 2024*
+
+---
 ### Musta-likes
 
 #### European badger
@@ -104,6 +110,10 @@ Use these links to jump to specific sections. For those one desktop use the cont
 #### Indian Mongoose
 ![](https://i.imgur.com/jk3B7C2.jpeg)
 *India - 2022*
+
+#### Wolverine
+![](https://i.imgur.com/HQqsiFZ.jpg)
+*Finland - 2024*
 
 ---
 
@@ -420,6 +430,14 @@ Use these links to jump to specific sections. For those one desktop use the cont
 ![](https://i.imgur.com/zeMwOfG.jpeg)
 *Scotland (Isle of Mull) - 2023*
 
+#### Green Sandpiper
+![](https://i.imgur.com/7jZpKfm.jpeg)
+*Finland - 2024*
+
+#### Wood Sandpiper
+![](https://i.imgur.com/Jl8Ld4N.jpeg)
+*Finland - 2024*
+
 #### Dunlin
 ![](https://i.imgur.com/LZOG7WI.jpeg)
 *Scotland (Isle of Skye) - 2024*
@@ -451,6 +469,10 @@ Use these links to jump to specific sections. For those one desktop use the cont
 #### Common Redshank
 ![](https://i.imgur.com/3Pu5wel.jpeg)
 *England - 2023*
+
+#### Common Greenshank
+![](https://i.imgur.com/w6WMTEj.jpeg)
+*Finland - 2024*
 
 #### Black-winged Stilt
 ![](https://i.imgur.com/eHGaebW.jpeg)
@@ -784,6 +806,10 @@ Use these links to jump to specific sections. For those one desktop use the cont
 #### Carrion Crow
 ![](https://i.imgur.com/BdcMAr1.jpeg)
 *England - 2019*
+
+#### Hooded Crow
+![](https://i.imgur.com/s8Rb6Vd.jpeg)
+*Finland - 2024*
 
 #### Eurasian Jackdaw
 ![](https://i.imgur.com/17nyFAd.jpeg)
