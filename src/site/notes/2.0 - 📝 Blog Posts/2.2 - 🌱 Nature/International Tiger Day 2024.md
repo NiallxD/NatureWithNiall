@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/international-tiger-day-2024","permalink":"/international-tiger-day-2024/","title":"International Tiger Day 2024","hide":true,"tags":["internationaltigerday","tigers","nature","wildlife","conservation"],"noteIcon":"1","created":"2024-07-29T10:39:20.786+01:00","updated":"2024-07-29T11:19:12.482+01:00"}
+{"dg-publish":true,"dg-permalink":"/international-tiger-day-2024","permalink":"/international-tiger-day-2024/","title":"International Tiger Day 2024","hide":true,"tags":["internationaltigerday","tigers","nature","wildlife","conservation"],"noteIcon":"1","created":"2024-07-29T10:39:20.786+01:00","updated":"2024-07-29T11:34:49.049+01:00"}
 ---
 
 #internationaltigerday #tigers #nature #wildlife #conservation 
@@ -7,13 +7,13 @@
 <p id="reading-time" style="font-style: italic;">⏱️ Approx Reading Time:  <span id="inserted-text"></span> mins</p>
 July the 29th marks International Tiger Day, a day dedicated to celebrating the amazing big cat which has captured the imagination of human for millennia. 
 
-I was first introduced to tigers properly about 10 years ago when I visited me local zoo. There I observed several tigers, Tschuna, Sayan, and Vladimir along with Tschuna and Vlad's three cubs, Hector, Harley, and Hope. I was hooked from this day and ever since tigers have played a huge role in the development of my opinions and thoughts around wildlife photography and nature conservation and have acted as a focal point in my quest to leave the world a better place than when I found it.
+I was first introduced to tigers properly about 10 years ago when I visited my local zoo. There I observed several tigers, Tschuna, Sayan, and Vladimir along with Tschuna and Vlad's three cubs, Hector, Harley, and Hope. I was hooked from this day and ever since tigers have played a huge role in the development of my opinions and thoughts around wildlife photography and nature conservation, and have acted as a focal point in my quest to leave the world a better place than when I found it.
 
 I find it hard to capture what tigers mean to me in words, but consider everything we humans love about cats, then add to that the size of these majestic creatures, the vibrant orange and black coats, the way they look into your eyes, she sheer power and adaptability of their bodies and the essence that comes from a creature so perfect; and you'll start to get the gist. I'm not spiritual or religious, but tigers have a presence and you can't help think there is so much more to them than meets the eye.
 
 ## My Pet Tiger, Tschuna
 
-Make no mistake, I don't profess any ownership over Tschuna, nor do I condone it, but over the years Tschuna has become like a pet to me, one which I can't throw Dreamies or give belly rubs to! I've photographed her for the best part of her life and I know her like I know my own pets. Often she would run up to me and chuff when I walked up to the enclosure, so it's hard to ignore the feeling that she knows me too. Vlad and Sayan were also incredible tigers however both have sadly passed away, Sayan just last week.
+Make no mistake, I don't profess any ownership over Tschuna, nor do I condone the premise, but over the years Tschuna has become like a pet to me, one which I can't throw Dreamies or give belly rubs to! I've photographed her for the best part of her life and I know her like I know my own pets. Often she would run up to me and chuff when I walked up to the enclosure, so it's hard to ignore the feeling that she knows me too. Vlad and Sayan were also incredible tigers however both have sadly passed away, Sayan just last week.
 
 Here are some photos of Tschuna I've taken over the years.
 
@@ -30,7 +30,7 @@ Here are some photos of Tschuna I've taken over the years.
 
 Unfortunately, the zoo where Tschuna lives has fallen out with me for advocating for change in their practices, so I can't go see her any more, but I do have many fond memories and several friends continue to share photos and stories with me. Click [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.4 - 🚀 Other/3.1.4.7 - The Zoo\|here]] and [[2.0 - 📝 Blog Posts/2.2 - 🌱 Nature/An Open Letter To Yorkshire Wildlife Park\|here]] to read more about the breakup!
 
-In reflection of my connection with tigers, I even have a tiger tattooed on my arm. This is one of my photos of Tschuan.
+In reflection of my connection with tigers, I even have a tiger tattooed on my arm. This is one of my photos of Tschuna.
 
 ![](https://i.imgur.com/4GjuM6G.jpeg)
 *Tschuna tattoo on my arm. This was inked by Dave at Inspired By Ink in Conisbrough and true to a photo I took*
@@ -52,7 +52,7 @@ As a result of the above human actions, tigers are on the brink of disappearing 
 
 Helping the tiger isn’t as hard as you think. In a world with climate change and global pandemics, helping the tiger is actually not hard. I remember being told a story where human-wildlife conflict was resolved in a very simple way. Local people were provided access to firewood so that they didn’t need to and collect it from the forest. A simple investment made a huge difference, not only to the tigers, but to the people who lived there. No longer were the tigers an enemy.
 
-If you’re here you probably care about tigers in some way. Donating a small bit of change, say £3 each month will go a long way to keeping tigers in the wild. It’s a simple as that. Not all of us are fortunate enough to have spare change, so if you can’t donate money, donate time. Talk to people about tigers, go to your local ethical zoo (see what makes a good zoo below) to watch and learn about tigers. Make people aware that tigers are [worth more alive](https://www.exodus.co.uk/worth-more-alive).
+If you’re here you probably care about tigers in some way. Donating a small bit of change, say £3 each month will go a long way to keeping tigers in the wild. It’s a simple as that. Not all of us are fortunate enough to have spare change, so if you can’t donate money, donate time. Talk to people about tigers, go to your local, ethical, zoo to watch and learn about tigers. Make people aware that tigers are [worth more alive](https://www.exodus.co.uk/worth-more-alive). If you really want to spend some money, go and see them in the wild. Eco-tourism gives these animals and their habitats value, and that keeps them protected. I highly recommend Arpit at [Vanvasm](https://www.instagram.com/vanvasm/) for trips in India.
 
 ### Which charities do I support?
 
@@ -60,6 +60,17 @@ I support a few tiger charities who all do different but crucial work:
 
 1. [For Tigers](https://www.fortigers.org/) work to save captive tigers in Thailand from Tiger Tourism.
 2. [WildCats Conservation Alliance](https://conservewildcats.org/about-wildcats/) carry out in-situ wildlife conservation for big cats.
+
+This year I've donated to WildCats on International Tiger Day to support in-situ conservation, send a message that tigers are important to me, and support the work of the charity.
+
+## Tigers Forever
+
+So as we think about International Tiger Day, we should consider how important these animals are to us, both individually, but also collectively. We should think about what it means to protect these animals and what effect that might have on the protection of others. Finally, we should consider what a world without tigers would look like and if we are willing to let that happen.
+
+Thanks for reading!
+Niall.
+
+*As always, a huge shoutout to my good friend Tal for sharing my passion for tigers and introducing me to Arpit of Vanvasm who allowed me to experience tigers in the wild. True champions for nature!*
 
 ## Wild Tigers
 
@@ -114,7 +125,7 @@ Recently, I was fortunate enough to go and photograph tigers in the wild. The be
     <!-- Add more images as needed -->
 </div>
 
-As always, a huge shoutout to my good friend Tal for sharing my passion for tigers and introducing me to Arpit of Vanvasm who allowed me to experience tigers in the wild. True champions across the board!
+
 
 ---
 ### Comments
