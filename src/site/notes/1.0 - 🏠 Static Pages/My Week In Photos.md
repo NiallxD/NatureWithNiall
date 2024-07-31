@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-07-23T17:38:33.553+01:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-07-31T22:36:56.018+01:00"}
 ---
 
 #photography #photofeed
@@ -11,7 +11,27 @@ It's important to note that these aren't portfolio images but instead are photos
 
 📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]] to get a email when I share new updates!
 
-> [!tip]+ WC 15th July 2024
+> [!tip]+ WC 22nd July 2024
+> With my recent trip to Finland, I've been playing catchup do not a lot of time for photography this week. That said, I did still snap some interesting shots of the clouds over Doncaster which I think are still worth sharing!
+> 
+> If you didn't know, I'm currently 29th in the world for cloudspotting ☁️
+> 
+> #### Stormy Skies
+> 
+> As I walked out of the cafe I noticed this huge, turbulent cloud system forming above. I think this is a combination of cloud types, perhaps Mammatus at the base of a Cumulonimbus, which isn't uncommon to see. Surprisingly, no rain.
+> 
+> ![](https://i.imgur.com/RgswtNG.jpeg)
+> 
+> 
+> #### Storm Brewing
+> 
+> This shot was taken on the way home of another storm system brewing nearby. As this was in the distance, you can see the laters of the cloud forming as the humid air interacts with the warm and cool spots. Super cool.
+> 
+> ![](https://i.imgur.com/U1Wa7Jx.jpeg)
+> 
+
+
+> [!tip]- WC 15th July 2024
 > Following on from my trip to Finland. My last two days were not marked by bear sightings, but instead another special mammal...wolverine!
 > 
 > This week I'll share a selection of images of the wolverine I photographed in Finland.
