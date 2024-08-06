@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-07-31T22:36:56.018+01:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-08-06T13:58:10.362+01:00"}
 ---
 
 #photography #photofeed
@@ -11,7 +11,33 @@ It's important to note that these aren't portfolio images but instead are photos
 
 📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]] to get a email when I share new updates!
 
-> [!tip]+ WC 22nd July 2024
+> [!tip]+ WC 29th July 2024
+> Ok, so after a few slow photography weeks I was back at it with full force this week. The two hight lights of the week were a hike up to Win Hill in the Peak District and a trip to Old Moor.
+> 
+> #### Sunset in the Peaks
+> 
+> A friend and I had planned to hike up to Win Hill to photograph the blooming heather with a stunning sunset. Naturally this didn't happen last year so we made an effort to do so this year. After seeing the heather had started to bloom, we took the next free evening to give it a shot. Thankfully it all came together nicely!
+> 
+> ![](https://i.imgur.com/sfI5Kbr.jpeg)
+> 
+> 
+> #### Great White Egret
+> 
+> I spotted my first GWE about 2 months ago on a morning bike ride. This sighting was far better though. I was sat watching some spoonbills when an egret flew in, it was only when I actually looked at it that a realised it was a great white! These birds are huge, about double the size of a grey heron, and have an obscenely long neck. The bird hung around for about 30 mins before flying off. I'll be updating the photo in my life list to this one!
+> 
+> ![](https://i.imgur.com/yC70YIF.jpeg)
+> 
+> 
+> #### Eurasian Spoonbill
+> 
+> This is what I'd headed out for in the first place. I had heard there were a few at a local reserve so headed over there to see them. On arrival I counted 11 birds, which is the most I've ever seen at once! Spoonbills are great birds to watch as the sift through the silt for food. 
+> 
+> The riots in a nearby town brought over the Police Helicopter which spooked all the birds on the scrape. This did give me a chance to photograph them in flight which was a nice opportunity.
+> 
+> ![](https://i.imgur.com/iOJROOs.jpeg)
+>
+
+> [!tip]- WC 22nd July 2024
 > With my recent trip to Finland, I've been playing catchup do not a lot of time for photography this week. That said, I did still snap some interesting shots of the clouds over Doncaster which I think are still worth sharing!
 > 
 > If you didn't know, I'm currently 29th in the world for cloudspotting ☁️
@@ -29,7 +55,6 @@ It's important to note that these aren't portfolio images but instead are photos
 > 
 > ![](https://i.imgur.com/U1Wa7Jx.jpeg)
 > 
-
 
 > [!tip]- WC 15th July 2024
 > Following on from my trip to Finland. My last two days were not marked by bear sightings, but instead another special mammal...wolverine!
