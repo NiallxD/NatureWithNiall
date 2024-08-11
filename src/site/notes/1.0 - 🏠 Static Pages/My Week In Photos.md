@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-08-06T14:00:45.910+01:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-08-11T22:24:43.045+01:00"}
 ---
 
 #photography #photofeed
@@ -11,7 +11,31 @@ It's important to note that these aren't portfolio images but instead are photos
 
 📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]] to get a email when I share new updates!
 
-> [!tip]+ WC 29th July 2024
+> [!tip]+ WC 5th August 2024
+> This week was quite exciting with a lifer added to my list! I didn't do a great deal but did head to my local reserve for a few hours. Here's what I photographed!
+> 
+> #### Caspian Tern
+> 
+> Not a lifer but the first time I've been able to get some nice photos of this bird. We don't get many Caspian terns in the UK but we do get a few reliable sightings each year. This time was a first record for my local reserve! It's hard not to be in awe at that bright orange bill!
+> 
+> ![](https://i.imgur.com/6djJ90H.jpeg)
+>
+>
+> #### Lifer! Black-tailed Godwit
+> 
+> This was an unexpected sighting, two black-tailed godwit. These birds are very similar to the bar-tailed godwit, which I first saw on the south coast, and look equally as amazing in flight!
+> 
+> ![](https://i.imgur.com/eCGqvjR.jpeg)
+> 
+> 
+> #### Roe Deer
+> 
+> Walking back from some time in hides can reveal anything from deer to fox to badger, on this occasion it was a very brave roe buck. I saw him walking towards the path so I held back and waited. He spotted me on the path and paused before heading off one he heard the sound of my 1DX rattling away! This camera is great but damn it sounds like a machine gun!
+> 
+> ![](https://i.imgur.com/fqGPM3t.jpeg)
+>
+
+> [!tip]- WC 29th July 2024
 > Ok, so after a few slow photography weeks I was back at it with full force this week. The two hight lights of the week were a hike up to Win Hill in the Peak District and a trip to Old Moor.
 > 
 > #### Sunset in the Peaks
