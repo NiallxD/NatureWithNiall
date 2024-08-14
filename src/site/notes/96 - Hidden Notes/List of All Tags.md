@@ -32,9 +32,13 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #birds(2)                 |
 | #Camera(2)                |
 | #deer(2)                  |
+| #facebook(2)              |
+| #instagram(2)             |
 | #northernlights(2)        |
 | #photo(2)                 |
 | #Photography(2)           |
+| #Socialmedia(2)           |
+| #socials(2)               |
 | #space(2)                 |
 | #sustainability(2)        |
 | #Tech(2)                  |
@@ -64,7 +68,6 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #environment(1)           |
 | #ethics(1)                |
 | #etymology(1)             |
-| #facebook(1)              |
 | #film(1)                  |
 | #finch(1)                 |
 | #fungi(1)                 |
@@ -76,7 +79,6 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #heron(1)                 |
 | #hireme(1)                |
 | #india(1)                 |
-| #instagram(1)             |
 | #internationaltigerday(1) |
 | #lenses(1)                |
 | #lifelist(1)              |
@@ -95,8 +97,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #pratincole(1)            |
 | #rarebird(1)              |
 | #righttorepair(1)         |
-| #Socialmedia(1)           |
-| #socials(1)               |
+| #socialmedia(1)           |
 | #stoat(1)                 |
 | #street(1)                |
 | #streetphotography(1)     |

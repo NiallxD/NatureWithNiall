@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"brief-review-of-the-canon-ef-500mm-f-4-5-l-usm","permalink":"/brief-review-of-the-canon-ef-500mm-f-4-5-l-usm/","title":"Brief Review of The Canon EF 500mm f/4.5 L USM","hide":true,"tags":["Camera","Photography"],"noteIcon":null,"created":"2024-04-15T22:30:13.519+01:00","updated":"2024-05-21T10:28:14.937+01:00"}
+{"dg-publish":true,"dg-permalink":"brief-review-of-the-canon-ef-500mm-f-4-5-l-usm","permalink":"/brief-review-of-the-canon-ef-500mm-f-4-5-l-usm/","title":"Brief Review of The Canon EF 500mm f/4.5 L USM","hide":true,"tags":["Camera","Photography"],"noteIcon":null,"created":"2024-04-15T22:30:13.519+01:00","updated":"2024-08-14T15:23:01.573+01:00"}
 ---
 
 #tech #cameras #photography 
@@ -8,9 +8,6 @@
 ## March 2024 Update
 
 Since publishing this post over 12 months ago, I’ve used this lens a lot more so I wanted to add to my original thoughts. If you can’t be bothered to read on – the lens is just as fantastic as it always has been.
-
->[!TIP] MPB
->If you're interested in purchasing a 500 f4.5 for yourself, please do checkout what MPB has to offer. I buy most of my gear from MPB and I'm always pleased with the service. This link will take you to their 500 f4.5 page and if you choose to checkout I'll get a small kickback: [MPB - 500 f/4.5 USM L](https://prf.hn/l/BJlLVP3)
 
 ## Canon’s Little Known Prime
 
