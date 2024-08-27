@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"social-media-dilemma","permalink":"/social-media-dilemma/","title":"Social Media Dilemma","hide":true,"tags":["socials","Socialmedia","instagram","facebook"],"noteIcon":"1","created":"2024-08-14T14:14:19.453+01:00","updated":"2024-08-14T15:50:19.745+01:00"}
+{"dg-publish":true,"dg-permalink":"social-media-dilemma","permalink":"/social-media-dilemma/","title":"Social Media Dilemma","hide":true,"tags":["socials","Socialmedia","instagram","facebook"],"noteIcon":"1","created":"2024-08-14T14:14:19.453+01:00","updated":"2024-08-14T15:52:10.695+01:00"}
 ---
 
 #socialmedia #socials #instagram #facebook
@@ -8,7 +8,7 @@
 
 >[!QUOTE] *...a new type of thinking is essential if mankind is to survive and move toward higher levels.*
 
-The quote above is taken from a 1946 telegram sent from Dr. Albert Einstein to several hundred prominent Americans asking them for funds to produce an nationwide campaign to educate people on how we much change our thinking as we enter the atomic age. In August of the previous year, the US dropped atomic bombs on Hiroshima and Nagasaki, killing over 200,000 people.
+The quote above is taken from a 1946 telegram[^1] sent from Dr. Albert Einstein to several hundred prominent Americans asking them for funds to produce an nationwide campaign to educate people on how we much change our thinking as we enter the atomic age. In August of the previous year, the US dropped atomic bombs on Hiroshima and Nagasaki, killing over 200,000 people.
 
 What Einstein is saying here is that when we are faced with problems or issues, we cannot hope to solve them with the same level of thinking used to create them. Of course he is referring to the threat of total nuclear destruction. It seems somewhat odd to use this in the context of social media, but after all, social media has probably killed more than 200,000 people at this point.
 
@@ -79,6 +79,8 @@ Considering the content I don't want to see on social media, things like fake ne
 ## To Conclude
 
 I'm still not sure if I want to start engaging with social media again. I don't know if the compromises are worth it. It's like voluntarily buying a car where the windows steam up all the time and the wheels only rotate one way. I'll spend some more time pondering but have found drafting out these thoughts useful. I'll be sure to update this post if I my thoughts develop further.
+
+[^1]: [Wayback Machine (archive.org)](https://web.archive.org/web/20140622171150/http://www.turnthetide.info/id54.htm)
 
 ---
 ### Comments

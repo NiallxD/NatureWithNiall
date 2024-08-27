@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-08-11T22:24:43.045+01:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-08-27T14:39:58.543+01:00"}
 ---
 
 #photography #photofeed
@@ -11,7 +11,55 @@ It's important to note that these aren't portfolio images but instead are photos
 
 📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]] to get a email when I share new updates!
 
-> [!tip]+ WC 5th August 2024
+> [!tip]- WC 19th August 2024
+> This week I had a great surprise at my local nature reserve. Some days are boring and slow but the odd great day totally makes up for it!
+> 
+> #### Two Great White Egrets
+> 
+> Before 2024, I'd never seen a great white egret, this year I've seen no less than four! Two of which were at the same time at Potteric Carr. Magnificent bird whose presence is always a treat!
+> 
+>![](https://i.imgur.com/K3DcnDA.jpeg)
+>
+>
+> #### Aerial Predator
+> 
+> At the same time as seeing the two egrets, I spotted a hobby buzzing around picking off dragonflies on the wing. Hobby are a remarkable falcon and definitely worth watching a while as they hunt and eat on the wing!
+> 
+>![](https://i.imgur.com/0CicT89.jpeg)
+> 
+> 
+> #### Posing Moorhen
+> 
+> The regulars at ponds and lakes often get overlooked but in the right light and with the correct composition, they shine! This bird posed lovely on this branch and I had to get low and take the shot.
+> 
+>![](https://i.imgur.com/ZekU7FJ.jpeg)
+>
+
+> [!tip]- WC 12th August 2024
+> This week I spent some time photographing a local kingfisher. I picked up some really nice shots of a heron while I was at it too!
+> 
+> #### Kingfisher Sunbathing
+> 
+> A very lean male kingfisher perched enjoying the sun. He sat there for at least 20 mins as the sun poured down on us. I love how one day they look blue and others green!
+> 
+>![](https://i.imgur.com/j5A4XWX.jpeg)
+>
+>
+> #### Cormorant Drying It's Wings
+> 
+> This is a common sight where cormorants are involved. This bird had been pottering about for hours before jumping up onto this stick for a good old dry out.
+> 
+>![](https://i.imgur.com/oBLyQ70.jpeg)
+> 
+> 
+> #### Top Gun Heron
+> 
+> Heron never fail to capture my interest when they fly by, they remind me of a flying dinosaur! Here this heron executed a graceful wing dip as it flew past as if to show off it's aerial skill!
+> 
+> ![](https://i.imgur.com/TTNzI5V.jpeg)
+>
+
+> [!tip]- WC 5th August 2024
 > This week was quite exciting with a lifer added to my list! I didn't do a great deal but did head to my local reserve for a few hours. Here's what I photographed!
 > 
 > #### Caspian Tern
