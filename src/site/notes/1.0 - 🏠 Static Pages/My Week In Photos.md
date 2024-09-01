@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-08-27T14:39:58.543+01:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards,cards-cols-3,cards-cover,cards-cover-no-border,cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.000+01:00","updated":"2024-09-01T14:33:05.836+01:00"}
 ---
 
 #photography #photofeed
@@ -11,7 +11,7 @@ It's important to note that these aren't portfolio images but instead are photos
 
 📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]] to get a email when I share new updates!
 
-> [!tip]- WC 19th August 2024
+> [!tip]+ WC 19th August 2024
 > This week I had a great surprise at my local nature reserve. Some days are boring and slow but the odd great day totally makes up for it!
 > 
 > #### Two Great White Egrets
