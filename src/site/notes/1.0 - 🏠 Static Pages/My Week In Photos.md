@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards,cards-cols-3,cards-cover,cards-cover-no-border,cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.000+01:00","updated":"2024-09-01T14:33:05.836+01:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards,cards-cols-3,cards-cover,cards-cover-no-border,cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.000+01:00","updated":"2024-09-01T21:01:05.256+01:00"}
 ---
 
 #photography #photofeed
@@ -11,7 +11,31 @@ It's important to note that these aren't portfolio images but instead are photos
 
 📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]] to get a email when I share new updates!
 
-> [!tip]+ WC 19th August 2024
+> [!tip]+ WC 26th August 2024
+> We finish this week with the meteorological transition from summer into autumn, although we have to wait until September 22nd for the astronomical autumn to begin. 
+> 
+> #### Highland Cow
+> 
+> These domesticated creature are perfectly adapted to survive on the cold and rugged terrain of high peaks and cliff edges. These cows reside on Baslow Edge in the Peak District and in August can be photographed nibbling on the purple heather.
+> 
+>![](https://i.imgur.com/L0UO3vc.jpeg)
+>
+>
+> #### Baslow Edge
+> 
+> Baslow Edge is one of many rocky cliff sides in the Peak District National Park which overlook rolling hills and valleys. The terrain isn’t grand by any means but is nevertheless spectacular.
+> 
+>![](https://i.imgur.com/sUysw5w.jpeg)
+>
+> 
+> #### Stonehenge
+> 
+> After attending a wedding not far from Stonehenge it was only right to pop by and have a look at this ancient monument. Stonehenge is about 5000 years old and to be honest with you, is showing its age. The place was packed but we opted for the free of charge footpath that runs alongside the paid entry path. All in all it was worth a visit to lay eyes on a creation build by our ancestors.
+> 
+>![](https://i.imgur.com/eSidtXx.jpeg)
+>
+
+> [!tip]- WC 19th August 2024
 > This week I had a great surprise at my local nature reserve. Some days are boring and slow but the odd great day totally makes up for it!
 > 
 > #### Two Great White Egrets
