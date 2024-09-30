@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards,cards-cols-3,cards-cover,cards-cover-no-border,cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-09-30T16:11:52.380+01:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards,cards-cols-3,cards-cover,cards-cover-no-border,cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-09-30T16:16:31.397+01:00"}
 ---
 
 #photography #photofeed
@@ -12,23 +12,23 @@ It's important to note that these aren't portfolio images but instead are photos
 📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]] to get a email when I share new updates!
 
 > [!tip]+ WC 23rd September 2024
-> As I close in on my University deadline, I'm struggling to get out with my camera, however I do still set aside a little bit of time to get some fresh air, and my camera often comes with me. This images are from a single trip out to Potteric Carr this weekend.
+> As I close in on my University deadline, I'm struggling to get out with my camera, however I do still set aside a little bit of time to get some fresh air, and my camera often comes with me. These images are from a single trip out to Potteric Carr this weekend.
 > 
 > #### Little Egret
 > 
-> Like their larger cousins, little egrets still amaze me every time I see them. This bird was having a lovely time foraging for food int he shallow marsh and made for some lovely photos.
+> Like their larger cousins, little egrets still amaze me every time I see them. This bird was having a lovely time foraging for food in the shallow marsh and made for some lovely photos.
 > 
 >![](https://i.imgur.com/5tzeFyR.jpeg)
 >
 > #### Heron in Flight
 > 
-> I love herons, I think they are incredible birds and I really enjoy photographing them. This heron flew past me with great light and actually called out right as it passed by adding something new to the image.
+> I love herons, I think they are incredible birds and I really enjoy photographing them. This heron flew past me with great light and actually called out right as it passed by adding some interest to the image.
 > 
 >![](https://i.imgur.com/b87WJ7r.jpeg)
 > 
 > #### Female Kingfisher
 > 
-> At the Piper Marsh hide there is a perch infront of the hide for the kingfishers to land on. They rarely do and to this day I've only seen this 5 times. I was willing the distant kingie to come forward and land on the perch in the beautiful light. To my disbelief the bird did just that and I was able to fire off several images of this superb female kingfisher.
+> At the Piper Marsh hide there is a perch in front of the hide for the kingfishers to land on. They rarely do and to this day I've only seen this 5 times. I was willing the distant kingie to come forward and land on the perch in the beautiful light. To my disbelief the bird did just that and I was able to fire off several images of this superb female kingfisher.
 > 
 >![](https://i.imgur.com/6zPIfz6.jpeg)
 >
