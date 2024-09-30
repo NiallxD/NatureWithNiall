@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tags","permalink":"/tags/","title":"List of All Tags","hide":true,"noteIcon":null,"created":"2024-04-16T00:05:40.000+01:00","updated":"2024-05-05T11:08:34.000+01:00"}
+{"dg-publish":true,"dg-permalink":"tags","permalink":"/tags/","title":"List of All Tags","hide":true,"noteIcon":null,"created":"2024-04-16T00:05:40.920+01:00","updated":"2024-05-05T11:08:34.273+01:00"}
 ---
 
 # List of All Tags
@@ -8,9 +8,9 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 
 | Tags                      |
 | ------------------------- |
-| #nature(42)               |
-| #photography(42)          |
-| #wildlife(36)             |
+| #nature(43)               |
+| #photography(43)          |
+| #wildlife(37)             |
 | #books(23)                |
 | #reading(23)              |
 | #bookshelf(22)            |
@@ -23,13 +23,14 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #tech(4)                  |
 | #BlogPost(3)              |
 | #cameras(3)               |
+| #conservation(3)          |
 | #Nature(3)                |
+| #tigers(3)                |
 | #astrophotography(2)      |
 | #Atmosphere(2)            |
 | #auroraborealis(2)        |
 | #birds(2)                 |
 | #Camera(2)                |
-| #conservation(2)          |
 | #deer(2)                  |
 | #facebook(2)              |
 | #instagram(2)             |
@@ -41,7 +42,6 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #space(2)                 |
 | #sustainability(2)        |
 | #Tech(2)                  |
-| #tigers(2)                |
 | #weather(2)               |
 | #360panorama(1)           |
 | #ai(1)                    |
@@ -54,6 +54,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #britishbirds(1)          |
 | #cameragear(1)            |
 | #canada(1)                |
+| #cats(1)                  |
 | #classical(1)             |
 | #comedywildlife(1)        |
 | #commonbluedamselfly(1)   |

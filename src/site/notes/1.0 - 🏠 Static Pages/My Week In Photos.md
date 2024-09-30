@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards,cards-cols-3,cards-cover,cards-cover-no-border,cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.000+01:00","updated":"2024-09-01T21:01:05.256+01:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards,cards-cols-3,cards-cover,cards-cover-no-border,cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-09-30T16:11:52.380+01:00"}
 ---
 
 #photography #photofeed
@@ -11,7 +11,99 @@ It's important to note that these aren't portfolio images but instead are photos
 
 📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]] to get a email when I share new updates!
 
-> [!tip]+ WC 26th August 2024
+> [!tip]+ WC 23rd September 2024
+> As I close in on my University deadline, I'm struggling to get out with my camera, however I do still set aside a little bit of time to get some fresh air, and my camera often comes with me. This images are from a single trip out to Potteric Carr this weekend.
+> 
+> #### Little Egret
+> 
+> Like their larger cousins, little egrets still amaze me every time I see them. This bird was having a lovely time foraging for food int he shallow marsh and made for some lovely photos.
+> 
+>![](https://i.imgur.com/5tzeFyR.jpeg)
+>
+> #### Heron in Flight
+> 
+> I love herons, I think they are incredible birds and I really enjoy photographing them. This heron flew past me with great light and actually called out right as it passed by adding something new to the image.
+> 
+>![](https://i.imgur.com/b87WJ7r.jpeg)
+> 
+> #### Female Kingfisher
+> 
+> At the Piper Marsh hide there is a perch infront of the hide for the kingfishers to land on. They rarely do and to this day I've only seen this 5 times. I was willing the distant kingie to come forward and land on the perch in the beautiful light. To my disbelief the bird did just that and I was able to fire off several images of this superb female kingfisher.
+> 
+>![](https://i.imgur.com/6zPIfz6.jpeg)
+>
+
+> [!tip]- WC 16th September 2024
+> I was still in Prague on the Monday so the first image is from this trip. Following this I struggled to get out due to university commitments but I still have some shots I want to share.
+> 
+> #### River Rats
+> 
+> I wanted to wander down to the river to see the levels of rise after torrential rain in Europe. I was surprised to see some river rats foraging for food on the bank. I was without my camera so had to shoot with phone but managed a nice photo of the rats.
+> 
+>![](https://i.imgur.com/566mMoM.jpeg)
+>
+> #### Geranium Bokeh
+> 
+> I shoot film with a Zenit-11 and I figured it would be nice to adapt these old manual lenses to my R6 to see what images I could get. This is a test shot I created with one of these manual vintage lenses and I really like the swirly bokeh.
+> 
+>![](https://i.imgur.com/vCMqgmE.jpeg)
+> 
+> #### Autumnal Crow
+> 
+> Wandering through a local park I spotted a carrion crow with a beautiful autumnal background as the oak trees start to turn. I snapped a few shots and was really happy with this one. Sometimes the common birds make the best photos!
+> 
+>![](https://i.imgur.com/eHgGuTt.jpeg)
+>
+
+> [!tip]- WC 16th September 2024
+> A mix up this week as I share some photos from my trip to Prague! I love a city break, experiencing local culture and seeing the architecture. These shots are all from Prague.
+> 
+> #### Jet Sunset
+> 
+> I love flying and I enjoy photographing from the window. We flew out late so had a superb sunset from above the clouds. Here you see the full transition as the atmosphere scatters the sunlight creating a beautiful blue to red transition.
+> 
+>![](https://i.imgur.com/Zr4hv2x.jpeg)
+>
+>
+> #### Prague Skyline
+> 
+> Most people are familiar with the astronimcal clock, the oldest of its kind still working. This photo was taken from right above the clock with an ultra wide angle lens. I loved how the buildings lined the streets and the colours of the tiles.
+> 
+>![](https://i.imgur.com/uuCM25w.jpeg)
+>
+> 
+> #### The State Opera House
+> 
+> I was lucky enough to be taken to the Czech State Opera to watch Copellia by the National Ballet. The Opera House is stunning after recent renovation and I couldn't not share this superb building.
+> 
+>![](https://i.imgur.com/HngqWfT.jpeg)
+>
+
+> [!tip]- WC 2nd September 2024
+> A mixed bag of photos this week but primarily birds again, I'm enjoying my regular walks and my camera always comes with me!
+> 
+> #### Great White Egret
+> 
+> This year I've seen so many GWE that I'm starting to become less enthused by them in principle, but then I see one and I'm blown away by how elegant they are, and just how large they are!
+> 
+> ![](https://i.imgur.com/U6fjaxt.jpeg)
+>
+>
+> #### Rainbow
+> 
+> It never gets old sitting in a bird hide with a flask of coffee when it's raining outside. I had to snap this photo of the beautiful Piper Marsh at Potteric Carr with a rainbow in the distance.
+> 
+>![](https://i.imgur.com/7filbPI.jpeg)
+>
+> 
+> #### Surprise Bittern
+> 
+> I was sat in a hide considering leaving for the day when a bittern leaped out of the reeds, flew a circuit before diving back into the reeds. I was able to fire off a few shots of this amazing bird!
+> 
+>![](https://i.imgur.com/l55q0T6.jpeg)
+>
+
+> [!tip]- WC 26th August 2024
 > We finish this week with the meteorological transition from summer into autumn, although we have to wait until September 22nd for the astronomical autumn to begin. 
 > 
 > #### Highland Cow

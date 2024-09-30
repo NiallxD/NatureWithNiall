@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"how-i-process-my-photographs","permalink":"/how-i-process-my-photographs/","title":"How I Process My Photographs","hide":true,"tags":["photo","photography","postprocessing"],"noteIcon":"1","created":"2024-05-31T14:05:41.000+01:00","updated":"2024-06-11T16:54:35.000+01:00"}
+{"dg-publish":true,"dg-permalink":"how-i-process-my-photographs","permalink":"/how-i-process-my-photographs/","title":"How I Process My Photographs","hide":true,"tags":["photo","photography","postprocessing"],"noteIcon":"1","created":"2024-05-31T14:05:41.093+01:00","updated":"2024-06-11T16:54:35.598+01:00"}
 ---
 
 #photography #photo #postprocessing

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"social-media-dilemma","permalink":"/social-media-dilemma/","title":"Social Media Dilemma","hide":true,"tags":["socials","Socialmedia","instagram","facebook"],"noteIcon":"1","created":"2024-08-14T14:14:19.000+01:00","updated":"2024-08-14T15:52:10.000+01:00"}
+{"dg-publish":true,"dg-permalink":"social-media-dilemma","permalink":"/social-media-dilemma/","title":"Social Media Dilemma","hide":true,"tags":["socials","Socialmedia","instagram","facebook"],"noteIcon":"1","created":"2024-08-14T14:14:19.453+01:00","updated":"2024-08-14T15:52:10.695+01:00"}
 ---
 
 #socialmedia #socials #instagram #facebook
