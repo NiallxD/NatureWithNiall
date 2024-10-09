@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/gis-map","permalink":"/gis-map/","title":"🗺️ GIS Map","hide":true,"noteIcon":null,"created":"2024-10-08T22:42:37.161+01:00","updated":"2024-10-09T11:47:16.502+01:00"}
+{"dg-publish":true,"dg-permalink":"/gis-map","permalink":"/gis-map/","title":"🗺️ GIS Map","hide":true,"noteIcon":null,"created":"2024-10-08T22:42:37.161+01:00","updated":"2024-10-09T11:47:49.516+01:00"}
 ---
 
 # GIS Map
@@ -7,7 +7,7 @@
 This page is where I host my online GIS maps that I want to share with others.
 
 <body>
-    <iframe src="https://niallxd.github.io/GIS/#8/53.636/-1.499" title="Niall's GIS" width="800" height="800" style="border:none;"></iframe>
+    <iframe src="https://niallxd.github.io/GIS/#8/53.636/-1.499" title="Niall's GIS" width="100%" height="100%" style="border:none;"></iframe>
 </body>
 
 
