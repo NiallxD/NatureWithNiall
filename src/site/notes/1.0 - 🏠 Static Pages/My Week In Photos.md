@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-09-30T16:19:06.909+01:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-10-22T21:24:52.960+01:00"}
 ---
 
 #photography #photofeed
@@ -11,7 +11,84 @@ It's important to note that these aren't portfolio images but instead are photos
 
 📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]] to get a email when I share new updates!
 
-> [!tip]+ WC 23rd September 2024
+> [!tip]+ WC 14th October 2024
+> This week was new camera lens week, and while I was disappointed because the lens was not described as it should have been, it's got scuffs on the front element, I was still able to put it to good use. The lens is in a format new to me, 8-15mm fisheye!
+> 
+> #### Curled Rope
+> 
+> I spent the weekend in the Lake District and boarded a cruise on Coniston Water on a steam powered vessel built in the 1850's. It was awesome to see Coniston Water from the water and the weather was a pleasure! Most shots this week are from this trip bar the final bonus shot.
+> 
+>![](https://i.imgur.com/u8cPFwk.jpeg)
+>
+> #### A Steam Engine on Water
+> 
+> The steam boat, unsurprisingly, was powered by what I can only describe as a steam train but inside the boat. I'm not sure what I expected but it wasn't this! I spent some time watching this engine go, channeling my inner engineer!
+> 
+>![](https://i.imgur.com/k8rZXi1.jpeg)
+> 
+> #### Boat Buddy
+> 
+> On the boat a little caddisfly landed on the railing infront of me and appeared to sit and pose for a photo. I snapped this shot with my new 8-15mm lens and immediately fell in love with the perspective it provides. It is super sharp and gets nice and close, but includes the whole background too!
+> 
+>![](https://i.imgur.com/rO6U8gb.jpeg)
+>
+>#### Bonus Merganser
+>
+>This was an awesome experience, watching a merganser try to swallow whole a full rainbow trout. The fish was far to big for this birds bill, but try it did! This went on for about 10 mins before the merganser was washed down stream out of view.
+>
+>![](https://i.imgur.com/GzL8D9k.jpeg)
+
+> [!tip]- WC 7th October 2024
+> Autumn is here and the colour show is in full swing! Unfortunately I wasn't able to get out much so this week is mainly a selection of kingishers from my local patch.
+> 
+> #### Tree Perch
+> 
+> It was unusual to see this bird go up high in the tree, however it did provide for an awesome angle to shoot at. I love the colours and the diffused background.
+> 
+>![](https://i.imgur.com/0FXbS5B.jpeg)
+>
+> #### High Speed Reflection
+> 
+> Another in flight shot of a male kingfisher as he headed over to a nearby perch. Catching these birds in flight is only possible with lots of practice, a hint of luck, and some support from fantastic autofocus!
+> 
+>![](https://i.imgur.com/t9091xG.jpeg)
+> 
+> #### Vibrant Feathers
+> 
+> There are very few birds which match the kingfishers striking appearance, especially in the UK! This shot shows a male with stunning evening light. The colours pop off the screen and I love it!
+> 
+> ![](https://i.imgur.com/OvkLi5j.jpeg)
+> 
+> #### Bonus Aroura
+> 
+> This weekend we were treated to an insane solar light show with the northern lights. I headed to my local national park to photograph this phenomenon with my good friend, Dave, it was incredible!
+> 
+>![](https://i.imgur.com/vUt5zpH.jpeg)
+>
+
+> [!tip]- WC 30th September 2024
+> New camera day is often characterised by overcast skies, rain, life admin, and literally everything other than getting out and shooting! This week was different! I happened upon a great deal on a Canon R5 which I couldn't resist, so as soon as it arrived I was out the door and on my way to my local nature reserve giving it a try!
+> 
+> #### Humble Pheasant
+> 
+> A common bird round here but nonetheless impressive, the male common pheasant is covered in vibrant feathers and striking patterns. 
+> 
+>![](https://i.imgur.com/nLUn9VT.jpeg)
+>
+> #### A Winter Sign
+> 
+> Robins are stunning little birds with huge character! The bright red breast of the robin becomes more and more commonly seen as we approach winter, a very welcome sight to many.
+> 
+>![](https://i.imgur.com/teXJROU.jpeg)
+> 
+> #### Backlit Kingfisher
+> 
+> As you know, I love kingfishers. This superb little bird whipped past seemingly at the speed of light, which makes it all the more incredible that I managed to get some shots. The light was superb and the orange complimented this kingies stunning blue plumage.
+> 
+>![](https://i.imgur.com/3xfqizE.jpeg)
+>
+
+> [!tip]- WC 23rd September 2024
 > As I close in on my University deadline, I'm struggling to get out with my camera, however I do still set aside a little bit of time to get some fresh air, and my camera often comes with me. These images are from a single trip out to Potteric Carr this weekend.
 > 
 > #### Little Egret
