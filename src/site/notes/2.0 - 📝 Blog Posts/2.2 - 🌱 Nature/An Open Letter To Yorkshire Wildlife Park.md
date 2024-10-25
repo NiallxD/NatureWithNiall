@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"an-open-letter-to-ywp","permalink":"/an-open-letter-to-ywp/","title":"An Open Letter to YWP","hide":true,"tags":["conservation","nature","wildlife","photography"],"noteIcon":"1","created":"2024-05-12T11:37:46.477+01:00","updated":"2024-05-12T22:00:44.256+01:00"}
+{"dg-publish":true,"dg-permalink":"an-open-letter-to-ywp","permalink":"/an-open-letter-to-ywp/","title":"An Open Letter to YWP","hide":true,"tags":["conservation","nature","wildlife","photography"],"noteIcon":"1","created":"2024-05-12T11:37:46.477+01:00","updated":"2024-10-25T18:13:35.780+01:00"}
 ---
 
 #conservation #nature #wildlife #photography 
@@ -44,6 +44,9 @@ For the above reasons, your accusation is just not true. I would expect a keeper
 My photos of a running tiger are from me waiting patiently. I don't call their names (others do), I'm patient. I have been stood with staff many times and Tschuna has sprinted towards me. I don't know why she does this, but she does. Perhaps its because I've known Tschuna for longer than most of YWP staff.
 
 >[!TIP] If YWP are concerned that I disrupt and disturb the animals, then it may wish to reconsider hosting concerts, setting up bigtop tents, filling the park with artificial light after dark and allowing other guests to whistle, shout, scream, chase and throw things at the animals.
+
+>[!WARNING] UPDATE Oct 2024
+>As of October 2024, I've been told that Tschuna now spends the vast majority of her spare time in the pond side, the side which YWP keepers told me was 'too stressful for her'. My take is this; YWP don't employ enough keepers to stick to rotation schedules as it is a resource pressure. Since Sayan sadly passed away, there is no need to move tigers around to swap them, they just leave the gates open and Tschuna chooses the pond side. More lies by YWP as a result of poor financial management/decisions.
 
 
 ***Refuted: Published misleading and incorrect information about our opening times on social media implying that it is factual news from YWP:***
