@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"an-open-letter-to-ywp","permalink":"/an-open-letter-to-ywp/","title":"An Open Letter to YWP","hide":true,"tags":["conservation","nature","wildlife","photography"],"noteIcon":"1","created":"2024-05-12T11:37:46.477+01:00","updated":"2024-10-25T18:13:35.780+01:00"}
+{"dg-publish":true,"dg-permalink":"an-open-letter-to-ywp","permalink":"/an-open-letter-to-ywp/","title":"An Open Letter to YWP","hide":true,"tags":["conservation","nature","wildlife","photography"],"noteIcon":"1","created":"2024-05-12T11:37:46.477+01:00","updated":"2024-10-25T18:17:56.825+01:00"}
 ---
 
 #conservation #nature #wildlife #photography 
@@ -83,9 +83,9 @@ Final note: I didn't remove any information that was already there, I just added
 
 ***Refuted: Published photographs taken at YWP on your commercial website which you are not permitted to do under our terms and conditions. We request that you remove these immediately.***
 
-Correct, I and any other visitor, are not permitted to use film and photos for commercial purpose. *"**Filming and/or photography for Public Broadcast, commercial purposes, training or student projects are strictly prohibited without the express prior written agreement of WLG/YWP"**.* 
+Correct, I and any other visitors, are not permitted to use film and photos for commercial purpose. *"**Filming and/or photography for Public Broadcast, commercial purposes, training or student projects are strictly prohibited without the express prior written agreement of WLG/YWP"**.* 
 
-However, I will not be removing any photographs shared online. The photos are not shared for commercial purposes. I do not derive any commercial or financial gain from images taken at YWP and instead only use them to promote conservation. I'd like to remind YWP that I own the copy write to the photographs that I make. I apologise if YWP believe my webiste is commercial in nature, it's my personal project so I'll take this as a compliment. While I do advertise some services on an ad-hoc basis, I rarely act on this and, when I do, it has nothing to do with YWP.
+However, I will not be removing any photographs shared online. The photos are not shared for commercial purposes. I do not derive any commercial or financial gain from images taken at YWP and instead only use them to promote conservation. I'd like to remind YWP that I own the copyright to the photographs that I make. I apologise if YWP believe my webiste is commercial in nature, it's my personal project so I'll take this as a compliment. While I do advertise some services on an ad-hoc basis, I rarely act on this and, when I do, it has nothing to do with YWP.
 
 I thank YWP for what it has given me, particularly in it's early years. Over the past 10 years, YWP has given me a space to develop my passion for nature, which led me to be the person I am today; someone who advocates for wildlife and is not afraid to call out people and organisations when they behave irresponsibly. Had YWP stayed on track, it would not have come to this. Now, I'm saddened to see how the park has changed, a sentiment echoed by many. But as Elizabeth Gilbert wrote "Resist change at your own peril. When something ends, let it end", it's time to draw a line in the sand.
 
