@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"dg-permalink":"/international-tiger-day-2024","permalink":"/international-tiger-day-2024/","title":"International Tiger Day 2024","hide":true,"tags":["internationaltigerday","tigers","nature","wildlife","conservation"],"noteIcon":"1","created":"2024-07-29T10:39:20.786+01:00","updated":"2024-07-29T11:43:55.914+01:00"}
+{"dg-publish":true,"dg-permalink":"/international-tiger-day-2024","permalink":"/international-tiger-day-2024/","title":"International Tiger Day 2024","hide":true,"tags":["internationaltigerday","tigers","nature","wildlife","conservation"],"noteIcon":"1","created":"2024-07-29T10:39:20.000+01:00","updated":"2024-10-28T19:14:23.930+00:00"}
 ---
 
 #internationaltigerday #tigers #nature #wildlife #conservation 
 # International Tiger Day 2024
 <p id="reading-time" style="font-style: italic;">⏱️ Approx Reading Time:  <span id="inserted-text"></span> mins</p>
+**Update:** Tiger population statistic updated to reflect recent estimates.
+
 July the 29th marks International Tiger Day, a day dedicated to celebrating the amazing big cat which has captured the imagination of human for millennia. 
 
 I was first introduced to tigers properly about 10 years ago when I visited my local zoo. There I observed several tigers, Tschuna, Sayan, and Vladimir along with Tschuna and Vlad's three cubs, Hector, Harley, and Hope. I was hooked from this day and ever since tigers have played a huge role in the development of my opinions and thoughts around wildlife photography and nature conservation, and have acted as a focal point in my quest to leave the world a better place than when I found it.
@@ -46,7 +48,7 @@ Over the years the tiger's enigmatic qualities became its arch-enemy. Many cultu
 
 Aside from those mentioned, there’s a reason that’s much more contentious. Human-wildlife conflict. If you or I had to head out into the forest to gather firewood so that we could cook and stay warm, would we value a tiger's life greater than our own? A tough one to decide on. How about if a tiger killed and ate our only livestock? You see it’s all well and good preaching that we need to save the tiger, but in the face of one ending your life, how do you choose? Sadly, the choice is always to kill the tiger, and this results in many, many tiger deaths.
 
-As a result of the above human actions, tigers are on the brink of disappearing from the planet. Across the vast habitats spanning from the northern reaches of Russia, down to China and across the rest of the Asian continent, there are estimated to be around 3,900 individuals. Put another way, you could offer every wild tiger a seat at the Royal Albert Hall for a performance on how humans are wiping them from the Earth. You’d need 2 million Royal Albert Halls to show every human the same performance. Thankfully, the internet provides us with an infinitely large arena to share such information.
+As a result of the above human actions, tigers are on the brink of disappearing from the planet. Across the vast habitats spanning from the northern reaches of Russia, down to China and across the rest of the Asian continent, there are estimated to be around between 3,900 and 5,600 individuals. Put another way, you could offer every wild tiger a seat at the Royal Albert Hall for a performance on how humans are wiping them from the Earth. You’d need 2 million Royal Albert Halls to show every human the same performance. Thankfully, the internet provides us with an infinitely large arena to share such information.
 
 ### How can you help?
 

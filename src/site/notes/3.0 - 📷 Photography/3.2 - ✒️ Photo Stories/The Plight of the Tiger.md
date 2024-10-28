@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"dg-permalink":"/uk-wildlife-nature-photos/tigers/","permalink":"/uk-wildlife-nature-photos/tigers/","title":"The Plight of the Tiger","hide":true,"tags":["nature","wildlife","photography","conservation"],"noteIcon":null,"created":"2024-04-17T09:09:39.034+01:00","updated":"2024-05-12T22:02:30.912+01:00"}
+{"dg-publish":true,"dg-permalink":"/uk-wildlife-nature-photos/tigers/","permalink":"/uk-wildlife-nature-photos/tigers/","title":"The Plight of the Tiger","hide":true,"tags":["nature","wildlife","photography","conservation"],"noteIcon":null,"created":"2024-04-17T09:09:39.000+01:00","updated":"2024-10-28T19:13:44.769+00:00"}
 ---
 
 #nature #wildlife #cats #tigers #conservation
 # The Plight of the Tiger
 <p id="reading-time" style="font-style: italic;">⏱️ Approx Reading Time:  <span id="inserted-text"></span> mins</p>
+**Update:** Tiger population statistic updated to reflect recent estimates.
 
 First things first I want to introduce the tiger. We all know what they look like, big rusty orange cats with black stripes and little white ear spots. What many don't realise is that there isn't just the one tiger there are many, and there have been more.
 
@@ -35,7 +36,7 @@ So what happened to all these tiger sub-species? Well that’s a complex questio
 
 Aside from those mentioned, there’s a reason that’s much more contentious. Human-wildlife conflict. If you or I had to head out into the forest to gather firewood so that we could cook and stay warm, would we value a tigers life greater than our own? A tough one to decide on. How about if a tiger killed and ate our only livestock? You see it’s all well and good preaching that we need to save the tiger, but in the face of one ending your life, how do you choose? Sadly, the choice is always to kill the tiger, and this results in many, many tiger deaths.
 
-As a result of the above human actions, tigers are on the brink of disappearing from the planet. Across the vast habitats spanning from the northern reaches of Russia, down to China and across the rest of the asian continent, there are estimated to be around 3,900 individuals. Put another way, you could offer every wild tiger a seat at the Royal Albert Hall for a performance on how humans are wiping them from the Earth. You’d need 2 million Royal Albert Halls to show every human the same performance. Thankfully, the internet provides us with an infinitely large arena to share such information.
+As a result of the above human actions, tigers are on the brink of disappearing from the planet. Across the vast habitats spanning from the northern reaches of Russia, down to China and across the rest of the asian continent, there are estimated to be between 3,900 and 5,600 individuals. Put another way, you could offer every wild tiger a seat at the Royal Albert Hall for a performance on how humans are wiping them from the Earth. You’d need 2 million Royal Albert Halls to show every human the same performance. Thankfully, the internet provides us with an infinitely large arena to share such information.
 
 ### How can you help?
 
