@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-10-22T21:29:13.383+01:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-10-28T13:10:28.224+00:00"}
 ---
 
 #photography #photofeed
@@ -11,7 +11,34 @@ It's important to note that these aren't portfolio images but instead are photos
 
 📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]] to get a email when I share new updates!
 
-> [!tip]+ WC 14th October 2024
+> [!tip]+ WC 21st October 2024
+> I was still in the Lake District on Monday so wanted to share a photo from the drive home. I then didn't do much in the week owing to poor weather but did get out at the weekend with a trip to Bradgate Park.
+> 
+> #### Ambleside (near)
+> 
+> This is a photo I took near Ambleside on the drive home from Coniston. The drive up from Ambleside towards Patterdale involves a climb up 'The Struggle', a steep road that takes you up the mountain side. The views from the top are breathtaking so i hopped out and captured a few.
+> 
+>![](https://i.imgur.com/eyrP7j7.jpeg)
+>
+> #### Highland Cooooo
+> 
+> At the top of the steep incline I spotted a highland cow in a field and have to stop for a photo. Here the cow is flanked by the Red Screes Ridge which stands at 776 m above sea level!
+> 
+>![](https://i.imgur.com/YaZJ2dE.jpeg)
+> 
+> #### York Castle
+> 
+> Here is a photo of York Castle taken on my phone. I was out with family at Halloween, my least favourite seasonal holiday, and I noticed the Ursa Majora, the Big Dipper, sitting right above the castle. I was able to create a pleasing image despite not having my camera with me.
+> 
+>![](https://i.imgur.com/IN9V9li.jpeg)
+>
+>#### Deer at Sunrise
+>
+>I spent Sunday morning at Bradgate Park photographing the red deer. I struggled to get anything that was ground breaking but I was able to create this photo which shows some hinds with a dominant male. The male kept his head down so it was challenging to create a photo of him alone, but the wider angle shot with the herd as the sun rose over Leicester was pleasing.
+>
+>![](https://i.imgur.com/NuJeyNw.jpeg)
+
+> [!tip]- WC 14th October 2024
 > This week was new camera lens week, and while I was disappointed because the lens was not described as it should have been, it's got scuffs on the front element, I was still able to put it to good use. The lens is in a format new to me, 8-15mm fisheye!
 > 
 > #### Curled Rope
