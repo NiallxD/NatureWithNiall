@@ -8,12 +8,12 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 
 | Tags                      |
 | ------------------------- |
+| #books(55)                |
+| #reading(55)              |
+| #bookshelf(54)            |
 | #nature(43)               |
 | #photography(43)          |
 | #wildlife(37)             |
-| #books(24)                |
-| #reading(24)              |
-| #bookshelf(23)            |
 | #Birds(9)                 |
 | #Music(5)                 |
 | #photostory(5)            |
@@ -50,6 +50,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #analoguephotography(1)   |
 | #analouge(1)              |
 | #architecture(1)          |
+| #aristotle(1)             |
 | #Baroque(1)               |
 | #britishbirds(1)          |
 | #cameragear(1)            |
@@ -89,6 +90,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #macrophotography(1)      |
 | #microscope(1)            |
 | #music(1)                 |
+| #philosophy(1)            |
 | #phones(1)                |
 | #photofeed(1)             |
 | #photomicrography(1)      |
