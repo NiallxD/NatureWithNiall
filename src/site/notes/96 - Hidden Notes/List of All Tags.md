@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tags","permalink":"/tags/","title":"List of All Tags","hide":true,"noteIcon":null,"created":"2024-04-16T00:05:40.000+01:00","updated":"2024-05-05T11:08:34.000+01:00"}
+{"dg-publish":true,"dg-permalink":"tags","permalink":"/tags/","title":"List of All Tags","hide":true,"noteIcon":null,"created":"2024-04-16T00:05:40.920+01:00","updated":"2024-05-05T11:08:34.273+01:00"}
 ---
 
 # List of All Tags
@@ -11,9 +11,9 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #nature(43)               |
 | #photography(43)          |
 | #wildlife(37)             |
-| #books(23)                |
-| #reading(23)              |
-| #bookshelf(22)            |
+| #books(24)                |
+| #reading(24)              |
+| #bookshelf(23)            |
 | #Birds(9)                 |
 | #Music(5)                 |
 | #photostory(5)            |

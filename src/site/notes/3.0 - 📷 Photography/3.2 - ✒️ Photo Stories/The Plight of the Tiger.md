@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/uk-wildlife-nature-photos/tigers/","permalink":"/uk-wildlife-nature-photos/tigers/","title":"The Plight of the Tiger","hide":true,"tags":["nature","wildlife","photography","conservation"],"noteIcon":null,"created":"2024-04-17T09:09:39.000+01:00","updated":"2024-10-28T19:13:44.769+00:00"}
+{"dg-publish":true,"dg-permalink":"/uk-wildlife-nature-photos/tigers/","permalink":"/uk-wildlife-nature-photos/tigers/","title":"The Plight of the Tiger","hide":true,"tags":["nature","wildlife","photography","conservation"],"noteIcon":null,"created":"2024-04-17T09:09:39.034+01:00","updated":"2024-10-28T19:13:44.000+00:00"}
 ---
 
 #nature #wildlife #cats #tigers #conservation
