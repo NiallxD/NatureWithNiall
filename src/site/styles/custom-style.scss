@@ -577,88 +577,113 @@ body {
     }
 
     .cards {
-        table.dataview {
-            width: var(--table-width);
-        }
-        th,
-        td {
-            border: none !important;
-            flex-wrap: wrap;
-            gap: 5px;
+    table.dataview {
+        width: var(--table-width);
+    }
+    th,
+    td {
+        border: none !important;
+        flex-wrap: wrap;
+        gap: 5px;
 
-            a.tag {
-                padding: 3px !important;
-            }
+        a.tag {
+            padding: 3px !important;
         }
-        table.dataview.table-view-table {
-            thead.table-view-thead {
+    }
+    table.dataview.table-view-table {
+        thead.table-view-thead {
+            display: none;
+
+            &::before {
                 display: none;
-
-                &::before {
-                    display: none;
-                }
             }
-            tbody {
-                tr {
-                    position: relative;
-                    td {
-                        img.inset-cover {
-                            height: 70px;
-                            width: auto;
-                            position: absolute;
-                            top: 0px;
-                            right: 0px;
-                            padding: 0;
-                        }
+        }
+        tbody {
+            tr {
+                position: relative;
+                td {
+                    img.inset-cover {
+                        height: 70px;
+                        width: auto;
+                        position: absolute;
+                        top: 0px;
+                        right: 0px;
+                        padding: 0;
                     }
                 }
             }
         }
     }
+}
 
-    .cards-cover-no-border {
-        table.dataview.table-view-table {
-            tbody {
-                tr {
-                    td:first-child {
-                        width: 100%;
-                        img {
-                            padding: 0;
-                        }
+.cards-cover-no-border {
+    table.dataview.table-view-table {
+        tbody {
+            tr {
+                td:first-child {
+                    width: 100%;
+                    img {
+                        padding: 0;
                     }
-                    // td:nth-child(2) {
-                    //     min-height: 70px;
-                    // }
+                }
 
-                    td {
-                        svg {
-                            width: 14px;
-                            height: auto;
-                        }
+                td {
+                    svg {
+                        width: 14px;
+                        height: auto;
+                    }
+                    display: flex;
+                    flex-direction: row;
+                    align-items: center;
+                }
+            }
+        }
+    }
+}
 
-                        display: flex;
-                        flex-direction: row;
-                        align-items: center;
+.cards-title-hide-icons {
+    table.dataview.table-view-table {
+        tbody {
+            tr {
+                td:nth-child(2),
+                td:first-child {
+                    a::before {
+                        display: none;
                     }
                 }
             }
         }
     }
+}
 
-    .cards-title-hide-icons {
-        table.dataview.table-view-table {
-            tbody {
-                tr {
-                    td:nth-child(2),
-                    td:first-child {
-                        a::before {
-                            display: none;
-                        }
-                    }
-                }
-            }
-        }
+@media screen and (max-width: 600px) {
+    .cards table.dataview {
+        display: block;
+        overflow-x: auto;
+        width: 100%;
     }
+    .cards th,
+    .cards td {
+        display: block;
+        width: 100%;
+        box-sizing: border-box;
+    }
+    .cards tbody,
+    .cards tr {
+        display: block;
+    }
+    .cards tr {
+        margin-bottom: 10px;
+        padding: 10px;
+        border: 1px solid #ddd;
+    }
+    .cards td {
+        display: block;
+        width: 100%;
+        padding: 10px;
+        border: none !important;
+    }
+}
 
     code[class*="language-"],
     pre[class*="language-"] {
