@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/95-bookshelf/highlights/flight-paths-by-rebecca-heismann/","hide":true,"noteIcon":"","created":"2024-10-30T13:43:05.950+00:00","updated":"2024-10-30T13:45:23.715+00:00"}
+{"dg-publish":true,"permalink":"/95-bookshelf/highlights/flight-paths-by-rebecca-heismann/","hide":true,"noteIcon":"","created":"2024-10-30T13:43:05.950+00:00","updated":"2024-11-02T13:43:47.232+00:00"}
 ---
 
 #books #reading #bookshelf
@@ -7,6 +7,11 @@
 # Flight Paths
 ## My Summary
 
+Rating: ⭐️⭐️⭐️⭐️
+
+Such a fascinating read about the people behind the science of bird migration. I enjoyed the spin of tech which helped track birds such as radar and gps, and also learning about the innovative techniques used in pursuit of knowledge about our feathered friends. 
+
+Highly recommend this to any bird lovers out there.
 
 ## Highlights
 
