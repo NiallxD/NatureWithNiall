@@ -658,16 +658,27 @@ body {
 
 @media screen and (max-width: 600px) {
     .cards table.dataview {
-        display: flex;
-        flex-direction: column;
-    }
-    .cards th,
-    .cards td {
-        width: 100%;
         display: block;
+    }
+    .cards th, 
+    .cards td {
+        display: block;
+        width: 100%;
         box-sizing: border-box;
     }
+    .cards tbody, 
+    .cards tr {
+        display: block;
+        width: 100%;
+    }
+    .cards td {
+        display: block;
+        width: 100%;
+        padding: 10px;
+        border: none !important;
+    }
 }
+
 
 
     
