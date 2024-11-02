@@ -660,6 +660,55 @@ body {
         }
     }
 
+    /* Default table styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+/* Mobile styling */
+@media (max-width: 600px) {
+  table, thead, tbody, th, td, tr {
+    display: block;
+  }
+
+  th, td {
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  tr {
+    margin-bottom: 10px;
+  }
+
+  th {
+    display: none; /* Hide table headers */
+  }
+
+  td {
+    display: block;
+    text-align: right;
+    position: relative;
+    padding-left: 50%;
+  }
+
+  td::before {
+    content: attr(data-label);
+    position: absolute;
+    left: 0;
+    width: 50%;
+    padding-left: 10px;
+    font-weight: bold;
+    text-align: left;
+  }
+}
+
+
     code[class*="language-"],
     pre[class*="language-"] {
         text-shadow: unset;
