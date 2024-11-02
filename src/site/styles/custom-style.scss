@@ -577,44 +577,64 @@ body {
     }
 
     .cards {
-        table.dataview {
-            width: var(--table-width);
-        }
-        th,
-        td {
-            border: none !important;
-            flex-wrap: wrap;
-            gap: 5px;
+    table.dataview {
+        width: var(--table-width);
+    }
+    th,
+    td {
+        border: none !important;
+        flex-wrap: wrap;
+        gap: 5px;
 
-            a.tag {
-                padding: 3px !important;
-            }
+        a.tag {
+            padding: 3px !important;
         }
-        table.dataview.table-view-table {
-            thead.table-view-thead {
+    }
+    table.dataview.table-view-table {
+        thead.table-view-thead {
+            display: none;
+
+            &::before {
                 display: none;
-
-                &::before {
-                    display: none;
-                }
             }
-            tbody {
-                tr {
-                    position: relative;
-                    td {
-                        img.inset-cover {
-                            height: 70px;
-                            width: auto;
-                            position: absolute;
-                            top: 0px;
-                            right: 0px;
-                            padding: 0;
-                        }
+        }
+        tbody {
+            tr {
+                position: relative;
+                td {
+                    img.inset-cover {
+                        height: 70px;
+                        width: auto;
+                        position: absolute;
+                        top: 0px;
+                        right: 0px;
+                        padding: 0;
                     }
                 }
             }
         }
     }
+}
+
+@media screen and (max-width: 600px) {
+    .cards {
+        table.dataview, 
+        th, 
+        td, 
+        table.dataview.table-view-table, 
+        tbody, 
+        tr, 
+        td, 
+        img.inset-cover {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            box-sizing: border-box;
+            position: static !important;
+        }
+    }
+}
+
 
     .cards-cover-no-border {
         table.dataview.table-view-table {
