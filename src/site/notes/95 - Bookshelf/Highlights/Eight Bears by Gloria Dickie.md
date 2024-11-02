@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/95-bookshelf/highlights/eight-bears-by-gloria-dickie/","hide":true,"noteIcon":"","created":"2024-10-30T13:24:18.518+00:00","updated":"2024-11-02T13:42:15.270+00:00"}
+{"dg-publish":true,"permalink":"/95-bookshelf/highlights/eight-bears-by-gloria-dickie/","hide":true,"noteIcon":"","created":"2024-10-30T13:24:18.518+00:00","updated":"2024-11-02T13:53:42.568+00:00"}
 ---
 
 #books #reading #bookshelf
@@ -9,7 +9,7 @@
 
 Rating: ⭐️⭐️⭐️⭐️
 
-I found Eight Bears to be a fascinating, and eye-opening read about the eight extant bear species living on earth. The stories of each bear are explored from a ecological and historic al perspective with ample writing addressing the plight of each species.
+I found Eight Bears to be a fascinating, and eye-opening read about the eight extant bear species living on earth. The stories of each bear are explored from a ecological and historical perspective with ample writing addressing the plight of each species.
 
 Overall a very enjoyable read and one which opened my eyes to some elements of the bruin world I never knew existed.
 
