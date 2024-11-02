@@ -576,7 +576,7 @@ body {
         }
     }
 
-.cards {
+    .cards {
     table.dataview {
         width: var(--table-width);
     }
@@ -657,21 +657,18 @@ body {
 }
 
 @media screen and (max-width: 600px) {
-    .cards table.dataview, 
-    .cards th, 
-    .cards td, 
-    .cards table.dataview.table-view-table, 
-    .cards tbody, 
-    .cards tr, 
-    .cards td, 
-    .cards img.inset-cover {
-        display: block;
+    .cards table.dataview {
+        display: flex;
+        flex-direction: column;
+    }
+    .cards th,
+    .cards td {
         width: 100%;
-        padding: 10px;
+        display: block;
         box-sizing: border-box;
-        position: static !important;
     }
 }
+
 
     
 
