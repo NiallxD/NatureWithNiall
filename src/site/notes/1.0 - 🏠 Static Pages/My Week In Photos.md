@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-11-05T16:45:41.270+00:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-11-05T21:07:40.632+00:00"}
 ---
 
 #photography #photofeed
@@ -28,16 +28,12 @@ It's important to note that these aren't portfolio images but instead are photos
 > 
 > #### Orion Nebula
 > 
-> Ok, I might be cheating here, I didn't take this image today. This image was taken back in 2021. But I reprocessed this data this week after 3 years of software innovation and hardware improvements. These advances have made it far easier to process complex astro photos and I can't wait to do more!
+> Ok, I might be cheating here, I didn't take this image today. The Orion Nebula is a diffuse nebula which is about 1600 light years away from earth and about 25 light years across! This image was taken back in 2021. But I reprocessed this data this week after 3 years of software innovation and hardware improvements. These advances have made it far easier to process complex astro photos and I can't wait to do more!
 > 
 > ![](https://i.imgur.com/HNcNxIi.jpeg)
 >
->#### Deer at Sunrise
->
->I spent Sunday morning at Bradgate Park photographing the red deer. I struggled to get anything that was ground breaking but I was able to create this photo which shows some hinds with a dominant male. The male kept his head down so it was challenging to create a photo of him alone, but the wider angle shot with the herd as the sun rose over Leicester was pleasing.
->
->![](https://i.imgur.com/NuJeyNw.jpeg)
-> [!tip]+ WC 21st October 2024
+
+> [!tip]- WC 21st October 2024
 > I was still in the Lake District on Monday so wanted to share a photo from the drive home. I then didn't do much in the week owing to poor weather but did get out at the weekend with a trip to Bradgate Park.
 > 
 > #### Ambleside (near)
