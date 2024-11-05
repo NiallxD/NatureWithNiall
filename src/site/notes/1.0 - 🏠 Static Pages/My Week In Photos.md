@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-10-28T13:29:15.451+00:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-11-05T16:45:41.270+00:00"}
 ---
 
 #photography #photofeed
@@ -11,6 +11,32 @@ It's important to note that these aren't portfolio images but instead are photos
 
 📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]] to get a email when I share new updates!
 
+> [!tip]+ WC 28th October 2024
+> A fairly drab week in Doncaster so this week hasn't been a great wee for photography. However, I did manage to get out at the weekend and was able to create some cool photos.
+> 
+> #### Prime Kestrel
+> 
+> Few raptors have the charm of a kestrel. Such a small and nimble bird of prey, seen hovering by the side of motorways up and down the UK. The kestrel can be challenging to photograph due to their skittish nature. On a short walk at the weekend I spotted this kestrel sat atop a tree with a stunning autumnal background. I made for a lovely image!
+> 
+>![](https://i.imgur.com/komU4xZ.jpeg)
+>
+> #### Heron
+> 
+> I've said it many times, I love herons. I really enjoy photographing these birds because that have tonnes of character and almost look like dinosaurs. 
+> 
+>![](https://i.imgur.com/QbQHWBl.jpeg)
+> 
+> #### Orion Nebula
+> 
+> Ok, I might be cheating here, I didn't take this image today. This image was taken back in 2021. But I reprocessed this data this week after 3 years of software innovation and hardware improvements. These advances have made it far easier to process complex astro photos and I can't wait to do more!
+> 
+> ![](https://i.imgur.com/HNcNxIi.jpeg)
+>
+>#### Deer at Sunrise
+>
+>I spent Sunday morning at Bradgate Park photographing the red deer. I struggled to get anything that was ground breaking but I was able to create this photo which shows some hinds with a dominant male. The male kept his head down so it was challenging to create a photo of him alone, but the wider angle shot with the herd as the sun rose over Leicester was pleasing.
+>
+>![](https://i.imgur.com/NuJeyNw.jpeg)
 > [!tip]+ WC 21st October 2024
 > I was still in the Lake District on Monday so wanted to share a photo from the drive home. I then didn't do much in the week owing to poor weather but did get out at the weekend with a trip to Bradgate Park.
 > 
