@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/bookshelf","permalink":"/bookshelf/","title":"📚 Bookshelf","contentClasses":"cards cards-cover cards-cover-no-border cards-title-hide-icons cards-cols-3","noteIcon":null,"created":"2024-04-21T22:36:30.905+01:00","updated":"2024-11-02T13:52:27.391+00:00"}
+{"dg-publish":true,"dg-permalink":"/bookshelf","permalink":"/bookshelf/","title":"Bookshelf","contentClasses":"cards cards-cover cards-cover-no-border cards-title-hide-icons cards-cols-3","noteIcon":null,"created":"2024-04-21T22:36:30.905+01:00","updated":"2024-11-06T16:44:44.382+00:00"}
 ---
 
 #books #reading

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"📷 My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-11-05T21:07:40.632+00:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-11-06T16:44:41.645+00:00"}
 ---
 
 #photography #photofeed
@@ -683,7 +683,7 @@ It's important to note that these aren't portfolio images but instead are photos
 >
 > #### Aurora Borealise
 > 
->I wasn't alone with this one. Thousands of people across the UK were able to witness the incredible Northern Lights in the early hours of Saturday morning. It was an incredible show and I'm so glad that so many people were able to observe such an incredible natural phenomenon. Check out my blog posts for more photos - [[Blog Posts/Nature/Aurora Borealis in Doncaster\|Aurora Borealis in Doncaster]].
+>I wasn't alone with this one. Thousands of people across the UK were able to witness the incredible Northern Lights in the early hours of Saturday morning. It was an incredible show and I'm so glad that so many people were able to observe such an incredible natural phenomenon. Check out my blog posts for more photos - [[2.0 - Blog Posts/2.1 - 🌱Nature/Aurora Borealis in Doncaster\|Aurora Borealis in Doncaster]].
 >
 >![](https://i.imgur.com/DJutCGg.jpeg)
 

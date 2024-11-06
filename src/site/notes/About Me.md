@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/about-me","permalink":"/about-me/","title":"👤 About Me","noteIcon":null,"created":"2024-04-08T10:42:25.691+01:00","updated":"2024-05-10T22:08:10.554+01:00"}
+{"dg-publish":true,"dg-permalink":"/about-me","permalink":"/about-me/","title":"About Me","noteIcon":null,"created":"2024-04-08T10:42:25.691+01:00","updated":"2024-11-06T16:44:47.273+00:00"}
 ---
 
 # About Me

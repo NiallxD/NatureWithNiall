@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/now","permalink":"/now/","title":"👇 Now","noteIcon":null,"created":"2024-06-10T23:23:44.387+01:00","updated":"2024-10-22T20:58:02.698+01:00"}
+{"dg-publish":true,"dg-permalink":"/now","permalink":"/now/","title":"Now","noteIcon":null,"created":"2024-06-10T23:23:44.387+01:00","updated":"2024-11-06T16:44:49.838+00:00"}
 ---
 
 # Now
