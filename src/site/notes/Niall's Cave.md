@@ -1,0 +1,48 @@
+---
+{"dg-publish":true,"permalink":"/niall-s-cave/","title":"🦇 The Cave","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","tags":["gardenEntry"],"noteIcon":null,"created":"2024-04-07T21:59:11.083+01:00","updated":"2024-11-06T16:31:23.804+00:00"}
+---
+
+# Niall's Cave 🦇 
+
+> [!QUOTE] Plato (The Allegory of The Cave)
+> *"How could they see anything but the shadows if they were never allowed to move their heads?"*
+
+**Welcome my Cave.** Here you will see a glimpse into how I perceive the world, be it through photography, books or music. There is plenty to get stuck into here:
+
+👉 To see what I've been up to recently, check out my [[My Week In Photos\|My Week In Photos]].
+👉 To read some of my musings, have a browse of my [[Blog\|Blog]].
+👉 If you want to see some galleries, click here [[Galleries\|Galleries]].
+👉 You're a book worm? Burrow into my [[Bookshelf\|Bookshelf]].
+
+>[!TIP] Tip
+>You can click any tag to see all posts with that tag. Try it: #nature #photography #wildlife
+
+---
+
+## Recents 📝
+
+For some recent activity, see below. I frequently update posts so they will appear here too. All posts can be found [here](https://niallbell.com/blog).
+| Cover                                                               | Title                                                                                                                                      | Created               | Updated             | Type          | Tags                                                                 |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------- | ------------------- | ------------- | -------------------------------------------------------------------- |
+| <img src='https://i.imgur.com/t3pESMu.jpeg' style='height:160px;'/> | [[My Week In Photos\|My Week In Photos]]                                                                                                | 📅 March 18, 2024     | 🔄 October 28, 2024 | 💭 Photo Feed | #photography #photofeed                                              |
+| <img src='https://i.imgur.com/9wUq3cS.jpg' style='height:160px;'/>  | [[Blog Posts/2.3 - 💾 Tech/Social Media Dilemma\|Social Media Dilemma]]                                                                 | 📅 August 14, 2024    | 🔄 August 14, 2024  | 💭 Blog Post  | #socialmedia #socials #instagram #facebook #Socialmedia              |
+| <img src='https://i.imgur.com/BiYriQv.png' style='height:160px;'/>  | [[Blog Posts/Nature/International Tiger Day 2024\|International Tiger Day 2024]]                                                        | 📅 July 29, 2024      | 🔄 July 29, 2024    | 💭 Blog Post  | #internationaltigerday #tigers #nature #wildlife #conservation       |
+| <img src='https://i.imgur.com/7VfFNPl.jpeg' style='height:160px;'/> | [[Blog Posts/Nature/Photographic Life List\|Photographic Life List]]                                                                    | 📅 April 28, 2024     | 🔄 July 27, 2024    | 💭 Blog Post  | #photography #nature #lifelist #wildlife                             |
+| <img src='https://i.imgur.com/IJUcoJt.jpeg' style='height:160px;'/> | [[Blog Posts/Nature/Black Winged Pratincole Doncaster 2024\|Black Winged Pratincole Doncaster 2024]]                                    | 📅 July 08, 2024      | 🔄 July 08, 2024    | 💭 Blog Post  | #birds #rarebird #pratincole #photography #nature #wildlife #Birds   |
+| <img src='https://i.imgur.com/8bzvnWQ.png' style='height:160px;'/>  | [[Blog Posts/2.7 - 🎞️ Photography/Highly Commended - Deer Photographer of the Year\|Highly Commended - Deer Photographer of the Year]] | 📅 June 24, 2024      | 🔄 June 24, 2024    | 💭 Blog Post  | #photo #photography #nature #wildlife #deer                          |
+| <img src='https://i.imgur.com/jo6fK8O.jpeg' style='height:160px;'/> | [[Blog Posts/2.3 - 💾 Tech/How I Process My Photographs\|How I Process My Photographs]]                                                 | 📅 May 31, 2024       | 🔄 May 31, 2024     | 💭 Blog Post  | #photography #photo #postprocessing                                  |
+| <img src='https://i.imgur.com/1pQK9Zn.jpeg' style='height:160px;'/> | [[Blog Posts/Nature/An Open Letter To Yorkshire Wildlife Park\|An Open Letter To Yorkshire Wildlife Park]]                              | 📅 May 12, 2024       | 🔄 May 12, 2024     | 💭 Blog Post  | #conservation #nature #wildlife #photography                         |
+| <img src='https://i.imgur.com/9DONEvA.jpeg' style='height:160px;'/> | [[Blog Posts/Nature/Aurora Borealis in Doncaster\|Aurora Borealis in Doncaster]]                                                        | 📅 September 23, 2022 | 🔄 May 11, 2024     | 💭 Blog Post  | #nature #weather #northernlights #auroraborealis #Nature #Atmosphere |
+
+{ .block-language-dataview}
+
+>[!TIP] **Currently Reading**
+>The Genius of Birds - Jennifer Ackerman
+>![|150](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1445790452i/25938481.jpg)
+>[Goodreads](https://www.goodreads.com/book/show/25938481-the-genius-of-birds)
+
+
+---
+📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]].
+Created by Niall Bell (niall@niallbell.com)
+
