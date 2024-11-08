@@ -1,33 +1,29 @@
-:root {
-    /* Colour Theme */
-    --accent-colour: #fb8122;
-    --light-colour: #e1e2e2;
-    --dark-colour: #1d2228;
-}
-
-
+/* Dark Mode */
 body.theme-dark {
-    --text-accent: var(--accent-colour); /* The colour of the headings and linked text in DARK mode*/
-    --text-accent-hover: var(--accent-colour); /* The colour of the headings and linked text in DARK mode on hover*/
-    --interactive-accent: var(--light-colour); /* The colour of the main text in DARK mode*/
-    --h1-color: var(--accent-colour);
-    --h2-color: var(--accent-colour);
-    --h3-color: var(--accent-colour);
-    --h4-color: var(--accent-colour);
-    --h5-color: var(--accent-colour);
-    --h6-color: var(--accent-colour);
-    --text-normal: var(--light-colour); /* The colour of the main text in DARK mode*/
-    --text-muted: var(--light-colour);
-    --text-faint: var(--light-colour);
-    --interactive-normal: var(--accent-colour);
-    --interactive-hover: var(--accent-colour);
-    --background-primary: var(--dark-colour);
-    --background-secondary: var(--dark-colour);
+    --text-accent: #FB8122; /* The colour of links in DARK mode */
+    --text-accent-hover: #FB8122; /* The colour of the headings and linked text in DARK mode on hover */
+    --interactive-accent: #E1E2E2; /* The colour of the main text in DARK mode */
+    --h1-color: #FB8122;
+    --h2-color: #FB8122;
+    --h3-color: #FB8122;
+    --h4-color: #FB8122;
+    --h5-color: #FB8122;
+    --h6-color: #FB8122;
+    --text-normal: #E1E2E2; /* The colour of the main text in DARK mode */
+    --text-muted: #E1E2E2;
+    --text-faint: #E1E2E2;
+    --interactive-normal: #FB8122;
+    --interactive-hover: #FB8122;
+    --background-primary: #1D2228;
+    --background-secondary: #30353C;
+    --tag-color: #FB8122;
+    --tag-border-color: #E1E2E2;
     --waline-color: #F0F0F0;
     --waline-info-color: #F0F0F0;
     --waline-dark-grey: #F0F0F0;
     --waline-theme-color: #F2A748;
     --waline-active-color: #F4B76A;
+}
 
     /*set comments border*/
     .wl-card {
@@ -125,28 +121,33 @@ body.theme-dark {
     }
 }
 
+/* Light Mode */
 body.theme-light {
-    --text-accent: var(--accent-colour);
-    --text-accent-hover: var(--accent-colour);
-    --interactive-accent: var(--accent-colour);
-    --h1-color: var(--accent-colour);
-    --h2-color: var(--accent-colour);
-    --h3-color: var(--accent-colour);
-    --h4-color: var(--accent-colour);
-    --h5-color: var(--accent-colour);
-    --h6-color: var(--accent-colour);
-    --text-normal: var(--dark-colour); /* The colour of the main text in LIGHT mode*/
-    --text-muted: var(--dark-colour);
-    --text-faint: var(--dark-colour);
-     --interactive-normal: var(--accent-colour);
-    --interactive-hover: var(--accent-colour);
-    --background-primary: var(--light-colour);
-    --background-secondary: var(--light-colour);
+    --text-accent: #F2A748;
+    --text-accent-hover: #F2A748;
+    --interactive-accent: #F2A748;
+    --h1-color: #F2A748;
+    --h2-color: #F2A748;
+    --h3-color: #F2A748;
+    --h4-color: #F2A748;
+    --h5-color: #F2A748;
+    --h6-color: #F2A748;
+    --text-normal: #2F2F2F; /* The colour of the main text in LIGHT mode */
+    --text-muted: #2F2F2F;
+    --text-faint: #2F2F2F;
+    --interactive-normal: #F2A748;
+    --interactive-hover: #F2A748;
+    --background-primary: #FFFFFF;
+    --background-secondary: #FAFAFA;
+    --tag-color: #F2A748;
+    --tag-border-color: #2F2F2F;
     --waline-color: #2F2F2F;
     --waline-info-color: #2F2F2F;
     --waline-dark-grey: #2F2F2F;
     --waline-theme-color: #F2A748;
     --waline-active-color: #F4B76A;
+}
+
 
     /*set comments border*/
     .wl-card {
