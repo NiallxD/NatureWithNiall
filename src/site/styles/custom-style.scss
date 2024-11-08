@@ -1,28 +1,28 @@
 /* Dark Mode */
 body.theme-dark {
-    --text-accent: #FB8122; /* The colour of links in DARK mode */
-    --text-accent-hover: #FB8122; /* The colour of the headings and linked text in DARK mode on hover */
-    --interactive-accent: #E1E2E2; /* The colour of the main text in DARK mode */
-    --h1-color: #FB8122;
-    --h2-color: #FB8122;
-    --h3-color: #FB8122;
-    --h4-color: #FB8122;
-    --h5-color: #FB8122;
-    --h6-color: #FB8122;
-    --text-normal: #E1E2E2; /* The colour of the main text in DARK mode */
-    --text-muted: #E1E2E2;
-    --text-faint: #E1E2E2;
-    --interactive-normal: #FB8122;
-    --interactive-hover: #FB8122;
-    --background-primary: #1D2228;
-    --background-secondary: #30353C;
-    --tag-color: #FB8122;
-    --tag-border-color: #E1E2E2;
-    --waline-color: #F0F0F0;
-    --waline-info-color: #F0F0F0;
-    --waline-dark-grey: #F0F0F0;
-    --waline-theme-color: #F2A748;
-    --waline-active-color: #F4B76A;
+    --text-accent: #FFB347; /* Muted orange for links */
+    --text-accent-hover: #FFB347; /* Muted orange for links on hover */
+    --interactive-accent: #CDD1D4; /* Light color for main text */
+    --h1-color: #FFB347;
+    --h2-color: #FFB347;
+    --h3-color: #FFB347;
+    --h4-color: #FFB347;
+    --h5-color: #FFB347;
+    --h6-color: #FFB347;
+    --text-normal: #CDD1D4; /* Light color for main text */
+    --text-muted: #CDD1D4;
+    --text-faint: #CDD1D4;
+    --interactive-normal: #FFB347;
+    --interactive-hover: #FFB347;
+    --background-primary: #1A1C2C; /* Subtle, dark blue background */
+    --background-secondary: #2A2D3E; /* Darker blue for secondary background */
+    --tag-color: #FFB347;
+    --tag-border-color: #CDD1D4;
+    --waline-color: #CDD1D4;
+    --waline-info-color: #CDD1D4;
+    --waline-dark-grey: #CDD1D4;
+    --waline-theme-color: #FFB347;
+    --waline-active-color: #FFC061; /* Slightly lighter muted orange */
 
     /*set comments border*/
     .wl-card {
@@ -122,29 +122,30 @@ body.theme-dark {
 
 /* Light Mode */
 body.theme-light {
-    --text-accent: #F2A748;
-    --text-accent-hover: #F2A748;
-    --interactive-accent: #F2A748;
-    --h1-color: #F2A748;
-    --h2-color: #F2A748;
-    --h3-color: #F2A748;
-    --h4-color: #F2A748;
-    --h5-color: #F2A748;
-    --h6-color: #F2A748;
-    --text-normal: #2F2F2F; /* The colour of the main text in LIGHT mode */
+    --text-accent: #FFB347; /* Muted orange for links */
+    --text-accent-hover: #FFB347; /* Muted orange for links on hover */
+    --interactive-accent: #2F2F2F; /* Dark color for main text */
+    --h1-color: #FFB347;
+    --h2-color: #FFB347;
+    --h3-color: #FFB347;
+    --h4-color: #FFB347;
+    --h5-color: #FFB347;
+    --h6-color: #FFB347;
+    --text-normal: #2F2F2F; /* Dark color for main text */
     --text-muted: #2F2F2F;
     --text-faint: #2F2F2F;
-    --interactive-normal: #F2A748;
-    --interactive-hover: #F2A748;
-    --background-primary: #FFFFFF;
-    --background-secondary: #FAFAFA;
-    --tag-color: #F2A748;
+    --interactive-normal: #FFB347;
+    --interactive-hover: #FFB347;
+    --background-primary: #F0F4F8; /* Light blue background */
+    --background-secondary: #E1E7EC; /* Slightly darker blue for secondary background */
+    --tag-color: #FFB347;
     --tag-border-color: #2F2F2F;
     --waline-color: #2F2F2F;
     --waline-info-color: #2F2F2F;
     --waline-dark-grey: #2F2F2F;
-    --waline-theme-color: #F2A748;
-    --waline-active-color: #F4B76A;
+    --waline-theme-color: #FFB347;
+    --waline-active-color: #FFC061; /* Slightly lighter muted orange */
+
 
 
     /*set comments border*/
