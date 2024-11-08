@@ -1,20 +1,27 @@
+:root {
+    /* Colour Theme */
+    --accent-colour: #fb8122;
+    --light-colour: #e1e2e2;
+    --dark-colour: #1d2228;
+
+
 body.theme-dark {
-    --text-accent: #F2A748; /* The colour of the headings and linked text in DARK mode*/
-    --text-accent-hover: #F4B76A; /* The colour of the headings and linked text in DARK mode on hover*/
-    --interactive-accent: #F2A748; /* The colour of the main text in DARK mode*/
-    --h1-color: #F2A748;
-    --h2-color: #F2A748;
-    --h3-color: #F2A748;
-    --h4-color: #F2A748;
-    --h5-color: #F2A748;
-    --h6-color: #F2A748;
-    --text-normal: #F0F0F0; /* The colour of the main text in DARK mode*/
-    --text-muted: #F0F0F0;
-    --text-faint: #F0F0F0;
-    --interactive-normal: #ffaf57;
-    --interactive-hover: #ffbc71;
-    --background-primary: #1e1e1e;
-    --background-secondary: #262626;
+    --text-accent: var(--accent-colour); /* The colour of the headings and linked text in DARK mode*/
+    --text-accent-hover: var(--accent-colour); /* The colour of the headings and linked text in DARK mode on hover*/
+    --interactive-accent: var(--light-colour); /* The colour of the main text in DARK mode*/
+    --h1-color: var(--accent-colour);
+    --h2-color: var(--accent-colour);
+    --h3-color: var(--accent-colour);
+    --h4-color: var(--accent-colour);
+    --h5-color: var(--accent-colour);
+    --h6-color: var(--accent-colour);
+    --text-normal: var(--light-colour); /* The colour of the main text in DARK mode*/
+    --text-muted: var(--light-colour);
+    --text-faint: var(--light-colour);
+    --interactive-normal: var(--accent-colour);
+    --interactive-hover: var(--accent-colour);
+    --background-primary: var(--dark-colour);
+    --background-secondary: var(--dark-colour);
     --waline-color: #F0F0F0;
     --waline-info-color: #F0F0F0;
     --waline-dark-grey: #F0F0F0;
@@ -118,22 +125,22 @@ body.theme-dark {
 }
 
 body.theme-light {
-    --text-accent: #F2A748;
-    --text-accent-hover: #F4B76A;
-    --interactive-accent: #F2A748;
-    --h1-color: #F2A748;
-    --h2-color: #F2A748;
-    --h3-color: #F2A748;
-    --h4-color: #F2A748;
-    --h5-color: #F2A748;
-    --h6-color: #F2A748;
-    --text-normal: #2F2F2F; /* The colour of the main text in LIGHT mode*/
-    --text-muted: #2F2F2F;
-    --text-faint: #2F2F2F;
-     --interactive-normal: #ffaf57;
-    --interactive-hover: #ffbc71;
-    --background-primary: #ffffff;
-    --background-secondary: #fafafa;
+    --text-accent: var(--accent-colour);
+    --text-accent-hover: var(--accent-colour);
+    --interactive-accent: var(--accent-colour);
+    --h1-color: var(--accent-colour);
+    --h2-color: var(--accent-colour);
+    --h3-color: var(--accent-colour);
+    --h4-color: var(--accent-colour);
+    --h5-color: var(--accent-colour);
+    --h6-color: var(--accent-colour);
+    --text-normal: var(--dark-colour); /* The colour of the main text in LIGHT mode*/
+    --text-muted: var(--dark-colour);
+    --text-faint: var(--dark-colour);
+     --interactive-normal: var(--accent-colour);
+    --interactive-hover: var(--accent-colour);
+    --background-primary: var(--light-colour);
+    --background-secondary: var(--light-colour);
     --waline-color: #2F2F2F;
     --waline-info-color: #2F2F2F;
     --waline-dark-grey: #2F2F2F;
