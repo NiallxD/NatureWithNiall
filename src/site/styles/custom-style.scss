@@ -773,8 +773,15 @@ body.backlinks-note-icon .backlink[data-note-icon="withered"]::before {
         }
     }
 }
-.callout[data-callout="quote"],
-.callout[data-callout="tip"]{
+.callout[data-callout="quote"]{
     --callout-color: 158, 158, 158;
     --callout-icon: lucide-quote;
+  }
+.callout[data-callout="tip"]{
+    --callout-color: 158, 158, 158;
+    --callout-icon: lucide-camera;
+  }
+.callout[data-callout="check"]{
+    --callout-color: 158, 158, 158;
+    --callout-icon: lucide-book-marked;
   }
