@@ -17,16 +17,17 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #Birds(9)                 |
 | #Music(5)                 |
 | #photostory(5)            |
+| #tech(5)                  |
 | #blog(4)                  |
 | #composers(4)             |
 | #drone(4)                 |
-| #tech(4)                  |
+| #astrophotography(3)      |
 | #BlogPost(3)              |
 | #cameras(3)               |
 | #conservation(3)          |
 | #Nature(3)                |
+| #Tech(3)                  |
 | #tigers(3)                |
-| #astrophotography(2)      |
 | #Atmosphere(2)            |
 | #auroraborealis(2)        |
 | #birds(2)                 |
@@ -41,7 +42,6 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #socials(2)               |
 | #space(2)                 |
 | #sustainability(2)        |
-| #Tech(2)                  |
 | #weather(2)               |
 | #360panorama(1)           |
 | #ai(1)                    |
@@ -79,6 +79,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #greywagtail(1)           |
 | #heron(1)                 |
 | #hireme(1)                |
+| #imageprocessing(1)       |
 | #india(1)                 |
 | #internationaltigerday(1) |
 | #lenses(1)                |
@@ -99,6 +100,8 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #pratincole(1)            |
 | #rarebird(1)              |
 | #righttorepair(1)         |
+| #siril(1)                 |
+| #Siril(1)                 |
 | #socialmedia(1)           |
 | #stoat(1)                 |
 | #street(1)                |
