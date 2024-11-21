@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"how-i-process-my-photographs","permalink":"/how-i-process-my-photographs/","title":"How I Process My Photographs","hide":true,"tags":["photo","photography","postprocessing"],"noteIcon":"1","created":"2024-05-31T14:05:41.093+01:00","updated":"2024-11-06T16:37:55.197+00:00"}
+{"dg-publish":true,"dg-permalink":"how-i-process-my-photographs","permalink":"/how-i-process-my-photographs/","title":"How I Process My Photographs","hide":true,"tags":["photo","photography","postprocessing"],"noteIcon":"1","created":"2024-05-31T14:05:41.093+01:00","updated":"2024-11-21T15:05:45.332+00:00"}
 ---
 
 #photography #photo #postprocessing
@@ -80,19 +80,6 @@ Below is a selection of before and after images. My web skills are not sufficien
 
 ![](https://i.imgur.com/F03wIhX.jpeg)
 *This final example shows how RAW files allow more control in the edit. The sky was bright so I had to balance exposure of the light sky and the dark shadows. These could be tweaks afterwards to make a pleasing photograph.*
-
----
-### Comments
-
-<div id="waline"></div>
-<script type="module">
-	import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
-	init({
-	  el: '#waline',
-	  serverURL: 'https://niallscavecomments.vercel.app/',
-	  lang: 'en',
-	});
-</script>
 
 ---
 Created by Niall Bell (niall@niallbell.com)

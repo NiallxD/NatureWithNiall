@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"camera-recommendations","permalink":"/camera-recommendations/","hide":true,"tags":["photography","cameras","lenses","cameragear"],"noteIcon":"1","created":"2024-04-22T13:36:36.850+01:00","updated":"2024-11-06T16:37:55.167+00:00"}
+{"dg-publish":true,"dg-permalink":"camera-recommendations","permalink":"/camera-recommendations/","hide":true,"tags":["photography","cameras","lenses","cameragear"],"noteIcon":"1","created":"2024-04-22T13:36:36.850+01:00","updated":"2024-11-21T15:05:31.852+00:00"}
 ---
 
 #photography #cameras #lenses #cameragear
@@ -216,21 +216,6 @@ If you wish to chat over email, please get in touch. I'll help advise best I can
 
 
 
----
-### Comments
-
-If you want to share some comments, please do! You can common anonymously if you like, or you can pop your name in there. Either way, comments here are simple!
-
-
-<div id="waline"></div>
-<script type="module">
-	import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
-	init({
-	  el: '#waline',
-	  serverURL: 'https://niallscavecomments.vercel.app/',
-	  lang: 'en',
-	});
-</script>
 
 ---
 Created by Niall Bell (niall@niallbell.com)

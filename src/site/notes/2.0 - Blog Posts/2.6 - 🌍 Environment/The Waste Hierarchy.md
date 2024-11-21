@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"the-waste-hierarchy","permalink":"/the-waste-hierarchy/","title":"The Waste Hierarchy","hide":true,"tags":["waste","environment"],"noteIcon":null,"created":"2024-04-15T23:40:04.465+01:00","updated":"2024-11-06T16:37:55.208+00:00"}
+{"dg-publish":true,"dg-permalink":"the-waste-hierarchy","permalink":"/the-waste-hierarchy/","title":"The Waste Hierarchy","hide":true,"tags":["waste","environment"],"noteIcon":null,"created":"2024-04-15T23:40:04.465+01:00","updated":"2024-11-21T15:06:15.213+00:00"}
 ---
 
 #waste #environment #sustainability 
@@ -81,21 +81,6 @@ Waste management is a vast topic and there are so many interesting things to div
 
 [^1]: The New Scientist (2022). _The end of waste:_ _The grand plan to build a truly circular economy._ Available at: [https://www.newscientist.com/article/mg25333730-800-the-end-of-waste-the-grand-plan-to-build-a-truly-circular-economy/](https://niallbell.com/%22https://www.newscientist.com/article/mg25333730-800-the-end-of-waste-the-grand-plan-to-build-a-truly-circular-economy//%22)
 
----
-### Comments
-
-If you want to share some comments, please do! You can common anonymously if you like, or you can pop your name in there. Either way, comments here are simple!
-
-
-<div id="waline"></div>
-<script type="module">
-	import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
-	init({
-	  el: '#waline',
-	  serverURL: 'https://niallscavecomments.vercel.app/',
-	  lang: 'en',
-	});
-</script>
 
 ---
 Created by Niall Bell (niall@niallbell.com)

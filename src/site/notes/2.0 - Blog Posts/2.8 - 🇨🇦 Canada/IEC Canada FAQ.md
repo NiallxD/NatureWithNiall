@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"canada-faq","permalink":"/canada-faq/","title":"Canada Travel FAQ","hide":true,"tags":["BlogPost","blog","travel","canada"],"noteIcon":null,"created":"2024-04-30T08:32:06.000+01:00","updated":"2024-11-06T16:37:55.214+00:00"}
+{"dg-publish":true,"dg-permalink":"canada-faq","permalink":"/canada-faq/","title":"Canada Travel FAQ","hide":true,"tags":["BlogPost","blog","travel","canada"],"noteIcon":null,"created":"2024-04-30T08:32:06.000+01:00","updated":"2024-11-21T15:06:29.112+00:00"}
 ---
 
 #travel #canada
@@ -226,22 +226,6 @@ So I’ve set up this FAQ where I’ll put all the responses to the questions th
 
 [^1]: Please note that I’m not an Canadian immigration expert, I’m learning just like you. Check with Alliance or Immigration Canada if you’re unsure of anything. This FAQ is just for tips to get started.
 [^2]: If you recognise one of your messages on here and you want it removing, just send me an email and I'll happily do so [niall@niallbell.com](mailto:niall@niallbell.com).
-
----
-### Comments
-
-If you want to share some comments, please do! You can common anonymously if you like, or you can pop your name in there. Either way, comments here are simple!
-
-
-<div id="waline"></div>
-<script type="module">
-	import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
-	init({
-	  el: '#waline',
-	  serverURL: 'https://niallscavecomments.vercel.app/',
-	  lang: 'en',
-	});
-</script>
 
 ---
 Created by Niall Bell (niall@niallbell.com)

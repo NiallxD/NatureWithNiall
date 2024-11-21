@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"black-winged-pratincole-doncaster-2024","permalink":"/black-winged-pratincole-doncaster-2024/","title":"Black Winged Pratincole Doncaster 2024","hide":true,"tags":["Birds","rarebird","pratincole","photography"],"noteIcon":null,"created":"2024-07-08T10:04:15.770+01:00","updated":"2024-11-06T16:38:04.212+00:00"}
+{"dg-publish":true,"dg-permalink":"black-winged-pratincole-doncaster-2024","permalink":"/black-winged-pratincole-doncaster-2024/","title":"Black Winged Pratincole Doncaster 2024","hide":true,"tags":["Birds","rarebird","pratincole","photography"],"noteIcon":null,"created":"2024-07-08T10:04:15.770+01:00","updated":"2024-11-21T15:04:28.962+00:00"}
 ---
 
 #birds #rarebird #pratincole #photography #nature #wildlife
@@ -54,19 +54,6 @@ Of course, here is a gallery of images I've managed to capture of the BWP. The c
 
 Thanks for reading, and good luck!
 Niall,
-
----
-### Comments
-
-<div id="waline"></div>
-<script type="module">
-	import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
-	init({
-	  el: '#waline',
-	  serverURL: 'https://niallscavecomments.vercel.app/',
-	  lang: 'en',
-	});
-</script>
 
 ---
 Created by Niall Bell (niall@niallbell.com)

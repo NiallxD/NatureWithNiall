@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"The-little-owl","permalink":"/The-little-owl/","title":"Etymology: The Little Owl","hide":true,"tags":["Nature","Birds"],"noteIcon":null,"created":"2024-04-10T00:48:08.000+01:00","updated":"2024-11-06T16:38:04.218+00:00"}
+{"dg-publish":true,"dg-permalink":"The-little-owl","permalink":"/The-little-owl/","title":"Etymology: The Little Owl","hide":true,"tags":["Nature","Birds"],"noteIcon":null,"created":"2024-04-10T00:48:08.000+01:00","updated":"2024-11-21T15:05:04.398+00:00"}
 ---
 
 #nature #birds #littleowl #etymology 
@@ -31,20 +31,5 @@ I love to learn about the history of how things became to be called what they ar
 ![](https://i.imgur.com/ZfR4CBC.jpeg)
 *A little owl perched in an oak that has succumb to brown rot*
 
----
-### Comments
-
-If you want to share some comments, please do! You can common anonymously if you like, or you can pop your name in there. Either way, comments here are simple!
-
-
-<div id="waline"></div>
-<script type="module">
-	import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
-	init({
-	  el: '#waline',
-	  serverURL: 'https://niallscavecomments.vercel.app/',
-	  lang: 'en',
-	});
-</script>
 ---
 Created by Niall Bell (niall@niallbell.com)

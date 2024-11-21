@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"DPOTY24","permalink":"/DPOTY24/","title":"Highly Commended - Deer Photographer of the Year","hide":true,"tags":["photo","photography","nature","wildlife","deer"],"noteIcon":"1","created":"2024-06-24T21:33:33.384+01:00","updated":"2024-11-06T16:37:55.210+00:00"}
+{"dg-publish":true,"dg-permalink":"DPOTY24","permalink":"/DPOTY24/","title":"Highly Commended - Deer Photographer of the Year","hide":true,"tags":["photo","photography","nature","wildlife","deer"],"noteIcon":"1","created":"2024-06-24T21:33:33.384+01:00","updated":"2024-11-21T15:06:23.553+00:00"}
 ---
 
 #photo #photography #nature #wildlife #deer 
@@ -35,18 +35,6 @@ I've now had a certificate through for this image and wanted to add to this post
 
 Cheers!
 
----
-### Comments
-
-<div id="waline"></div>
-<script type="module">
-	import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
-	init({
-	  el: '#waline',
-	  serverURL: 'https://niallscavecomments.vercel.app/',
-	  lang: 'en',
-	});
-</script>
 
 ---
 Created by Niall Bell (niall@niallbell.com)

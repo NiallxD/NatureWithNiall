@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/2-1-nature/how-to-build-a-wildlife-pond/","hide":true,"tags":["Wildlife","Gardening"],"noteIcon":null,"created":"2024-04-07T17:12:39.364+01:00","updated":"2024-11-06T16:38:04.214+00:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/2-1-nature/how-to-build-a-wildlife-pond/","hide":true,"tags":["Wildlife","Gardening"],"noteIcon":null,"created":"2024-04-07T17:12:39.364+01:00","updated":"2024-11-21T15:04:40.169+00:00"}
 ---
 
 #nature #wildlife #gardening
@@ -99,23 +99,6 @@ I hope this gave some insight into the how I created my wildlife pond and gave s
 
 Niall
 
----
-### Comments
-
-If you want to share some comments, please do! You can common anonymously if you like, or you can pop your name in there. Either way, comments here are simple!
-
-
-<div id="waline"></div>
-<script type="module">
-	import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
-	init({
-	  el: '#waline',
-	  serverURL: 'https://niallscavecomments.vercel.app/',
-	  lang: 'en',
-	});
-</script>
-
-[^22/04/2024]: Updated photos to be remotely hosted for page speed.
 ---
 #BlogPost 
 Date Created: 2024-04-02 22:47

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/international-tiger-day-2024","permalink":"/international-tiger-day-2024/","title":"International Tiger Day 2024","hide":true,"tags":["internationaltigerday","tigers","nature","wildlife","conservation"],"noteIcon":"1","created":"2024-07-29T10:39:20.786+01:00","updated":"2024-11-06T16:38:04.215+00:00"}
+{"dg-publish":true,"dg-permalink":"/international-tiger-day-2024","permalink":"/international-tiger-day-2024/","title":"International Tiger Day 2024","hide":true,"tags":["internationaltigerday","tigers","nature","wildlife","conservation"],"noteIcon":"1","created":"2024-07-29T10:39:20.786+01:00","updated":"2024-11-21T15:04:44.888+00:00"}
 ---
 
 #internationaltigerday #tigers #nature #wildlife #conservation 
@@ -129,18 +129,6 @@ Recently, I was fortunate enough to go and photograph tigers in the wild. The be
 
 
 
----
-### Comments
-
-<div id="waline"></div>
-<script type="module">
-	import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
-	init({
-	  el: '#waline',
-	  serverURL: 'https://niallscavecomments.vercel.app/',
-	  lang: 'en',
-	});
-</script>
 
 ---
 Created by Niall Bell (niall@niallbell.com)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/2-2-music/misierere-mei-deus-gregorio-allegri/","title":"Misierere Mei, Deus","hide":true,"tags":["Music","Baroque"],"noteIcon":null,"created":"2024-04-10T23:31:47.000+01:00","updated":"2024-11-06T16:37:55.219+00:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/2-2-music/misierere-mei-deus-gregorio-allegri/","title":"Misierere Mei, Deus","hide":true,"tags":["Music","Baroque"],"noteIcon":null,"created":"2024-04-10T23:31:47.000+01:00","updated":"2024-11-21T15:05:09.096+00:00"}
 ---
 
 #music #composers 
@@ -53,20 +53,5 @@ That’s a lot for 00:19 on a Thursday morning, but c’est la vie!
 
 Niall
 
----
-### Comments
-
-If you want to share some comments, please do! You can common anonymously if you like, or you can pop your name in there. Either way, comments here are simple!
-
-
-<div id="waline"></div>
-<script type="module">
-	import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
-	init({
-	  el: '#waline',
-	  serverURL: 'https://niallscavecomments.vercel.app/',
-	  lang: 'en',
-	});
-</script>
 ---
 Created by Niall Bell (niall@niallbell.com)

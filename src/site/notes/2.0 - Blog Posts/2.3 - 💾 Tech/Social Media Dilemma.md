@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"social-media-dilemma","permalink":"/social-media-dilemma/","title":"Social Media Dilemma","hide":true,"tags":["socials","Socialmedia","instagram","facebook"],"noteIcon":"1","created":"2024-08-14T14:14:19.453+01:00","updated":"2024-11-06T16:37:55.202+00:00"}
+{"dg-publish":true,"dg-permalink":"social-media-dilemma","permalink":"/social-media-dilemma/","title":"Social Media Dilemma","hide":true,"tags":["socials","Socialmedia","instagram","facebook"],"noteIcon":"1","created":"2024-08-14T14:14:19.453+01:00","updated":"2024-11-21T15:05:52.113+00:00"}
 ---
 
 #socialmedia #socials #instagram #facebook
@@ -81,19 +81,6 @@ Considering the content I don't want to see on social media, things like fake ne
 I'm still not sure if I want to start engaging with social media again. I don't know if the compromises are worth it. It's like voluntarily buying a car where the windows steam up all the time and the wheels only rotate one way. I'll spend some more time pondering but have found drafting out these thoughts useful. I'll be sure to update this post if I my thoughts develop further.
 
 [^1]: [Wayback Machine (archive.org)](https://web.archive.org/web/20140622171150/http://www.turnthetide.info/id54.htm)
-
----
-### Comments
-
-<div id="waline"></div>
-<script type="module">
-	import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
-	init({
-	  el: '#waline',
-	  serverURL: 'https://niallscavecomments.vercel.app/',
-	  lang: 'en',
-	});
-</script>
 
 ---
 Created by Niall Bell (niall@niallbell.com)

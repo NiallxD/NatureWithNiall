@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"an-open-letter-to-ywp","permalink":"/an-open-letter-to-ywp/","title":"An Open Letter to YWP","hide":true,"tags":["conservation","nature","wildlife","photography"],"noteIcon":"1","created":"2024-05-12T11:37:46.477+01:00","updated":"2024-11-06T16:38:04.209+00:00"}
+{"dg-publish":true,"dg-permalink":"an-open-letter-to-ywp","permalink":"/an-open-letter-to-ywp/","title":"An Open Letter to YWP","hide":true,"tags":["conservation","nature","wildlife","photography"],"noteIcon":"1","created":"2024-05-12T11:37:46.477+01:00","updated":"2024-11-21T15:04:14.526+00:00"}
 ---
 
 #conservation #nature #wildlife #photography 
@@ -122,21 +122,5 @@ Here are the issues for which I've been advocating for change. Some are bespoke 
 [^13]: Im referring to occasions where half the animals were locked away due to a power failure and nobody telling paying guests at the entrance or when they have advertised a new animal but failed to share the fact that it is off-show. Recent updates on the website banner have helped address these issues which is nice to see!
 [^14]: When justifying the importance of the Big Wheel, YWP stated it is crucial to the parks success.  This is contained in planning documents on the Doncaster Council Planning Portal.
 
-
----
-### Comments
-
-If you want to share some comments, please do! You can common anonymously if you like, or you can pop your name in there. Either way, comments here are simple!
-
-
-<div id="waline"></div>
-<script type="module">
-	import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
-	init({
-	  el: '#waline',
-	  serverURL: 'https://niallscavecomments.vercel.app/',
-	  lang: 'en',
-	});
-</script>
 ---
 Created by Niall Bell (niall@niallbell.com)
