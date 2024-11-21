@@ -1,22 +1,25 @@
-<br>
-<div id="social-media">
-  <div class="social-title-container">
-    <div class="social-title">Social Media</div>
+  <br>
+  <div id="social-media">
+    <div class="social-title-container">
+      <div class="social-title">Social Media</div>
+    </div>
+    <div class="social-container">
+      <a href="https://www.facebook.com/niallbellcom" target="_blank">
+        <i class="svg-icon lucide-facebook greyscale-icon" icon-name="facebook" style="font-size:20px; color:gray;"></i>
+      </a>
+      <a href="https://www.instagram.com/niallbellcom/" target="_blank">
+        <i class="svg-icon lucide-instagram greyscale-icon" icon-name="instagram" style="font-size:20px; color:gray;"></i>
+      </a>
+    </div>
   </div>
-  <div class="social-container">
-    <a href="https://www.facebook.com/niallbellcom" target="_blank">
-      <i class="lucide lucide-facebook" style="font-size:20px; color:gray;"></i>
-    </a>
-    <a href="https://www.instagram.com/niallbellcom/" target="_blank">
-      <i class="lucide lucide-instagram" style="font-size:20px; color:gray;"></i>
-    </a>
-  </div>
-</div>
-
-<script>
-  // Initialize Lucide icons
-  lucide.createIcons();
-</script>
+  
+  <script>
+    lucide.createIcons({
+      attrs: {
+        class: ["svg-icon"]
+      }
+    });
+  </script>
 
 
 
