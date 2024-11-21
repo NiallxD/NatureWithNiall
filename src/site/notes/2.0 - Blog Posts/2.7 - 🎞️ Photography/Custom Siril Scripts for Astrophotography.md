@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"custom-siril-scripts","permalink":"/custom-siril-scripts/","title":"Custom Siril Scripts for Astrophotography","hide":true,"tags":["Tech","astrophotography","Siril","imageprocessing"],"noteIcon":null,"created":"2024-11-20T19:39:34.139+00:00","updated":"2024-11-21T13:13:23.807+00:00"}
+{"dg-publish":true,"dg-permalink":"custom-siril-scripts","permalink":"/custom-siril-scripts/","title":"Custom Siril Scripts for Astrophotography","hide":true,"tags":["Tech","astrophotography","Siril","imageprocessing"],"noteIcon":null,"created":"2024-11-20T19:39:34.139+00:00","updated":"2024-11-21T23:29:11.975+00:00"}
 ---
 
 #tech #astrophotography #siril #imageprocessing
@@ -85,8 +85,6 @@ stack r_pp_light rej 3 3 -norm=addscale -filter-round=0.65 -weight_from_noise -o
 # 7. Align (register) the Light frames.    #
 # 8. Stack the registered Light frames     #
 #    rejecting poor quality images.        #
-# 9. Automatically apply an autostretch    #
-#    to the image.                         #
 #                                          #
 ############################################
 
@@ -145,9 +143,6 @@ stack r_pp_light rej g 0.3 0.05 -norm=addscale -filter-round=0.65 -weight_from_n
 # Load the final stacked file into Siril.
 cd ../export/
 load final_stacked.fit
-
-# Autostretch
-autostretch -linked
 
 ############ PROCESSING COMPLETE ###########
 #                                          #
@@ -261,13 +256,6 @@ load final_stacked.fit
 
 This step loads the final stacked file into Siril.
 
-```
-# Autostretch
-autostretch -linked
-```
-
-Finally, I have the scrip automatically Autostretch the image. Some people don't like this so it can be removed. I just find it convenient.
-
 ## Summary
 
 That's basically it, the script organises the files in a way that works for me, such as allowing the easy deletion of process files, and uses some slight more advanced stacking algorithms and parameters. It's nothing special or fancy, but I said I'd share so here it is.
@@ -304,8 +292,6 @@ I have another script which I used to stack images without doing any calibration
 # 1. Convert the Light frames to .fits     #
 # 2. Stack the registered Light frames     #
 #    rejecting poor quality images.        #
-# 3. Automatically apply an autostretch    #
-#    to the image.                         #
 #                                          #
 ############################################
 
@@ -327,9 +313,6 @@ stack r_light_seq rej g 0.3 0.05 -norm=addscale -filter-round=0.65 -weight_from_
 # Load the final stacked file into Siril.
 cd ../export/
 load final_stacked.fit
-
-# Autostretch
-autostretch -linked
 
 ############ PROCESSING COMPLETE ###########
 #                                          #

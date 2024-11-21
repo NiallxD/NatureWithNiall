@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-11-21T15:03:00.942+00:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-11-21T23:46:05.420+00:00"}
 ---
 
 #photography #photofeed
@@ -11,7 +11,51 @@ It's important to note that these aren't portfolio images but instead are photos
 
 📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]] to get a email when I share new updates!
 
-> [!tip]+ WC 28th October 2024
+> [!tip]+ WC 11th November 2024
+> Another quiet week for photography. But I still managed to get some shots to share!
+> 
+> #### Lawyers Wig Fungi
+> 
+> Coprinus Comatus is the Lawyers Wig Fungi. It's a type of ink cap that can be found all over the place in autumn. The huge bulbous caps soon give way to a slimy inky liquid as they melt away.
+> 
+>![](https://i.imgur.com/cFOiLDE.jpeg)
+>
+> #### Sunset
+> 
+> Here is a photo of the sunset from a scouting location near to my house. I come up here for short eared owls, none yet, but there is time!
+> 
+>![](https://i.imgur.com/J3ifDhF.jpeg)
+>
+> #### Orion, Flame, and Horsehead Nebula
+> 
+> I received some new kit this week for taking longer exposures of the night sky. Here is a wide field shot of the Orion Nebula and it's nearby neighbours. This nebula is 1350 light years away from Earth!
+> 
+>![](https://i.imgur.com/YnQrgTY.jpeg)
+>
+
+> [!tip]- WC 4th November 2024
+> Autumnal woodland bonanza this week! Here are my top pics from an autumnal walk in the woods!
+> 
+> #### Towering Giants
+> 
+> Not huge in the grand scheme of things but my fish eye lens really makes them look like giants! The colours here were magical!
+> 
+>![](https://i.imgur.com/SIcnRX5.jpeg)
+>
+> #### Fisheye
+> 
+> Here is a unique perspective on the autumnal trees. The 8mm fisheye really brings everything into the shot giving a crazy view!
+> 
+>![](https://i.imgur.com/Dz6ULh8.jpeg)
+>
+> #### Birch Bracket
+> 
+> Birch trees in this woodland are covered in these fungi. The fungi destroy the tree from the inside, sapping it of it's life. Over the years, these trees will die back and end up as lone standing deadwood...which is great for woodpeckers and owls! It's amazing how fungi like this are the creators of habitat for birds! The web of life.
+> 
+>![](https://i.imgur.com/geLNEcD.jpeg)
+>
+
+> [!tip]- WC 28th October 2024
 > A fairly drab week in Doncaster so this week hasn't been a great wee for photography. However, I did manage to get out at the weekend and was able to create some cool photos.
 > 
 > #### Prime Kestrel
