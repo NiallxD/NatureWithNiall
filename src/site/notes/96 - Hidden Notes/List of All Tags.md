@@ -8,9 +8,9 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 
 | Tags                      |
 | ------------------------- |
-| #books(57)                |
-| #reading(57)              |
-| #bookshelf(56)            |
+| #books(61)                |
+| #reading(61)              |
+| #bookshelf(60)            |
 | #nature(42)               |
 | #photography(42)          |
 | #wildlife(36)             |
