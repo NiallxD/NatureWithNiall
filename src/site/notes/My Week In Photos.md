@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-11-21T23:46:05.420+00:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-11-26T01:00:51.943+00:00"}
 ---
 
 #photography #photofeed
@@ -10,6 +10,28 @@ I spend a great deal of my time out in nature, creating photographs of the going
 It's important to note that these aren't portfolio images but instead are photos which illustrate my experiences with wildlife and nature. Past weeks can be found at the bottom, I encourage you to have a browse.
 
 📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]] to get a email when I share new updates!
+
+> [!tip]+ WC 18th November 2024
+> The weather in the UK has been weird this week to say the least. We had a storm come through which brought with it a lot of precipitation. This coincided with a week of freezing temps which gave a bucket load of snow to higher elevations. I took advantage of this to hit a bucket shot!
+> 
+> #### Winter Wonderland
+> 
+> This was the view as I walked down to the woodland where the red squirrels live.
+> 
+>![](https://i.imgur.com/EtbfGZ3.jpeg)
+>
+> #### Snowy Squirrels
+> 
+> Photographing red squirrels in the snow has been on my list for a long time. I've tried many times but failed, more often than not by a lack of snow when forecast! This day was different though, and I finally got my shots!
+> 
+>![](https://i.imgur.com/9pdg4Ed.jpeg)
+>
+> #### Hazelnut For Dinner
+> 
+> The national park authority feed these squirrels to help them maintain a healthy population given their plight. The squirrels will check the hazelnuts for quality before either discarding them or taking them away to be stashed for a rainy day.
+> 
+>![](https://i.imgur.com/wB7hNMx.jpeg)
+>
 
 > [!tip]+ WC 11th November 2024
 > Another quiet week for photography. But I still managed to get some shots to share!
