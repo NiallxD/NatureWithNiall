@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-11-26T01:00:51.943+00:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-12-11T15:38:41.687+00:00"}
 ---
 
 #photography #photofeed
@@ -7,11 +7,60 @@
 
 I spend a great deal of my time out in nature, creating photographs of the goings-on of nature, big and small. And while I do work full time, in my spare time might I add, I do still manage to spend hours in nature each week. This page is updated weekly and is a summary of some of the highlights from the week.
 
+I decided to run a year long project to document my photography week by week.
+## Progress:
+
+![](https://progress-bar.xyz/92/?width=800&color=FFB347)
+
 It's important to note that these aren't portfolio images but instead are photos which illustrate my experiences with wildlife and nature. Past weeks can be found at the bottom, I encourage you to have a browse.
 
 📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]] to get a email when I share new updates!
 
-> [!tip]+ WC 18th November 2024
+> [!tip]+ WC 2nd December 2024
+> The weather has been vile this week so I've barely left the house. It's allowed me to catch up on my reading but i'm itching to get out. I managed an hour photographing Pleiades, but other than that the only other photos I took were on a hike at the weekend...during Storm Darragh's wrath!
+> 
+> #### M45 - The Pleiades
+> 
+> This open star cluster is one of the most famous. It is easily viewed with the naked eye and is usually the object people spot and ask "what's this!". The cluster is just 444 lightyears from Earth making it the nearest object in the Messier Catalogue. Next time the sky is clear, have a look for this cluster!
+> 
+> ![](https://i.imgur.com/qqiQjPo.jpeg)
+>
+> #### Saturn
+> 
+> I was impressed that I managed this between the clouds, but sure enough I managed a shot! This is Saturn, one of the gas giants! As Saturn spins it's rings are angled to Earth to varying degrees, currently they are almost parallel to our view of Saturn which makes them appear as skinny slices. In a few years they will be much more visible!
+> 
+>![](https://i.imgur.com/MA3XEkK.jpeg)
+>
+> #### Wet and Windy Walk
+> 
+> On Saturday (Saturn-day...bet you didn't know that?), I went for a good'ol family walk! It was dreadfully windy and wet, but on the whole a lovely walk in the Peak District!
+> 
+>![](https://i.imgur.com/ydtEIQh.jpeg)
+>
+
+> [!tip]- WC 25th November 2024
+> Such a cold week this week! I've been out photographing the stars, which might sound straight forward but I assure you it is not! Not only do you need specific equipment like star trackers and dew heaters, but the processing of the images you get is more maths and science than it is art!
+> 
+> #### M42 - The Orion Nebula
+> 
+> I started off with a target which is super bright and fairly close to us, some 1,300 light years. This is the heart of the Orion Nebula! This area of our galaxy is a hot mess of violent star formation! The bight young stars shine out and illuminate clouds of gas and dust, which after a long journey to us, we see as light! This image comprises over an hour of exposure time over several hundred images.
+> 
+>![](https://i.imgur.com/Qhz3pQJ.jpeg)
+>
+> #### Horsehead and Flame Nebula
+> 
+> Part of the same cluster of nebulae as the Orion Nebula, these two are well know for their distinct shapes. They are much fainter than M42 but with over an hours exposure it's possible to create stunning images.
+> 
+>![](https://i.imgur.com/5T5bihY.jpeg)
+>
+> #### M33 - The Triangulum Galaxy
+> 
+> M33 is a spiral galaxy located some 2.7 million light years from Earth. The galaxy is faint but with long enough exposures, and good tracking, images like this are possible. I've got much more work to do to improve this image, but as it stands I'm happy so far!
+> 
+>![](https://i.imgur.com/vxyE6tm.jpeg)
+>
+
+> [!tip]- WC 18th November 2024
 > The weather in the UK has been weird this week to say the least. We had a storm come through which brought with it a lot of precipitation. This coincided with a week of freezing temps which gave a bucket load of snow to higher elevations. I took advantage of this to hit a bucket shot!
 > 
 > #### Winter Wonderland
@@ -33,7 +82,7 @@ It's important to note that these aren't portfolio images but instead are photos
 >![](https://i.imgur.com/wB7hNMx.jpeg)
 >
 
-> [!tip]+ WC 11th November 2024
+> [!tip]- WC 11th November 2024
 > Another quiet week for photography. But I still managed to get some shots to share!
 > 
 > #### Lawyers Wig Fungi
@@ -907,7 +956,6 @@ It's important to note that these aren't portfolio images but instead are photos
 >![](https://i.imgur.com/POuAXem.jpeg)
 
 > [!tip]- WC 11th March 2024
-> **Backdated Post**
 >This week was a week of birds! At the time I was spending a lot of time in Sheffield photographing the kingfishers there. Along the way I usually pick up a range of photos including photos of species most don't bother to photograph.
 > 
 > #### Skylark
@@ -929,6 +977,225 @@ It's important to note that these aren't portfolio images but instead are photos
 >![](https://i.imgur.com/hR3aA9x.jpeg)
 > 
 
+>[!tip]- WC 4th March 2024
+> These images are actually from the back end of last week, but they were in the first week in march so technically feel like the fit here. I just can't not sure them!
+> 
+> #### Squirrels in Snow
+> 
+> Dave and I have been trying to get squirrels in snow for a long time. This was a great opportunity as heavy snow fell on the peaks of North Yorkshire. We headed there promptly! Unfortunately the snow was weak in the woods so didn't really get the shots we wanted. *EDIT: We managed this 23rd November!*
+> 
+> ![](https://i.imgur.com/MezuPJa.jpeg)
+> 
+> #### Red Grouse
+> 
+> This time of year game keepers are doing their best to boost numbers of grouse ahead of the August start to the shooting season. This gives a bumper crop for photographers to get up and photograph them before their unwarranted demise!
+> 
+> ![](https://i.imgur.com/646faRA.jpeg)
+> 
+> #### Another Red Grouse
+> 
+> Here is another image of a grouse. I love these birds so much. It breaks my heart to know they will be shot dead 5 months from now...If you want to learn more, I recommend the book [Inglorious by Mark Avery](https://niallbell.com/95-bookshelf/highlights/inglorious-by-mark-avery/). Link takes you to some of my notes.
+> 
+> ![](https://i.imgur.com/Z6e8W06.jpeg)
+>
+
+>[!tip]- WC 26th February 2024
+> This week I had a surprise encounter with a magnificent bird of prey...the sparrow hawk!
+> 
+> #### Famale Sparrow Hawk
+> 
+> This is a female sparrow hawk which killed one of the pigeons which nests in the tree in our back garden. Look at the piercing eye and powerful check muscles!
+> 
+> ![](https://i.imgur.com/0H4oWbz.jpeg)
+> 
+> #### Pigeon for Lunch
+> 
+> Sparrow hawks don't usually take pigeons as they are too large, but this female managed on this occasion. Only the female of this species is large enough to attempt this.
+> 
+> ![](https://i.imgur.com/azIph4p.jpeg)
+> 
+> #### Eyes Bigger than your Belly!
+> 
+> The bird eventually decided to try take the pigeon away, but couldn't fly with it so ended up eating it on my lawn. It took half hour to clean the feathers up!
+> 
+> ![](https://i.imgur.com/BEnCKaI.jpeg)
+>
+
+>[!tip]- WC 19th February 2024
+> Another awesome week visiting Tschuna after work.
+> 
+> #### Tshcuna in Golden Light
+> 
+> The light was superb on this evening! opted for a wide aspect ratio to fit in her long tail!
+> 
+![](https://i.imgur.com/pectTsS.jpeg)
+> 
+> #### Drink by The Pond
+> 
+> Tschuna drinking water by the pond!
+> 
+> ![](https://i.imgur.com/fsIEiPf.jpeg)
+> 
+> #### Tigers Eye
+> 
+> No description is required for this one!
+> 
+> ![](https://i.imgur.com/Easg6wg.jpeg)
+>
+
+>[!tip]- WC 12th February 2024
+> This week I headed to a new wildlife park called Peak Wildlife Park, with a good friend. They have squirrels there among other awesome animals.
+> 
+> #### Red Sqiggle
+> 
+> Is there anything more endearing than a red squirrel with their little ear tufts and white underparts?
+> 
+> ![](https://i.imgur.com/5FsdlhT.jpeg)
+> 
+> #### Polar Bear
+> 
+> Rather self explantory, polar bears are beasts! I love to photograph them, but so far only in captivity.
+> 
+> ![](https://i.imgur.com/XAHWUi7.jpeg)
+> 
+> #### Magma Eye
+> 
+> The eyes on this Lemur are magnificent! I couldn't not photograph them!
+> 
+> ![](https://i.imgur.com/uP7LmUt.jpeg)
+>
+
+>[!tip]- WC 5th February 2024
+> This week we had snow! This isn't that common for us in Yorkshire, but this week we got a decent dusting and what else better to do than to photograph amur tigers in the snow!
+> 
+> #### Red Panda
+> 
+> Firstly, I can't not share this stunning image of a red panda in the snow. So adorable yet perfectly adapted for this weather.
+> 
+> ![](https://i.imgur.com/sOVTMfG.jpeg)
+> 
+> #### Snow Cat
+> 
+> Here is my favourite tiger of them all, Tschuna. I owe this tigress a lot ([read more here](https://niallbell.com/uk-wildlife-nature-photos/tigers/)) and photographing her in the snow is one of my favourite things!
+> 
+> ![](https://i.imgur.com/DLtF7Y4.jpeg)
+> 
+> #### Snow Goose
+> 
+> Of course this is not a snow goose, but a greylag! 
+> 
+> ![](https://i.imgur.com/WA1WPE0.jpeg)
+>
+
+>[!tip]- WC 29th January 2024
+> This week I had a surprise trip to London, and bagged some photos of a new species to me!
+> 
+> #### Tower Bridge
+> 
+> This is my first time seeing Tower Bridge despite visiting London many times! It's a nice bridge, a bit fancy if you ask me.
+> 
+> ![](https://i.imgur.com/QbBKW2V.jpeg)
+> 
+> #### Male Stonechat
+> 
+> Stonechats had always evaded me but this week I was able to take some photos of them. This male was perched on a fence and allowed me to creep close for this shot.
+> 
+> ![](https://i.imgur.com/iy1K27H.jpeg)
+> 
+> #### Female Stonechat
+> 
+> The female was a bit more skittish but I still managed to land a few lovely photographs.
+> 
+> ![](https://i.imgur.com/bxGJUGU.jpeg)
+>
+
+>[!tip]- WC 22nd January 2024
+> It's kingie season! This week I spent some time at my local spot for kingfishers. I got more than just the kingies though!
+> 
+> #### Kingfisher in a tree
+> 
+> I can't remember the name of this tree but the catkins go a lovely lilac colour. The contract with the bright green behind brought this colour our more. The lovely dapples light made for some stunning bokeh.
+> 
+> ![](https://i.imgur.com/jvuvygK.jpeg)
+> 
+> #### Golden Gull
+> 
+> Often overlooked as common, gulls can make nice images too. This black-headed gull in winter plumage looked great in the golden sun.
+> 
+> ![](https://i.imgur.com/jjLFTPc.jpeg)
+> 
+> #### Moorhen Exploration
+> 
+> This moorhen was screaming to be photographed, the lovely golden light added to the image.
+> 
+> ![](https://i.imgur.com/54RLDHY.jpeg)
+>
+
+>[!tip]- WC 15th January 2024
+> Ok, this week I'm going to be sharing some cool images of some of my local captive creatures. These were taken at Yorkshire Wildlife Park
+> 
+> #### Leopard Cub
+> 
+> I still can't get used to this one being named after the village of Auckley, but regardless, she is a stunner!
+> 
+>![](https://i.imgur.com/uhVDJMn.jpeg)
+> 
+> #### Gaining Confidence
+> 
+> I spent most of my week photographing Auckley after work and here is a photo of her exploring her enclosure!
+> 
+> ![](https://i.imgur.com/RK4RINs.jpeg)
+> 
+> #### Killer Eyes
+> 
+> One advantage of heading to the park after work is that lovely golden sunlight. The keepers allowed me to stay 10 mins late to nail these shots of Auckley playing on the log.
+> 
+> ![](https://i.imgur.com/cXpdhiK.jpeg)
+>
+
+>[!tip]- WC 8th January 2024
+> Back to work! This is always a tough week to get out. Back to the grindstone. I did manage a few shots regardless!
+> 
+> #### Quirky York Pup
+> 
+> My girlfriend took me to see Vivaldi's Four Seasons by a string quartet in York. It was an awesome evening! This pub I saw on the way caught my eye. I only had my phone but snapped a pic anyway!
+> 
+> ![](https://i.imgur.com/TsALWeB.jpeg)
+> 
+> #### Microscopic Algae
+> 
+> Here is a cool image I created this week with my microscope, its some kind of algae. I think it's about 30 micrometers in length!
+> 
+> ![](https://i.imgur.com/B9oDu6R.jpeg)
+> 
+> #### ASB
+> 
+> Unfortunately the antisocial behaviour at the owl spot seems to have pushed the owls away, many quads up there today and no owls to be seen.
+> 
+> ![](https://i.imgur.com/bZI1X92.jpeg)
+>
+
+>[!tip]- WC 1st January 2024
+> Starting this porject off with some cracking images from the year! Here are some shots of my local Short Eared Owls.
+> 
+> #### Intentional Camera Movement
+> 
+> I shot this image with a slow shutter speed to try show the often chaotic nature of the owls flight. Its not easy to get right but can be a nice visual if it works.
+> 
+> ![](https://i.imgur.com/vNGvtT5.jpeg)
+> 
+> #### Dive Bomb
+> 
+> It's awesome to watch these owls turn 90 degrees might flight and drop to the deck in an attempt to catch some prey. Makes for a challenging photograph too!
+>
+>![](https://i.imgur.com/2mUkW4W.jpeg)
+>
+> #### Redwing
+> 
+> Photographed at my local zoo, this is a Redwing searching for berries.
+> 
+> ![](https://i.imgur.com/VqOPDmM.jpeg)
+>
 
 
 ---
