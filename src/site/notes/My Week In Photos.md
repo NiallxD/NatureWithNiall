@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-12-11T15:38:41.687+00:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-12-11T15:43:11.467+00:00"}
 ---
 
 #photography #photofeed
@@ -1028,7 +1028,7 @@ It's important to note that these aren't portfolio images but instead are photos
 > 
 > The light was superb on this evening! opted for a wide aspect ratio to fit in her long tail!
 > 
-![](https://i.imgur.com/pectTsS.jpeg)
+>![](https://i.imgur.com/pectTsS.jpeg)
 > 
 > #### Drink by The Pond
 > 
