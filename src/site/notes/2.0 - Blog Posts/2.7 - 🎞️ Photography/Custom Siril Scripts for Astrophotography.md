@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"custom-siril-scripts","permalink":"/custom-siril-scripts/","title":"Custom Siril Scripts for Astrophotography","hide":true,"tags":["Tech","astrophotography","Siril","imageprocessing"],"noteIcon":null,"created":"2024-11-20T19:39:34.139+00:00","updated":"2024-11-21T23:29:11.975+00:00"}
+{"dg-publish":true,"dg-permalink":"custom-siril-scripts","permalink":"/custom-siril-scripts/","title":"Custom Siril Scripts for Astrophotography","hide":true,"tags":["Tech","astrophotography","Siril","imageprocessing"],"noteIcon":null,"created":"2024-11-20T19:39:34.139+00:00","updated":"2024-12-11T15:45:33.826+00:00"}
 ---
 
 #tech #astrophotography #siril #imageprocessing
@@ -331,6 +331,13 @@ load final_stacked.fit
 I hope that this was useful to you, if it was and you have any questions, let me know. Otherwise, Clear Skies!
 
 Niall
+
+#### Header Image
+
+The header image for this post was created using these scripts. It should the Horsehead and Flame Nebula in the Orion constellation.
+
+![](https://i.imgur.com/Izkx8aB.jpeg)
+
 
 ---
 Created by Niall Bell (niall@niallbell.com)
