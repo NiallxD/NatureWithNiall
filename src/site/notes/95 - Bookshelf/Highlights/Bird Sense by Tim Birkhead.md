@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/95-bookshelf/highlights/bird-sense-by-tim-birkhead/","hide":true,"noteIcon":"","created":"2024-12-11T14:00:11.543+00:00","updated":"2024-12-11T16:12:51.880+00:00"}
+{"dg-publish":true,"permalink":"/95-bookshelf/highlights/bird-sense-by-tim-birkhead/","hide":true,"noteIcon":"","created":"2024-12-11T14:00:11.543+00:00","updated":"2024-12-11T16:18:50.226+00:00"}
 ---
 
 #books #reading #bookshelf
@@ -7,6 +7,7 @@
 # Bird Sense
 ## My Summary
 
+⭐️⭐️⭐️⭐️
 
 ## Highlights
 
