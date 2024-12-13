@@ -56,7 +56,9 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #canada(1)                |
 | #cats(1)                  |
 | #classical(1)             |
+| #complexity(1)            |
 | #computers(1)             |
+| #congnitivebias(1)        |
 | #environment(1)           |
 | #ethics(1)                |
 | #etymology(1)             |
@@ -65,6 +67,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #galleries(1)             |
 | #gardening(1)             |
 | #Gardening(1)             |
+| #heuristics(1)            |
 | #hireme(1)                |
 | #imageprocessing(1)       |
 | #india(1)                 |
@@ -72,6 +75,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #lenses(1)                |
 | #lifelist(1)              |
 | #littleowl(1)             |
+| #livingnotes(1)           |
 | #macro(1)                 |
 | #macrophotography(1)      |
 | #microscope(1)            |
@@ -91,6 +95,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #socialmedia(1)           |
 | #street(1)                |
 | #streetphotography(1)     |
+| #systemsthinking(1)       |
 | #travel(1)                |
 | #twitterx(1)              |
 | #waste(1)                 |
