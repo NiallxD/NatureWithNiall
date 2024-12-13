@@ -34,6 +34,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #deer(2)                  |
 | #facebook(2)              |
 | #instagram(2)             |
+| #philosophy(2)            |
 | #photo(2)                 |
 | #Photography(2)           |
 | #Socialmedia(2)           |
@@ -72,6 +73,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #imageprocessing(1)       |
 | #india(1)                 |
 | #internationaltigerday(1) |
+| #latin(1)                 |
 | #lenses(1)                |
 | #lifelist(1)              |
 | #littleowl(1)             |
@@ -81,7 +83,6 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #microscope(1)            |
 | #music(1)                 |
 | #northernlights(1)        |
-| #philosophy(1)            |
 | #phones(1)                |
 | #photofeed(1)             |
 | #photomicrography(1)      |
