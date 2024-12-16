@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-12-11T15:43:11.467+00:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-12-16T16:30:24.021+00:00"}
 ---
 
 #photography #photofeed
@@ -10,13 +10,35 @@ I spend a great deal of my time out in nature, creating photographs of the going
 I decided to run a year long project to document my photography week by week.
 ## Progress:
 
-![](https://progress-bar.xyz/92/?width=800&color=FFB347)
+![](https://progress-bar.xyz/98/?width=800&color=FFB347)
 
 It's important to note that these aren't portfolio images but instead are photos which illustrate my experiences with wildlife and nature. Past weeks can be found at the bottom, I encourage you to have a browse.
 
 📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]] to get a email when I share new updates!
 
-> [!tip]+ WC 2nd December 2024
+> [!tip]+ WC 9th December 2024
+> A day late this week! Very quiet week with poor weather and lots on with it being my last week at work.
+> 
+> #### Kingfisher
+> 
+> Nothing special here compositionally, but regardless it's still lovely to see these stunning birds.
+> 
+> ![](https://i.imgur.com/3wJTsop.jpeg)
+>
+> #### Yay-jay!
+> 
+> I rarely manage to photograph jays despite them being fairly widespread! This jay popped into a nearby tree so I manage to fire off a few shots before it flew away.
+> 
+> ![](https://i.imgur.com/Jn0pRnb.jpeg)
+>
+> #### A Stickleback and a Gull
+> 
+> This was awesome to watch, lots of black-headed gulls were diving in the water like little arctic foxes, catching sticklebacks! The gulls have to try and stun the fish before eating it to prevent those pesky pines for getting them! Unlike kingfishers, the gulls haven't mastered the fish-whack, so instead go for a toss and poke.
+> 
+>![](https://i.imgur.com/5M92Js9.jpeg)
+>
+
+> [!tip]- WC 2nd December 2024
 > The weather has been vile this week so I've barely left the house. It's allowed me to catch up on my reading but i'm itching to get out. I managed an hour photographing Pleiades, but other than that the only other photos I took were on a hike at the weekend...during Storm Darragh's wrath!
 > 
 > #### M45 - The Pleiades
