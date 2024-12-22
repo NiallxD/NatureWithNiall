@@ -10,9 +10,11 @@
             var rows = document.querySelectorAll("#dataTable tbody tr");
             console.log("Number of rows:", rows.length);
 
-            rows.forEach(row => {
+            rows.forEach((row, index) => {
+                console.log(`Processing row ${index + 1}:`, row);
                 var tagsCell = row.querySelector("td:last-child");
                 if (tagsCell) {
+                    console.log("Tags cell found:", tagsCell);
                     var tags = Array.from(tagsCell.querySelectorAll("a.tag")).map(tag => tag.textContent.replace("#", "").toLowerCase());
                     console.log("Row tags:", tags);
                     if (filter === "all" || tags.includes(filter)) {
@@ -29,9 +31,16 @@
         };
 
         // Attach filter function to the dropdown
-        document.getElementById("tagFilter").addEventListener("change", filterTable);
+        var filterDropdown = document.getElementById("tagFilter");
+        if (filterDropdown) {
+            console.log("Filter dropdown found:", filterDropdown);
+            filterDropdown.addEventListener("change", filterTable);
+        } else {
+            console.log("Filter dropdown not found");
+        }
     });
 </script>
+
 
 
 <style>
