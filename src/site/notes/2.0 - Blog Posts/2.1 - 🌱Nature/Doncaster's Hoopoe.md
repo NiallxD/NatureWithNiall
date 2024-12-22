@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-permalink":"/doncasters-hoopoe","permalink":"/doncasters-hoopoe/","title":"Doncaster's Hoopoe","hide":true,"tags":["birding","nature","hoopoe","doncaster","rarebird","Birds"],"noteIcon":"1","created":"2024-12-22T18:14:37.000+00:00","updated":"2024-12-22T21:55:56.882+00:00"}
+{"dg-publish":true,"dg-permalink":"/doncasters-hoopoe","permalink":"/doncasters-hoopoe/","title":"Doncaster's Hoopoe","hide":true,"tags":["birding","nature","hoopoe","doncaster","rarebird","Birds"],"noteIcon":"1","created":"2024-12-22T18:14:37.000+00:00","updated":"2024-12-22T22:00:47.150+00:00"}
 ---
 
 #birding #nature #hoopoe #doncaster #rarebird #birds
 # Doncaster's Hoopoe
 <p id="reading-time" style="font-style: italic;">⏱️ Approx Reading Time:  <span id="inserted-text"></span> mins</p>
-It's been a good year for birding in the UK, and there seems to have been no shortage of rarities. The Scarlet Tanager recently made [headlines](https://www.msn.com/en-gb/news/uknews/scarlet-tanager-crowds-flock-to-quiet-yorkshire-street-after-rare-bird-blown-off-course-by-hurricane/ar-AA1tW9mS) as hundreds of birders visited a quiet street in a village near Bradford to get a glimpse of this incredibly rare bird.
+It's been a good year for birding in the UK, and there seems to have been no shortage of rarities. The Scarlet Tanager recently made headlines as hundreds of birders visited a quiet street in a village near Bradford to get a glimpse of this incredibly rare bird.
 
 My home town of Doncaster has had it's fair share of rarities too, some of which I've been lucky enough to see. In July we had a [[2.0 - Blog Posts/2.1 - 🌱Nature/Black Winged Pratincole Doncaster 2024\|Black Winged Pratincole]] spend some time on some ponds near DSA Airport, which I was able to see on a few occasions. Around the same time we had some great sightings of Caspian Tern too which was also a lifer for me.
 
