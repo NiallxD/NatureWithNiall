@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"northern-lights","permalink":"/northern-lights/","title":"Northern Lights in Doncaster!","hide":true,"tags":["Nature","Atmosphere","northernlights","auroraborealis"],"noteIcon":null,"created":"2024-04-10T00:48:08.000+01:00","updated":"2024-11-21T15:04:19.251+00:00"}
+{"dg-publish":true,"dg-permalink":"northern-lights","permalink":"/northern-lights/","title":"Northern Lights in Doncaster!","hide":true,"tags":["northernlights","auroraborealis","nature"],"noteIcon":null,"created":"2024-04-10T00:48:08.000+01:00","updated":"2024-12-22T18:05:55.526+00:00"}
 ---
 
 #nature #weather #northernlights #auroraborealis
