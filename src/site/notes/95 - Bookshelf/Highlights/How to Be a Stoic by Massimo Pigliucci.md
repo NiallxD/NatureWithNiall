@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/95-bookshelf/highlights/how-to-be-a-stoic-by-massimo-pigliucci/","hide":true,"noteIcon":"","created":"2024-10-30T13:24:18.369+00:00","updated":"2024-10-30T13:45:27.488+00:00"}
+{"dg-publish":true,"permalink":"/95-bookshelf/highlights/how-to-be-a-stoic-by-massimo-pigliucci/","hide":true,"noteIcon":"","created":"2024-10-30T13:24:18.000+00:00","updated":"2024-10-30T13:45:27.000+00:00"}
 ---
 
 #books #reading #bookshelf

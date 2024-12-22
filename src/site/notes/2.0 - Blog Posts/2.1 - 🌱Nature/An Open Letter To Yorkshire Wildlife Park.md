@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"an-open-letter-to-ywp","permalink":"/an-open-letter-to-ywp/","title":"An Open Letter to YWP","hide":true,"tags":["conservation","nature","wildlife","photography"],"noteIcon":"1","created":"2024-05-12T11:37:46.477+01:00","updated":"2024-11-21T15:04:14.526+00:00"}
+{"dg-publish":true,"dg-permalink":"an-open-letter-to-ywp","permalink":"/an-open-letter-to-ywp/","title":"An Open Letter to YWP","hide":true,"tags":["conservation","nature","wildlife","photography"],"noteIcon":"1","created":"2024-05-12T11:37:46.000+01:00","updated":"2024-11-21T15:04:14.000+00:00"}
 ---
 
 #conservation #nature #wildlife #photography 

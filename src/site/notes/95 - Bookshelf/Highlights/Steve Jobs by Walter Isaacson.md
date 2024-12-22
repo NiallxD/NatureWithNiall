@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/95-bookshelf/highlights/steve-jobs-by-walter-isaacson/","hide":true,"noteIcon":"","created":"2024-10-30T13:24:18.078+00:00","updated":"2024-10-30T13:46:04.329+00:00"}
+{"dg-publish":true,"permalink":"/95-bookshelf/highlights/steve-jobs-by-walter-isaacson/","hide":true,"noteIcon":"","created":"2024-10-30T13:24:18.000+00:00","updated":"2024-10-30T13:46:04.000+00:00"}
 ---
 
 #books #reading #bookshelf

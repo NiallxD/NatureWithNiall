@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/95-bookshelf/highlights/beethoven-by-john-suchet/","hide":true,"noteIcon":"","created":"2024-10-30T13:24:18.180+00:00","updated":"2024-10-30T13:44:56.557+00:00"}
+{"dg-publish":true,"permalink":"/95-bookshelf/highlights/beethoven-by-john-suchet/","hide":true,"noteIcon":"","created":"2024-10-30T13:24:18.000+00:00","updated":"2024-10-30T13:44:56.000+00:00"}
 ---
 
 #books #reading #bookshelf

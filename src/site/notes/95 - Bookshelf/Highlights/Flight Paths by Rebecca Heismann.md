@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/95-bookshelf/highlights/flight-paths-by-rebecca-heismann/","hide":true,"noteIcon":"","created":"2024-10-30T13:43:05.950+00:00","updated":"2024-11-02T13:43:47.232+00:00"}
+{"dg-publish":true,"permalink":"/95-bookshelf/highlights/flight-paths-by-rebecca-heismann/","hide":true,"noteIcon":"","created":"2024-10-30T13:43:05.000+00:00","updated":"2024-11-02T13:43:47.000+00:00"}
 ---
 
 #books #reading #bookshelf

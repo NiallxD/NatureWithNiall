@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/95-bookshelf/highlights/there-is-no-planet-b-by-mike-berners-lee/","hide":true,"noteIcon":"","created":"2024-10-30T13:24:18.010+00:00","updated":"2024-10-30T13:46:13.874+00:00"}
+{"dg-publish":true,"permalink":"/95-bookshelf/highlights/there-is-no-planet-b-by-mike-berners-lee/","hide":true,"noteIcon":"","created":"2024-10-30T13:24:18.000+00:00","updated":"2024-10-30T13:46:13.000+00:00"}
 ---
 
 #books #reading #bookshelf

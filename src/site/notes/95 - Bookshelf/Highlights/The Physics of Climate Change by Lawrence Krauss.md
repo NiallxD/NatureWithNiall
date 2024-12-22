@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/95-bookshelf/highlights/the-physics-of-climate-change-by-lawrence-krauss/","hide":true,"noteIcon":"","created":"2024-10-30T13:24:17.914+00:00","updated":"2024-10-30T13:46:12.013+00:00"}
+{"dg-publish":true,"permalink":"/95-bookshelf/highlights/the-physics-of-climate-change-by-lawrence-krauss/","hide":true,"noteIcon":"","created":"2024-10-30T13:24:17.000+00:00","updated":"2024-10-30T13:46:12.000+00:00"}
 ---
 
 #books #reading #bookshelf

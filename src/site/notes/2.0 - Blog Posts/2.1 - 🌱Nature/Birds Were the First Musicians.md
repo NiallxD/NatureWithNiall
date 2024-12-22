@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"birds-are-musicians","permalink":"/birds-are-musicians/","title":"Birds Were the First Musicians","hide":true,"tags":["Birds","Music","nature","birding"],"noteIcon":null,"created":"2024-04-29T12:49:03.131+01:00","updated":"2024-12-22T18:06:18.613+00:00"}
+{"dg-publish":true,"dg-permalink":"birds-are-musicians","permalink":"/birds-are-musicians/","title":"Birds Were the First Musicians","hide":true,"tags":["Birds","Music","nature","birding"],"noteIcon":null,"created":"2024-04-29T12:49:03.000+01:00","updated":"2024-12-22T18:06:18.000+00:00"}
 ---
 
 #wildlife #nature #Birds #Music   

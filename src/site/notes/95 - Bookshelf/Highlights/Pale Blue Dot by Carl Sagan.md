@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/95-bookshelf/highlights/pale-blue-dot-by-carl-sagan/","hide":true,"noteIcon":"","created":"2024-11-21T13:31:31.133+00:00","updated":"2024-12-11T16:13:00.038+00:00"}
+{"dg-publish":true,"permalink":"/95-bookshelf/highlights/pale-blue-dot-by-carl-sagan/","hide":true,"noteIcon":"","created":"2024-11-21T13:31:31.000+00:00","updated":"2024-12-11T16:13:00.000+00:00"}
 ---
 
 #books #reading #bookshelf
