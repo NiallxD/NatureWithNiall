@@ -1,31 +1,46 @@
 <script>
     document.addEventListener("DOMContentLoaded", function() {
-        // Add data-tags attribute to each row based on the tags in the table cells
-        var rows = document.querySelectorAll("#dataTable tbody tr");
-        rows.forEach(row => {
-            var tagsCell = row.querySelector("td:last-child");
-            if (tagsCell) {
-                var tags = Array.from(tagsCell.querySelectorAll("a.tag")).map(tag => tag.textContent.replace("#", "").toLowerCase());
-                row.setAttribute("data-tags", tags.join(" "));
-            }
-        });
+        console.log("Script is running");
 
         // Filter function
-        function filterTable() {
-            var filter = document.getElementById("tagFilter").value;
-            var rows = document.querySelectorAll("#dataTable tbody tr");
+        window.filterTable = function() {
+            console.log("Filter function called");
+            var filter = document.getElementById("tagFilter").value.toLowerCase();
+            console.log("Selected filter:", filter);
+            var rows = document.querySelectorAll(".dataview.table-view-table tbody tr");
+            console.log("Number of rows:", rows.length);
 
-            rows.forEach(row => {
-                var tags = row.getAttribute("data-tags").split(" ");
-                if (filter === "all" || tags.includes(filter)) {
-                    row.classList.remove("hidden");
+            rows.forEach((row, index) => {
+                console.log(`Processing row ${index + 1}:`, row);
+                var tagsCell = row.querySelector("td:last-child");
+                if (tagsCell) {
+                    console.log("Tags cell found:", tagsCell);
+                    var tags = Array.from(tagsCell.querySelectorAll("a.tag")).map(tag => tag.textContent.replace("#", "").toLowerCase());
+                    console.log("Row tags:", tags);
+                    if (filter === "all" || tags.includes(filter)) {
+                        row.classList.remove("hidden");
+                        console.log(`Row ${index + 1} shown`);
+                    } else {
+                        row.classList.add("hidden");
+                        console.log(`Row ${index + 1} hidden`);
+                    }
                 } else {
-                    row.classList.add("hidden");
+                    console.log(`No tags cell found for row ${index + 1}`);
                 }
             });
-        }
+        };
 
         // Attach filter function to the dropdown
-        document.getElementById("tagFilter").addEventListener("change", filterTable);
+        var filterDropdown = document.getElementById("tagFilter");
+        if (filterDropdown) {
+            console.log("Filter dropdown found:", filterDropdown);
+            filterDropdown.addEventListener("change", filterTable);
+        } else {
+            console.log("Filter dropdown not found");
+        }
     });
 </script>
+
+<style>
+    .hidden { display: none !important; }
+</style>
