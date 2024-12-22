@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/2-9-living-notes/complexity-blindness/","title":"Complexity Blindness","hide":true,"noteIcon":"","created":"2024-12-13T15:31:40.723+00:00","updated":"2024-12-13T16:11:30.614+00:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/2-9-living-notes/complexity-blindness/","title":"Complexity Blindness","hide":true,"noteIcon":"","created":"2024-12-13T15:31:40.723+00:00","updated":"2024-12-19T23:54:11.338+00:00"}
 ---
 
 #complexity #systemsthinking #heuristics #congnitivebias
@@ -30,7 +30,11 @@ Some questions which I think can invoke Complexity Blindness:
 1. The Council has loads of money, why aren't they spending it on things that matter such as pot holes and doctors surgeries?
 2. I voted for Brexit to stop the boats. Why is UK trade lagging behind the rest of the G7?
 
+## Dunning-Kruger Effect
 
+The Dunning-Kruger Effect/Syndrome is a cognitive bias in which people who lack competence in a specific domain greatly overestimate their performance. For example, photographers who have not been doing the hobby long can believe they are performing incredibly well. It is only when they realise how much they don't know, that they start to realise their performance is not as good as they initially thought.
+
+I draw similarities between the Dunning-Kruger Effect and Complexity Blindness because they are both a cognitive biases rooted in incompetency. On reflection, I could argue that Complexity Blindness is a symptom of the Dunning-Kruger Effect in that people make decisions based on their understanding of a topic, asserting their competency to make those decisions, yet suffering from the K-D Effect. Where Complexity Blindness diverges from K-D is that the bias results from a lack of understanding of the concept material, not a lack of understanding about the depth of a particular topic. The difference is in K-D people may know they are noobs and don't know it all, but still over-rate their performance, whereas Complexity Blindness is an inability to see that the concept/topic is far more complex than they realise. This leads them to believe they understand the topic in depth and therefore have authority, when they don't.
 
 
 ---
