@@ -1,0 +1,15 @@
+<script>
+    function filterTable() {
+        var filter = document.getElementById("tagFilter").value;
+        var rows = document.querySelectorAll("#dataTable tbody tr");
+
+        rows.forEach(row => {
+            var tags = row.getAttribute("data-tags").split(" ");
+            if (filter === "all" || tags.includes(filter)) {
+                row.classList.remove("hidden");
+            } else {
+                row.classList.add("hidden");
+            }
+        });
+    }
+</script>
