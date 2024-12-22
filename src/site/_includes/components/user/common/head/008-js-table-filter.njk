@@ -2,6 +2,19 @@
     document.addEventListener("DOMContentLoaded", function() {
         console.log("Script is running");
 
+        // Add data-tags attribute to each row based on the tags in the table cells
+        var rows = document.querySelectorAll("#dataTable tbody tr");
+        rows.forEach((row, index) => {
+            var tagsCell = row.querySelector("td:last-child");
+            if (tagsCell) {
+                var tags = Array.from(tagsCell.querySelectorAll("a.tag")).map(tag => tag.textContent.replace("#", "").toLowerCase());
+                row.setAttribute("data-tags", tags.join(" "));
+                console.log(`Row ${index + 1} tags:`, tags);
+            } else {
+                console.log(`No tags cell found for row ${index + 1}`);
+            }
+        });
+
         // Filter function
         window.filterTable = function() {
             console.log("Filter function called");
@@ -11,21 +24,14 @@
             console.log("Number of rows:", rows.length);
 
             rows.forEach((row, index) => {
-                console.log(`Processing row ${index + 1}:`, row);
-                var tagsCell = row.querySelector("td:last-child");
-                if (tagsCell) {
-                    console.log("Tags cell found:", tagsCell);
-                    var tags = Array.from(tagsCell.querySelectorAll("a.tag")).map(tag => tag.textContent.replace("#", "").toLowerCase());
-                    console.log("Row tags:", tags);
-                    if (filter === "all" || tags.includes(filter)) {
-                        row.classList.remove("hidden");
-                        console.log("Row shown");
-                    } else {
-                        row.classList.add("hidden");
-                        console.log("Row hidden");
-                    }
+                var tags = row.getAttribute("data-tags").split(" ");
+                console.log(`Row ${index + 1} data-tags:`, tags);
+                if (filter === "all" || tags.includes(filter)) {
+                    row.classList.remove("hidden");
+                    console.log(`Row ${index + 1} shown`);
                 } else {
-                    console.log("No tags cell found for row:", row);
+                    row.classList.add("hidden");
+                    console.log(`Row ${index + 1} hidden`);
                 }
             });
         };
@@ -40,6 +46,7 @@
         }
     });
 </script>
+
 
 
 
