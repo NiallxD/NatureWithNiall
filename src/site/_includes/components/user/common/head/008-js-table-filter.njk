@@ -2,20 +2,28 @@
     document.addEventListener("DOMContentLoaded", function() {
         console.log("Script is running");
 
-        // Define the filterTable function in the global scope
+        // Filter function
         window.filterTable = function() {
+            console.log("Filter function called");
             var filter = document.getElementById("tagFilter").value.toLowerCase();
+            console.log("Selected filter:", filter);
             var rows = document.querySelectorAll("#dataTable tbody tr");
+            console.log("Number of rows:", rows.length);
 
             rows.forEach(row => {
                 var tagsCell = row.querySelector("td:last-child");
                 if (tagsCell) {
                     var tags = Array.from(tagsCell.querySelectorAll("a.tag")).map(tag => tag.textContent.replace("#", "").toLowerCase());
+                    console.log("Row tags:", tags);
                     if (filter === "all" || tags.includes(filter)) {
                         row.classList.remove("hidden");
+                        console.log("Row shown");
                     } else {
                         row.classList.add("hidden");
+                        console.log("Row hidden");
                     }
+                } else {
+                    console.log("No tags cell found for row:", row);
                 }
             });
         };
@@ -24,6 +32,7 @@
         document.getElementById("tagFilter").addEventListener("change", filterTable);
     });
 </script>
+
 
 <style>
     .hidden { display: none; }
