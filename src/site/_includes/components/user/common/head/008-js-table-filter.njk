@@ -2,29 +2,6 @@
     document.addEventListener("DOMContentLoaded", function() {
         console.log("Script is running");
 
-        // Find the table
-        var table = document.querySelector(".dataview.table-view-table");
-        if (table) {
-            console.log("Table found:", table);
-            var rows = table.querySelectorAll("tbody tr");
-            console.log("Number of rows found:", rows.length);
-
-            rows.forEach((row, index) => {
-                console.log(`Processing row ${index + 1}:`, row);
-                var tagsCell = row.querySelector("td:last-child");
-                if (tagsCell) {
-                    console.log("Tags cell found:", tagsCell);
-                    var tags = Array.from(tagsCell.querySelectorAll("a.tag")).map(tag => tag.textContent.replace("#", "").toLowerCase());
-                    row.setAttribute("data-tags", tags.join(" "));
-                    console.log(`Row ${index + 1} tags:`, tags);
-                } else {
-                    console.log(`No tags cell found for row ${index + 1}`);
-                }
-            });
-        } else {
-            console.log("Table not found");
-        }
-
         // Filter function
         window.filterTable = function() {
             console.log("Filter function called");
@@ -34,14 +11,21 @@
             console.log("Number of rows:", rows.length);
 
             rows.forEach((row, index) => {
-                var tags = row.getAttribute("data-tags").split(" ");
-                console.log(`Row ${index + 1} data-tags:`, tags);
-                if (filter === "all" || tags.includes(filter)) {
-                    row.classList.remove("hidden");
-                    console.log(`Row ${index + 1} shown`);
+                console.log(`Processing row ${index + 1}:`, row);
+                var tagsCell = row.querySelector("td:last-child");
+                if (tagsCell) {
+                    console.log("Tags cell found:", tagsCell);
+                    var tags = Array.from(tagsCell.querySelectorAll("a.tag")).map(tag => tag.textContent.replace("#", "").toLowerCase());
+                    console.log("Row tags:", tags);
+                    if (filter === "all" || tags.includes(filter)) {
+                        row.classList.remove("hidden");
+                        console.log(`Row ${index + 1} shown`);
+                    } else {
+                        row.classList.add("hidden");
+                        console.log(`Row ${index + 1} hidden`);
+                    }
                 } else {
-                    row.classList.add("hidden");
-                    console.log(`Row ${index + 1} hidden`);
+                    console.log(`No tags cell found for row ${index + 1}`);
                 }
             });
         };
@@ -56,6 +40,7 @@
         }
     });
 </script>
+
 
 <style>
     .hidden { display: none; }
