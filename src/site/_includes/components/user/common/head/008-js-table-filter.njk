@@ -2,8 +2,8 @@
     document.addEventListener("DOMContentLoaded", function() {
         console.log("Script is running");
 
-        // Filter function
-        function filterTable() {
+        // Define the filterTable function in the global scope
+        window.filterTable = function() {
             var filter = document.getElementById("tagFilter").value.toLowerCase();
             var rows = document.querySelectorAll("#dataTable tbody tr");
 
@@ -18,7 +18,7 @@
                     }
                 }
             });
-        }
+        };
 
         // Attach filter function to the dropdown
         document.getElementById("tagFilter").addEventListener("change", filterTable);
