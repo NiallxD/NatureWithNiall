@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-12-16T16:30:24.021+00:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-12-22T17:52:32.916+00:00"}
 ---
 
 #photography #photofeed
@@ -10,13 +10,37 @@ I spend a great deal of my time out in nature, creating photographs of the going
 I decided to run a year long project to document my photography week by week.
 ## Progress:
 
-![](https://progress-bar.xyz/98/?width=800&color=FFB347)
+![](https://progress-bar.xyz/99/?width=800&color=FFB347)
 
 It's important to note that these aren't portfolio images but instead are photos which illustrate my experiences with wildlife and nature. Past weeks can be found at the bottom, I encourage you to have a browse.
 
 📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]] to get a email when I share new updates!
 
-> [!tip]+ WC 9th December 2024
+> [!tip]+ WC 16th December 2024
+> This week has been mostly astrophotography. I did go to Sprotbrough Flash and did take photos, but didn't really think any were worth saving. 
+> 
+> This is the penultimate 'My Week in Photos'! I can't believe it's been a year since I started this project!
+> 
+> #### Mineral Moon
+> 
+> I've been photographing the Moon since I got my first telephoto lens, and over the years have improved my technique and equipment. This is the highest resolution image of the Moon I've created to date. It's processed in such a way as to bring out the subtle colours of minerals on the Moon's surface. Blue comes from titanium and orange from iron.
+> 
+> ![](https://i.imgur.com/4fgZYph.jpeg)
+>
+> #### Flaming Star Nebula et al
+> 
+> This photo is shows a combination of several nebulae and star clusters in the Auriga constellation. The astronomical objects range from 3,840 Lightyears from Earth, to over 12,000 LY! The redish nebula in the top right is the Flaming Star Nebula.
+> 
+> ![](https://i.imgur.com/RacTOLw.jpeg)
+>
+> #### California Nebula
+> 
+> This is the California Nebula, aka NGC1499, which is located some 1,500 LY from Earth. The dust and gas of the nebula is illuminated by the bright stars around it.
+> 
+>![](https://i.imgur.com/sj591Tv.jpeg)
+>
+
+> [!tip]- WC 9th December 2024
 > A day late this week! Very quiet week with poor weather and lots on with it being my last week at work.
 > 
 > #### Kingfisher
