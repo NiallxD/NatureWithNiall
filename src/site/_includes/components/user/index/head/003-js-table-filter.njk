@@ -1,15 +1,31 @@
 <script>
-    function filterTable() {
-        var filter = document.getElementById("tagFilter").value;
+    document.addEventListener("DOMContentLoaded", function() {
+        // Add data-tags attribute to each row based on the tags in the table cells
         var rows = document.querySelectorAll("#dataTable tbody tr");
-
         rows.forEach(row => {
-            var tags = row.getAttribute("data-tags").split(" ");
-            if (filter === "all" || tags.includes(filter)) {
-                row.classList.remove("hidden");
-            } else {
-                row.classList.add("hidden");
+            var tagsCell = row.querySelector("td:last-child");
+            if (tagsCell) {
+                var tags = Array.from(tagsCell.querySelectorAll("a.tag")).map(tag => tag.textContent.replace("#", "").toLowerCase());
+                row.setAttribute("data-tags", tags.join(" "));
             }
         });
-    }
+
+        // Filter function
+        function filterTable() {
+            var filter = document.getElementById("tagFilter").value;
+            var rows = document.querySelectorAll("#dataTable tbody tr");
+
+            rows.forEach(row => {
+                var tags = row.getAttribute("data-tags").split(" ");
+                if (filter === "all" || tags.includes(filter)) {
+                    row.classList.remove("hidden");
+                } else {
+                    row.classList.add("hidden");
+                }
+            });
+        }
+
+        // Attach filter function to the dropdown
+        document.getElementById("tagFilter").addEventListener("change", filterTable);
+    });
 </script>
