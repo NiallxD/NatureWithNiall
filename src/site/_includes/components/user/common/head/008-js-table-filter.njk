@@ -2,8 +2,8 @@
     document.addEventListener("DOMContentLoaded", function() {
         console.log("Script is running");
 
-        // Add data-tags attribute to each row based on the tags in the table cells
-        var table = document.querySelector("#dataTable");
+        // Find the table
+        var table = document.querySelector(".dataview.table-view-table");
         if (table) {
             console.log("Table found:", table);
             var rows = table.querySelectorAll("tbody tr");
@@ -30,7 +30,7 @@
             console.log("Filter function called");
             var filter = document.getElementById("tagFilter").value.toLowerCase();
             console.log("Selected filter:", filter);
-            var rows = document.querySelectorAll("#dataTable tbody tr");
+            var rows = document.querySelectorAll(".dataview.table-view-table tbody tr");
             console.log("Number of rows:", rows.length);
 
             rows.forEach((row, index) => {
@@ -56,11 +56,6 @@
         }
     });
 </script>
-
-
-
-
-
 
 <style>
     .hidden { display: none; }
