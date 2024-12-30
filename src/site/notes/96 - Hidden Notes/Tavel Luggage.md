@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/travel","permalink":"/travel/","title":"🧳 Travel Luggage","hide":true,"noteIcon":null,"created":"2024-12-30T19:01:31.872+00:00","updated":"2024-12-30T20:13:58.132+00:00"}
+{"dg-publish":true,"dg-permalink":"/travel","permalink":"/travel/","title":"🧳 Travel Luggage","hide":true,"noteIcon":null,"created":"2024-12-30T19:01:31.872+00:00","updated":"2024-12-30T20:22:20.100+00:00"}
 ---
 
 
@@ -18,11 +18,15 @@ document.getElementsByTagName('head')[0].appendChild(meta);
 
 ## You've Found My Bag!
 
-Firstly, thank you for trying to return my bag to me, it's greatly appreciated! As I'm travelling around I created this page to provide up to date contact information. Please see the information below:
+Firstly, thank you for trying to return my bag to me, it's greatly appreciated! As I'm travelling around I created this page to provide up to date contact information. Please attempt to contact me via email and phone before sending luggage.
+
+Current contact info:
 
 📧 [niall@niallbell.com](mailto:niall@niallbell.com)
 ☎️ +447949 489 400
 🏠 21 Greenlands Ave, Doncaster, DN11 0EN
+
+**_This information was last updated on: 30/12/2024_**
 
 ---
 Created by Niall Bell (niall@niallbell.com)
