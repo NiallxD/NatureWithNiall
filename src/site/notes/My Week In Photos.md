@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-12-22T17:52:32.916+00:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-12-30T20:40:52.179+00:00"}
 ---
 
 #photography #photofeed
+
+>[!Warning] Note
+>The series 'My Week In Photos' has now come to an end and is no longer updated! This was a 12 month project I embarked on at the start of 2024 and it was great fun! While this page is no longer updated, you may still enjoy browsing the through the photographs.
+
 # My Week In Photos
 
 I spend a great deal of my time out in nature, creating photographs of the goings-on of nature, big and small. And while I do work full time, in my spare time might I add, I do still manage to spend hours in nature each week. This page is updated weekly and is a summary of some of the highlights from the week.
@@ -10,13 +14,41 @@ I spend a great deal of my time out in nature, creating photographs of the going
 I decided to run a year long project to document my photography week by week.
 ## Progress:
 
-![](https://progress-bar.xyz/99/?width=800&color=FFB347)
+![](https://progress-bar.xyz/100/?width=800&color=FFB347)
 
 It's important to note that these aren't portfolio images but instead are photos which illustrate my experiences with wildlife and nature. Past weeks can be found at the bottom, I encourage you to have a browse.
 
 📧 Sign up to my newsletter [[96 - Hidden Notes/Newsletter\|here]] to get a email when I share new updates!
 
-> [!tip]+ WC 16th December 2024
+> [!tip]+ WC 23rd December 2024
+> And here it is, the final update to My Week In Photos! What a journey this has been!
+> 
+> This series showcases 168 photographs which I've made during 2024. Some of the photos have been snapshots from family weekends away, some have been the result of many years of attempting to get a certain shot, and some have been of lifers, species I've never seen before!
+> 
+> This has been an epic journey, and it's been an epic year of photography. I've summarised this year in a blog post [[here\|here]] so do check it out!
+> 
+> Without further ado, here is the final set of three images from the last week of 2024!
+> 
+> #### Rossington At Christmas
+> 
+> This is a photo I snapped as I headed out on evening. This is a pub at the top of the street where I live. The stunning sunset flanked the beautiful Christmas lights put up by the Parish Council. This is a scene I drive past regularly, and I think this might be the best it's looked!
+> 
+> ![](https://i.imgur.com/xe4JJVg.jpeg)
+>
+> #### A Cold Day in Buxton
+> 
+> This photo was taken while wandering around Buxton. I had driving over to visit family who were holidaying there. It was a lovely cold wintery day.
+> 
+> ![](https://i.imgur.com/tv3elxx.jpeg)
+>
+> #### An Epic Sunset
+> 
+> The final photo in this series is of one of the most epic sunsets I've seen from my home. I actually went outside, climbed onto the roof of my camper van, and sat down to just enjoy the sunset. It was awesome!
+> 
+>![](https://i.imgur.com/seVYMGo.jpeg)
+>
+
+> [!tip]- WC 16th December 2024
 > This week has been mostly astrophotography. I did go to Sprotbrough Flash and did take photos, but didn't really think any were worth saving. 
 > 
 > This is the penultimate 'My Week in Photos'! I can't believe it's been a year since I started this project!
