@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/95-bookshelf/highlights/on-photography-by-susan-sontag/","hide":true,"noteIcon":"","created":"2024-10-30T13:24:18.000+00:00","updated":"2024-10-30T13:45:54.000+00:00"}
+{"dg-publish":true,"permalink":"/95-bookshelf/highlights/on-photography-by-susan-sontag/","hide":true,"noteIcon":"","created":"2024-10-30T13:24:18.121+00:00","updated":"2024-10-30T13:45:54.634+00:00"}
 ---
 
 #books #reading #bookshelf

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-not-for-publish/living-note-template/","hide":true,"noteIcon":"","created":"2024-12-13T16:11:53.000+00:00","updated":"2024-12-13T16:20:04.000+00:00"}
+{"dg-publish":true,"permalink":"/99-not-for-publish/living-note-template/","hide":true,"noteIcon":"","created":"2024-12-13T16:11:53.301+00:00","updated":"2024-12-13T16:20:04.759+00:00"}
 ---
 
 #

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"are-commercial-photography-hides-acceptable","permalink":"/are-commercial-photography-hides-acceptable/","title":"Are Commercial Photography Hides Acceptable?","hide":true,"tags":["photography"],"noteIcon":null,"created":"2024-04-15T23:32:23.000+01:00","updated":"2024-11-21T15:05:23.000+00:00"}
+{"dg-publish":true,"dg-permalink":"are-commercial-photography-hides-acceptable","permalink":"/are-commercial-photography-hides-acceptable/","title":"Are Commercial Photography Hides Acceptable?","hide":true,"tags":["photography"],"noteIcon":null,"created":"2024-04-15T23:32:23.178+01:00","updated":"2024-11-21T15:05:23.380+00:00"}
 ---
 
 #photography #wildlife #ethics

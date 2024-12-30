@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/95-bookshelf/highlights/inglorious-empire-by-shashi-tharoor/","hide":true,"noteIcon":"","created":"2024-10-30T13:24:18.000+00:00","updated":"2024-10-30T13:45:41.000+00:00"}
+{"dg-publish":true,"permalink":"/95-bookshelf/highlights/inglorious-empire-by-shashi-tharoor/","hide":true,"noteIcon":"","created":"2024-10-30T13:24:18.023+00:00","updated":"2024-10-30T13:45:41.376+00:00"}
 ---
 
 #books #reading #bookshelf

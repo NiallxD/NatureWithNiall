@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/95-bookshelf/highlights/stray-birds-by/","hide":true,"noteIcon":"","created":"2024-10-30T13:24:18.000+00:00","updated":"2024-10-30T13:46:06.000+00:00"}
+{"dg-publish":true,"permalink":"/95-bookshelf/highlights/stray-birds-by/","hide":true,"noteIcon":"","created":"2024-10-30T13:24:18.258+00:00","updated":"2024-10-30T13:46:06.265+00:00"}
 ---
 
 #books #reading #bookshelf

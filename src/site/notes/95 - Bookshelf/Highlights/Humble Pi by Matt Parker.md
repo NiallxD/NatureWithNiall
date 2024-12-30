@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/95-bookshelf/highlights/humble-pi-by-matt-parker/","hide":true,"noteIcon":"","created":"2024-10-30T13:24:17.000+00:00","updated":"2024-10-30T13:45:31.000+00:00"}
+{"dg-publish":true,"permalink":"/95-bookshelf/highlights/humble-pi-by-matt-parker/","hide":true,"noteIcon":"","created":"2024-10-30T13:24:17.925+00:00","updated":"2024-10-30T13:45:31.427+00:00"}
 ---
 
 #books #reading #bookshelf
