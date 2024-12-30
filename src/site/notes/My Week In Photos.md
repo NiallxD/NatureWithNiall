@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-12-30T20:40:52.179+00:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-12-30T20:41:25.317+00:00"}
 ---
 
 #photography #photofeed
@@ -25,7 +25,7 @@ It's important to note that these aren't portfolio images but instead are photos
 > 
 > This series showcases 168 photographs which I've made during 2024. Some of the photos have been snapshots from family weekends away, some have been the result of many years of attempting to get a certain shot, and some have been of lifers, species I've never seen before!
 > 
-> This has been an epic journey, and it's been an epic year of photography. I've summarised this year in a blog post [[here\|here]] so do check it out!
+> This has been an epic journey, and it's been an epic year of photography.
 > 
 > Without further ado, here is the final set of three images from the last week of 2024!
 > 
