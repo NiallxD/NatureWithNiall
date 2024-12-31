@@ -45,6 +45,8 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #travel(2)                |
 | #weather(2)               |
 | #360panorama(1)           |
+| #80(1)                    |
+| #80/20(1)                 |
 | #ai(1)                    |
 | #AI(1)                    |
 | #analogue(1)              |
