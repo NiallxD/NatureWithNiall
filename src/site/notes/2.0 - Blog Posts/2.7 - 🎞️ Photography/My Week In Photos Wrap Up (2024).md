@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos-wrap-up-2024","permalink":"/my-week-in-photos-wrap-up-2024/","title":"My Week In Photos Wrap Up","hide":true,"tags":["photo","photography","myweekinphotos","photostory"],"noteIcon":"1","created":"2024-12-30T23:19:23.076+00:00","updated":"2024-12-31T00:12:10.781+00:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos-wrap-up-2024","permalink":"/my-week-in-photos-wrap-up-2024/","title":"My Week In Photos Wrap Up","hide":true,"tags":["photo","photography","myweekinphotos","photostory"],"noteIcon":"1","created":"2024-12-30T23:19:23.076+00:00","updated":"2024-12-31T00:15:28.036+00:00"}
 ---
 
 #photo #photography #myweekinphotos #photostory 
@@ -42,9 +42,9 @@ I encourage you to view large and have a browse.
 ![](https://i.imgur.com/OdNkF2B.jpeg)
 _To view in full click [here](https://i.imgur.com/OdNkF2B.jpeg)_
 
-## To Close
+## To Wrap Up
 
-So, to close this project down I wanted to briefly reflect;
+So, to wrap up this project down I wanted to briefly reflect;
 
 While I was strict with my weekly updates, I didn't really apply any rules to the number of photographs shared. If I was to do this again I would set a hard limit of three photographs per week. In 2024, I always managed at least three photographs, but also sometimes shared more, which seemed to take away from the meaning of the project, to share a snapshot of my week. I was essentially saying "I have more than three good photos here so I'll share more!" which isn't really what I was going for.
 
