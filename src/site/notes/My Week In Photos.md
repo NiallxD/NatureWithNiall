@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-12-30T20:42:02.961+00:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"My Week In Photos","contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T18:48:02.767+01:00","updated":"2024-12-31T00:17:48.858+00:00"}
 ---
 
 #photography #photofeed
 
 >[!Warning] Note
 >The series 'My Week In Photos' has now come to an end and is no longer updated! This was a 12 month project I embarked on at the start of 2024 and it was great fun! While this page is no longer updated, you may still enjoy browsing the through the photographs.
+>
+>Click [[2.0 - Blog Posts/2.7 - 🎞️ Photography/My Week In Photos Wrap Up (2024)\|here]] to read my wrap up of this project, or click [here](https://i.imgur.com/OdNkF2B.jpeg) to view all 162 images shared as part of this project in a single collage.
 
 # My Week In Photos
 
@@ -23,7 +25,7 @@ It's important to note that these aren't portfolio images but instead are photos
 > [!tip]+ WC 23rd December 2024
 > And here it is, the final update to My Week In Photos! What a journey this has been!
 > 
-> This series showcases 168 photographs which I've made during 2024. Some of the photos have been snapshots from family weekends away, some have been the result of many years of attempting to get a certain shot, and some have been of lifers, species I've never seen before!
+> This series showcases 162 photographs which I've made during 2024. Some of the photos have been snapshots from family weekends away, some have been the result of many years of attempting to get a certain shot, and some have been of lifers, species I've never seen before!
 > 
 > This has been an epic journey, and it's been an epic year of photography.
 > 
