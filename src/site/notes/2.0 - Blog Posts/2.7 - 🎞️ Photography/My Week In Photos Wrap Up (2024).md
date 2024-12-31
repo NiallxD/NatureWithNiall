@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos-wrap-up-2024","permalink":"/my-week-in-photos-wrap-up-2024/","title":"My Week In Photos Wrap Up","hide":true,"tags":["photo","photography","myweekinphotos","photostory"],"noteIcon":"1","created":"2024-12-30T23:19:23.076+00:00","updated":"2024-12-31T00:10:07.217+00:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos-wrap-up-2024","permalink":"/my-week-in-photos-wrap-up-2024/","title":"My Week In Photos Wrap Up","hide":true,"tags":["photo","photography","myweekinphotos","photostory"],"noteIcon":"1","created":"2024-12-30T23:19:23.076+00:00","updated":"2024-12-31T00:12:10.781+00:00"}
 ---
 
 #photo #photography #myweekinphotos #photostory 
@@ -39,11 +39,8 @@ While the photographs from 2024 can be viewed on the original project page [[My 
 
 I encourage you to view large and have a browse.
 
-<div class="gallery">
-    <a href="https://i.imgur.com/OdNkF2B.jpeg" data-fancybox="gallery">
-        <img src="https://i.imgur.com/OdNkF2B.jpeg" alt="Image 1" width="100%" height="100%">
-    </a>
-</div>
+![](https://i.imgur.com/OdNkF2B.jpeg)
+_To view in full click [here](https://i.imgur.com/OdNkF2B.jpeg)_
 
 ## To Close
 
