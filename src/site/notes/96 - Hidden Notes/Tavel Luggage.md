@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/travel","permalink":"/travel/","title":"🧳 Travel Luggage","hide":true,"noteIcon":null,"created":"2024-12-30T19:01:31.872+00:00","updated":"2024-12-30T20:22:20.100+00:00"}
+{"dg-publish":true,"dg-permalink":"/travel","permalink":"/travel/","title":"🧳 Travel Luggage","hide":true,"noteIcon":null,"created":"2024-12-30T19:01:31.872+00:00","updated":"2024-12-31T00:31:52.416+00:00"}
 ---
 
 
@@ -14,7 +14,7 @@ document.getElementsByTagName('head')[0].appendChild(meta);
 # Travel Luggage
 
 >[!WARNING] Hello Visitor!
->You're probably because you either stumbled on this page by accident or I've lost some of my luggage and you've found it. If you have found a bag, please read on. If you are here by accident, feel free to check out some of my actually interesting pages [[1.1 - Niall's Cave\|Home Page]].
+>You're probably because you either stumbled on this page by accident or I've lost some of my luggage and you've found it. If you have found a bag, please read on. If you are here by accident, feel free to check out some of my actually interesting pages.
 
 ## You've Found My Bag!
 
