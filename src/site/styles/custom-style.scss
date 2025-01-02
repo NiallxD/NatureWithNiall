@@ -790,9 +790,9 @@ body.backlinks-note-icon .backlink[data-note-icon="withered"]::before {
     margin-bottom: 10px; /* Adjust the value as needed */
     padding-left: 10px; /* Adjust the value as needed */
     padding-right: 10px; /* Adjust the value as needed */
-    background-color: var(--background-modifier-form-field);
 }
 
+select,
 .dropdown {
     -webkit-app-region: no-drag !important;
     height: var(--input-height) !important;
