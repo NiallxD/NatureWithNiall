@@ -785,3 +785,9 @@ body.backlinks-note-icon .backlink[data-note-icon="withered"]::before {
     --callout-color: 158, 158, 158;
     --callout-icon: lucide-book;
   }
+
+.filter-element {
+    margin-bottom: 10px; /* Adjust the value as needed */
+    padding-left: 10px; /* Adjust the value as needed */
+    padding-right: 10px; /* Adjust the value as needed */
+}
