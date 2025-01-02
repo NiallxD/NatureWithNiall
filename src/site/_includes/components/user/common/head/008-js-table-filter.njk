@@ -2,46 +2,69 @@
     document.addEventListener("DOMContentLoaded", function() {
         console.log("Script is running");
 
+        // Function to update the dropdown with all tags found
+        function updateDropdown() {
+            var rows = document.querySelectorAll(".dataview.table-view-table tbody tr");
+            var tagsSet = new Set();
+            
+            rows.forEach((row) => {
+                var tagsCell = row.querySelector("td:last-child");
+                if (tagsCell) {
+                    var tags = Array.from(tagsCell.querySelectorAll("a.tag")).map(tag => tag.textContent.replace("#", "").toLowerCase());
+                    tags.forEach(tag => tagsSet.add(tag));
+                }
+            });
+
+            var filterDropdown = document.getElementById("tagFilter");
+            if (filterDropdown) {
+                // Remove existing options except "all"
+                filterDropdown.querySelectorAll("option:not([value='all'])").forEach(option => option.remove());
+
+                // Add new options from the set of tags
+                tagsSet.forEach(tag => {
+                    var option = document.createElement("option");
+                    option.value = tag;
+                    option.textContent = tag.charAt(0).toUpperCase() + tag.slice(1);
+                    filterDropdown.appendChild(option);
+                });
+            }
+        }
+
         // Filter function
         window.filterTable = function() {
             console.log("Filter function called");
             var filter = document.getElementById("tagFilter").value.toLowerCase();
-            console.log("Selected filter:", filter);
+            var search = document.getElementById("tagSearch").value.toLowerCase();
             var rows = document.querySelectorAll(".dataview.table-view-table tbody tr");
-            console.log("Number of rows:", rows.length);
 
             rows.forEach((row, index) => {
-                console.log(`Processing row ${index + 1}:`, row);
                 var tagsCell = row.querySelector("td:last-child");
                 if (tagsCell) {
-                    console.log("Tags cell found:", tagsCell);
                     var tags = Array.from(tagsCell.querySelectorAll("a.tag")).map(tag => tag.textContent.replace("#", "").toLowerCase());
-                    console.log("Row tags:", tags);
-                    if (filter === "all" || tags.includes(filter)) {
+                    if ((filter === "all" || tags.includes(filter)) && (search === "" || tags.some(tag => tag.includes(search)))) {
                         row.classList.remove("hidden");
-                        console.log(`Row ${index + 1} shown`);
                     } else {
                         row.classList.add("hidden");
-                        console.log(`Row ${index + 1} hidden`);
                     }
-                } else {
-                    console.log(`No tags cell found for row ${index + 1}`);
                 }
             });
         };
 
-        // Attach filter function to the dropdown
+        // Attach filter function to the dropdown and search bar
         var filterDropdown = document.getElementById("tagFilter");
+        var searchBar = document.getElementById("tagSearch");
         if (filterDropdown) {
-            console.log("Filter dropdown found:", filterDropdown);
             filterDropdown.addEventListener("change", filterTable);
-        } else {
-            console.log("Filter dropdown not found");
         }
+        if (searchBar) {
+            searchBar.addEventListener("input", filterTable);
+        }
+
+        // Update the dropdown with all tags found on page load
+        updateDropdown();
     });
 </script>
 
 <style>
     .hidden { display: none !important; }
 </style>
-
