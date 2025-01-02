@@ -793,27 +793,25 @@ body.backlinks-note-icon .backlink[data-note-icon="withered"]::before {
 }
 
 .dropdown {
-    -webkit-app-region: no-drag;
-    height: var(--input-height);
-    font-size: var(--font-ui-small);
-    font-family: inherit;
-    font-weight: var(--input-font-weight);
-    color: var(--text-normal);
-    line-height: var(--line-height-tight);
-    padding: 0 1.9em 0 0.8em;
-    max-width: 100%;
-    /* useful when width is set to anything other than 100% */
-    box-sizing: border-box;
-    margin: 0;
-    border: 0;
-    box-shadow: var(--input-shadow);
-    border-radius: var(--input-radius);
-    -webkit-appearance: none;
-    appearance: none;
-    background-color: var(--background-modifier-form-field);
-    background-repeat: no-repeat, repeat;
-    /* arrow icon position (1em from the right, 50% vertical) , then gradient position*/
-    background-position: right 0.7em top 50%, 0 0;
-    /* icon size, then gradient */
-    background-size: 0.65em auto, 100%;
-  }
+    -webkit-app-region: no-drag !important;
+    height: var(--input-height) !important;
+    font-size: var(--font-ui-small) !important;
+    font-family: inherit !important;
+    font-weight: var(--input-font-weight) !important;
+    color: var(--text-normal) !important;
+    line-height: var(--line-height-tight) !important;
+    padding: 0 1.9em 0 0.8em !important;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+    margin: 0 !important;
+    border: 0 !important;
+    box-shadow: var(--input-shadow) !important;
+    border-radius: var(--input-radius) !important;
+    -webkit-appearance: none !important;
+    appearance: none !important;
+    background-color: var(--background-modifier-form-field) !important;
+    background-repeat: no-repeat, repeat !important;
+    background-position: right 0.7em top 50%, 0 0 !important;
+    background-size: 0.65em auto, 100% !important;
+}
+
