@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"travelling-to-canada","permalink":"/travelling-to-canada/","title":"Travelling To Canada","hide":true,"tags":["canada","travel","IEC"],"noteIcon":"1","created":"2024-12-20T00:24:48.002+00:00","updated":"2025-01-09T18:02:25.876+00:00"}
+{"dg-publish":true,"dg-permalink":"travelling-to-canada","permalink":"/travelling-to-canada/","title":"Travelling To Canada","hide":true,"tags":["canada","travel","IEC"],"noteIcon":"1","created":"2024-12-20T00:24:48.002+00:00","updated":"2025-01-09T18:03:41.957+00:00"}
 ---
 
 #canada #travel #IEC
@@ -23,13 +23,6 @@ The process hasn't been too difficult as Canada is fairly open to immigration an
 We plan to spend some time in the Vancouver area of British Columbia, hopefully finding work and somewhere to stay. During this time we hope to explore all this this beautiful province has to offer.
 
 I plan to share updates through here for future reference, but also to help those who might be going through the same process. As always, my email is at the bottom of every page, do get in touch if you have any questions.
-
-
-<div style="display: flex; justify-content: center;">
-    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/DEnG_UJIjM4/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
-        <!-- Instagram embed content here -->
-    </blockquote>
-</div>
 
 
 <div style="display: flex; justify-content: center;">
