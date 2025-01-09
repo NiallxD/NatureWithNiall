@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"travelling-to-canada","permalink":"/travelling-to-canada/","title":"Travelling To Canada","hide":true,"tags":["canada","travel","IEC"],"noteIcon":"1","created":"2024-12-20T00:24:48.002+00:00","updated":"2025-01-09T17:52:58.866+00:00"}
+{"dg-publish":true,"dg-permalink":"travelling-to-canada","permalink":"/travelling-to-canada/","title":"Travelling To Canada","hide":true,"tags":["canada","travel","IEC"],"noteIcon":"1","created":"2024-12-20T00:24:48.002+00:00","updated":"2025-01-09T17:55:34.150+00:00"}
 ---
 
 #canada #travel #IEC
