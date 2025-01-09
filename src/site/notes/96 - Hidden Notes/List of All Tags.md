@@ -66,7 +66,6 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #computers(1)             |
 | #congnitivebias(1)        |
 | #doncaster(1)             |
-| #emigration(1)            |
 | #environment(1)           |
 | #ethics(1)                |
 | #etymology(1)             |
