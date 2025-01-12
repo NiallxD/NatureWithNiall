@@ -26,12 +26,13 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #birds(3)                 |
 | #BlogPost(3)              |
 | #cameras(3)               |
+| #canada(3)                |
 | #conservation(3)          |
 | #photo(3)                 |
 | #Tech(3)                  |
 | #tigers(3)                |
+| #travel(3)                |
 | #Camera(2)                |
-| #canada(2)                |
 | #deer(2)                  |
 | #facebook(2)              |
 | #instagram(2)             |
@@ -42,7 +43,6 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #socials(2)               |
 | #space(2)                 |
 | #sustainability(2)        |
-| #travel(2)                |
 | #weather(2)               |
 | #360panorama(1)           |
 | #80(1)                    |
@@ -58,6 +58,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #auroraborealis(1)        |
 | #Baroque(1)               |
 | #britishbirds(1)          |
+| #calgary(1)               |
 | #cameragear(1)            |
 | #cats(1)                  |
 | #classical(1)             |
@@ -107,6 +108,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #streetphotography(1)     |
 | #systemsthinking(1)       |
 | #twitterx(1)              |
+| #vancouver(1)             |
 | #waste(1)                 |
 | #Wildlife(1)              |
 
