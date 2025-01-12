@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T14:20:47.563+01:00","updated":"2024-12-22T18:06:39.629+00:00"}
+{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T06:20:47.563-07:00","updated":"2025-01-12T07:03:01.151-08:00"}
 ---
 
 #photography #nature #lifelist
@@ -8,12 +8,12 @@
 
 I never used to be bothered about keeping a life list, it seemed a bit pointless to me. But then as I photographed more more species, in more and more locations, I started keeping tally of these animals I was photographing. I had the idea to try and photograph, well, all the animals I've seen. This became a bit of an obsession and now I'm stuck updating this list! How fun!
 
-The categories below are not intended to be taxonomic in nature, more rough groupings based on what feels right. The location and date are those of the photo presented and not the first sighting. All animals are wild, nothing captive here apart from the odd escapee which has become established (e.g., parakeets and wood duck in the UK).
+The categories below are not intended to be taxonomic in nature, more rough groupings based on what feels right. The location and date are those of the photo presented and not necessarily the first sighting as I update images when I improve on previous. All animals are wild, nothing captive here apart from the odd escapee which has become established (e.g., parakeets and wood duck in the UK).
 
-This list sits at **279** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full bird life list can be found here 
+This list sits at **281** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full eBird profile can be found [here](https://ebird.org/profile/MzcxOTEyNA/world).
 
 >[!NEW] Recent Updates
->I've recently returned from a trip to Finland where I bagged photographs of Brown Bear, Wolverine, Green and Wood Sandpiper, Greenshank, and Hooded Crow - July 2024
+>Starting in 2025, I am exploring British Columbia, Canada, and so will be updating my life list with everything I photograph here. As of 11th Jan I've added the Belted Kingfisher and Barrow's Goldeneye taking my count up to 281 species.
 
 ## Jump Links
 
@@ -342,6 +342,10 @@ Use these links to jump to specific sections. For those one desktop use the cont
 ![](https://i.imgur.com/aD3WSZo.jpeg)
 *England (Porter Valley) - 2024*
 
+#### Belted Kingfisher
+![](https://i.imgur.com/SlzcIU4.jpeg)
+*BC, Canada (Vancouver Port) - 2025*
+
 #### Brown Pelican
 ![](https://i.imgur.com/xlZLOX6.jpeg)
 *Florida - 2016*
@@ -498,7 +502,6 @@ Use these links to jump to specific sections. For those one desktop use the cont
 ![](https://i.imgur.com/j3CvmIw.jpeg)
 *England - 2021*
 
-
 #### Carolina Wood Duck
 ![](https://i.imgur.com/pFDdVfs.jpeg)
 *England - 2021*
@@ -514,6 +517,10 @@ Use these links to jump to specific sections. For those one desktop use the cont
 #### Tufted Duck
 ![](https://i.imgur.com/kk3wqDI.jpeg)
 *England - 2023*
+
+#### Barrows's Goldeneye
+![](https://i.imgur.com/1Kxs5bR.jpeg)
+*BC, Canada (Vancouver Port) - 2025*
 
 #### Green-winged Teal
 ![](https://i.imgur.com/c9L6Xkr.jpeg)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/doncasters-hoopoe","permalink":"/doncasters-hoopoe/","title":"Doncaster's Hoopoe","hide":true,"tags":["birding","nature","hoopoe","doncaster","rarebird","Birds"],"noteIcon":"1","created":"2024-12-22T18:14:37.888+00:00","updated":"2024-12-22T22:00:47.000+00:00"}
+{"dg-publish":true,"dg-permalink":"/doncasters-hoopoe","permalink":"/doncasters-hoopoe/","title":"Doncaster's Hoopoe","hide":true,"tags":["birding","nature","hoopoe","doncaster","rarebird","Birds"],"noteIcon":"1","created":"2024-12-22T10:14:37.888-08:00","updated":"2024-12-22T14:00:47.000-08:00"}
 ---
 
 #birding #nature #hoopoe #doncaster #rarebird #birds

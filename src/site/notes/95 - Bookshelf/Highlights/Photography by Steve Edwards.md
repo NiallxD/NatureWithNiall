@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/95-bookshelf/highlights/photography-by-steve-edwards/","hide":true,"noteIcon":"","created":"2024-10-30T13:24:18.211+00:00","updated":"2024-10-30T13:45:58.390+00:00"}
+{"dg-publish":true,"permalink":"/95-bookshelf/highlights/photography-by-steve-edwards/","hide":true,"noteIcon":"","created":"2024-10-30T06:24:18.211-07:00","updated":"2024-10-30T06:45:58.390-07:00"}
 ---
 
 #books #reading #bookshelf

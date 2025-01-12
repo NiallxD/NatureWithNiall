@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/95-bookshelf/highlights/thinking-fast-and-slow-by-daniel-kahneman/","hide":true,"noteIcon":"","created":"2024-10-30T13:24:17.919+00:00","updated":"2024-10-30T13:46:15.971+00:00"}
+{"dg-publish":true,"permalink":"/95-bookshelf/highlights/thinking-fast-and-slow-by-daniel-kahneman/","hide":true,"noteIcon":"","created":"2024-10-30T06:24:17.919-07:00","updated":"2024-10-30T06:46:15.971-07:00"}
 ---
 
 #books #reading #bookshelf

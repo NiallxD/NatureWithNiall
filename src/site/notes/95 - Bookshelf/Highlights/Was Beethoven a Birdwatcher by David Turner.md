@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/95-bookshelf/highlights/was-beethoven-a-birdwatcher-by-david-turner/","hide":true,"noteIcon":"","created":"2024-10-30T13:24:18.308+00:00","updated":"2024-10-30T13:46:20.115+00:00"}
+{"dg-publish":true,"permalink":"/95-bookshelf/highlights/was-beethoven-a-birdwatcher-by-david-turner/","hide":true,"noteIcon":"","created":"2024-10-30T06:24:18.308-07:00","updated":"2024-10-30T06:46:20.115-07:00"}
 ---
 
 #books #reading #bookshelf

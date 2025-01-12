@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"custom-siril-scripts","permalink":"/custom-siril-scripts/","title":"Custom Siril Scripts for Astrophotography","hide":true,"tags":["Tech","astrophotography","Siril","imageprocessing"],"noteIcon":null,"created":"2024-11-20T19:39:34.139+00:00","updated":"2024-12-11T15:45:33.826+00:00"}
+{"dg-publish":true,"dg-permalink":"custom-siril-scripts","permalink":"/custom-siril-scripts/","title":"Custom Siril Scripts for Astrophotography","hide":true,"tags":["Tech","astrophotography","Siril","imageprocessing"],"noteIcon":null,"created":"2024-11-20T11:39:34.139-08:00","updated":"2024-12-11T07:45:33.826-08:00"}
 ---
 
 #tech #astrophotography #siril #imageprocessing

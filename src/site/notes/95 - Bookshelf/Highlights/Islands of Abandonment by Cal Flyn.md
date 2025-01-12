@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/95-bookshelf/highlights/islands-of-abandonment-by-cal-flyn/","hide":true,"noteIcon":"","created":"2024-10-30T13:24:18.074+00:00","updated":"2024-10-30T13:45:43.397+00:00"}
+{"dg-publish":true,"permalink":"/95-bookshelf/highlights/islands-of-abandonment-by-cal-flyn/","hide":true,"noteIcon":"","created":"2024-10-30T06:24:18.074-07:00","updated":"2024-10-30T06:45:43.397-07:00"}
 ---
 
 #books #reading #bookshelf

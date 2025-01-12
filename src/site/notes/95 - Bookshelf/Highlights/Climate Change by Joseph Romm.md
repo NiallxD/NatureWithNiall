@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/95-bookshelf/highlights/climate-change-by-joseph-romm/","hide":true,"noteIcon":"","created":"2024-10-30T13:24:17.910+00:00","updated":"2024-10-30T13:44:58.619+00:00"}
+{"dg-publish":true,"permalink":"/95-bookshelf/highlights/climate-change-by-joseph-romm/","hide":true,"noteIcon":"","created":"2024-10-30T06:24:17.910-07:00","updated":"2024-10-30T06:44:58.619-07:00"}
 ---
 
 #books #reading #bookshelf

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/95-bookshelf/highlights/eight-bears-by-gloria-dickie/","hide":true,"noteIcon":"","created":"2024-10-30T13:24:18.518+00:00","updated":"2024-11-02T13:53:42.568+00:00"}
+{"dg-publish":true,"permalink":"/95-bookshelf/highlights/eight-bears-by-gloria-dickie/","hide":true,"noteIcon":"","created":"2024-10-30T06:24:18.518-07:00","updated":"2024-11-02T06:53:42.568-07:00"}
 ---
 
 #books #reading #bookshelf

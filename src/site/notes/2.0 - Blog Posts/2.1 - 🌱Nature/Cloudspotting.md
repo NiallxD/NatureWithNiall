@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/2-1-nature/cloudspotting/","hide":true,"tags":["Nature","Atmosphere","clouds"],"noteIcon":null,"created":"2024-04-10T00:48:08.000+01:00","updated":"2024-12-22T18:06:27.974+00:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/2-1-nature/cloudspotting/","hide":true,"tags":["Nature","Atmosphere","clouds"],"noteIcon":null,"created":"2024-04-09T16:48:08.000-07:00","updated":"2024-12-22T10:06:27.974-08:00"}
 ---
 
 #nature #weather

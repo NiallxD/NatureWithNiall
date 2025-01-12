@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/hire-me","permalink":"/hire-me/","title":"Hire Me","hide":true,"noteIcon":"1","created":"2024-04-18T00:42:46.592+01:00","updated":"2024-05-05T11:08:27.268+01:00"}
+{"dg-publish":true,"dg-permalink":"/hire-me","permalink":"/hire-me/","title":"Hire Me","hide":true,"noteIcon":"1","created":"2024-04-17T16:42:46.592-07:00","updated":"2024-05-05T03:08:27.268-07:00"}
 ---
 
 #hireme

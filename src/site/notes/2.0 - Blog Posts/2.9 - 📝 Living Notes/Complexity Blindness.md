@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/2-9-living-notes/complexity-blindness/","title":"Complexity Blindness","hide":true,"noteIcon":"","created":"2024-12-13T15:31:40.723+00:00","updated":"2024-12-19T23:54:11.338+00:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/2-9-living-notes/complexity-blindness/","title":"Complexity Blindness","hide":true,"noteIcon":"","created":"2024-12-13T07:31:40.723-08:00","updated":"2024-12-19T15:54:11.338-08:00"}
 ---
 
 #complexity #systemsthinking #heuristics #congnitivebias

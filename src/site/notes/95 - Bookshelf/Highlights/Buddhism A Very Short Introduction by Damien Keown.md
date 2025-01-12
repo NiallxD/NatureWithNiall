@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/95-bookshelf/highlights/buddhism-a-very-short-introduction-by-damien-keown/","hide":true,"noteIcon":"","created":"2024-10-30T13:24:18.131+00:00","updated":"2024-10-30T13:45:19.678+00:00"}
+{"dg-publish":true,"permalink":"/95-bookshelf/highlights/buddhism-a-very-short-introduction-by-damien-keown/","hide":true,"noteIcon":"","created":"2024-10-30T06:24:18.131-07:00","updated":"2024-10-30T06:45:19.678-07:00"}
 ---
 
 #books #reading #bookshelf

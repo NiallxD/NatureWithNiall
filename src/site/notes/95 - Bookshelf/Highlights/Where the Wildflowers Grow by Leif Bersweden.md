@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/95-bookshelf/highlights/where-the-wildflowers-grow-by-leif-bersweden/","hide":true,"noteIcon":"","created":"2024-10-30T13:24:18.019+00:00","updated":"2024-10-30T13:46:22.140+00:00"}
+{"dg-publish":true,"permalink":"/95-bookshelf/highlights/where-the-wildflowers-grow-by-leif-bersweden/","hide":true,"noteIcon":"","created":"2024-10-30T06:24:18.019-07:00","updated":"2024-10-30T06:46:22.140-07:00"}
 ---
 
 #books #reading #bookshelf

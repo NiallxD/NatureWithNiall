@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos-wrap-up-2024","permalink":"/my-week-in-photos-wrap-up-2024/","title":"My Week In Photos Wrap Up","hide":true,"tags":["photo","photography","myweekinphotos","photostory"],"noteIcon":"1","created":"2024-12-30T23:19:23.076+00:00","updated":"2024-12-31T00:15:28.036+00:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos-wrap-up-2024","permalink":"/my-week-in-photos-wrap-up-2024/","title":"My Week In Photos Wrap Up","hide":true,"tags":["photo","photography","myweekinphotos","photostory"],"noteIcon":"1","created":"2024-12-30T15:19:23.076-08:00","updated":"2024-12-30T16:15:28.036-08:00"}
 ---
 
 #photo #photography #myweekinphotos #photostory 

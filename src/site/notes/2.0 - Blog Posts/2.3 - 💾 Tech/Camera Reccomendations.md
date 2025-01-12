@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"camera-recommendations","permalink":"/camera-recommendations/","hide":true,"tags":["photography","cameras","lenses","cameragear","tech"],"noteIcon":"1","created":"2024-04-22T13:36:36.850+01:00","updated":"2024-12-22T18:07:08.498+00:00"}
+{"dg-publish":true,"dg-permalink":"camera-recommendations","permalink":"/camera-recommendations/","hide":true,"tags":["photography","cameras","lenses","cameragear","tech"],"noteIcon":"1","created":"2024-04-22T05:36:36.850-07:00","updated":"2024-12-22T10:07:08.498-08:00"}
 ---
 
 #photography #cameras #lenses #cameragear
