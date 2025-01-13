@@ -765,7 +765,7 @@ It's important to note that these aren't portfolio images but instead are photos
 > 
 > #### Neist Point
 > 
-> Neist Point is familiar to most people when they see it. Of course it is it...it's iconic! Neist Point is the most westerly point one can drive in the UK without getting a boat. It is actually more west than Dublin and Belfast! Westerly facts aside, this spot is stunning. The cliffs are alive with seabirds and the grasses teeming with Wheatear and a special little bird, the Twite! I've shared a 360 Panorama of this location which you can view [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.5 - 🌍 360 Panorama/3.1.5.1 - 360 Panorama\|here]].
+> Neist Point is familiar to most people when they see it. Of course it is it...it's iconic! Neist Point is the most westerly point one can drive in the UK without getting a boat. It is actually more west than Dublin and Belfast! Westerly facts aside, this spot is stunning. The cliffs are alive with seabirds and the grasses teeming with Wheatear and a special little bird, the Twite! I've shared a 360 Panorama of this location which you can view [[3.0 - 📷 Photography/3.1 - 🏞️ Galleries/3.1.5 - 🌍 Panoramas/3.1.5.1 - 360 Panorama\|here]].
 > 
 >![](https://i.imgur.com/b82Oi9c.jpeg)
 >

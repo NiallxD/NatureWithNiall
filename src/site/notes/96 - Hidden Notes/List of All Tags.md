@@ -12,7 +12,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #reading(66)              |
 | #bookshelf(65)            |
 | #nature(43)               |
-| #photography(42)          |
+| #photography(43)          |
 | #wildlife(35)             |
 | #Birds(10)                |
 | #tech(8)                  |
@@ -22,13 +22,13 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #blog(4)                  |
 | #composers(4)             |
 | #drone(4)                 |
+| #photo(4)                 |
 | #astrophotography(3)      |
 | #birds(3)                 |
 | #BlogPost(3)              |
 | #cameras(3)               |
 | #canada(3)                |
 | #conservation(3)          |
-| #photo(3)                 |
 | #Tech(3)                  |
 | #tigers(3)                |
 | #travel(3)                |
@@ -93,6 +93,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #music(1)                 |
 | #myweekinphotos(1)        |
 | #northernlights(1)        |
+| #panorama(1)              |
 | #phones(1)                |
 | #photofeed(1)             |
 | #Photography(1)           |
