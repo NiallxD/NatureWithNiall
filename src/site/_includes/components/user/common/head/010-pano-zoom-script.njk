@@ -1,40 +1,35 @@
 <script>
 document.addEventListener('DOMContentLoaded', () => {
     console.log('DOM fully loaded and parsed');
-    const panorama = document.querySelector('.panorama');
-    const contentBlock = document.querySelector('.content-block');
-    
-    if (panorama) {
-        console.log('Panorama element found');
+    const panoramas = document.querySelectorAll('.panorama');
+
+    if (panoramas.length) {
+        console.log(`${panoramas.length} panorama elements found`);
+        
+        panoramas.forEach((panorama) => {
+            const contentBlock = panorama.closest('.content-block');
+            
+            if (contentBlock) {
+                contentBlock.addEventListener('mouseenter', () => {
+                    panorama.style.transform = 'scale(1.5)'; /* Adjust the scale as needed */
+                });
+
+                contentBlock.addEventListener('mousemove', (e) => {
+                    const { left, top, width, height } = contentBlock.getBoundingClientRect();
+                    const x = ((e.clientX - left) / width) * 100;
+                    const y = ((e.clientY - top) / height) * 100;
+                    panorama.style.transformOrigin = `${x}% ${y}%`;
+                });
+
+                contentBlock.addEventListener('mouseleave', () => {
+                    panorama.style.transform = 'scale(1)'; /* Reset the scale when the mouse leaves */
+                });
+            } else {
+                console.error('Content block element not found for a panorama image');
+            }
+        });
     } else {
-        console.error('Panorama element not found');
+        console.error('No panorama elements found');
     }
-    
-    if (contentBlock) {
-        console.log('Content block element found');
-    } else {
-        console.error('Content block element not found');
-    }
-
-    contentBlock.addEventListener('mouseenter', () => {
-        console.log('Mouse enter event detected');
-        panorama.style.transform = 'scale(3)'; /* Adjust the scale as needed */
-    });
-
-    contentBlock.addEventListener('mousemove', (e) => {
-        console.log('Mouse move event detected');
-        const { left, top, width, height } = contentBlock.getBoundingClientRect();
-        const x = ((e.clientX - left) / width) * 100;
-        const y = ((e.clientY - top) / height) * 100;
-        console.log(`Mouse X: ${e.clientX}, Mouse Y: ${e.clientY}`);
-        console.log(`Container Left: ${left}, Container Top: ${top}`);
-        console.log(`Transform Origin X: ${x}%, Transform Origin Y: ${y}%`);
-        panorama.style.transformOrigin = `${x}% ${y}%`;
-    });
-
-    contentBlock.addEventListener('mouseleave', () => {
-        console.log('Mouse leave event detected');
-        panorama.style.transform = 'scale(1)'; /* Reset the scale when the mouse leaves */
-    });
 });
 </script>
