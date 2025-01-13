@@ -1,0 +1,11 @@
+<script>
+const panorama = document.querySelector('.panorama');
+const contentBlock = document.querySelector('.content-block');
+
+contentBlock.addEventListener('mousemove', (e) => {
+    const { left, top, width, height } = contentBlock.getBoundingClientRect();
+    const x = (e.clientX - left) / width * 100;
+    const y = (e.clientY - top) / height * 100;
+    panorama.style.transformOrigin = `${x}% ${y}%`;
+});
+</script>
