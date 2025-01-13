@@ -860,6 +860,14 @@ select,
     position: absolute;
 }
 
+/* Hide Bing Visual Search icon */
+img.panorama {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    pointer-events: none;
+}
 
 
 
