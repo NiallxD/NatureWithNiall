@@ -850,15 +850,15 @@ select,
 .content-block {
     width: 100%;
     overflow: hidden;
-    position: relative;
 }
 
 .panorama {
     width: 100%;
-    transition: transform 0.25s ease;
+    transition: transform 0.3s ease;
 }
 
 .content-block:hover .panorama {
-    transform: scale(3); /* Adjust the scale as needed */
+    transform: scale(1.5); /* Adjust the scale as needed */
 }
+
 
