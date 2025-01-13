@@ -847,9 +847,18 @@ select,
   margin-left: 10px; /* Adjust as needed */
 }
 
-.zoom {
-    transition: transform 0.5s ease;
+.content-block {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
 }
-.zoom:hover {
-    transform: scale(1.5); /* Adjust the scale value as needed */
+
+.panorama {
+    width: 100%;
+    transition: transform 0.25s ease;
 }
+
+.content-block:hover .panorama {
+    transform: scale(3); /* Adjust the scale as needed */
+}
+
