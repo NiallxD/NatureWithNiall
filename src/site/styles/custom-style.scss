@@ -846,3 +846,10 @@ select,
 #emailme, #theme-switch {
   margin-left: 10px; /* Adjust as needed */
 }
+
+.zoom {
+    transition: transform 0.5s ease;
+}
+.zoom:hover {
+    transform: scale(1.5); /* Adjust the scale value as needed */
+}
