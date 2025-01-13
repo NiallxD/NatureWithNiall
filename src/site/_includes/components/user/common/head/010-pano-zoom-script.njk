@@ -6,15 +6,11 @@ contentBlock.addEventListener('mousemove', (e) => {
     const { left, top, width, height } = contentBlock.getBoundingClientRect();
     const x = ((e.clientX - left) / width) * 100;
     const y = ((e.clientY - top) / height) * 100;
-    console.log(`Mouse X: ${e.clientX}, Mouse Y: ${e.clientY}`);
-    console.log(`Container Left: ${left}, Container Top: ${top}`);
-    console.log(`Transform Origin X: ${x}%, Transform Origin Y: ${y}%`);
     panorama.style.transformOrigin = `${x}% ${y}%`;
     panorama.style.transform = 'scale(1.5)'; /* Adjust the scale as needed */
 });
 
 contentBlock.addEventListener('mouseleave', () => {
     panorama.style.transform = 'scale(1)'; /* Reset the scale when the mouse leaves */
-    console.log('Mouse left the container');
 });
 </script>
