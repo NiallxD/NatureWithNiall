@@ -16,6 +16,11 @@ document.addEventListener('DOMContentLoaded', () => {
         console.error('Content block element not found');
     }
 
+    contentBlock.addEventListener('mouseenter', () => {
+        console.log('Mouse enter event detected');
+        panorama.style.transform = 'scale(1.5)'; /* Adjust the scale as needed */
+    });
+
     contentBlock.addEventListener('mousemove', (e) => {
         console.log('Mouse move event detected');
         const { left, top, width, height } = contentBlock.getBoundingClientRect();
@@ -25,7 +30,6 @@ document.addEventListener('DOMContentLoaded', () => {
         console.log(`Container Left: ${left}, Container Top: ${top}`);
         console.log(`Transform Origin X: ${x}%, Transform Origin Y: ${y}%`);
         panorama.style.transformOrigin = `${x}% ${y}%`;
-        panorama.style.transform = 'scale(1.5)'; /* Adjust the scale as needed */
     });
 
     contentBlock.addEventListener('mouseleave', () => {
