@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T06:20:47.563-07:00","updated":"2025-01-12T07:03:01.151-08:00"}
+{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T06:20:47.563-07:00","updated":"2025-01-14T22:20:25.700-08:00"}
 ---
 
 #photography #nature #lifelist
@@ -10,10 +10,11 @@ I never used to be bothered about keeping a life list, it seemed a bit pointless
 
 The categories below are not intended to be taxonomic in nature, more rough groupings based on what feels right. The location and date are those of the photo presented and not necessarily the first sighting as I update images when I improve on previous. All animals are wild, nothing captive here apart from the odd escapee which has become established (e.g., parakeets and wood duck in the UK).
 
-This list sits at **281** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full eBird profile can be found [here](https://ebird.org/profile/MzcxOTEyNA/world).
+This list sits at **296** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full eBird profile can be found [here](https://ebird.org/profile/MzcxOTEyNA/world).
 
 >[!NEW] Recent Updates
->Starting in 2025, I am exploring British Columbia, Canada, and so will be updating my life list with everything I photograph here. As of 11th Jan I've added the Belted Kingfisher and Barrow's Goldeneye taking my count up to 281 species.
+>Starting in 2025, I am exploring British Columbia, Canada, and so will be updating my life list with everything I photograph here. As of 11th Jan I've added the Raccoon, American Red Squirrel, Great Blue Heron, Anna's Hummingbird, Song Sparrow, Dark-eyed Junco, Spotted Towhee, Stellar's Jay, Ruby-crowned Kinglet, Northern Flicker, Surf Scoter, Glaucous-winged Gull, Bald Eagle, Goosander, and Hooded Merganser,  taking my count up to 296 species.
+
 
 ## Jump Links
 
@@ -117,6 +118,14 @@ Use these links to jump to specific sections. For those one desktop use the cont
 
 ---
 
+### Small Bear-Like Things
+
+#### Raccoon
+![](https://i.imgur.com/hfKFaOi.jpeg)
+_Canada (British Columbia) - 2025_
+
+---
+
 ### Rabbits and Rodents
 
 ### Mountain Hare
@@ -160,6 +169,10 @@ Use these links to jump to specific sections. For those one desktop use the cont
 ![](https://i.imgur.com/3Vzkw2D.jpeg)
 *England - 2023*
 
+#### American Red Squirrel
+![](https://i.imgur.com/Pp0LWv6.jpeg)
+_Canada (British Columbia) - 2025_
+
 #### Grey Squirrel
 ![](https://i.imgur.com/qbNmP2L.jpeg)
 *England - 2023*
@@ -173,6 +186,11 @@ Use these links to jump to specific sections. For those one desktop use the cont
 ## Birds
 
 ### Birds of Prey
+
+#### Bald Eagle
+![](https://i.imgur.com/8fwJzGQ.jpeg)
+_Canada (British Columbia) - 2025_
+
 #### White-tailed Eagle
 ![](https://i.imgur.com/FeXjmSF.jpeg)
 *Poland - 2023*
@@ -298,6 +316,10 @@ Use these links to jump to specific sections. For those one desktop use the cont
 ![](https://i.imgur.com/jqt3oAQ.jpeg)
 *England (iPort Lakes) - 2022*
 
+#### Glaucous-winged Gull
+![](https://i.imgur.com/PnXdNuq.jpeg)
+_Canada (British Columbia) - 2025_
+
 #### Black-headed Gull
 ![](https://i.imgur.com/x06Aa04.jpeg)
 *England (Porter Valley) - 2023*
@@ -385,6 +407,10 @@ Use these links to jump to specific sections. For those one desktop use the cont
 #### Grey Heron
 ![](https://i.imgur.com/yDn9AmY.jpeg)
 *England (Porter Valley) - 2024*
+
+#### Great Blue Heron
+![](https://i.imgur.com/iN45e0O.jpeg)
+_Canada (British Columbia) - 2025_
 
 #### Little Bittern
 ![](https://i.imgur.com/xUND9ja.jpeg)
@@ -530,6 +556,18 @@ Use these links to jump to specific sections. For those one desktop use the cont
 ![](https://i.imgur.com/Hn2irk6.jpeg)
 *England - 2018*
 
+#### Surf Scoter
+![](https://i.imgur.com/QJn9vrt.jpeg)
+_Canada (British Columbia) - 2025_
+
+#### Goosander
+![](https://i.imgur.com/esaXUbM.jpeg)
+_England (Lake District) - 2024_
+
+#### Hooded Merganser
+![](https://i.imgur.com/l9gzE73.jpeg)
+_Canada (British Columbia) - 2025_
+
 #### Mute Swan
 ![](https://i.imgur.com/eZSGedf.jpeg)
 *England - 2022*
@@ -583,7 +621,7 @@ Use these links to jump to specific sections. For those one desktop use the cont
 
 ---
 
-### Woodpeckers
+### Woodpeckers et al.
 
 #### Great Spotted Woodpecker
 ![](https://i.imgur.com/AswJJZ0.jpeg)
@@ -596,6 +634,11 @@ Use these links to jump to specific sections. For those one desktop use the cont
 #### Black-rumped Flameback
 ![](https://i.imgur.com/5n0yaHi.jpeg)
 *India - 2022*
+
+#### Northern Flicker
+![](https://i.imgur.com/HlqqCrv.jpeg)
+_Canada (British Columbia) - 2025_
+
 
 ---
 ### Cuckoos
@@ -611,6 +654,15 @@ Use these links to jump to specific sections. For those one desktop use the cont
 #### Eurasian Hoopeo
 ![](https://i.imgur.com/FPYQzf2.jpeg)
 *India - 2022*
+
+---
+
+### Hummingbirds
+
+#### Anna's Hummingbird
+![](https://i.imgur.com/TVvjNEQ.jpeg)
+_Canada (British Columbia) - 2025_
+
 
 ---
 
@@ -660,6 +712,21 @@ Use these links to jump to specific sections. For those one desktop use the cont
 #### European Tree Sparrow
 ![](https://i.imgur.com/WgCIMzV.jpeg)
 *England - 2023*
+
+#### Song Sparrow
+![](https://i.imgur.com/wi1b0Nb.jpeg)
+_Canada (British Columbia) - 2025_
+
+#### Dark-eyed Junco
+![](https://i.imgur.com/eNAUdJt.jpeg)
+_Canada (British Columbia) - 2025_
+
+#### Spotted Towhee
+![](https://i.imgur.com/S33qSlU.jpeg)
+_Canada (British Columbia) - 2025_
+
+
+
 
 #### European Goldfinch
 ![](https://i.imgur.com/gMlsDY0.jpeg)
@@ -758,9 +825,17 @@ Use these links to jump to specific sections. For those one desktop use the cont
 ![](https://i.imgur.com/Jx1OBGR.jpeg)
 *England -2020*
 
+#### Pacific Wren
+![](https://i.imgur.com/Q6YfL58.jpeg)
+_Canada (British Columbia) - 2025_
+
 #### European Goldcrest
 ![](https://i.imgur.com/chMwKdD.jpeg)
 *England - 2024*
+
+#### Ruby-crowned Kinglet
+![](https://i.imgur.com/shZYCU4.jpeg)
+_Canada (British Columbia) - 2025_
 
 #### Eurasian Treecreeper
 ![](https://i.imgur.com/p2zkuAp.jpeg)
@@ -818,6 +893,10 @@ Use these links to jump to specific sections. For those one desktop use the cont
 ![](https://i.imgur.com/BdcMAr1.jpeg)
 *England - 2019*
 
+#### American Crow
+![](https://i.imgur.com/QPLRdJq.jpeg)
+_Canada (British Columbia) - 2025_
+
 #### Hooded Crow
 ![](https://i.imgur.com/s8Rb6Vd.jpeg)
 *Finland - 2024*
@@ -841,6 +920,11 @@ Use these links to jump to specific sections. For those one desktop use the cont
 #### Eurasian Jay
 ![](https://i.imgur.com/AiT0dPM.jpeg)
 *England - 2019*
+
+#### Stellar's Jay
+![](https://i.imgur.com/3rd3DZ3.jpeg)
+_Canada (British Columbia) - 2025_
+
 
 ---
 
