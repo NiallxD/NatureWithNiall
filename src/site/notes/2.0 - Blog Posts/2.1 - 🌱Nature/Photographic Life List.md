@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T06:20:47.563-07:00","updated":"2025-01-14T22:20:25.700-08:00"}
+{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T06:20:47.563-07:00","updated":"2025-01-20T19:16:41.740-08:00"}
 ---
 
 #photography #nature #lifelist
@@ -188,7 +188,7 @@ _Canada (British Columbia) - 2025_
 ### Birds of Prey
 
 #### Bald Eagle
-![](https://i.imgur.com/8fwJzGQ.jpeg)
+![](https://i.imgur.com/jxxUz6b.jpeg)
 _Canada (British Columbia) - 2025_
 
 #### White-tailed Eagle
