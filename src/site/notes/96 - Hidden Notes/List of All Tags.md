@@ -11,9 +11,9 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #books(66)                |
 | #reading(66)              |
 | #bookshelf(65)            |
-| #nature(43)               |
-| #photography(43)          |
-| #wildlife(35)             |
+| #nature(44)               |
+| #photography(44)          |
+| #wildlife(36)             |
 | #Birds(10)                |
 | #tech(8)                  |
 | #photostory(6)            |
@@ -68,6 +68,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #computers(1)             |
 | #congnitivebias(1)        |
 | #doncaster(1)             |
+| #Eagle(1)                 |
 | #environment(1)           |
 | #ethics(1)                |
 | #etymology(1)             |
