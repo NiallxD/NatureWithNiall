@@ -78,7 +78,6 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #gardening(1)             |
 | #Gardening(1)             |
 | #heuristics(1)            |
-| #hireme(1)                |
 | #hoopoe(1)                |
 | #imageprocessing(1)       |
 | #india(1)                 |
