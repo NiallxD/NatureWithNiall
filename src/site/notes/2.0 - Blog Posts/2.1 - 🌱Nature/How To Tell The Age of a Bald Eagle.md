@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/bald-eagle-age","permalink":"/bald-eagle-age/","title":"How To Tell The Age of a Bald Eagle","hide":true,"tags":["Eagle","photo","photography","#ageguide"],"noteIcon":"1","created":"2025-01-20T20:00:59.871-08:00","updated":"2025-01-23T09:37:18.623-08:00"}
+{"dg-publish":true,"dg-permalink":"/bald-eagle-age","permalink":"/bald-eagle-age/","title":"How To Tell The Age of a Bald Eagle","hide":true,"tags":["Eagle","photo","photography","#ageguide"],"noteIcon":"1","created":"2025-01-20T20:00:59.871-08:00","updated":"2025-01-23T09:42:10.584-08:00"}
 ---
 
 #eagle #ageguide #photography #birding
@@ -81,7 +81,7 @@ These comparisons should make it clear to see the differences as an eagle ages.
 
 <div class="gallery">
     <a href="https://i.imgur.com/MAgNQZG.jpeg" data-fancybox="gallery">
-        <img src="https://i.imgur.com/MAgNQZG.jpeg" alt="Image 1" width="100%">
+        <img src="https://i.imgur.com/MAgNQZG.jpeg" alt="Image 1" style="width: 100%; height: auto; display: block;">
     </a>
 </div>
 *Click to view large.*
@@ -90,7 +90,7 @@ These comparisons should make it clear to see the differences as an eagle ages.
 
 <div class="gallery">
     <a href="https://i.imgur.com/mKXl77c.jpeg" data-fancybox="gallery">
-        <img src="https://i.imgur.com/mKXl77c.jpeg" alt="Image 1" width="100%">
+        <img src="https://i.imgur.com/mKXl77c.jpeg" alt="Image 1" style="width: 100%; height: auto; display: block;">
     </a>
 </div>
 *Click to view large.*
