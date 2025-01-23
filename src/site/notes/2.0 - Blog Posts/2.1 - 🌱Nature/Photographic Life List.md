@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T06:20:47.563-07:00","updated":"2025-01-22T22:47:22.687-08:00"}
+{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T06:20:47.563-07:00","updated":"2025-01-22T23:37:10.362-08:00"}
 ---
 
 #photography #nature #lifelist
