@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/bald-eagle-age","permalink":"/bald-eagle-age/","title":"How To Tell The Age of a Bald Eagle","hide":true,"tags":["Eagle","photo","photography","#ageguide"],"noteIcon":"1","created":"2025-01-20T20:00:59.871-08:00","updated":"2025-01-22T23:31:28.893-08:00"}
+{"dg-publish":true,"dg-permalink":"/bald-eagle-age","permalink":"/bald-eagle-age/","title":"How To Tell The Age of a Bald Eagle","hide":true,"tags":["Eagle","photo","photography","#ageguide"],"noteIcon":"1","created":"2025-01-20T20:00:59.871-08:00","updated":"2025-01-23T09:33:52.894-08:00"}
 ---
 
 #eagle #ageguide #photography #birding
@@ -79,14 +79,32 @@ These comparisons should make it clear to see the differences as an eagle ages.
 
 **Full Body Comparison**
 
-![](https://i.imgur.com/MAgNQZG.jpeg)
+<div class="gallery">
+    <a href="https://i.imgur.com/MAgNQZG.jpeg" data-fancybox="gallery">
+        <img src="https://i.imgur.com/MAgNQZG.jpeg" alt="Image 1" width="800">
+    </a>
+</div>
 *Click to view large.*
 
 **Head Comparison**
 
-![](https://i.imgur.com/mKXl77c.jpeg)
+<div class="gallery">
+    <a href="https://i.imgur.com/mKXl77c.jpeg" data-fancybox="gallery">
+        <img src="https://i.imgur.com/mKXl77c.jpeg" alt="Image 1" width="800">
+    </a>
+</div>
 *Click to view large.*
 
+## Summary
+
+I wanted to wrap this up by just covering a bit about the differences between male and female bald eagles. I'm yet to photograph two together but when I do I'll update this section. There are a few way to try tell the two sexes apart, but there isn't really a fool proof method.
+
+1. Females are around 30% larger than males. This is obvious when two are perched side by side but not much use when they're on their own.
+2. Females typically have a deeper bill depth but again, hard to tell in the field.
+3. Females have a longer hallux talons (rear facing talons) which can be twice as long.
+4. Finally, males are generally more slender and less stocky owing to their role as chief hunters during breeding.
+
+Thanks for reading, I hope you found this useful. If there is anything you think I shoudl add, or if you noticed any errors please [do let me know](mailto:niall@niallbell.com). I'm learning as I go here!
 
 ---
 Created by Niall Bell (niall@niallbell.com)
