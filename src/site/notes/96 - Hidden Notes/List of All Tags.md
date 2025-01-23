@@ -11,19 +11,19 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #books(66)                |
 | #reading(66)              |
 | #bookshelf(65)            |
+| #photography(45)          |
 | #nature(44)               |
-| #photography(44)          |
 | #wildlife(36)             |
 | #Birds(10)                |
 | #tech(8)                  |
+| #birding(6)               |
 | #photostory(6)            |
-| #birding(5)               |
 | #Music(5)                 |
+| #photo(5)                 |
 | #blog(4)                  |
 | #canada(4)                |
 | #composers(4)             |
 | #drone(4)                 |
-| #photo(4)                 |
 | #travel(4)                |
 | #astrophotography(3)      |
 | #birds(3)                 |
@@ -34,6 +34,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #tigers(3)                |
 | #Camera(2)                |
 | #deer(2)                  |
+| #Eagle(2)                 |
 | #facebook(2)              |
 | #IEC(2)                   |
 | #instagram(2)             |
@@ -48,6 +49,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #360panorama(1)           |
 | #80(1)                    |
 | #80/20(1)                 |
+| #ageguide(1)              |
 | #ai(1)                    |
 | #AI(1)                    |
 | #analogue(1)              |
@@ -68,7 +70,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #computers(1)             |
 | #congnitivebias(1)        |
 | #doncaster(1)             |
-| #Eagle(1)                 |
+| #eagle(1)                 |
 | #environment(1)           |
 | #ethics(1)                |
 | #etymology(1)             |

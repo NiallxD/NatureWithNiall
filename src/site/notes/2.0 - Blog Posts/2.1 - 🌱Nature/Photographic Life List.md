@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T06:20:47.563-07:00","updated":"2025-01-20T19:16:41.740-08:00"}
+{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T06:20:47.563-07:00","updated":"2025-01-22T22:47:22.687-08:00"}
 ---
 
 #photography #nature #lifelist
@@ -10,10 +10,10 @@ I never used to be bothered about keeping a life list, it seemed a bit pointless
 
 The categories below are not intended to be taxonomic in nature, more rough groupings based on what feels right. The location and date are those of the photo presented and not necessarily the first sighting as I update images when I improve on previous. All animals are wild, nothing captive here apart from the odd escapee which has become established (e.g., parakeets and wood duck in the UK).
 
-This list sits at **296** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full eBird profile can be found [here](https://ebird.org/profile/MzcxOTEyNA/world).
+This list sits at **301** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full eBird profile can be found [here](https://ebird.org/profile/MzcxOTEyNA/world).
 
 >[!NEW] Recent Updates
->Starting in 2025, I am exploring British Columbia, Canada, and so will be updating my life list with everything I photograph here. As of 11th Jan I've added the Raccoon, American Red Squirrel, Great Blue Heron, Anna's Hummingbird, Song Sparrow, Dark-eyed Junco, Spotted Towhee, Stellar's Jay, Ruby-crowned Kinglet, Northern Flicker, Surf Scoter, Glaucous-winged Gull, Bald Eagle, Goosander, and Hooded Merganser,  taking my count up to 296 species.
+>I've been in Canada for nearly 2 weeks and I've added some more birds to my photographic life list. Added 22nd Jan 2025 are; Black-Capped Chickadee, American Dipper, Short-Billed Gull, Golden-crowned Kinglet, and the Downy Woodpecker. This takes the total up to **301**!
 
 
 ## Jump Links
@@ -324,6 +324,10 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/x06Aa04.jpeg)
 *England (Porter Valley) - 2023*
 
+#### Short-Billed Gull
+![](https://i.imgur.com/JoIlSpf.jpeg)
+*Canada (British Columbia) Juv & Adult - 2025*
+
 #### Black-legged Kittiwake
 ![](https://i.imgur.com/Nnsh3ds.jpeg)
 *England (Bempton Cliffs) - 2023*
@@ -607,6 +611,10 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/Nj97pHI.jpeg)
 *England - 2024*
 
+#### American Dipper
+![](https://i.imgur.com/urbFltC.jpeg)
+*Canada (British Columbia) - 2025*
+
 ---
 
 ### Wagtails
@@ -626,6 +634,10 @@ _Canada (British Columbia) - 2025_
 #### Great Spotted Woodpecker
 ![](https://i.imgur.com/AswJJZ0.jpeg)
 *England - 2023*
+
+#### Downy Woodpecker
+![](https://i.imgur.com/qR4p4XF.jpeg)
+*Canada (British Columbia) - 2025*
 
 #### Green Woodpecker
 ![](https://i.imgur.com/bvl49eJ.jpeg)
@@ -688,6 +700,10 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/HwQ1Q4V.jpeg)
 *Scotland - 2020*
 
+#### Black-Capped Chickadee
+![](https://i.imgur.com/78vZumd.jpeg)
+*Canada (British Columbia) - 2025*
+
 #### Cinereous Tit
 ![](https://i.imgur.com/w8TbZoT.jpeg)
 *India - 2022*
@@ -703,7 +719,6 @@ _Canada (British Columbia) - 2025_
 #### Bearded Tit
 ![](https://i.imgur.com/kY7v020.jpeg)
 *England - 2019*
-
 
 #### European House Sparrow
 ![](https://i.imgur.com/qb4koq8.jpeg)
@@ -724,9 +739,6 @@ _Canada (British Columbia) - 2025_
 #### Spotted Towhee
 ![](https://i.imgur.com/S33qSlU.jpeg)
 _Canada (British Columbia) - 2025_
-
-
-
 
 #### European Goldfinch
 ![](https://i.imgur.com/gMlsDY0.jpeg)
@@ -788,7 +800,6 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/KyTRp2Z.jpeg)
 *England - 2023*
 
-
 #### Eurasian Blackcap (female)
 ![](https://i.imgur.com/8wvn4XK.jpeg)
 *England - 2024*
@@ -823,7 +834,7 @@ _Canada (British Columbia) - 2025_
 
 #### European Wren
 ![](https://i.imgur.com/Jx1OBGR.jpeg)
-*England -2020*
+*England - 2020*
 
 #### Pacific Wren
 ![](https://i.imgur.com/Q6YfL58.jpeg)
@@ -832,6 +843,10 @@ _Canada (British Columbia) - 2025_
 #### European Goldcrest
 ![](https://i.imgur.com/chMwKdD.jpeg)
 *England - 2024*
+
+#### Golden-crowned Kinglet
+![](https://i.imgur.com/IJH4Rbk.jpeg)
+*Canada (British Columbia) - 2025*
 
 #### Ruby-crowned Kinglet
 ![](https://i.imgur.com/shZYCU4.jpeg)
