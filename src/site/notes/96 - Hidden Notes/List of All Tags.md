@@ -17,20 +17,20 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #Birds(10)                |
 | #tech(8)                  |
 | #birding(6)               |
+| #canada(6)                |
 | #photostory(6)            |
-| #canada(5)                |
+| #travel(6)                |
 | #Music(5)                 |
 | #photo(5)                 |
-| #travel(5)                |
 | #blog(4)                  |
 | #composers(4)             |
 | #drone(4)                 |
+| #IEC(4)                   |
 | #astrophotography(3)      |
 | #birds(3)                 |
 | #BlogPost(3)              |
 | #cameras(3)               |
 | #conservation(3)          |
-| #IEC(3)                   |
 | #Tech(3)                  |
 | #tigers(3)                |
 | #Camera(2)                |
@@ -59,10 +59,12 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #aristotle(1)             |
 | #Atmosphere(1)            |
 | #auroraborealis(1)        |
+| #auto(1)                  |
 | #Baroque(1)               |
 | #britishbirds(1)          |
 | #calgary(1)               |
 | #cameragear(1)            |
+| #car(1)                   |
 | #cats(1)                  |
 | #classical(1)             |
 | #clouds(1)                |
@@ -115,6 +117,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #systemsthinking(1)       |
 | #twitterx(1)              |
 | #vancouver(1)             |
+| #vehicle(1)               |
 | #waste(1)                 |
 | #Wildlife(1)              |
 
