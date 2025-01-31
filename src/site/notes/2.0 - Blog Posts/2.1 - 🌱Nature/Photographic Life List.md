@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T06:20:47.563-07:00","updated":"2025-01-22T23:37:10.362-08:00"}
+{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T06:20:47.563-07:00","updated":"2025-01-30T20:20:50.373-08:00"}
 ---
 
 #photography #nature #lifelist
@@ -10,10 +10,10 @@ I never used to be bothered about keeping a life list, it seemed a bit pointless
 
 The categories below are not intended to be taxonomic in nature, more rough groupings based on what feels right. The location and date are those of the photo presented and not necessarily the first sighting as I update images when I improve on previous. All animals are wild, nothing captive here apart from the odd escapee which has become established (e.g., parakeets and wood duck in the UK).
 
-This list sits at **301** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full eBird profile can be found [here](https://ebird.org/profile/MzcxOTEyNA/world).
+This list sits at **303** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full eBird profile can be found [here](https://ebird.org/profile/MzcxOTEyNA/world).
 
 >[!NEW] Recent Updates
->I've been in Canada for nearly 2 weeks and I've added some more birds to my photographic life list. Added 22nd Jan 2025 are; Black-Capped Chickadee, American Dipper, Short-Billed Gull, Golden-crowned Kinglet, and the Downy Woodpecker. This takes the total up to **301**!
+>Just added some fungi to the list - 30 Jan 2025
 
 
 ## Jump Links
@@ -1331,6 +1331,10 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/AHL010r.jpeg)
 *England - 2021*
 
+#### Woolly Birds Nest Fungus
+![](https://i.imgur.com/AFEBTn0.jpeg)
+*Canada (British Columbia) - 2025*
+
 ---
 
 ### Spore Shooters
@@ -1382,10 +1386,17 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/tFFc2wi.jpeg)
 *England - 2019*
 
+### Lichens
+
+#### Toy Soldiers
+![](https://i.imgur.com/o6iS9g0.jpeg)
+*England (Hatfield Moors) - 2021*
 
 
 
 *Footnote: fungi identification is difficult. These are my best guesses and should **NOT** be used to identify any species of fungus.*
+
+_Note: I'm aware lichen are not just fungi, I'm just lumping them in with fungi for the purposes of this list._
 
 ---
 Created by Niall Bell (niall@niallbell.com)
