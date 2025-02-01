@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-0-blog-posts/2-2-music/symphony-no-2-iv-op36-beethoven/","title":"Symphony No. 2 IV Op 36","hide":true,"tags":["Music","composers","classical"],"noteIcon":null,"created":"2024-04-18T14:53:02.000-07:00","updated":"2024-11-21T07:05:13.319-08:00"}
+{"dg-publish":true,"permalink":"/2-0-blog-posts/2-2-music/symphony-no-2-iv-op36-beethoven/","title":"Symphony No. 2 IV Op 36","hide":true,"tags":["Music","composers","classical"],"noteIcon":null,"created":"2024-04-18T14:53:02.000-07:00","updated":"2025-01-30T20:32:38.948-08:00"}
 ---
 
 #Music #classical 
@@ -21,7 +21,7 @@ Beethoven spent a lot of time out of the city at his brothers residence which wa
 
 Go listen to the movement and the bird song and see if you pick up on it. It’s remarkably similar! As much as I love Beethoven, I think the Cetti’s warbler does it better!
 
-
+Niall
 
 ---
 Created by Niall Bell (niall@niallbell.com)

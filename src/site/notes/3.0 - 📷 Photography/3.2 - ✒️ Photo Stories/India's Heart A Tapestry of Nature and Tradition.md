@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"indias-heart-a-tapestry-of-nature-and-tradition","permalink":"/indias-heart-a-tapestry-of-nature-and-tradition/","title":"India's Heart: A Tapestry of Nature and Tradition","metatags":{"og:title":"{{title}}","og:description":"{{description}}","og:image":"{{header-image}}"},"hide":true,"tags":["photography","nature","wildlife","india","tigers"],"noteIcon":null,"created":"2024-04-22T12:50:58.954-07:00","updated":"2024-05-12T14:02:22.197-07:00"}
+{"dg-publish":true,"dg-permalink":"indias-heart-a-tapestry-of-nature-and-tradition","permalink":"/indias-heart-a-tapestry-of-nature-and-tradition/","title":"India's Heart: A Tapestry of Nature and Tradition","metatags":{"og:title":"{{title}}","og:description":"{{description}}","og:image":"{{header-image}}"},"hide":true,"tags":["photography","nature","wildlife","india","tigers"],"noteIcon":null,"created":"2024-04-22T12:50:58.954-07:00","updated":"2025-01-30T21:13:01.612-08:00"}
 ---
 
 #photostory #photography #india
@@ -9,7 +9,7 @@
 # India's Heart: A Tapestry of Nature and Tradition
 <p id="reading-time" style="font-style: italic;">⏱️ Approx Reading Time:  <span id="inserted-text"></span> mins</p>
 
-In November 2022, I packed my bags and headed to India in search of wildlife; Specifically the [[Royal Bengal Tiger\|Royal Bengal Tiger]]. During my two weeks in [[India\|India]], I gained so much more than I had hoped. I met some incredible people, saw some unbelievable sights and was able to photograph some of the planet’s most beautiful wildlife. India reaches far past the expectations you may already hold. In this story, I will share some of these experiences and photographs, both human and wildlife.
+In November 2022, I packed my bags and headed to India in search of wildlife; Specifically the Royal Bengal Tiger. During my two weeks in India, I gained so much more than I had hoped. I met some incredible people, saw some unbelievable sights and was able to photograph some of the planet’s most beautiful wildlife. India reaches far past the expectations you may already hold. In this story, I will share some of these experiences and photographs, both human and wildlife.
 
 ## Arriving in Mumbai
 
@@ -86,13 +86,13 @@ After a long drive in the hot conditions, I finally arrived at my destination, a
 
 ![](https://i.imgur.com/o4HxJT3.jpeg)
 
-We passed through many small villages during our excursions looking for tigers. The local village to our lodge was a hive of activity. It took me several days to see the villages for what they really are, thriving communities full of happiness, children, great food and people’s homes. To western eyes these villages look like dire poverty, however this isn’t strictly the reality. Make no mistake, there are social issues at play, however this is a different way of living and when you see it, your world view changes dramatically.
+We passed through many small villages during our excursions looking for tigers. The local village to our lodge was a hive of activity. It took me several days to see the villages for what they really are, thriving communities full of happiness, families, great food and people’s homes. To western eyes these villages look like dire poverty, however this isn’t strictly the reality. Make no mistake, there are social issues at play, however this is a different way of living and when you see it, your world view changes dramatically.
 
 ### Beings From Another World
 
 ![](https://i.imgur.com/p8pBBOj.jpeg)
 
-My choice of caption might be interpreted in bad taste. The caption comes from friends and family who say these women look like aliens due to the items stacks a top their heads. This image shows eight women walking back to the village after cleaning clothing in a local stream. This is common practice and struck me as remarkable. We don’t think twice about throwing our clothes in a washing machine. These communities take several hours to wash their clothes, it’s part of life. In this image I was stood at the gates of our lodge after being advised not to leave at night due to coyotes and those big cats that are known to live in this area. These women were superbly back-lit by a passing car which made for a great photograph.
+My choice of caption might be interpreted in bad taste. The caption comes from friends and family who say these women look like aliens due to the items stacked a top their heads. This image shows eight women walking back to the village after cleaning clothing in a local stream. This is common practice and struck me as remarkable. We don’t think twice about throwing our clothes in a washing machine. These communities take several hours to wash their clothes, it’s part of life. In this image I was stood at the gates of our lodge after being advised not to leave at night due to coyotes and those big cats that are known to live in this area. These women were superbly back-lit by a passing car which made for a great photograph.
 
 ### Indian Sunset
 
