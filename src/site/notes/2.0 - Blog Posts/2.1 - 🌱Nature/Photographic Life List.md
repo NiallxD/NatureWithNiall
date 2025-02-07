@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T06:20:47.563-07:00","updated":"2025-01-30T20:20:50.373-08:00"}
+{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T06:20:47.563-07:00","updated":"2025-02-05T21:32:39.928-08:00"}
 ---
 
 #photography #nature #lifelist
@@ -10,10 +10,10 @@ I never used to be bothered about keeping a life list, it seemed a bit pointless
 
 The categories below are not intended to be taxonomic in nature, more rough groupings based on what feels right. The location and date are those of the photo presented and not necessarily the first sighting as I update images when I improve on previous. All animals are wild, nothing captive here apart from the odd escapee which has become established (e.g., parakeets and wood duck in the UK).
 
-This list sits at **303** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full eBird profile can be found [here](https://ebird.org/profile/MzcxOTEyNA/world).
+This list sits at **308** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full eBird profile can be found [here](https://ebird.org/profile/MzcxOTEyNA/world).
 
 >[!NEW] Recent Updates
->Just added some fungi to the list - 30 Jan 2025
+>Added sharp-shinned hawk, varied thrush, North American river otter, and harbour seal. I also added an old photo from 2018 of a song thrush - 5th Feb 2025
 
 
 ## Jump Links
@@ -145,9 +145,13 @@ _Canada (British Columbia) - 2025_
 
 ### Wet Mammals
 
-#### Otter
+#### Eurasian Otter
 ![](https://i.imgur.com/7aHkiwB.jpeg)
 *Scotland - 2023*
+
+#### North American River Otter
+![](https://i.imgur.com/i9ieayq.jpeg)
+*Canada (British Columbia) - 2025*
 
 #### Grey Seal
 ![](https://i.imgur.com/3Vjlcls.jpeg)
@@ -156,6 +160,10 @@ _Canada (British Columbia) - 2025_
 #### Common Seal
 ![](https://i.imgur.com/VZUQpXl.jpeg)
 *Scotland (Isle of Skye) - 2024*
+
+#### Harbour Seal
+![](https://i.imgur.com/nSRL4cn.jpeg)
+*Canada (British Columbia) - 2025*
 
 #### Bottlenose Dolphin
 ![](https://i.imgur.com/CfKZXZ3.jpeg)
@@ -207,6 +215,10 @@ _Canada (British Columbia) - 2025_
 
 ![](https://i.imgur.com/FFvZysJ.jpeg)
 *India - 2022*
+
+#### Sharp-shinned Hawk
+![](https://i.imgur.com/S1WKy87.jpeg)
+*Canada (British Columbia) - 2025*
 
 #### White-eyed Buzzard
 ![](https://i.imgur.com/9HW7FNd.jpeg)
@@ -872,6 +884,14 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/qSih3JU.jpeg)
 *England - 2020*
 
+#### Varied Thrush
+![](https://i.imgur.com/Mh4hzGp.jpeg)
+*Canada (British Columbia) - 2025*
+
+#### Song Thrush
+![](https://i.imgur.com/85pGnLj.jpeg)
+*England - 2018*
+
 #### Bohemian Waxwing
 ![](https://i.imgur.com/4uDdvAe.jpeg)
 *England - 2023*
@@ -937,7 +957,7 @@ _Canada (British Columbia) - 2025_
 *England - 2019*
 
 #### Stellar's Jay
-![](https://i.imgur.com/3rd3DZ3.jpeg)
+![](https://i.imgur.com/6hte6Bh.jpeg)
 _Canada (British Columbia) - 2025_
 
 

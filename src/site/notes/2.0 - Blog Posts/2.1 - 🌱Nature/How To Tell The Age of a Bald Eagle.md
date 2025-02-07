@@ -1,10 +1,13 @@
 ---
-{"dg-publish":true,"dg-permalink":"/bald-eagle-age","permalink":"/bald-eagle-age/","title":"How To Tell The Age of a Bald Eagle","hide":true,"tags":["Eagle","photo","photography","#ageguide"],"noteIcon":"1","created":"2025-01-20T20:00:59.871-08:00","updated":"2025-02-01T22:32:18.552-08:00"}
+{"dg-publish":true,"dg-permalink":"/bald-eagle-age","permalink":"/bald-eagle-age/","title":"How To Tell The Age of a Bald Eagle","hide":true,"tags":["Eagle","photo","photography","#ageguide"],"noteIcon":"1","created":"2025-01-20T20:00:59.871-08:00","updated":"2025-02-06T21:05:50.003-08:00"}
 ---
 
 #eagle #ageguide #photography #birding
 # How To Tell The Age of a Bald Eagle
 <p id="reading-time" style="font-style: italic;">⏱️ Approx Reading Time:  <span id="inserted-text"></span> mins</p>
+
+>[!WARNING] Update 6th Feb 2025
+>I have added some comparison photos to show the difference between the male and female bald eagle. Check them out at the bottom of this article.
 
 Ever wondered how to tell the age of a bald eagle (Haliaeetus leucocephalus)? I have, so I set some time aside to do some research and then put it into practice by observing birds in the wild. Bald Eagle plumage varies by age for the first five or so years of their life. When birds exhibit this kind of plumage change they are said to have delayed plumage maturation. This can be useful as it makes it easier to derive the age of a bird from observation.
 
@@ -102,7 +105,31 @@ I wanted to wrap this up by just covering a bit about the differences between ma
 3. Females have a longer hallux talons which can be twice as long.
 4. Finally, males are generally more slender and less stocky owing to their role as chief hunters during breeding.
 
-Thanks for reading, I hope you found this useful. If there is anything you think I shoudl add, or if you noticed any errors please [do let me know](mailto:niall@niallbell.com). I'm learning as I go here!
+Update: I now have a photo of a male and female side by side, these images are photoshopped to make it easier to see the difference:
+
+### Body Size
+
+Here you can see the bird on the right is a tad larger than the one on the left, this makes it easier to tell the sex of the bird.
+
+![](https://i.imgur.com/GuGCvdF.jpeg)
+*Male on the left, female on the right. The female can be up to 25% larger.*
+
+### Bill Depth
+
+The depth of the bill can also be an indicator of sex with the female bill being deeper. Here you can see the bill depth variance.
+
+![](https://i.imgur.com/l4G82P6.jpeg)
+*Male on the left, female on the right. The female bill tends to be deeper than the male.*
+
+
+>[!NOTE] Original Side by Side
+>This is the original side by side photograph.
+>
+>![](https://i.imgur.com/9PWTwgz.jpeg)
+
+Thanks for reading, I hope you found this useful. If there is anything you think I should add, or if you noticed any errors please [do let me know](mailto:niall@niallbell.com). I'm learning as I go here!
+
+Niall
 
 ---
 Created by Niall Bell (niall@niallbell.com)
