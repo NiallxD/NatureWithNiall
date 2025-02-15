@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T06:20:47.563-07:00","updated":"2025-02-05T21:32:39.928-08:00"}
+{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T06:20:47.563-07:00","updated":"2025-02-14T21:58:32.203-08:00"}
 ---
 
 #photography #nature #lifelist
@@ -10,10 +10,10 @@ I never used to be bothered about keeping a life list, it seemed a bit pointless
 
 The categories below are not intended to be taxonomic in nature, more rough groupings based on what feels right. The location and date are those of the photo presented and not necessarily the first sighting as I update images when I improve on previous. All animals are wild, nothing captive here apart from the odd escapee which has become established (e.g., parakeets and wood duck in the UK).
 
-This list sits at **308** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full eBird profile can be found [here](https://ebird.org/profile/MzcxOTEyNA/world).
+This list sits at **313** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full eBird profile can be found [here](https://ebird.org/profile/MzcxOTEyNA/world).
 
 >[!NEW] Recent Updates
->Added sharp-shinned hawk, varied thrush, North American river otter, and harbour seal. I also added an old photo from 2018 of a song thrush - 5th Feb 2025
+>Added pileated woodpecker, hairy woodpecker, red-breasted sapsucker, purple finch, Wilson's snipe, red-winged blackbird, and bufflehead  - 5th Feb 2025
 
 
 ## Jump Links
@@ -196,7 +196,7 @@ _Canada (British Columbia) - 2025_
 ### Birds of Prey
 
 #### Bald Eagle
-![](https://i.imgur.com/jxxUz6b.jpeg)
+![](https://i.imgur.com/cr4up8J.jpeg)
 _Canada (British Columbia) - 2025_
 
 #### White-tailed Eagle
@@ -212,7 +212,6 @@ _Canada (British Columbia) - 2025_
 *England - 2024*
 
 #### Shikra
-
 ![](https://i.imgur.com/FFvZysJ.jpeg)
 *India - 2022*
 
@@ -504,7 +503,7 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/Ll0qUfR.jpeg)
 *Scotland (Isle of Skye) - 2024*
 
-#### Sanderline
+#### Sanderling
 ![](https://i.imgur.com/zaSgKRO.jpeg)
 *Ireland (Dolly Mount Strand) - 2023*
 
@@ -515,6 +514,10 @@ _Canada (British Columbia) - 2025_
 #### Common Snipe
 ![](https://i.imgur.com/Lbu5VSK.jpeg)
 *England - 2018*
+
+#### Wilson's Snipe
+![](https://i.imgur.com/WcLHD4C.jpeg)
+_Canada (British Columbia) - 2025_
 
 #### Common Redshank
 ![](https://i.imgur.com/3Pu5wel.jpeg)
@@ -564,6 +567,10 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/1Kxs5bR.jpeg)
 *BC, Canada (Vancouver Port) - 2025*
 
+#### Bufflehead
+![](https://i.imgur.com/gENZQFE.jpeg)
+*Canada (British Columbia) - 2025*
+
 #### Green-winged Teal
 ![](https://i.imgur.com/c9L6Xkr.jpeg)
 *England - 2023*
@@ -607,11 +614,11 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/DcfdeAK.jpeg)
 *England - 2023*
 
-#### Slavonian Grebe
+#### Slavonian Grebe (Horned Grebe)
 ![](https://i.imgur.com/4NqSQrb.jpeg)
 *England - 2023*
 
-#### Black-necked Grebe
+#### Black-necked Grebe (Eared Grebe)
 ![](https://i.imgur.com/VPmhKCu.jpeg)
 *England - 2024*
 
@@ -648,7 +655,11 @@ _Canada (British Columbia) - 2025_
 *England - 2023*
 
 #### Downy Woodpecker
-![](https://i.imgur.com/qR4p4XF.jpeg)
+![](https://i.imgur.com/xlqouDL.jpeg)
+*Canada (British Columbia) - 2025*
+
+#### Hairy Woodpecker
+![](https://i.imgur.com/EPZikFP.jpeg)
 *Canada (British Columbia) - 2025*
 
 #### Green Woodpecker
@@ -659,8 +670,16 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/5n0yaHi.jpeg)
 *India - 2022*
 
+#### Pileated Woodpecker
+![](https://i.imgur.com/VnRXMkp.jpeg)
+*Canada (British Columbia) - 2025*
+
 #### Northern Flicker
 ![](https://i.imgur.com/HlqqCrv.jpeg)
+_Canada (British Columbia) - 2025_
+
+#### Red-breasted Sapsucker
+![](https://i.imgur.com/FPGjpdm.jpeg)
 _Canada (British Columbia) - 2025_
 
 
@@ -741,7 +760,7 @@ _Canada (British Columbia) - 2025_
 *England - 2023*
 
 #### Song Sparrow
-![](https://i.imgur.com/wi1b0Nb.jpeg)
+![](https://i.imgur.com/CtayQIS.jpeg)
 _Canada (British Columbia) - 2025_
 
 #### Dark-eyed Junco
@@ -763,6 +782,10 @@ _Canada (British Columbia) - 2025_
 #### European Greenfinch
 ![](https://i.imgur.com/bBO7VTU.jpeg)
 *England - 2019*
+
+#### Purple Finch
+![](https://i.imgur.com/ahwiMyc.jpeg)
+_Canada (British Columbia) - 2025_
 
 #### Twite
 ![](https://i.imgur.com/xFWyaAy.jpeg)
@@ -876,9 +899,13 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/YGXEsJG.jpeg)
 *England - 2023*
 
-#### European Black Bird
+#### European Blackbird
 ![](https://i.imgur.com/uZMwnjT.jpeg)
 *England - 2023*
+
+#### Red-winged Blackbird
+![](https://i.imgur.com/jvAOIus.jpeg)
+_Canada (British Columbia) - 2025_
 
 #### Redwing
 ![](https://i.imgur.com/qSih3JU.jpeg)
@@ -1044,10 +1071,6 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/UR8SwpY.jpeg)
 *India - 2022*
 
-#### Red-vented Bulbul
-![](https://i.imgur.com/AcNAyil.jpeg)
-*India - 2022*
-
 #### Sandhill Crane
 ![](https://i.imgur.com/seLrmjN.jpeg)
 *Florida - 2016*
@@ -1059,7 +1082,6 @@ _Canada (British Columbia) - 2025_
 #### Common Frog
 ![](https://i.imgur.com/YkJu7zY.jpeg)
 *England (My Garden) - 2022*
-
 
 #### Indian Bullfrog
 ![](https://i.imgur.com/7kLUiu0.jpeg)
@@ -1106,7 +1128,6 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/HA7SWVE.jpeg)
 *England (My Garden) - 2021*
 
-
 #### Dock Bug
 ![](https://i.imgur.com/eMc2gAT.jpeg)
 *England (Potteric Carr Nature Reserve) - 2024*
@@ -1123,7 +1144,7 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/VHRDDL6.jpeg)
 *England (Potteric Carr Nature Reserve) - 2024*
 
-#### Cercopis vulnerata (Sp. Foghopper)
+#### Cercopis vulnerata (Sp. Froghopper)
 ![](https://i.imgur.com/nVs8PWU.jpeg)
 *England (Potteric Carr Nature Reserve) - 2024*
 
