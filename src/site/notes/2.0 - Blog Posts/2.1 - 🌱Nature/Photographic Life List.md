@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T06:20:47.563-07:00","updated":"2025-02-14T21:58:32.203-08:00"}
+{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T06:20:47.563-07:00","updated":"2025-02-14T21:59:17.238-08:00"}
 ---
 
 #photography #nature #lifelist
@@ -13,7 +13,7 @@ The categories below are not intended to be taxonomic in nature, more rough grou
 This list sits at **313** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full eBird profile can be found [here](https://ebird.org/profile/MzcxOTEyNA/world).
 
 >[!NEW] Recent Updates
->Added pileated woodpecker, hairy woodpecker, red-breasted sapsucker, purple finch, Wilson's snipe, red-winged blackbird, and bufflehead  - 5th Feb 2025
+>Added pileated woodpecker, hairy woodpecker, red-breasted sapsucker, purple finch, Wilson's snipe, red-winged blackbird, and bufflehead  - 14th Feb 2025
 
 
 ## Jump Links
