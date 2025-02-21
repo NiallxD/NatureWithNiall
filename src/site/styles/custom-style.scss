@@ -456,7 +456,7 @@ body {
     }
 
     nav.filetree-sidebar {
-        top: 20px;
+        top: 0px;
         left: 20px;
         position: fixed;
         height: calc(100% - 160px);
@@ -768,7 +768,7 @@ body.backlinks-note-icon .backlink[data-note-icon="withered"]::before {
 
 .sidebar {
     position: fixed;
-    top: 20px;
+    top: 0px;
     right: 0;
     height: 100%;
     min-width: 25px;
