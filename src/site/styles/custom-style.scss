@@ -55,7 +55,7 @@ body.theme-dark {
         background-color: #1E1E1E;
     }
     
-    .search-button::before {
+    .filetree-sidebar::before {
         content: " ";
         display: inline-block;
         width: 24px; /* Adjust the width to match your design */
@@ -178,7 +178,7 @@ body.theme-light {
         background-color: #FFFFFF;
     }
     
-    .search-button::before {
+    .filetree-sidebar::before {
         content: " ";
         display: inline-block;
         width: 24px; /* Adjust the width to match your design */
