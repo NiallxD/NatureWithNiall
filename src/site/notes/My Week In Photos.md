@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"My Week In Photos","hide":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T10:48:02.767-07:00","updated":"2024-12-30T16:18:47.323-08:00"}
+{"dg-publish":true,"dg-permalink":"/my-week-in-photos","permalink":"/my-week-in-photos/","title":"My Week In Photos","hide":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","noteIcon":null,"created":"2024-04-14T10:48:02.767-07:00","updated":"2025-02-21T13:26:38.502-08:00"}
 ---
+
+![](https://i.imgur.com/LyTYh2U.jpeg)
 
 #photography #photofeed
 
