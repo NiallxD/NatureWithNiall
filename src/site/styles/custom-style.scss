@@ -302,7 +302,7 @@ body {
         margin: auto;
         font-size: 18px;
         line-height: 1.5;
-        margin-top: 90px;
+        margin-top: 0px;
         position: relative;
     
         @media (max-width: 1000px) {
@@ -456,7 +456,7 @@ body {
     }
 
     nav.filetree-sidebar {
-        top: 85px;
+        top: 20px;
         left: 20px;
         position: fixed;
         height: calc(100% - 160px);
