@@ -55,17 +55,18 @@ body.theme-dark {
         background-color: #1E1E1E;
     }
     
-    nav.filetree-sidebar h1::before {
+    .search-button::before {
         content: " ";
-        display: block; /* Change this to block */
-        width: 100%; /* Adjust the width to 100% */
-        height: 170px;
+        display: inline-block;
+        width: 24px; /* Adjust the width to match your design */
+        height: 24px; /* Adjust the height to match your design */
         background-size: contain;
         background-repeat: no-repeat;
-        background-image: url(/img/Logo-light.svg);
-        margin-bottom: 5px; /* Change margin-right to margin-bottom */
-        background-position: center; /* Adjust the background-position to center */
+        background-image: url('/img/Logo-light.svg'); /* Use the path to your logo */
+        margin-right: 8px; /* Adjust based on your design */
+        background-position: center;
     }
+
     
     #floating-control {
         position: fixed;
@@ -177,17 +178,18 @@ body.theme-light {
         background-color: #FFFFFF;
     }
     
-    nav.filetree-sidebar h1::before {
+    .search-button::before {
         content: " ";
-        display: block; /* Change this to block */
-        width: 100%; /* Adjust the width to 100% */
-        height: 170px;
+        display: inline-block;
+        width: 24px; /* Adjust the width to match your design */
+        height: 24px; /* Adjust the height to match your design */
         background-size: contain;
         background-repeat: no-repeat;
-        background-image: url(/img/Logo-dark.svg);
-        margin-bottom: 5px; /* Change margin-right to margin-bottom */
-        background-position: center; /* Adjust the background-position to center */
-    } 
+        background-image: url('/img/Logo-dark.svg'); /* Use the path to your logo */
+        margin-right: 8px; /* Adjust based on your design */
+        background-position: center;
+    }
+
     
     #floating-control {
         position: fixed;
@@ -881,6 +883,10 @@ img.panorama {
 }
 
 .header-meta {
+    display: none;
+}
+
+nav.filetree-sidebar h1 {
     display: none;
 }
 
