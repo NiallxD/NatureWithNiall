@@ -586,7 +586,10 @@ body {
         }
     }
 
-    
+    .markdown-preview-view:not(.cards) .table-view-table>tbody>tr>td, .markdown-source-view.mod-cm6:not(.cards) .table-view-table>tbody>tr>td {
+        max-width: 100%;
+        }
+        
     .cards {
         table.dataview {
             width: var(--table-width);
