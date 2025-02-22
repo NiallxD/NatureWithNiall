@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T06:20:47.563-07:00","updated":"2025-02-14T21:59:17.238-08:00"}
+{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T06:20:47.563-07:00","updated":"2025-02-21T21:37:38.856-08:00"}
 ---
 
 #photography #nature #lifelist
@@ -10,17 +10,22 @@ I never used to be bothered about keeping a life list, it seemed a bit pointless
 
 The categories below are not intended to be taxonomic in nature, more rough groupings based on what feels right. The location and date are those of the photo presented and not necessarily the first sighting as I update images when I improve on previous. All animals are wild, nothing captive here apart from the odd escapee which has become established (e.g., parakeets and wood duck in the UK).
 
-This list sits at **313** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full eBird profile can be found [here](https://ebird.org/profile/MzcxOTEyNA/world).
+This list sits at **325** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full eBird profile can be found [here](https://ebird.org/profile/MzcxOTEyNA/world).
+
+| Mammals | Birds | Plants | Fungi | Herps | Bugs |
+| ------- | ----- | ------ | ----- | ----- | ---- |
+| 31      | 213   | 3      | 23    | 3     | 50   |
+|         |       |        |       |       |      |
+
 
 >[!NEW] Recent Updates
->Added pileated woodpecker, hairy woodpecker, red-breasted sapsucker, purple finch, Wilson's snipe, red-winged blackbird, and bufflehead  - 14th Feb 2025
-
+>Added red-tailed hawk, merlin, barred owl, and American robin  - 21st Feb 2025
 
 ## Jump Links
 
 Use these links to jump to specific sections. For those one desktop use the contents list on the right of the page.
 
-[Mammals](https://niallbell.com/photographic-life-list/#mammals) | [Birds](https://niallbell.com/photographic-life-list/#birds) | [Plants](https://niallbell.com/photographic-life-list/#plants) | [Fungi](https://niallbell.com/photographic-life-list/#fungi) | [Amphibians](https://niallbell.com/photographic-life-list/#amphibians) | [Bugs](https://niallbell.com/photographic-life-list/#bugs-et-al)
+[Mammals](https://niallbell.com/photographic-life-list/#mammals) | [Birds](https://niallbell.com/photographic-life-list/#birds) | [Plants](https://niallbell.com/photographic-life-list/#plants) | [Fungi](https://niallbell.com/photographic-life-list/#fungi) | [Herps](https://niallbell.com/photographic-life-list/#herps) | [Bugs](https://niallbell.com/photographic-life-list/#bugs-et-al)
 
 ## Mammals
 
@@ -235,6 +240,10 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/nNX3GBK.jpeg)
 *England - 2019*
 
+#### Red-tailed Hawk
+![](https://i.imgur.com/NVoK2a2.jpeg)
+*Canada (British Columbia) - 2025*
+
 #### Common Kestrel
 ![](https://i.imgur.com/1sTd3Kq.jpeg)
 *England - 2019*
@@ -242,6 +251,10 @@ _Canada (British Columbia) - 2025_
 #### Hobby
 ![](https://i.imgur.com/StImfXt.jpeg)
 *England - 2023*
+
+#### Merlin
+![](https://i.imgur.com/8sxXq9G.jpeg)
+*Canada (British Columbia) - 2025*
 
 #### Red Kite
 ![](https://i.imgur.com/ECqTpp1.jpeg)
@@ -258,6 +271,11 @@ _Canada (British Columbia) - 2025_
 #### Peregrine Falcon
 ![](https://i.imgur.com/tRKf0qI.jpeg)
 *England - 2022*
+
+#### Barred Owl
+
+![](https://i.imgur.com/woglA4l.jpeg)
+*Canada (British Columbia) - 2025*
 
 #### Tawny Owl
 ![](https://i.imgur.com/yGzQaOg.jpeg)
@@ -715,6 +733,10 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/E7CXMdN.jpeg)
 *England - 2018*
 
+#### American Robin
+![](https://i.imgur.com/4RzJzZo.jpeg)
+*Canada (British Columbia) - 2025*
+
 #### Oriental Magpie Robin
 ![](https://i.imgur.com/J3MpoV8.jpeg)
 *India - 2022*
@@ -1077,7 +1099,7 @@ _Canada (British Columbia) - 2025_
 
 ---
 
-## Amphibians
+## Herps
 
 #### Common Frog
 ![](https://i.imgur.com/YkJu7zY.jpeg)
