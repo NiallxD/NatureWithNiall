@@ -908,3 +908,30 @@ nav.filetree-sidebar h1 {
     margin-left: -25%; /* Adjust based on the width */
 }
 
+.table-wrapper {
+    width: 100%;
+    margin: 20px 0;
+    border-collapse: collapse;
+    box-shadow: 0 2px 3px rgba(0,0,0,0.1);
+}
+
+.table-wrapper th, .table-wrapper td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+.table-wrapper th {
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+.table-wrapper tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.table-wrapper tr:hover {
+    background-color: #f1f1f1;
+    transition: background-color 0.3s ease;
+}
+
