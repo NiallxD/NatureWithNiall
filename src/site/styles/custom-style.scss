@@ -627,33 +627,36 @@ body {
     }
 
     .cards-cover-no-border {
-        table.dataview.table-view-table {
-            tbody {
-                tr {
-                    td:first-child {
-                        width: 100%;
-                        img {
-                            padding: 0;
-                        }
+    table.dataview.table-view-table {
+        tbody {
+            tr {
+                td:first-child {
+                    width: 100%;
+                    img {
+                        width: 100%; /* Fill the width of the card */
+                        height: auto; /* Maintain aspect ratio */
+                        padding: 0;
                     }
-                    // td:nth-child(2) {
-                    //     min-height: 70px;
-                    // }
+                }
+                // td:nth-child(2) {
+                //     min-height: 70px;
+                // }
 
-                    td {
-                        svg {
-                            width: 14px;
-                            height: auto;
-                        }
-
-                        display: flex;
-                        flex-direction: row;
-                        align-items: center;
+                td {
+                    svg {
+                        width: 14px;
+                        height: auto;
                     }
+
+                    display: flex;
+                    flex-direction: row;
+                    align-items: center;
                 }
             }
         }
     }
+}
+
 
     .cards-title-hide-icons {
         table.dataview.table-view-table {
