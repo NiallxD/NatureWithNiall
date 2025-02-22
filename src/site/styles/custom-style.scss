@@ -586,6 +586,7 @@ body {
         }
     }
 
+    
     .cards {
         table.dataview {
             width: var(--table-width);
@@ -672,6 +673,12 @@ body {
             }
         }
     }
+    table-view-table>tbody>tr>td {
+        text-align: left;
+        border: none;
+        font-weight: 400;
+        max-width: 100%;
+        }
 
     code[class*="language-"],
     pre[class*="language-"] {
