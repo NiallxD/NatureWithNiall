@@ -178,17 +178,32 @@ body.theme-light {
         background-color: #FFFFFF;
     }
     
+    /* Hide the h1 element in the sidebar with more specificity */
+nav.filetree-sidebar h1 {
+    display: none !important;
+}
+
+/* Add the logo in the sidebar */
+.filetree-sidebar::before {
+    content: " ";
+    display: inline-block;
+    width: 180px; /* Adjust the width to match your design */
+    height: 180px; /* Adjust the height to match your design */
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url('/img/Logo-light.svg'); /* Use the path to your logo */
+    margin: 0 auto;
+    background-position: center;
+}
+
+/* Adjust the logo size for mobile devices */
+@media only screen and (max-width: 600px) {
     .filetree-sidebar::before {
-        content: " ";
-        display: inline-block;
-        width: 180px; /* Adjust the width to match your design */
-        height: 180px; /* Adjust the height to match your design */
-        background-size: contain;
-        background-repeat: no-repeat;
-        background-image: url('/img/Logo-dark.svg'); /* Use the path to your logo */
-        margin: 0 auto;
-        background-position: center;
+        width: 100px; /* Adjust the width for mobile */
+        height: 100px; /* Adjust the height for mobile */
     }
+}
+
 
     
     #floating-control {
@@ -899,9 +914,6 @@ img.panorama {
     display: none;
 }
 
-nav.filetree-sidebar h1 {
-    display: none;
-}
 
 .wide-image {
     width: 150%; /* Adjust the percentage as needed */
