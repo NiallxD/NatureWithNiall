@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T06:20:47.563-07:00","updated":"2025-02-22T16:18:36.541-08:00"}
+{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T06:20:47.563-07:00","updated":"2025-02-22T16:19:58.484-08:00"}
 ---
 
 #photography #nature #lifelist
@@ -764,7 +764,7 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/HwQ1Q4V.jpeg)
 *Scotland - 2020*
 
-#### Black-Capped Chickadee
+#### Black-capped Chickadee
 ![](https://i.imgur.com/78vZumd.jpeg)
 *Canada (British Columbia) - 2025*
 
