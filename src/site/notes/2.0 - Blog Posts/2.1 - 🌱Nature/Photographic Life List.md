@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T06:20:47.563-07:00","updated":"2025-02-22T15:56:47.519-08:00"}
+{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T06:20:47.563-07:00","updated":"2025-02-22T16:18:36.541-08:00"}
 ---
 
 #photography #nature #lifelist
@@ -627,7 +627,7 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/E4m0t1c.jpeg)
 *England - 2023*
 
-#### Greater White Fronted Goose
+#### Greater-white Fronted Goose
 ![](https://i.imgur.com/EgFZKXU.jpeg)
 *Canada (British Columbia) - 2025*
 
