@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T06:20:47.563-07:00","updated":"2025-02-22T16:19:58.484-08:00"}
+{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T06:20:47.563-07:00","updated":"2025-02-26T09:50:31.132-08:00"}
 ---
 
 #photography #nature #lifelist
@@ -10,15 +10,15 @@ I never used to be bothered about keeping a life list, it seemed a bit pointless
 
 The categories below are not intended to be taxonomic in nature, more rough groupings based on what feels right. The location and date are those of the photo presented and not necessarily the first sighting as I update images when I improve on previous. All animals are wild, nothing captive here apart from the odd escapee which has become established (e.g., parakeets and wood duck in the UK).
 
-This list sits at **327** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full eBird profile can be found [here](https://ebird.org/profile/MzcxOTEyNA/world).
+This list sits at **331* species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full eBird profile can be found [here](https://ebird.org/profile/MzcxOTEyNA/world).
 
 | Mammals | Birds | Plants | Fungi | Herps | Bugs |
 | ------- | ----- | ------ | ----- | ----- | ---- |
-| 31      | 216   | 3      | 23    | 3     | 50   |
+| 33      | 218   | 3      | 23    | 3     | 50   |
 
 
 >[!NEW] Recent Updates
->Added red-tailed hawk, merlin, barred owl, northern pintail, greater white front goose, snow goose, and American robin  - 22nd Feb 2025
+>Added Pacific white-sided dolphins, Californian Sea Lion, harlequin duck, Eurasian wigeon  - 26th Feb 2025
 
 ## Jump Links
 
@@ -169,9 +169,19 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/nSRL4cn.jpeg)
 *Canada (British Columbia) - 2025*
 
+#### California Sea Lion
+![](https://i.imgur.com/4b8ly9t.jpeg)
+*Canada (British Columbia) - 2025*
+
 #### Bottlenose Dolphin
 ![](https://i.imgur.com/CfKZXZ3.jpeg)
 *England - 2023*
+
+#### Pacific White-sided Dolphin
+![](https://i.imgur.com/VEcLVqv.jpeg)
+*Canada (British Columbia) - 2025*
+
+
 
 ---
 
@@ -592,6 +602,10 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/c9L6Xkr.jpeg)
 *England - 2023*
 
+#### Eurasian Wigeon
+![](https://i.imgur.com/2Shpcaa.jpeg)
+*Canada (British Columbia) - 2025*
+
 #### Common Shelduck
 ![](https://i.imgur.com/Hn2irk6.jpeg)
 *England - 2018*
@@ -603,6 +617,10 @@ _Canada (British Columbia) - 2025_
 #### Surf Scoter
 ![](https://i.imgur.com/QJn9vrt.jpeg)
 _Canada (British Columbia) - 2025_
+
+#### Harlequin Duck
+![](https://i.imgur.com/ZQZuRA6.jpeg)
+*Canada (British Columbia) - 2025*
 
 #### Goosander
 ![](https://i.imgur.com/esaXUbM.jpeg)
