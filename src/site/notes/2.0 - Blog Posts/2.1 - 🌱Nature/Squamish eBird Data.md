@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"dg-permalink":"/squamish-ebird-data","permalink":"/squamish-ebird-data/","title":"Squamish eBird Data","hide":true,"tags":["ebird","Birds","nature","data"],"noteIcon":"1","created":"2025-03-16T17:10:00.315-07:00","updated":"2025-03-16T19:02:54.352-07:00"}
+{"dg-publish":true,"dg-permalink":"/squamish-ebird-data","permalink":"/squamish-ebird-data/","title":"Squamish eBird Data","hide":true,"tags":["ebird","Birds","nature","data"],"noteIcon":"1","created":"2025-03-16T17:10:00.315-07:00","updated":"2025-03-16T19:14:49.432-07:00"}
 ---
+
+![](https://i.imgur.com/XaKZYYT.jpeg)
 
 #ebird #birds #nature #data
 # Squamish eBird Data
