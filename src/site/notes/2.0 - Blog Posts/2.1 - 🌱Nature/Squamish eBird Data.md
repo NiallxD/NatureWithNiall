@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"dg-permalink":"/squamish-ebird-data","permalink":"/squamish-ebird-data/","title":"Squamish eBird Data","hide":true,"tags":["ebird","Birds","nature","data"],"noteIcon":"1","created":"2025-03-16T17:10:00.315-07:00","updated":"2025-03-16T19:01:01.862-07:00"}
+{"dg-publish":true,"dg-permalink":"/squamish-ebird-data","permalink":"/squamish-ebird-data/","title":"Squamish eBird Data","hide":true,"tags":["ebird","Birds","nature","data"],"noteIcon":"1","created":"2025-03-16T17:10:00.315-07:00","updated":"2025-03-16T19:02:54.352-07:00"}
 ---
 
 #ebird #birds #nature #data
 # Squamish eBird Data
 <p id="reading-time" style="font-style: italic;">⏱️ Approx Reading Time:  <span id="inserted-text"></span> mins</p>
+
 >[!WARNING] Work in Progress
 >This is a work in progress. I need to improve the tool and the appearance on the page.
 
