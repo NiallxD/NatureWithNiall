@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T06:20:47.563-07:00","updated":"2025-02-26T09:50:31.132-08:00"}
+{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T06:20:47.563-07:00","updated":"2025-03-22T22:01:10.341-07:00"}
 ---
 
 #photography #nature #lifelist
@@ -10,18 +10,17 @@ I never used to be bothered about keeping a life list, it seemed a bit pointless
 
 The categories below are not intended to be taxonomic in nature, more rough groupings based on what feels right. The location and date are those of the photo presented and not necessarily the first sighting as I update images when I improve on previous. All animals are wild, nothing captive here apart from the odd escapee which has become established (e.g., parakeets and wood duck in the UK).
 
-This list sits at **331* species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full eBird profile can be found [here](https://ebird.org/profile/MzcxOTEyNA/world).
+This list sits at **341* species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full eBird profile can be found [here](https://ebird.org/profile/MzcxOTEyNA/world).
 
 | Mammals | Birds | Plants | Fungi | Herps | Bugs |
 | ------- | ----- | ------ | ----- | ----- | ---- |
-| 33      | 218   | 3      | 23    | 3     | 50   |
+| 33      | 228   | 3      | 23    | 3     | 50   |
 
 
 >[!NEW] Recent Updates
->Added Pacific white-sided dolphins, Californian Sea Lion, harlequin duck, Eurasian wigeon  - 26th Feb 2025
+>Added long-eared owl, cackling goose, great Northern shrike, Say's phoebe, American coot, killdeer, house finch, Northern Harrier, American bittern, red crossbill, - 22nd May 2025
 
 ## Jump Links
-
 Use these links to jump to specific sections. For those one desktop use the contents list on the right of the page.
 
 [Mammals](https://niallbell.com/photographic-life-list/#mammals) | [Birds](https://niallbell.com/photographic-life-list/#birds) | [Plants](https://niallbell.com/photographic-life-list/#plants) | [Fungi](https://niallbell.com/photographic-life-list/#fungi) | [Herps](https://niallbell.com/photographic-life-list/#herps) | [Bugs](https://niallbell.com/photographic-life-list/#bugs-et-al)
@@ -273,6 +272,10 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/qT5r2y8.jpeg)
 *England -2023*
 
+#### Northern Harrier
+![](https://i.imgur.com/B5ascJe.jpeg)
+*Canada (British Columbia) - 2025*
+
 #### Osprey
 ![](https://i.imgur.com/t0NHEO6.jpeg)
 *England - 2022*
@@ -301,6 +304,10 @@ _Canada (British Columbia) - 2025_
 #### Short-eared Owl
 ![](https://i.imgur.com/Ov1NON5.jpeg)
 *England - 2023*
+
+#### Long-eared Owl
+![](https://i.imgur.com/5mqJbqt.jpeg)
+*Canada (British Columbia) - 2025*
 
 #### Mottled Wood Owl
 ![](https://i.imgur.com/qsP5Klo.jpeg)
@@ -407,8 +414,8 @@ _Canada (British Columbia) - 2025_
 *England (Porter Valley) - 2024*
 
 #### Belted Kingfisher
-![](https://i.imgur.com/SlzcIU4.jpeg)
-*BC, Canada (Vancouver Port) - 2025*
+![](https://i.imgur.com/bX8TBBG.jpeg)
+*Canada(British Columbia) - 2025*
 
 #### Brown Pelican
 ![](https://i.imgur.com/xlZLOX6.jpeg)
@@ -461,6 +468,10 @@ _Canada (British Columbia) - 2025_
 #### Great Bittern
 ![](https://i.imgur.com/OC44NKA.jpeg)
 *England (RSPB St Aidans) - 2024*
+
+#### American Bittern
+![](https://i.imgur.com/Ax4c9U7.jpeg)
+*Canada (British Columbia) - 2025*
 
 #### Snowy Egret
 ![](https://i.imgur.com/lGGgPZX.jpeg)
@@ -526,6 +537,10 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/lr8hGsd.jpeg)
 *England (Yorkshire Wildlife Park) - 2023*
 
+#### Killdeer
+![](https://i.imgur.com/VHPwNN5.jpeg)
+*Canada (British Columbia) - 2025*
+
 #### Ruddy Turnstone
 ![](https://i.imgur.com/Ll0qUfR.jpeg)
 *Scotland (Isle of Skye) - 2024*
@@ -569,6 +584,10 @@ _Canada (British Columbia) - 2025_
 #### Common Coot
 ![](https://i.imgur.com/vWIjO1e.jpeg)
 *England - 2023*
+
+#### American Coot
+![](https://i.imgur.com/cDnHEzF.jpeg)
+*Canada (British Columbia) - 2025*
 
 #### Common Mallard
 ![](https://i.imgur.com/j3CvmIw.jpeg)
@@ -640,6 +659,10 @@ _Canada (British Columbia) - 2025_
 
 #### Canda Goose
 ![](https://i.imgur.com/0PzAQrr.jpeg)*England - 2023*
+
+#### Cackling Goose
+![](https://i.imgur.com/AUuBXu3.jpeg)
+*Canada (British Columbia) - 2025*
 
 #### Egyptian Goose
 ![](https://i.imgur.com/E4m0t1c.jpeg)
@@ -763,7 +786,7 @@ _Canada (British Columbia) - 2025_
 *England - 2018*
 
 #### American Robin
-![](https://i.imgur.com/4RzJzZo.jpeg)
+![](https://i.imgur.com/YWLNcko.jpeg)
 *Canada (British Columbia) - 2025*
 
 #### Oriental Magpie Robin
@@ -838,6 +861,10 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/ahwiMyc.jpeg)
 _Canada (British Columbia) - 2025_
 
+#### House Finch
+![](https://i.imgur.com/qYzK0Bb.jpeg)
+*Canada (British Columbia) - 2025*
+
 #### Twite
 ![](https://i.imgur.com/xFWyaAy.jpeg)
 *Scotland (Isle of skye) - 2024*
@@ -849,6 +876,10 @@ _Canada (British Columbia) - 2025_
 #### Common Crossbill
 ![](https://i.imgur.com/LVrmxLh.jpeg)
 *Scotland (Skye) - 2024*
+
+#### Red Crossbill
+![](https://i.imgur.com/iGijNk4.jpeg)
+*Canada (British Columbia) - 2025*
 
 #### Jungle Babbler
 ![](https://i.imgur.com/W9j8lBy.jpeg)
@@ -981,6 +1012,14 @@ _Canada (British Columbia) - 2025_
 #### Grey Shrike
 ![](https://i.imgur.com/mOOKPSI.jpeg)
 *Poland - 2023*
+
+#### Great Northern Shrike
+![](https://i.imgur.com/l74URLe.jpeg)
+*Canada (British Columbia) - 2025*
+
+#### Say's Phoebe
+![](https://i.imgur.com/RA2mdkH.jpeg)
+*Canada (British Columbia) - 2025*
 
 #### Barn Swallow
 ![](https://i.imgur.com/W2ObNZ0.jpeg)
