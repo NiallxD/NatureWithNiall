@@ -37,12 +37,10 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #Camera(2)                 |
 | #canda(2)                  |
 | #deer(2)                   |
-| #digitalgarden(2)          |
 | #Eagle(2)                  |
 | #facebook(2)               |
 | #instagram(2)              |
 | #landscape(2)              |
-| #mycave(2)                 |
 | #Nature(2)                 |
 | #philosophy(2)             |
 | #portfolio(2)              |
@@ -78,6 +76,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #computers(1)              |
 | #congnitivebias(1)         |
 | #data(1)                   |
+| #digitalgarden(1)          |
 | #doncaster(1)              |
 | #eagle(1)                  |
 | #ebird(1)                  |
@@ -103,6 +102,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #macrophotography(1)       |
 | #microscope(1)             |
 | #music(1)                  |
+| #mycave(1)                 |
 | #myweekinphotos(1)         |
 | #natureconnectedness(1)    |
 | #niallbell(1)              |
@@ -113,11 +113,13 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #phoneplan(1)              |
 | #phones(1)                 |
 | #photofeed(1)              |
+| #photographicprints(1)     |
 | #Photography(1)            |
 | #photomicrography(1)       |
 | #photowall(1)              |
 | #postprocessing(1)         |
 | #pratincole(1)             |
+| #prints(1)                 |
 | #righttorepair(1)          |
 | #SIN(1)                    |
 | #siril(1)                  |
