@@ -35,7 +35,7 @@ _**The Week of 7th October:** Dave and I photograph the Northern Lights!_
 
 ## The Full Year
 
-While the photographs from 2024 can be viewed on the original project page [[My Week In Photos\|here]], I wanted to bring the photographs together into one huge collage which shows the breadth and depth of the photographs I've created this year. I spent about 4 hours writing a script in Python to create this collage, which is longer than it would have taken to create it manually, but hey-ho! The images are descending with those at the top being the most recent. Every three images left to right roughly equates to a week.
+While the photographs from 2024 can be viewed on the original project page [[96 - Hidden Notes/My Week In Photos\|here]], I wanted to bring the photographs together into one huge collage which shows the breadth and depth of the photographs I've created this year. I spent about 4 hours writing a script in Python to create this collage, which is longer than it would have taken to create it manually, but hey-ho! The images are descending with those at the top being the most recent. Every three images left to right roughly equates to a week.
 
 I encourage you to view large and have a browse.
 
