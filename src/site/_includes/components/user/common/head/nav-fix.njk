@@ -1,0 +1,25 @@
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const nav = document.querySelector('nav.filetree-sidebar');
+        const folder = nav.querySelector('.folder');
+        
+        if (nav) {
+            nav.style.display = 'flex';
+            nav.style.opacity = '1';
+            nav.style.visibility = 'visible';
+        }
+        
+        if (folder) {
+            folder.style.display = 'flex';
+            folder.style.opacity = '1';
+            folder.style.visibility = 'visible';
+            
+            const links = folder.querySelectorAll('div');
+            links.forEach(link => {
+                link.style.display = 'flex';
+                link.style.opacity = '1';
+                link.style.visibility = 'visible';
+            });
+        }
+    }); 
+</script>
