@@ -15,9 +15,9 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #photography(47)           |
 | #wildlife(37)              |
 | #Birds(11)                 |
+| #tech(9)                   |
 | #canada(8)                 |
-| #tech(8)                   |
-| #birding(6)                |
+| #birding(7)                |
 | #photostory(6)             |
 | #travel(6)                 |
 | #Music(5)                  |
@@ -41,6 +41,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #facebook(2)               |
 | #instagram(2)              |
 | #landscape(2)              |
+| #lenses(2)                 |
 | #Nature(2)                 |
 | #philosophy(2)             |
 | #portfolio(2)              |
@@ -76,6 +77,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #computers(1)              |
 | #congnitivebias(1)         |
 | #data(1)                   |
+| #diascope(1)               |
 | #digitalgarden(1)          |
 | #doncaster(1)              |
 | #eagle(1)                  |
@@ -94,7 +96,6 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #india(1)                  |
 | #internationaltigerday(1)  |
 | #latin(1)                  |
-| #lenses(1)                 |
 | #lifelist(1)               |
 | #littleowl(1)              |
 | #livingnotes(1)            |
@@ -125,6 +126,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #siril(1)                  |
 | #Siril(1)                  |
 | #socialmedia(1)            |
+| #spottingscope(1)          |
 | #street(1)                 |
 | #streetphotography(1)      |
 | #systemsthinking(1)        |
@@ -134,6 +136,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #vehicle(1)                |
 | #waste(1)                  |
 | #Wildlife(1)               |
+| #zeiss(1)                  |
 
 { .block-language-dataview}
 
