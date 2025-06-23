@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T06:20:47.563-07:00","updated":"2025-03-22T22:01:10.341-07:00"}
+{"dg-publish":true,"dg-permalink":"photographic-life-list","permalink":"/photographic-life-list/","title":"Photographic Life List","hide":true,"tags":["photography","nature","wildlife","lifelist","birding"],"noteIcon":null,"created":"2024-04-28T06:20:47.563-07:00","updated":"2025-06-22T17:19:57.114-07:00"}
 ---
 
 #photography #nature #lifelist
@@ -10,15 +10,15 @@ I never used to be bothered about keeping a life list, it seemed a bit pointless
 
 The categories below are not intended to be taxonomic in nature, more rough groupings based on what feels right. The location and date are those of the photo presented and not necessarily the first sighting as I update images when I improve on previous. All animals are wild, nothing captive here apart from the odd escapee which has become established (e.g., parakeets and wood duck in the UK).
 
-This list sits at **341* species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full eBird profile can be found [here](https://ebird.org/profile/MzcxOTEyNA/world).
+This list sits at **377** species so far but is still missing the majority of my plant and fungi observations! I'll keep updating this list. My full eBird profile can be found [here](https://ebird.org/profile/MzcxOTEyNA/world).
 
 | Mammals | Birds | Plants | Fungi | Herps | Bugs |
 | ------- | ----- | ------ | ----- | ----- | ---- |
-| 33      | 228   | 3      | 23    | 3     | 50   |
+| 43      | 255   | 3      | 23    | 3     | 50   |
 
 
 >[!NEW] Recent Updates
->Added long-eared owl, cackling goose, great Northern shrike, Say's phoebe, American coot, killdeer, house finch, Northern Harrier, American bittern, red crossbill, - 22nd May 2025
+>It's been a while since my last update in May! Here are my latest additions! Great Horned Owl, American Black Bear, American Beaver, Humpback Whale, Turkey Vulture, Golden Eagle, Pelagic Cormorant, Eastern Kingbird, Black Oystercatcher, Long-billed Curlew, Greater Yellowlegs, Least Sandpiper, Rufous Hummingbird, Lazuli Bunting, Clarks Nutcracker, Canada Jay, Cedar Waxwing, Red-naped Sapsucker, Purple Martin, Northern Rough-winged Swallow, Tree Swallow, Violet-green Swallow, Sooty Grouse, Brewer's Blackbird, Common Grackle, White-crowned Sparrow, Coopers Hawk, Virgina Rail, Common Loon, Bighorn Sheep, Mountain Goat, Elk (Wapiti), Moose, Columbian Ground Squirrel, Hoary Marmot, Orca, American Kestrel - 22 June 2025
 
 ## Jump Links
 Use these links to jump to specific sections. For those one desktop use the contents list on the right of the page.
@@ -32,6 +32,10 @@ Use these links to jump to specific sections. For those one desktop use the cont
 #### Red Deer
 ![](https://i.imgur.com/5V9w3FV.jpeg)
 *England - 2022*
+
+#### Elk (Wapiti)
+![](https://i.imgur.com/2b7Ni1U.jpeg)
+*Canada (Alberta) - 2025*
 
 #### Fallow Deer
 ![](https://i.imgur.com/V3chxmo.jpeg)
@@ -57,9 +61,13 @@ Use these links to jump to specific sections. For those one desktop use the cont
 ![](https://i.imgur.com/WX67ZHE.jpeg)
 *India - 2022*
 
+#### Moose
+![](https://i.imgur.com/SqDs4MJ.jpeg)
+*Canada (Alberta) - 2025*
+
 ---
 
-### Cows and Pigs
+### Cows, Pigs, and Goat-likes
 
 #### Indian Guar
 ![](https://i.imgur.com/5SybP1K.jpeg)
@@ -68,6 +76,14 @@ Use these links to jump to specific sections. For those one desktop use the cont
 #### Wild Boar
 ![](https://i.imgur.com/Nq3hLNK.jpeg)
 *India - 2022*
+
+#### Bighorn Sheep
+![](https://i.imgur.com/0OGjPFY.jpeg)
+*Canada (Alberta) - 2025*
+
+#### Mountain Goat
+![](https://i.imgur.com/Ui0j1Ib.jpeg)
+*Canada (Alberta) - 2025*
 
 ---
 
@@ -100,6 +116,10 @@ Use these links to jump to specific sections. For those one desktop use the cont
 ![](https://i.imgur.com/Tip0k1n.jpg)
 *Finland - 2024*
 
+#### American Black Bear
+![](https://i.imgur.com/N7YG33S.jpeg)
+*Canada (British Columbia) - 2025*
+
 ---
 ### Musta-likes
 
@@ -127,6 +147,10 @@ Use these links to jump to specific sections. For those one desktop use the cont
 ![](https://i.imgur.com/hfKFaOi.jpeg)
 _Canada (British Columbia) - 2025_
 
+#### Hoary Marmot
+![](https://i.imgur.com/EMrrQIH.jpeg)
+*Canada (Alberta) - 2025*
+
 ---
 
 ### Rabbits and Rodents
@@ -147,6 +171,10 @@ _Canada (British Columbia) - 2025_
 ---
 
 ### Wet Mammals
+
+#### American Beaver
+![](https://i.imgur.com/G8zpdqm.jpeg)
+*Canada (British Columbia) - 2025*
 
 #### Eurasian Otter
 ![](https://i.imgur.com/7aHkiwB.jpeg)
@@ -180,7 +208,13 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/VEcLVqv.jpeg)
 *Canada (British Columbia) - 2025*
 
+#### Humpback Whale
+![](https://i.imgur.com/L5ZObW0.jpeg)
+*Canada (British Columbia) - 2025*
 
+#### Orca (Resident Killer-whale)
+![](https://i.imgur.com/Mq5KBCV.jpeg)
+*Canada (British Columbia) - 2025*
 
 ---
 
@@ -202,6 +236,10 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/rmRfPkc.jpeg)
 *India - 2022*
 
+#### Columbian Ground Squirrel
+![](https://i.imgur.com/rIIawsn.jpeg)
+*Canada (Alberta) - 2025*
+
 ---
 
 ## Birds
@@ -211,6 +249,10 @@ _Canada (British Columbia) - 2025_
 #### Bald Eagle
 ![](https://i.imgur.com/cr4up8J.jpeg)
 _Canada (British Columbia) - 2025_
+
+#### Golden Eagle
+![](https://i.imgur.com/RdRgxQZ.jpeg)
+*Canada (Alberta) - 2025*
 
 #### White-tailed Eagle
 ![](https://i.imgur.com/FeXjmSF.jpeg)
@@ -230,6 +272,10 @@ _Canada (British Columbia) - 2025_
 
 #### Sharp-shinned Hawk
 ![](https://i.imgur.com/S1WKy87.jpeg)
+*Canada (British Columbia) - 2025*
+
+#### Coopers Hawk
+![](https://i.imgur.com/8ylWc4E.jpeg)
 *Canada (British Columbia) - 2025*
 
 #### White-eyed Buzzard
@@ -255,6 +301,10 @@ _Canada (British Columbia) - 2025_
 #### Common Kestrel
 ![](https://i.imgur.com/1sTd3Kq.jpeg)
 *England - 2019*
+
+#### American Kestrel
+![](https://i.imgur.com/61eEMUO.jpeg)
+*Canada (British Columbia) - 2025*
 
 #### Hobby
 ![](https://i.imgur.com/StImfXt.jpeg)
@@ -289,6 +339,10 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/woglA4l.jpeg)
 *Canada (British Columbia) - 2025*
 
+#### Great Horned Owl
+![](https://i.imgur.com/jt0WdXj.jpeg)
+*Canada (British Columbia) - 2025*
+
 #### Tawny Owl
 ![](https://i.imgur.com/yGzQaOg.jpeg)
 *England - 2023*
@@ -320,6 +374,10 @@ _Canada (British Columbia) - 2025_
 #### Jungle Owlet
 ![](https://i.imgur.com/wgzQ8XT.jpeg)
 *India - 2022*
+
+#### Turkey Vulture
+![](https://i.imgur.com/O4egMUJ.jpeg)
+*Canada (British Columbia) - 2025*
 
 ---
 
@@ -386,8 +444,8 @@ _Canada (British Columbia) - 2025_
 *England (Attenborough Nature Reserve) - 2023*
 
 #### Caspian Tern
-![](https://i.imgur.com/Dp74dQN.jpeg)
-*England (Nottinghamshire) - 2024*
+![](https://i.imgur.com/mHjITxs.jpeg)
+*Canada (British Columbia) - 2025*
 
 #### Black Tern
 ![](https://i.imgur.com/m9aaHJg.jpeg)
@@ -404,6 +462,10 @@ _Canada (British Columbia) - 2025_
 #### Double-crested Cormorant
 ![](https://i.imgur.com/FRbxvEu.jpeg)
 *Florida - 2016*
+
+#### Pelagic Cormorant
+![](https://i.imgur.com/yqA1Voj.jpeg)
+*Canada (British Columbia) - 2025*
 
 #### White-breasted Kingfisher
 ![](https://i.imgur.com/WKRafdb.jpeg)
@@ -513,6 +575,18 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/bqE6caH.jpeg)
 *Scotland (Isle of Mull) - 2023*
 
+#### Long-billed Curlew
+![](https://i.imgur.com/ITBDzqU.jpeg)
+*Canada (British Columbia) - 2025*
+
+#### Greater Yellowlegs
+![](https://i.imgur.com/ukPH1MS.jpeg)
+*Canada (British Columbia) - 2025*
+
+#### Least Sandpiper
+![](https://i.imgur.com/BieY3Tm.jpeg)
+*Canada (British Columbia) - 2025*
+
 #### Common Sandpiper
 ![](https://i.imgur.com/zeMwOfG.jpeg)
 *Scotland (Isle of Mull) - 2023*
@@ -552,6 +626,10 @@ _Canada (British Columbia) - 2025_
 #### Eurasian Oystercatcher
 ![](https://i.imgur.com/i0LKo0d.jpeg)
 *Scotland (Isle of Mull) - 2023*
+
+#### Black Oystercatcher
+![](https://i.imgur.com/IpEa6W5.jpeg)
+*Canada (British Columbia) - 2025*
 
 #### Common Snipe
 ![](https://i.imgur.com/Lbu5VSK.jpeg)
@@ -676,6 +754,10 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/yUbUjAh.jpeg)
 *Canada (British Columbia) - 2025*
 
+#### Great Northern Diver (Common Loon)
+![](https://i.imgur.com/eZ20CVv.jpeg)
+*Canada (British Columbia) - 2025*
+
 #### Great Crested Grebe
 ![](https://i.imgur.com/xJkj66W.jpeg)
 *England - 2023*
@@ -695,6 +777,10 @@ _Canada (British Columbia) - 2025_
 #### Water Rail
 ![](https://i.imgur.com/0r32aD9.jpeg)
 *England - 2022*
+
+#### Virginia Rail
+![](https://i.imgur.com/uMb6xM7.jpeg)
+*Canada (British Columbia) - 2025*
 
 #### White-throated Dipper
 ![](https://i.imgur.com/Nj97pHI.jpeg)
@@ -752,6 +838,9 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/FPGjpdm.jpeg)
 _Canada (British Columbia) - 2025_
 
+#### Red-naped Sapsucker
+![](https://i.imgur.com/p0jFIMY.jpeg)
+*Canada (British Columbia) - 2025*
 
 ---
 ### Cuckoos
@@ -776,6 +865,9 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/TVvjNEQ.jpeg)
 _Canada (British Columbia) - 2025_
 
+#### Rufous Hummingbird
+![](https://i.imgur.com/r8Th9Is.jpeg)
+*Canada (British Columbia) - 2025*
 
 ---
 
@@ -837,6 +929,10 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/CtayQIS.jpeg)
 _Canada (British Columbia) - 2025_
 
+#### White-crowned Sparrow
+![](https://i.imgur.com/v8P587R.jpeg)
+*Canada (British Columbia) - 2025*
+
 #### Dark-eyed Junco
 ![](https://i.imgur.com/eNAUdJt.jpeg)
 _Canada (British Columbia) - 2025_
@@ -888,6 +984,10 @@ _Canada (British Columbia) - 2025_
 #### Common Reed Bunting
 ![](https://i.imgur.com/fRyEc1m.jpeg)
 *England - 2024*
+
+#### Lazuli Bunting
+![](https://i.imgur.com/ul3Athq.jpeg)
+*Canada (British Columbia) - 2025*
 
 #### Stonechat
 ![](https://i.imgur.com/gExPAW2.jpeg)
@@ -989,6 +1089,10 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/jvAOIus.jpeg)
 _Canada (British Columbia) - 2025_
 
+#### Brewer's Blackbird
+![](https://i.imgur.com/heJ6ZLT.jpeg)
+*Canada (British Columbia) - 2025*
+
 #### Redwing
 ![](https://i.imgur.com/qSih3JU.jpeg)
 *England - 2020*
@@ -1004,6 +1108,10 @@ _Canada (British Columbia) - 2025_
 #### Bohemian Waxwing
 ![](https://i.imgur.com/4uDdvAe.jpeg)
 *England - 2023*
+
+#### Cedar Waxwing
+![](https://i.imgur.com/nQKIHUB.jpeg)
+*Canada (British Columbia) - 2025*
 
 #### Red-vented Bulbul
 ![](https://i.imgur.com/XwQSqYf.jpeg)
@@ -1025,6 +1133,18 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/W2ObNZ0.jpeg)
 *England - 2023*
 
+#### Tree Swallow
+![](https://i.imgur.com/DDbLLGD.jpeg)
+*Canada (British Columbia) - 2025*
+
+#### Violet-green Swallow
+![](https://i.imgur.com/jbCdtAj.jpeg)
+*Canada (British Columbia) - 2025*
+
+#### Northern Rough-winged Swallow
+![](https://i.imgur.com/a3MrTeD.jpeg)
+*Canada (British Columbia) - 2025*
+
 #### Common Swift
 ![](https://i.imgur.com/ZtFdptM.jpeg)
 *England - 2023*
@@ -1036,6 +1156,10 @@ _Canada (British Columbia) - 2025_
 #### Sand Martin
 ![](https://i.imgur.com/yXpDJi7.jpeg)
 *England - 2024*
+
+#### Purple Martin
+![](https://i.imgur.com/1cwDtL4.jpeg)
+*Canada (British Columbia) - 2025*
 
 ---
 
@@ -1073,9 +1197,21 @@ _Canada (British Columbia) - 2025_
 ![](https://i.imgur.com/AiT0dPM.jpeg)
 *England - 2019*
 
+#### Canada Jay
+![](https://i.imgur.com/sd0c43Z.jpeg)
+*Canada (British Columbia) - 2025*
+
 #### Stellar's Jay
 ![](https://i.imgur.com/6hte6Bh.jpeg)
 _Canada (British Columbia) - 2025_
+
+#### Clark's Nutcracker
+![](https://i.imgur.com/xjOjhNk.jpeg)
+*Canada (Alberta) - 2025*
+
+#### Common Grackle
+![](https://i.imgur.com/64bYMem.jpeg)
+*Canada (British Columbia) - 2025*
 
 
 ---
@@ -1116,6 +1252,10 @@ _Canada (British Columbia) - 2025_
 #### Red Grouse
 ![](https://i.imgur.com/pFEisnk.jpeg)
 *England - 2024*
+
+#### Sooty Grouse
+![](https://i.imgur.com/ebMl0uO.jpeg)
+*Canada (Vancouver Island) - 2025*
 
 #### Junglefowl
 ![](https://i.imgur.com/QBbkKkZ.jpeg)
@@ -1164,6 +1304,16 @@ _Canada (British Columbia) - 2025_
 #### Sandhill Crane
 ![](https://i.imgur.com/seLrmjN.jpeg)
 *Florida - 2016*
+
+#### Eastern Kingbird
+![](https://i.imgur.com/2Qhikbh.jpeg)
+*Canada (British Columbia) - 2025*
+
+#### Western Wood Pewee
+![](https://i.imgur.com/eGNbYUl.jpeg)
+*Canada (British Columbia) - 2025*
+
+
 
 ---
 
