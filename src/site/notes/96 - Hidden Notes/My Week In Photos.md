@@ -9,7 +9,7 @@
 >[!Warning] Note
 >The series 'My Week In Photos' has now come to an end and is no longer updated! This was a 12 month project I embarked on at the start of 2024 and it was great fun! While this page is no longer updated, you may still enjoy browsing the through the photographs.
 >
->Click [[2.0 - Blog Posts/2.7 - 🎞️ Photography/My Week In Photos Wrap Up (2024)\|here]] to read my wrap up of this project, or click [here](https://i.imgur.com/OdNkF2B.jpeg) to view all 162 images shared as part of this project in a single collage.
+>Click [[99 - Not For Publish/2.0 - Blog Posts/2.7 - 🎞️ Photography/My Week In Photos Wrap Up (2024)\|here]] to read my wrap up of this project, or click [here](https://i.imgur.com/OdNkF2B.jpeg) to view all 162 images shared as part of this project in a single collage.
 
 # My Week In Photos
 
@@ -880,7 +880,7 @@ It's important to note that these aren't portfolio images but instead are photos
 >
 > #### Aurora Borealise
 > 
->I wasn't alone with this one. Thousands of people across the UK were able to witness the incredible Northern Lights in the early hours of Saturday morning. It was an incredible show and I'm so glad that so many people were able to observe such an incredible natural phenomenon. Check out my blog posts for more photos - [[2.0 - Blog Posts/2.1 - 🌱Nature/Aurora Borealis in Doncaster\|Aurora Borealis in Doncaster]].
+>I wasn't alone with this one. Thousands of people across the UK were able to witness the incredible Northern Lights in the early hours of Saturday morning. It was an incredible show and I'm so glad that so many people were able to observe such an incredible natural phenomenon. Check out my blog posts for more photos - [[99 - Not For Publish/2.0 - Blog Posts/2.1 - 🌱Nature/Aurora Borealis in Doncaster\|Aurora Borealis in Doncaster]].
 >
 >![](https://i.imgur.com/DJutCGg.jpeg)
 
