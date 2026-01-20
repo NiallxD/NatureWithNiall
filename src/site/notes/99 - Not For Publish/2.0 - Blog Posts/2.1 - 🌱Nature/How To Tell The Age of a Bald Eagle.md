@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/bald-eagle-age","permalink":"/bald-eagle-age/","title":"How To Tell The Age of a Bald Eagle","hide":true,"tags":["Eagle","photo","photography","#ageguide"],"noteIcon":"1","created":"2025-01-20T20:00:59.871-08:00","updated":"2025-02-06T21:05:50.003-08:00"}
+{"dg-publish":true,"dg-permalink":"/bald-eagle-age","permalink":"/bald-eagle-age/","title":"How To Tell The Age of a Bald Eagle","hide":true,"tags":["Eagle","photo","photography","#ageguide"],"noteIcon":"1","created":"2025-01-20T20:00:59.000-08:00","updated":"2025-02-06T21:05:50.000-08:00"}
 ---
 
 #eagle #ageguide #photography #birding

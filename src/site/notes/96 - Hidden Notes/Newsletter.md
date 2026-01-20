@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/newsletter","permalink":"/newsletter/","title":"📧 Newsletter","hide":true,"noteIcon":null,"created":"2024-05-10T13:42:20.035-07:00","updated":"2024-05-10T13:51:50.372-07:00"}
+{"dg-publish":true,"dg-permalink":"/newsletter","permalink":"/newsletter/","title":"📧 Newsletter","hide":true,"noteIcon":null,"created":"2024-05-10T13:42:20.000-07:00","updated":"2024-05-10T13:51:50.000-07:00"}
 ---
 
 # Newsletter

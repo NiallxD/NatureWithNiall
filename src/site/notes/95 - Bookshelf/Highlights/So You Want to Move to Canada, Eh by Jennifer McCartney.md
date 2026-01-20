@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/95-bookshelf/highlights/so-you-want-to-move-to-canada-eh-by-jennifer-mc-cartney/","hide":true,"noteIcon":"","created":"2024-10-30T06:24:18.509-07:00","updated":"2024-10-30T06:46:02.521-07:00"}
+{"dg-publish":true,"permalink":"/95-bookshelf/highlights/so-you-want-to-move-to-canada-eh-by-jennifer-mc-cartney/","hide":true,"noteIcon":"","created":"2024-10-30T06:24:18.000-07:00","updated":"2024-10-30T06:46:02.000-07:00"}
 ---
 
 #books #reading #bookshelf

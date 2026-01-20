@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"how-to-buy-a-car-in-bc-canada","permalink":"/how-to-buy-a-car-in-bc-canada/","title":"How to Buy a Car In British Columbia, Canada","hide":true,"tags":["canada","travel","IEC","car","auto","vehicle"],"noteIcon":"1","created":"2025-01-23T20:17:59.627-08:00","updated":"2025-01-25T22:56:22.038-08:00"}
+{"dg-publish":true,"dg-permalink":"how-to-buy-a-car-in-bc-canada","permalink":"/how-to-buy-a-car-in-bc-canada/","title":"How to Buy a Car In British Columbia, Canada","hide":true,"tags":["canada","travel","IEC","car","auto","vehicle"],"noteIcon":"1","created":"2025-01-23T20:17:59.000-08:00","updated":"2025-01-25T22:56:22.000-08:00"}
 ---
 
 #canada #travel #IEC #car #auto #vehicle

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-not-for-publish/2-0-blog-posts/2-9-living-notes/haecceity/","title":"Haecceity","hide":true,"noteIcon":"","created":"2024-12-13T08:14:05.966-08:00","updated":"2024-12-13T08:19:22.854-08:00"}
+{"dg-publish":true,"permalink":"/99-not-for-publish/2-0-blog-posts/2-9-living-notes/haecceity/","title":"Haecceity","hide":true,"noteIcon":"","created":"2024-12-13T08:14:05.000-08:00","updated":"2024-12-13T08:19:22.000-08:00"}
 ---
 
 #latin #philosophy 

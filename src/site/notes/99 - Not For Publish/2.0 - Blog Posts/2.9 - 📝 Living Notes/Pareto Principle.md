@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-not-for-publish/2-0-blog-posts/2-9-living-notes/pareto-principle/","title":"Pareto Principle","hide":true,"noteIcon":"","created":"2024-12-30T16:28:01.820-08:00","updated":"2024-12-30T16:29:28.194-08:00"}
+{"dg-publish":true,"permalink":"/99-not-for-publish/2-0-blog-posts/2-9-living-notes/pareto-principle/","title":"Pareto Principle","hide":true,"noteIcon":"","created":"2024-12-30T16:28:01.000-08:00","updated":"2024-12-30T16:29:28.000-08:00"}
 ---
 
 #80/20

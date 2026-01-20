@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/95-bookshelf/highlights/the-black-swan-by-nassim-taleb/","hide":true,"noteIcon":"","created":"2024-10-30T06:24:18.015-07:00","updated":"2024-10-30T06:46:08.445-07:00"}
+{"dg-publish":true,"permalink":"/95-bookshelf/highlights/the-black-swan-by-nassim-taleb/","hide":true,"noteIcon":"","created":"2024-10-30T06:24:18.000-07:00","updated":"2024-10-30T06:46:08.000-07:00"}
 ---
 
 #books #reading #bookshelf

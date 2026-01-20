@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"DPOTY24","permalink":"/DPOTY24/","title":"Highly Commended - Deer Photographer of the Year","hide":true,"tags":["photo","photography","nature","wildlife","deer"],"noteIcon":"1","created":"2024-06-24T13:33:33.384-07:00","updated":"2024-11-21T07:06:23.553-08:00"}
+{"dg-publish":true,"dg-permalink":"DPOTY24","permalink":"/DPOTY24/","title":"Highly Commended - Deer Photographer of the Year","hide":true,"tags":["photo","photography","nature","wildlife","deer"],"noteIcon":"1","created":"2024-06-24T13:33:33.000-07:00","updated":"2024-11-21T07:06:23.000-08:00"}
 ---
 
 #photo #photography #nature #wildlife #deer 

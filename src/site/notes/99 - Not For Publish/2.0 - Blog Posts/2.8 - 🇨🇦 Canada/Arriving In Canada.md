@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"arriving-in-canada","permalink":"/arriving-in-canada/","title":"Arriving In Canada","hide":true,"tags":["canada","travel","calgary","vancouver"],"noteIcon":"1","created":"2025-01-12T07:03:48.868-08:00","updated":"2025-01-12T07:59:17.073-08:00"}
+{"dg-publish":true,"dg-permalink":"arriving-in-canada","permalink":"/arriving-in-canada/","title":"Arriving In Canada","hide":true,"tags":["canada","travel","calgary","vancouver"],"noteIcon":"1","created":"2025-01-12T07:03:48.000-08:00","updated":"2025-01-12T07:59:17.000-08:00"}
 ---
 
 #canada #travel #calgary #vancouver

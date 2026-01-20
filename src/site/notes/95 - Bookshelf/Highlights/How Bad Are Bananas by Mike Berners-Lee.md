@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/95-bookshelf/highlights/how-bad-are-bananas-by-mike-berners-lee/","hide":true,"noteIcon":"","created":"2024-10-30T06:24:17.929-07:00","updated":"2024-10-30T06:45:25.482-07:00"}
+{"dg-publish":true,"permalink":"/95-bookshelf/highlights/how-bad-are-bananas-by-mike-berners-lee/","hide":true,"noteIcon":"","created":"2024-10-30T06:24:17.000-07:00","updated":"2024-10-30T06:45:25.000-07:00"}
 ---
 
 #books #reading #bookshelf

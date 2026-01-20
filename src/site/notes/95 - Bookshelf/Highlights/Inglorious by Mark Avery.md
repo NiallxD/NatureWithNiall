@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/95-bookshelf/highlights/inglorious-by-mark-avery/","hide":true,"noteIcon":"","created":"2024-10-30T06:24:18.126-07:00","updated":"2024-10-30T06:45:39.314-07:00"}
+{"dg-publish":true,"permalink":"/95-bookshelf/highlights/inglorious-by-mark-avery/","hide":true,"noteIcon":"","created":"2024-10-30T06:24:18.000-07:00","updated":"2024-10-30T06:45:39.000-07:00"}
 ---
 
 #books #reading #bookshelf

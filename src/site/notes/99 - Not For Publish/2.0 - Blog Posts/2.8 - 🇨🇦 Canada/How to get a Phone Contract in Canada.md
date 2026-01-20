@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"how-to-get-a-phone-contract-canada","permalink":"/how-to-get-a-phone-contract-canada/","title":"How to get a Phone Contract in Canada","hide":true,"tags":["canada","travel","IEC","phone","phoneplan"],"noteIcon":"1","created":"2025-01-23T12:33:33.242-08:00","updated":"2025-01-23T12:59:06.294-08:00"}
+{"dg-publish":true,"dg-permalink":"how-to-get-a-phone-contract-canada","permalink":"/how-to-get-a-phone-contract-canada/","title":"How to get a Phone Contract in Canada","hide":true,"tags":["canada","travel","IEC","phone","phoneplan"],"noteIcon":"1","created":"2025-01-23T12:33:33.000-08:00","updated":"2025-01-23T12:59:06.000-08:00"}
 ---
 
 #canada #travel #IEC #phone #phoneplan

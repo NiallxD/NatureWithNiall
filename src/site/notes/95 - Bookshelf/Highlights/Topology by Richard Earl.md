@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/95-bookshelf/highlights/topology-by-richard-earl/","hide":true,"noteIcon":"","created":"2024-10-30T06:24:18.171-07:00","updated":"2024-10-30T06:46:17.834-07:00"}
+{"dg-publish":true,"permalink":"/95-bookshelf/highlights/topology-by-richard-earl/","hide":true,"noteIcon":"","created":"2024-10-30T06:24:18.000-07:00","updated":"2024-10-30T06:46:17.000-07:00"}
 ---
 
 #books #reading #bookshelf

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/travel","permalink":"/travel/","title":"🧳 Travel Luggage","hide":true,"noteIcon":null,"created":"2024-12-30T11:01:31.872-08:00","updated":"2024-12-30T16:31:52.416-08:00"}
+{"dg-publish":true,"dg-permalink":"/travel","permalink":"/travel/","title":"🧳 Travel Luggage","hide":true,"noteIcon":null,"created":"2024-12-30T11:01:31.000-08:00","updated":"2024-12-30T16:31:52.000-08:00"}
 ---
 
 

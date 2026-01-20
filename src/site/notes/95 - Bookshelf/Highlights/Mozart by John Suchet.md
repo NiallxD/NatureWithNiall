@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/95-bookshelf/highlights/mozart-by-john-suchet/","hide":true,"noteIcon":"","created":"2024-10-30T06:24:18.082-07:00","updated":"2024-10-30T06:45:47.729-07:00"}
+{"dg-publish":true,"permalink":"/95-bookshelf/highlights/mozart-by-john-suchet/","hide":true,"noteIcon":"","created":"2024-10-30T06:24:18.000-07:00","updated":"2024-10-30T06:45:47.000-07:00"}
 ---
 
 #books #reading #bookshelf

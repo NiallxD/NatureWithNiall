@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"the-famous-one","permalink":"/the-famous-one/","title":"The Famous Once","hide":true,"noteIcon":null,"created":"2024-04-17T03:59:01.338-07:00","updated":"2025-01-30T20:57:14.494-08:00"}
+{"dg-publish":true,"dg-permalink":"the-famous-one","permalink":"/the-famous-one/","title":"The Famous Once","hide":true,"noteIcon":null,"created":"2024-04-17T03:59:01.000-07:00","updated":"2025-01-30T20:57:14.000-08:00"}
 ---
 
 #wildlife #nature #photography #photostory 

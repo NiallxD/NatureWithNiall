@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Nature Photography and its Impact on Engagement in Pro-environmental Behaviour in Adults","permalink":"/Nature Photography and its Impact on Engagement in Pro-environmental Behaviour in Adults/","title":"Nature Photography and its Impact on Engagement in Pro-environmental Behaviour in Adults","hide":true,"tags":["natureconnectedness","universitydissertation"],"noteIcon":"1","created":"2025-01-31T17:54:28.670-08:00","updated":"2025-01-31T18:14:49.077-08:00"}
+{"dg-publish":true,"dg-permalink":"Nature Photography and its Impact on Engagement in Pro-environmental Behaviour in Adults","permalink":"/Nature Photography and its Impact on Engagement in Pro-environmental Behaviour in Adults/","title":"Nature Photography and its Impact on Engagement in Pro-environmental Behaviour in Adults","hide":true,"tags":["natureconnectedness","universitydissertation"],"noteIcon":"1","created":"2025-01-31T17:54:28.000-08:00","updated":"2025-01-31T18:14:49.000-08:00"}
 ---
 
 #natureconnectedness #universitydissertation

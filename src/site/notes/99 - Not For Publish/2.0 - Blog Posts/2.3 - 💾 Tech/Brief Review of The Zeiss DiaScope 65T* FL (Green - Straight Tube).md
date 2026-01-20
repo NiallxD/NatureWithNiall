@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"brief-review-of-the-zeiss-diascope-65t-fl-green","permalink":"/brief-review-of-the-zeiss-diascope-65t-fl-green/","title":"Brief Review of The Zeiss DiaScope 65T* FL (Green - Straight Tube)","hide":true,"tags":["tech","lenses","spottingscope","zeiss","diascope","birding"],"noteIcon":null,"created":"2025-05-17T11:41:48.471-07:00","updated":"2025-05-17T13:39:51.517-07:00"}
+{"dg-publish":true,"dg-permalink":"brief-review-of-the-zeiss-diascope-65t-fl-green","permalink":"/brief-review-of-the-zeiss-diascope-65t-fl-green/","title":"Brief Review of The Zeiss DiaScope 65T* FL (Green - Straight Tube)","hide":true,"tags":["tech","lenses","spottingscope","zeiss","diascope","birding"],"noteIcon":null,"created":"2025-05-17T11:41:48.000-07:00","updated":"2025-05-17T13:39:51.000-07:00"}
 ---
 
 #tech #lenses #spottingscope #zeiss #diascope #birding

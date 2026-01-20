@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-not-for-publish/2-0-blog-posts/2-3-tech/canon-r6-crashing-fixed/","hide":true,"tags":["Camera","photography","tech"],"noteIcon":null,"created":"2024-04-07T14:26:35.031-07:00","updated":"2024-12-22T10:07:18.343-08:00"}
+{"dg-publish":true,"permalink":"/99-not-for-publish/2-0-blog-posts/2-3-tech/canon-r6-crashing-fixed/","hide":true,"tags":["Camera","photography","tech"],"noteIcon":null,"created":"2024-04-07T14:26:35.000-07:00","updated":"2024-12-22T10:07:18.000-08:00"}
 ---
 
 #tech #cameras #photography

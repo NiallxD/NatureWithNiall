@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-not-for-publish/2-0-blog-posts/2-1-nature/how-to-build-a-wildlife-pond/","hide":true,"tags":["Wildlife","Gardening","nature"],"noteIcon":null,"created":"2024-04-07T09:12:39.364-07:00","updated":"2024-12-22T10:06:33.041-08:00"}
+{"dg-publish":true,"permalink":"/99-not-for-publish/2-0-blog-posts/2-1-nature/how-to-build-a-wildlife-pond/","hide":true,"tags":["Wildlife","Gardening","nature"],"noteIcon":null,"created":"2024-04-07T09:12:39.000-07:00","updated":"2024-12-22T10:06:33.000-08:00"}
 ---
 
 #nature #wildlife #gardening

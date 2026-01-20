@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tags","permalink":"/tags/","title":"List of All Tags","hide":true,"noteIcon":null,"created":"2024-04-15T16:05:40.920-07:00","updated":"2024-05-05T03:08:34.273-07:00"}
+{"dg-publish":true,"dg-permalink":"tags","permalink":"/tags/","title":"List of All Tags","hide":true,"noteIcon":null,"created":"2024-04-15T16:05:40.000-07:00","updated":"2024-05-05T03:08:34.000-07:00"}
 ---
 
 # List of All Tags

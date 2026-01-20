@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"sin-and-bank-account","permalink":"/sin-and-bank-account/","title":"Getting an SIN and Bank Account","hide":true,"tags":["canada","travel","IEC","SIN"],"noteIcon":"1","created":"2025-01-20T19:00:26.423-08:00","updated":"2025-01-20T19:15:21.437-08:00"}
+{"dg-publish":true,"dg-permalink":"sin-and-bank-account","permalink":"/sin-and-bank-account/","title":"Getting an SIN and Bank Account","hide":true,"tags":["canada","travel","IEC","SIN"],"noteIcon":"1","created":"2025-01-20T19:00:26.000-08:00","updated":"2025-01-20T19:15:21.000-08:00"}
 ---
 
 #canada #travel #IEC #SIN
