@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/e-card","permalink":"/e-card/","title":"🎉 E-Card","hide":true,"noteIcon":null,"created":"2024-04-22T05:26:09.000-07:00","updated":"2026-02-24T21:14:28.701-08:00"}
+{"dg-publish":true,"dg-permalink":"/e-card","permalink":"/e-card/","title":"🎉 E-Card","hide":true,"noteIcon":null,"created":"2024-04-22T05:26:09.000-07:00","updated":"2026-02-24T21:33:06.983-08:00"}
 ---
 
 # E-Card
@@ -11,12 +11,10 @@ For nearly ten years now I've not received or sent any celebration cards. I made
 >[!TIP]- Click to Open 🎂
 >
 >
->![](https://i.imgur.com/QW7Ouem.jpeg)
+>![](https://i.imgur.com/RqFmXAc.jpeg)
 >
 >
 >![](https://i.imgur.com/biwSaaY.jpeg)
-
-
 
 
 
