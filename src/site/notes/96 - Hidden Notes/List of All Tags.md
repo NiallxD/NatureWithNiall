@@ -109,6 +109,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #niallbell(1)              |
 | #northernlights(1)         |
 | #now(1)                    |
+| #numbird(1)                |
 | #panorama(1)               |
 | #phone(1)                  |
 | #phoneplan(1)              |
@@ -121,6 +122,7 @@ These are all the tags used in the Cave. You can click a tag below to view all p
 | #postprocessing(1)         |
 | #pratincole(1)             |
 | #prints(1)                 |
+| #privacypolicy(1)          |
 | #righttorepair(1)          |
 | #SIN(1)                    |
 | #siril(1)                  |
